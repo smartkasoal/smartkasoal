@@ -1,0 +1,244 @@
+=== SOAL 1 ===
+1. Rangka manusia tersusun atas banyak tulang yang saling berhubungan. Tulang yang berfungsi utama melindungi organ jantung dan paru-paru adalah...
+A. Tulang tengkorak
+B. Tulang rusuk dan tulang dada
+C. Tulang belakang
+D. Tulang panggul
+KUNCI: B
+BOBOT: 3.43
+
+=== SOAL 2 ===
+2. Otot disebut sebagai alat gerak aktif karena memiliki kemampuan untuk...
+A. Menopang berat tubuh saat diam
+B. Menghubungkan tulang dengan sendi
+C. Berkontraksi dan berelaksasi
+D. Menghasilkan sel darah merah
+KUNCI: C
+BOBOT: 3.33
+
+=== SOAL 3 ===
+3. Hubungan antartulang yang memungkinkan terjadinya gerakan ke segala arah disebut sendi...
+A. Peluru
+B. Engsel
+C. Pelana
+D. Putar
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 4 ===
+4. Contoh persendian yang cara kerjanya menyerupai engsel pintu dan hanya memungkinkan gerakan satu arah adalah sendi pada...
+A. Leher dan tengkorak
+B. Ibu jari dan telapak tangan
+C. Pangkal paha dan panggul
+D. Siku dan lutut
+KUNCI: D
+BOBOT: 3.33
+
+=== SOAL 5 ===
+5. Ketika seseorang menekuk lengan bawah ke arah atas mendekati bahu, keadaan otot bisep dan trisep yang benar adalah...
+A. Bisep relaksasi dan trisep kontraksi
+B. Bisep kontraksi dan trisep relaksasi
+C. Bisep dan trisep sama-sama kontraksi
+D. Bisep dan trisep sama-sama relaksasi
+KUNCI: B
+BOBOT: 3.33
+
+=== SOAL 6 ===
+6. Jaringan ikat yang sangat kuat dan liat yang berfungsi menghubungkan otot dengan tulang disebut...
+A. Ligamen
+B. Tendon
+C. Kartilago
+D. Cairan sinovial
+KUNCI: B
+BOBOT: 3.33
+
+=== SOAL 7 ===
+7. Salah satu jenis otot yang bekerja secara tidak sadar (involunter), tidak memiliki garis lurik, dan menyusun dinding lambung serta usus adalah otot...
+A. Polos
+B. Lurik
+C. Jantung
+D. Rangka
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 8 ===
+8. Kebiasaan duduk yang salah dengan posisi tubuh membungkuk ke arah depan secara terus-menerus dapat menyebabkan kelainan tulang belakang yang disebut...
+A. Lordosis
+B. Skoliosis
+C. Kifosis
+D. Osteoporosis
+KUNCI: C
+BOBOT: 3.33
+
+=== SOAL 9 ===
+9. Sendi putar memungkinkan salah satu tulang berputar mengelilingi poros tulang lainnya. Persendian ini dapat ditemukan pada hubungan antara...
+A. Tulang tengkorak dengan tulang atlas
+B. Tulang paha dengan tulang gelang panggul
+C. Tulang hasta dengan tulang pengumpil di pergelangan
+D. Tulang telapak tangan dengan pergelangan tangan
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 10 ===
+10. Penyakit pengeroposan tulang yang umumnya disebabkan oleh kekurangan kalsium dan sering terjadi pada orang lanjut usia dinamakan...
+A. Rakitis
+B. Osteoporosis
+C. Artritis
+D. Polio
+KUNCI: B
+BOBOT: 3.33
+
+=== SOAL 11 ===
+11. Manakah di antara pernyataan berikut yang merupakan fungsi utama sistem rangka bagi tubuh manusia?
+A. Memberi bentuk dan menegakkan tubuh
+B. Melindungi organ-organ dalam yang vital
+C. Memompa darah ke seluruh bagian tubuh
+D. Tempat melekatnya otot-otot rangka
+E. Mencerna zat makanan secara mekanik
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 12 ===
+12. Pilihlah organ-organ tubuh yang gerakannya dikendalikan oleh otot yang bekerja secara tidak sadar (otot polos atau otot jantung)!
+A. Lambung
+B. Jantung
+C. Otot betis
+D. Usus halus
+E. Otot bisep lengan
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 13 ===
+13. Manakah di antara persendian berikut yang termasuk dalam kelompok sendi diartrosis (sendi gerak bebas)?
+A. Sendi engsel pada siku
+B. Sendi peluru pada bahu
+C. Sendi sutura pada antar tulang tengkorak
+D. Sendi pelana pada pangkal ibu jari
+E. Sendi pada simfisis pubis
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 14 ===
+14. Pilihlah upaya-upaya yang tepat untuk menjaga kesehatan alat gerak dan tulang!
+A. Mengonsumsi makanan yang kaya kalsium dan vitamin D
+B. Membiasakan posisi duduk tegak dan tidak membungkuk
+C. Berjemur di bawah sinar matahari pagi secara teratur
+D. Membawa beban tas ransel yang melebihi sepertiga berat badan
+E. Melakukan olahraga secara teratur dan terukur
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 15 ===
+15. Manakah pernyataan yang benar mengenai ciri-ciri otot lurik (otot rangka)?
+A. Bekerja secara sadar sesuai kehendak kita
+B. Bentuk selnya silindris panjang dengan banyak inti di tepi
+C. Bekerja secara otomatis terus-menerus tanpa kenal lelah
+D. Melekat pada tulang rangka tubuh
+E. Menyusun dinding saluran pembuluh darah
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 16 ===
+16. Tentukan Benar atau Salah untuk setiap pernyataan mengenai struktur dan fungsi sistem gerak manusia di bawah ini!
+A. Tulang disebut sebagai alat gerak pasif karena tidak dapat bergerak sendiri tanpa bantuan kerja otot.
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 17 ===
+17. Tentukan Benar atau Salah untuk setiap pernyataan mengenai kerja otot dan mekanisme gerak tubuh berikut!
+A. Ketika otot berkontraksi, otot akan memendek, menebal, dan menjadi lebih tegang.
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 18 ===
+18. Tentukan Benar atau Salah untuk setiap pernyataan mengenai jenis-jenis persendian pada tubuh manusia berikut!
+A. Sendi peluru terdapat pada hubungan antara gelang bahu dengan tulang lengan atas.
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 19 ===
+19. Tentukan Benar atau Salah untuk setiap pernyataan tentang kelainan dan penyakit pada sistem gerak manusia berikut!
+A. Skoliosis adalah kondisi di mana tulang belakang melengkung abnormal ke arah samping menyerupai huruf S atau C.
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 20 ===
+20. Tentukan Benar atau Salah untuk setiap pernyataan tentang kebiasaan hidup sehat untuk sistem gerak manusia berikut!
+A. Duduk dengan posisi tubuh tegak dan punggung tersangga dengan baik dapat mencegah kelainan tulang belakang.
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 21 ===
+21. Cocokkanlah jenis persendian berikut dengan contoh lokasinya pada tubuh manusia secara tepat!
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 22 ===
+22. Cocokkanlah nama tulang berikut dengan bagian kelompok rangka tubuh tempat tulang tersebut berada!
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 23 ===
+23. Cocokkanlah jenis jaringan otot berikut dengan karakteristik atau lokasi utamanya pada tubuh manusia!
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 24 ===
+24. Cocokkanlah jenis kelainan atau gangguan sistem gerak berikut dengan penyebab atau ciri kelainannya!
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 25 ===
+25. Cocokkanlah istilah fungsi organ gerak berikut dengan pengertian atau perannya di dalam tubuh manusia!
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 26 ===
+26. Jelaskan mengapa tulang disebut sebagai alat gerak pasif sedangkan otot disebut sebagai alat gerak aktif!
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 27 ===
+27. Jelaskan mekanisme kerja otot bisep dan otot trisep saat lengan bawah ditekuk mendekati bahu!
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 28 ===
+28. Sebutkan tiga jenis otot pada tubuh manusia berdasarkan bentuk dan fungsinya!
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 29 ===
+29. Jelaskan perbedaan antara sendi engsel dan sendi peluru beserta contoh persendiannya pada tubuh manusia!
+KUNCI: A
+BOBOT: 3.33
+
+=== SOAL 30 ===
+30. Sebutkan tiga upaya yang dapat dilakukan dalam kehidupan sehari-hari untuk menjaga kesehatan tulang dan persendian!
+KUNCI: A
+BOBOT: 3.33
