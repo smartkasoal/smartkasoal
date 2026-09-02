@@ -9,6 +9,7 @@ BOBOT: 3.43
 
 === SOAL 2 ===
 2. Otot disebut sebagai alat gerak aktif karena memiliki kemampuan untuk...
+[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_BuangTqUrEdO6SXRNbKZ_med_local_1788389310158_0gyfm34.webp]
 A. Menopang berat tubuh saat diam
 B. Menghubungkan tulang dengan sendi
 C. Berkontraksi dan berelaksasi
@@ -170,51 +171,51 @@ BOBOT: 3.33
 
 === SOAL 21 ===
 21. Cocokkanlah jenis persendian berikut dengan contoh lokasinya pada tubuh manusia secara tepat!
-A. 
-B. 
-C. 
-D. 
-E. 
+A.
+B.
+C.
+D.
+E.
 KUNCI: A
 BOBOT: 3.33
 
 === SOAL 22 ===
 22. Cocokkanlah nama tulang berikut dengan bagian kelompok rangka tubuh tempat tulang tersebut berada!
-A. 
-B. 
-C. 
-D. 
-E. 
+A.
+B.
+C.
+D.
+E.
 KUNCI: A
 BOBOT: 3.33
 
 === SOAL 23 ===
 23. Cocokkanlah jenis jaringan otot berikut dengan karakteristik atau lokasi utamanya pada tubuh manusia!
-A. 
-B. 
-C. 
-D. 
-E. 
+A.
+B.
+C.
+D.
+E.
 KUNCI: A
 BOBOT: 3.33
 
 === SOAL 24 ===
 24. Cocokkanlah jenis kelainan atau gangguan sistem gerak berikut dengan penyebab atau ciri kelainannya!
-A. 
-B. 
-C. 
-D. 
-E. 
+A.
+B.
+C.
+D.
+E.
 KUNCI: A
 BOBOT: 3.33
 
 === SOAL 25 ===
 25. Cocokkanlah istilah fungsi organ gerak berikut dengan pengertian atau perannya di dalam tubuh manusia!
-A. 
-B. 
-C. 
-D. 
-E. 
+A.
+B.
+C.
+D.
+E.
 KUNCI: A
 BOBOT: 3.33
 
