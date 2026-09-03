@@ -1,0 +1,379 @@
+=== SOAL 1 ===
+1. Perhatikan gambar. Bilangan awal adalah -2. Jika bergerak 5 langkah ke kanan, bilangan yang diperoleh adalah ....
+[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788440445729_io4wof6.webp]
+A. -7
+B. -3
+C. 3
+D. 7
+KUNCI: C
+BOBOT: 2.5
+
+=== SOAL 2 ===
+2. Sebuah ember mula-mula berisi 200 mL air. Setelah 20 detik, ember berisi 1.000 mL. Debit air yang mengalir adalah ....
+[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788440445740_w3vnvs8.webp]
+A. 20 mL/detik
+B. 40 mL/detik
+C. 50 mL/detik
+D. 60 mL/detik
+KUNCI: C
+BOBOT: 2.5
+
+=== SOAL 3 ===
+3. Perhatikan model bilangan pada gambar. Tiga balok merah bernilai -1 dan lima balok biru bernilai +1. Jumlah seluruh nilai balok adalah ....
+[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788440445748_o9blgh7.webp]
+A. -2
+B. 2
+C. 8
+D. -8
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 4 ===
+4. Perhatikan termometer pada gambar. Suhu yang ditunjukkan adalah ....
+[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788440445763_a95synf.webp]
+A. -5°C
+B. 5°C
+C. 10°C
+D. 15°C
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 5 ===
+5. Sebuah wadah berkapasitas 1.000 mL sedang diisi air. Jika air yang masuk sebanyak 600 mL dalam 20 detik, debit air adalah ....
+[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788440445779_4nj1avm.webp]
+A. 20 mL/detik
+B. 30 mL/detik
+C. 40 mL/detik
+D. 50 mL/detik
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 6 ===
+6. Hasil dari -8 + 13 adalah ....
+A. -21
+B. -5
+C. 5
+D. 21
+KUNCI: C
+BOBOT: 2.5
+
+=== SOAL 7 ===
+7. Hasil dari 15 - 23 adalah ....
+A. -8
+B. -7
+C. 7
+D. 8
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 8 ===
+8. Hasil dari -6 - 9 adalah ....
+A. -15
+B. -3
+C. 3
+D. 15
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 9 ===
+9. Hasil dari 7 + (-12) adalah ....
+A. -19
+B. -5
+C. 5
+D. 19
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 10 ===
+10. Hasil dari -24 + 10 adalah ....
+A. -34
+B. -14
+C. 14
+D. 34
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 11 ===
+11. Hasil dari 18 - (-7) adalah ....
+A. 11
+B. 25
+C. -25
+D. -11
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 12 ===
+12. Hasil dari -9 + (-6) adalah ....
+A. -15
+B. -3
+C. 3
+D. 15
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 13 ===
+13. Hasil dari 30 + (-18) - 5 adalah ....
+A. 7
+B. 17
+C. 23
+D. 53
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 14 ===
+14. Hasil dari -20 - (-8) adalah ....
+A. -28
+B. -12
+C. 12
+D. 28
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 15 ===
+15. Hasil dari 12 + 8 - 25 adalah ....
+A. -5
+B. -3
+C. 3
+D. 5
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 16 ===
+16. Hasil dari -15 + 7 + 4 adalah ....
+A. -12
+B. -4
+C. 4
+D. 12
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 17 ===
+17. Hasil dari 40 - 55 + 10 adalah ....
+A. -25
+B. -15
+C. 5
+D. 15
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 18 ===
+18. Sebuah keran mengalirkan 900 mL air dalam 30 detik. Debit air tersebut adalah ....
+A. 20 mL/detik
+B. 30 mL/detik
+C. 40 mL/detik
+D. 60 mL/detik
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 19 ===
+19. Debit air 25 mL/detik. Banyak air yang mengalir selama 40 detik adalah ....
+A. 500 mL
+B. 750 mL
+C. 1.000 mL
+D. 1.250 mL
+KUNCI: C
+BOBOT: 2.5
+
+=== SOAL 20 ===
+20. Sebuah bak menerima air sebanyak 1.200 mL dalam 1 menit. Debit air tersebut adalah ....
+A. 10 mL/detik
+B. 20 mL/detik
+C. 30 mL/detik
+D. 40 mL/detik
+KUNCI: B
+BOBOT: 2.5
+
+=== SOAL 21 ===
+21. Pilih semua pernyataan yang benar tentang operasi bilangan bulat.
+A. -5 + 8 = 3
+B. 7 - 10 = -3
+C. -4 + (-6) = 2
+D. 12 - (-5) = 17
+E. -9 - 3 = -6
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 22 ===
+22. Pilih semua hasil yang benar.
+A. -7 + 12 = 5
+B. 15 + (-20) = -5
+C. -8 - (-3) = -11
+D. 20 - 27 = -7
+E. -6 + (-4) = 10
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 23 ===
+23. Pilih semua operasi yang menghasilkan bilangan negatif.
+A. -3 + 5
+B. 8 - 12
+C. -4 - 6
+D. 15 - 7
+E. -2 + (-3)
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 24 ===
+24. Pilih semua pernyataan yang benar tentang debit.
+A. Debit adalah banyaknya volume air yang mengalir setiap satuan waktu.
+B. Debit 20 mL/detik berarti setiap detik mengalir 20 mL air.
+C. Jika 500 mL air mengalir selama 10 detik, debitnya 50 mL/detik.
+D. Jika debit 30 mL/detik selama 20 detik, volumenya 600 mL.
+E. Debit 100 mL/detik selama 5 detik menghasilkan 50 mL air.
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 25 ===
+25. Pilih semua hasil perhitungan yang benar.
+A. -10 + 15 = 5
+B. 25 - 30 = -5
+C. -12 - 8 = -20
+D. 18 - (-2) = 16
+E. -7 + (-5) = -12
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 26 ===
+26. Pilih semua pasangan volume dan waktu yang memiliki debit 20 mL/detik.
+A. 200 mL dalam 10 detik
+B. 400 mL dalam 20 detik
+C. 600 mL dalam 20 detik
+D. 1.000 mL dalam 50 detik
+E. 800 mL dalam 30 detik
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 27 ===
+27. Pilih semua operasi yang hasilnya lebih besar dari 0.
+A. -9 + 12
+B. -5 + 2
+C. 15 - 8
+D. -3 - 4
+E. 20 + (-7)
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 28 ===
+28. Pilih semua pernyataan yang benar.
+A. 1 menit = 60 detik.
+B. 2 menit = 120 detik.
+C. 180 detik = 3 menit.
+D. 5 menit = 250 detik.
+E. 90 detik = 1 menit 30 detik.
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 29 ===
+29. Pilih semua pasangan yang menghasilkan volume 900 mL.
+A. Debit 30 mL/detik selama 30 detik
+B. Debit 45 mL/detik selama 20 detik
+C. Debit 20 mL/detik selama 45 detik
+D. Debit 90 mL/detik selama 5 detik
+E. Debit 60 mL/detik selama 15 detik
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 30 ===
+30. Tentukan benar atau salah untuk setiap pernyataan berikut tentang bilangan bulat.
+A. Hasil dari -6 + 10 adalah 4.
+B. Hasil dari 8 - 13 adalah 5.
+C. Hasil dari -7 - 2 adalah -9.
+D. Hasil dari 15 + (-20) adalah 10.
+E. Hasil dari -4 - (-6) adalah 2.
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 31 ===
+31. Tentukan benar atau salah untuk setiap pernyataan berikut tentang debit.
+A. Debit 40 mL/detik selama 10 detik menghasilkan 400 mL air.
+B. Debit 25 mL/detik selama 20 detik menghasilkan 250 mL air.
+C. 600 mL air mengalir selama 30 detik dengan debit 20 mL/detik.
+D. 000 mL air mengalir selama 20 detik dengan debit 20 mL/detik.
+E. 300 mL air mengalir selama 15 detik dengan debit 20 mL/detik.
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 32 ===
+32. Tentukan benar atau salah untuk setiap pernyataan berikut.
+A. -12 lebih kecil daripada -5.
+B. 0 lebih kecil daripada -3.
+C. 7 lebih besar daripada -8.
+D. -2 lebih besar daripada 4.
+E. -10 lebih kecil daripada -7.
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 33 ===
+33. Tentukan benar atau salah untuk setiap pernyataan berikut tentang operasi hitung.
+A. -5 + (-5) = -10.
+B. 20 - (-10) = 10.
+C. -15 + 20 = 5.
+D. 30 - 45 = 15.
+E. -8 + 13 = 5.
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 34 ===
+34. Tentukan benar atau salah untuk setiap pernyataan berikut tentang pengukuran waktu dan debit.
+A. 120 detik sama dengan 2 menit.
+B. 180 detik sama dengan 2 menit.
+C. Jika debit 10 mL/detik selama 1 menit, volume air 600 mL.
+D. Jika debit 50 mL/detik selama 10 detik, volume air 500 mL.
+E. Jika volume 800 mL mengalir dalam 40 detik, debitnya 10 mL/detik.
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 35 ===
+35. Cocokkan operasi bilangan bulat di sebelah kiri dengan hasil yang tepat di sebelah kanan.
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 36 ===
+36. Cocokkan volume, waktu, dan debit berikut dengan hasil yang tepat.
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 37 ===
+37. Cocokkan bilangan bulat di sebelah kiri dengan lawan bilangannya.
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 38 ===
+38. Cocokkan operasi di sebelah kiri dengan hasil yang tepat di sebelah kanan.
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 39 ===
+39. Cocokkan situasi pengukuran debit di sebelah kiri dengan hasil yang tepat di sebelah kanan.
+A. 
+B. 
+C. 
+D. 
+E. 
+KUNCI: A
+BOBOT: 2.5
+
+=== SOAL 40 ===
+40. Sebuah keran mengalirkan air dengan debit 25 mL/detik. Berapa volume air yang mengalir selama 40 detik?
+KUNCI: A
+BOBOT: 2.5
