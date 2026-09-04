@@ -50,6 +50,7 @@ BOBOT: 2.5
 
 === SOAL 6 ===
 6. Hasil dari -8 + 13 adalah ....
+[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788478065851_5jxkud0.webp]
 A. -21
 B. -5
 C. 5
