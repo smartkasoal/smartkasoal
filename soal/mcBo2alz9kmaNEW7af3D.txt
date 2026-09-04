@@ -1,7 +1,0 @@
-1. asd
-A. asd
-B. 
-C. 
-D. 
-KUNCI: A
-BOBOT: 100
