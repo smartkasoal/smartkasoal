@@ -10,6 +10,7 @@ BOBOT: 2.5
 
 === SOAL 2 ===
 2. Sebuah ember mula-mula berisi 200 mL air. Setelah 20 detik, ember berisi 1.000 mL. Debit air yang mengalir adalah ....
+[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/IMG_MTMEUTEIC3SZ.webp]
 A. 20 mL/detik
 B. 40 mL/detik
 C. 50 mL/detik
