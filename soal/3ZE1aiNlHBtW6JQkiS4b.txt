@@ -1,6 +1,6 @@
 === SOAL 1 ===
 1. Perhatikan gambar. Bilangan awal adalah -2. Jika bergerak 5 langkah ke kanan, bilangan yang diperoleh adalah ....
-[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788440445729_io4wof6.webp]
+[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/IMG_MTMESOQZ8GF5.webp]
 A. -7
 B. -3
 C. 3
@@ -10,7 +10,6 @@ BOBOT: 2.5
 
 === SOAL 2 ===
 2. Sebuah ember mula-mula berisi 200 mL air. Setelah 20 detik, ember berisi 1.000 mL. Debit air yang mengalir adalah ....
-[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788440445740_w3vnvs8.webp]
 A. 20 mL/detik
 B. 40 mL/detik
 C. 50 mL/detik
@@ -20,7 +19,6 @@ BOBOT: 2.5
 
 === SOAL 3 ===
 3. Perhatikan model bilangan pada gambar. Tiga balok merah bernilai -1 dan lima balok biru bernilai +1. Jumlah seluruh nilai balok adalah ....
-[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788440445748_o9blgh7.webp]
 A. -2
 B. 2
 C. 8
@@ -30,7 +28,6 @@ BOBOT: 2.5
 
 === SOAL 4 ===
 4. Perhatikan termometer pada gambar. Suhu yang ditunjukkan adalah ....
-[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788440445763_a95synf.webp]
 A. -5°C
 B. 5°C
 C. 10°C
@@ -40,7 +37,6 @@ BOBOT: 2.5
 
 === SOAL 5 ===
 5. Sebuah wadah berkapasitas 1.000 mL sedang diisi air. Jika air yang masuk sebanyak 600 mL dalam 20 detik, debit air adalah ....
-[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788440445779_4nj1avm.webp]
 A. 20 mL/detik
 B. 30 mL/detik
 C. 40 mL/detik
@@ -50,7 +46,6 @@ BOBOT: 2.5
 
 === SOAL 6 ===
 6. Hasil dari -8 + 13 adalah ....
-[MEDIA: https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/soal_3ZE1aiNlHBtW6JQkiS4b_med_local_1788478065851_5jxkud0.webp]
 A. -21
 B. -5
 C. 5
@@ -326,51 +321,81 @@ BOBOT: 2.5
 
 === SOAL 35 ===
 35. Cocokkan operasi bilangan bulat di sebelah kiri dengan hasil yang tepat di sebelah kanan.
-A. 
-B. 
+A. B. 
 C. 
 D. 
-E. 
+E.
+B. C. 
+D. 
+E.
+C. D. 
+E.
+D. E.
+E. KUNCI: A, B, C, D, E
 KUNCI: A
 BOBOT: 2.5
 
 === SOAL 36 ===
 36. Cocokkan volume, waktu, dan debit berikut dengan hasil yang tepat.
-A. 
-B. 
+A. B. 
 C. 
 D. 
-E. 
+E.
+B. C. 
+D. 
+E.
+C. D. 
+E.
+D. E.
+E. KUNCI: A, B, C, D, E
 KUNCI: A
 BOBOT: 2.5
 
 === SOAL 37 ===
 37. Cocokkan bilangan bulat di sebelah kiri dengan lawan bilangannya.
-A. 
-B. 
+A. B. 
 C. 
 D. 
-E. 
+E.
+B. C. 
+D. 
+E.
+C. D. 
+E.
+D. E.
+E. KUNCI: A, B, C, D, E
 KUNCI: A
 BOBOT: 2.5
 
 === SOAL 38 ===
 38. Cocokkan operasi di sebelah kiri dengan hasil yang tepat di sebelah kanan.
-A. 
-B. 
+A. B. 
 C. 
 D. 
-E. 
+E.
+B. C. 
+D. 
+E.
+C. D. 
+E.
+D. E.
+E. KUNCI: A, B, C, D, E
 KUNCI: A
 BOBOT: 2.5
 
 === SOAL 39 ===
 39. Cocokkan situasi pengukuran debit di sebelah kiri dengan hasil yang tepat di sebelah kanan.
-A. 
-B. 
+A. B. 
 C. 
 D. 
-E. 
+E.
+B. C. 
+D. 
+E.
+C. D. 
+E.
+D. E.
+E. KUNCI: A, B, C, D, E
 KUNCI: A
 BOBOT: 2.5
 
