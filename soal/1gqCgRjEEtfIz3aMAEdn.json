@@ -6,381 +6,35 @@
   "subject": "Lainnya",
   "duration": 60,
   "token": "TXBV7C",
-  "totalQuestions": 5,
+  "totalQuestions": 1,
   "totalBobot": 100,
-  "version": 2,
+  "version": 3,
   "questions": [
     {
-      "id": "temp_ai_1788730173956_5388_0",
+      "examId": "1gqCgRjEEtfIz3aMAEdn",
       "type": "pg",
-      "teks": "Perhatikan gambar berikut. Pecahan yang menunjukkan bagian berwarna pada gambar di atas adalah ....",
-      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_4d0326eec3d97f8e.webp",
-      "rawMedia": "soal-01.png",
-      "opsi": [
-        "3/8",
-        "5/8",
-        "5/3",
-        "3/5"
-      ],
-      "opsiMedia": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "jawaban": 1,
-      "bobot": 90,
-      "difficulty": "medium",
-      "chapter": "",
-      "order": 1,
+      "teks": "sdfg",
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
         "instruction": null,
         "title": null,
         "paragraphs": [],
-        "question": "Perhatikan gambar berikut. Pecahan yang menunjukkan bagian berwarna pada gambar di atas adalah ....",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_4d0326eec3d97f8e.webp",
-            "caption": "soal-01.png"
-          }
-        ],
-        "options": [
-          {
-            "letter": "A",
-            "text": "3/8"
-          },
-          {
-            "letter": "B",
-            "text": "5/8"
-          },
-          {
-            "letter": "C",
-            "text": "5/3"
-          },
-          {
-            "letter": "D",
-            "text": "3/5"
-          }
-        ],
-        "rawText": "Perhatikan gambar berikut. Pecahan yang menunjukkan bagian berwarna pada gambar di atas adalah ....",
-        "questionType": "pg"
+        "question": "sdfg",
+        "media": [],
+        "options": [],
+        "rawText": "sdfg"
       },
-      "questionId": "temp_ai_1788730173956_5388_0",
-      "number": 1,
-      "questionType": "pilihan_ganda",
-      "tipe": "pg",
-      "question": "Perhatikan gambar berikut. Pecahan yang menunjukkan bagian berwarna pada gambar di atas adalah ....",
-      "pertanyaan": "Perhatikan gambar berikut. Pecahan yang menunjukkan bagian berwarna pada gambar di atas adalah ....",
-      "text": "Perhatikan gambar berikut. Pecahan yang menunjukkan bagian berwarna pada gambar di atas adalah ....",
-      "stimulus": "",
-      "wacana": "",
-      "weight": 90,
-      "options": [
-        {
-          "key": "A",
-          "text": "3/8"
-        },
-        {
-          "key": "B",
-          "text": "5/8"
-        },
-        {
-          "key": "C",
-          "text": "5/3"
-        },
-        {
-          "key": "D",
-          "text": "3/5"
-        }
-      ],
-      "answer": "B",
-      "kunci": "B",
-      "correctAnswer": 1
-    },
-    {
-      "id": "temp_ai_1788730173956_7510_1",
-      "type": "pg",
-      "teks": "Perhatikan gambar berikut. Banyak air di dalam wadah pada gambar adalah ....",
-      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_c0f6cb4ea44f7e24.webp",
-      "rawMedia": "soal-02.png",
-      "opsi": [
-        "1/4 liter",
-        "1/2 liter",
-        "3/4 liter",
-        "1 liter"
-      ],
-      "opsiMedia": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "jawaban": 2,
-      "bobot": 2.5,
+      "bobot": 100,
       "difficulty": "medium",
       "chapter": "",
-      "order": 2,
-      "structure": {
-        "stimulus": null,
-        "stimulusScope": null,
-        "instruction": null,
-        "title": null,
-        "paragraphs": [],
-        "question": "Perhatikan gambar berikut. Banyak air di dalam wadah pada gambar adalah ....",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_c0f6cb4ea44f7e24.webp",
-            "caption": "soal-02.png"
-          }
-        ],
-        "options": [
-          {
-            "letter": "A",
-            "text": "1/4 liter"
-          },
-          {
-            "letter": "B",
-            "text": "1/2 liter"
-          },
-          {
-            "letter": "C",
-            "text": "3/4 liter"
-          },
-          {
-            "letter": "D",
-            "text": "1 liter"
-          }
-        ],
-        "rawText": "Perhatikan gambar berikut. Banyak air di dalam wadah pada gambar adalah ....",
-        "questionType": "pg"
-      },
-      "questionId": "temp_ai_1788730173956_7510_1",
-      "number": 2,
-      "questionType": "pilihan_ganda",
-      "tipe": "pg",
-      "question": "Perhatikan gambar berikut. Banyak air di dalam wadah pada gambar adalah ....",
-      "pertanyaan": "Perhatikan gambar berikut. Banyak air di dalam wadah pada gambar adalah ....",
-      "text": "Perhatikan gambar berikut. Banyak air di dalam wadah pada gambar adalah ....",
-      "stimulus": "",
-      "wacana": "",
-      "weight": 2.5,
-      "options": [
-        {
-          "key": "A",
-          "text": "1/4 liter"
-        },
-        {
-          "key": "B",
-          "text": "1/2 liter"
-        },
-        {
-          "key": "C",
-          "text": "3/4 liter"
-        },
-        {
-          "key": "D",
-          "text": "1 liter"
-        }
-      ],
-      "answer": "C",
-      "kunci": "C",
-      "correctAnswer": 2
-    },
-    {
-      "id": "temp_ai_1788730173956_1398_2",
-      "type": "pg",
-      "teks": "Perhatikan gambar berikut. Gambar di atas tersusun dari kubus satuan. Banyak kubus satuan yang menyusun bangun tersebut adalah ....",
-      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_a0b41eed3d1ac772.webp",
-      "rawMedia": "soal-03.png",
+      "media": "",
+      "updatedAt": "2026-09-06T21:31:17.812Z",
       "opsi": [
-        "9",
-        "18",
-        "27",
-        "36"
-      ],
-      "opsiMedia": [
-        "",
-        "",
-        "",
+        "sdg",
+        "sdg",
+        "dsg",
         ""
-      ],
-      "jawaban": 2,
-      "bobot": 2.5,
-      "difficulty": "medium",
-      "chapter": "",
-      "order": 3,
-      "structure": {
-        "stimulus": null,
-        "stimulusScope": null,
-        "instruction": null,
-        "title": null,
-        "paragraphs": [],
-        "question": "Perhatikan gambar berikut. Gambar di atas tersusun dari kubus satuan. Banyak kubus satuan yang menyusun bangun tersebut adalah ....",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_a0b41eed3d1ac772.webp",
-            "caption": "soal-03.png"
-          }
-        ],
-        "options": [
-          {
-            "letter": "A",
-            "text": "9"
-          },
-          {
-            "letter": "B",
-            "text": "18"
-          },
-          {
-            "letter": "C",
-            "text": "27"
-          },
-          {
-            "letter": "D",
-            "text": "36"
-          }
-        ],
-        "rawText": "Perhatikan gambar berikut. Gambar di atas tersusun dari kubus satuan. Banyak kubus satuan yang menyusun bangun tersebut adalah ....",
-        "questionType": "pg"
-      },
-      "questionId": "temp_ai_1788730173956_1398_2",
-      "number": 3,
-      "questionType": "pilihan_ganda",
-      "tipe": "pg",
-      "question": "Perhatikan gambar berikut. Gambar di atas tersusun dari kubus satuan. Banyak kubus satuan yang menyusun bangun tersebut adalah ....",
-      "pertanyaan": "Perhatikan gambar berikut. Gambar di atas tersusun dari kubus satuan. Banyak kubus satuan yang menyusun bangun tersebut adalah ....",
-      "text": "Perhatikan gambar berikut. Gambar di atas tersusun dari kubus satuan. Banyak kubus satuan yang menyusun bangun tersebut adalah ....",
-      "stimulus": "",
-      "wacana": "",
-      "weight": 2.5,
-      "options": [
-        {
-          "key": "A",
-          "text": "9"
-        },
-        {
-          "key": "B",
-          "text": "18"
-        },
-        {
-          "key": "C",
-          "text": "27"
-        },
-        {
-          "key": "D",
-          "text": "36"
-        }
-      ],
-      "answer": "C",
-      "kunci": "C",
-      "correctAnswer": 2
-    },
-    {
-      "id": "temp_ai_1788730173956_3357_3",
-      "type": "pg",
-      "teks": "Perhatikan gambar berikut. Gambar di atas menunjukkan sebuah balok. Volume balok tersebut adalah ....",
-      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_34977fa5cbed75cb.webp",
-      "rawMedia": "soal-04.png",
-      "opsi": [
-        "100 cm³",
-        "200 cm³",
-        "360 cm³",
-        "480 cm³"
-      ],
-      "opsiMedia": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "jawaban": 3,
-      "bobot": 2.5,
-      "difficulty": "medium",
-      "chapter": "",
-      "order": 4,
-      "structure": {
-        "stimulus": null,
-        "stimulusScope": null,
-        "instruction": null,
-        "title": null,
-        "paragraphs": [],
-        "question": "Perhatikan gambar berikut. Gambar di atas menunjukkan sebuah balok. Volume balok tersebut adalah ....",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_34977fa5cbed75cb.webp",
-            "caption": "soal-04.png"
-          }
-        ],
-        "options": [
-          {
-            "letter": "A",
-            "text": "100 cm³"
-          },
-          {
-            "letter": "B",
-            "text": "200 cm³"
-          },
-          {
-            "letter": "C",
-            "text": "360 cm³"
-          },
-          {
-            "letter": "D",
-            "text": "480 cm³"
-          }
-        ],
-        "rawText": "Perhatikan gambar berikut. Gambar di atas menunjukkan sebuah balok. Volume balok tersebut adalah ....",
-        "questionType": "pg"
-      },
-      "questionId": "temp_ai_1788730173956_3357_3",
-      "number": 4,
-      "questionType": "pilihan_ganda",
-      "tipe": "pg",
-      "question": "Perhatikan gambar berikut. Gambar di atas menunjukkan sebuah balok. Volume balok tersebut adalah ....",
-      "pertanyaan": "Perhatikan gambar berikut. Gambar di atas menunjukkan sebuah balok. Volume balok tersebut adalah ....",
-      "text": "Perhatikan gambar berikut. Gambar di atas menunjukkan sebuah balok. Volume balok tersebut adalah ....",
-      "stimulus": "",
-      "wacana": "",
-      "weight": 2.5,
-      "options": [
-        {
-          "key": "A",
-          "text": "100 cm³"
-        },
-        {
-          "key": "B",
-          "text": "200 cm³"
-        },
-        {
-          "key": "C",
-          "text": "360 cm³"
-        },
-        {
-          "key": "D",
-          "text": "480 cm³"
-        }
-      ],
-      "answer": "D",
-      "kunci": "D",
-      "correctAnswer": 3
-    },
-    {
-      "id": "temp_ai_1788730173956_9581_4",
-      "type": "pg",
-      "teks": "Perhatikan gambar berikut. Sebuah dadu seperti gambar di atas dilempar satu kali. Peluang muncul sisi berwarna merah adalah ....",
-      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_0a87330b6fa0dc88.webp",
-      "rawMedia": "soal-05.png",
-      "opsi": [
-        "1/6",
-        "1/3",
-        "1/2",
-        "2/3"
       ],
       "opsiMedia": [
         "",
@@ -389,71 +43,36 @@
         ""
       ],
       "jawaban": 0,
-      "bobot": 2.5,
-      "difficulty": "medium",
-      "chapter": "",
-      "order": 5,
-      "structure": {
-        "stimulus": null,
-        "stimulusScope": null,
-        "instruction": null,
-        "title": null,
-        "paragraphs": [],
-        "question": "Perhatikan gambar berikut. Sebuah dadu seperti gambar di atas dilempar satu kali. Peluang muncul sisi berwarna merah adalah ....",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_0a87330b6fa0dc88.webp",
-            "caption": "soal-05.png"
-          }
-        ],
-        "options": [
-          {
-            "letter": "A",
-            "text": "1/6"
-          },
-          {
-            "letter": "B",
-            "text": "1/3"
-          },
-          {
-            "letter": "C",
-            "text": "1/2"
-          },
-          {
-            "letter": "D",
-            "text": "2/3"
-          }
-        ],
-        "rawText": "Perhatikan gambar berikut. Sebuah dadu seperti gambar di atas dilempar satu kali. Peluang muncul sisi berwarna merah adalah ....",
-        "questionType": "pg"
-      },
-      "questionId": "temp_ai_1788730173956_9581_4",
-      "number": 5,
+      "id": "temp_1788730277812",
+      "order": 1,
+      "createdAt": "2026-09-06T21:31:17.812Z",
+      "createdBy": "KeK64hunb6NSC1i128vHKoEymhM2",
+      "questionId": "temp_1788730277812",
+      "number": 1,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
-      "question": "Perhatikan gambar berikut. Sebuah dadu seperti gambar di atas dilempar satu kali. Peluang muncul sisi berwarna merah adalah ....",
-      "pertanyaan": "Perhatikan gambar berikut. Sebuah dadu seperti gambar di atas dilempar satu kali. Peluang muncul sisi berwarna merah adalah ....",
-      "text": "Perhatikan gambar berikut. Sebuah dadu seperti gambar di atas dilempar satu kali. Peluang muncul sisi berwarna merah adalah ....",
+      "question": "sdfg",
+      "pertanyaan": "sdfg",
+      "text": "sdfg",
       "stimulus": "",
       "wacana": "",
-      "weight": 2.5,
+      "weight": 100,
       "options": [
         {
           "key": "A",
-          "text": "1/6"
+          "text": "sdg"
         },
         {
           "key": "B",
-          "text": "1/3"
+          "text": "sdg"
         },
         {
           "key": "C",
-          "text": "1/2"
+          "text": "dsg"
         },
         {
           "key": "D",
-          "text": "2/3"
+          "text": ""
         }
       ],
       "answer": "A",
@@ -461,5 +80,5 @@
       "correctAnswer": 0
     }
   ],
-  "updatedAt": "2026-09-06T21:30:03.517Z"
+  "updatedAt": "2026-09-06T21:31:23.121Z"
 }
