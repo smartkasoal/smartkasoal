@@ -1,4 +1,5 @@
 === SOAL 1 ===
+[TIPE: pilihan_ganda]
 1. Bacaan 1 (untuk menjawab soal nomor 1-4)
 Bacalah teks fiksi berikut dengan saksama!
 
@@ -23,6 +24,7 @@ KUNCI: B
 BOBOT: 3.43
 
 === SOAL 2 ===
+[TIPE: pilihan_ganda]
 2. Bacaan 1 (untuk menjawab soal nomor 1-4)
 Bacalah teks fiksi berikut dengan saksama!
 
@@ -47,6 +49,7 @@ KUNCI: B
 BOBOT: 3.33
 
 === SOAL 3 ===
+[TIPE: pilihan_ganda]
 3. Bacaan 1 (untuk menjawab soal nomor 1-4)
 Bacalah teks fiksi berikut dengan saksama!
 
@@ -71,6 +74,7 @@ KUNCI: C
 BOBOT: 3.33
 
 === SOAL 4 ===
+[TIPE: pg_kompleks]
 4. Bacaan 1 (untuk menjawab soal nomor 1-4)
 Bacalah teks fiksi berikut dengan saksama!
 
@@ -94,10 +98,11 @@ C. Membawa peti ke dalam kamar tidurnya
 D. Membawa peti ke teras rumah
 E. Meletakkan peti di atas meja kayu
 F. Mencoba membuka kunci peti
-KUNCI: A
+KUNCI: A, B, D, E, F
 BOBOT: 3.33
 
 === SOAL 5 ===
+[TIPE: pg_kompleks]
 5. Bacaan 2 (untuk menjawab soal nomor 5-8)
 Bacalah teks nonfiksi berikut dengan saksama!
 
@@ -121,10 +126,11 @@ C. Kondensasi
 D. Awan
 E. Presipitasi
 F. Infiltrasi
-KUNCI: A
+KUNCI: A, C, E, F
 BOBOT: 3.33
 
 === SOAL 6 ===
+[TIPE: benar_salah]
 6. Bacaan 2 (untuk menjawab soal nomor 5-8)
 Bacalah teks nonfiksi berikut dengan saksama!
 
@@ -141,15 +147,15 @@ Secara keseluruhan, siklus air terdiri atas empat tahap utama, yaitu evaporasi, 
 Siklus air sangat penting bagi kehidupan di Bumi. Tanpa siklus ini, persediaan air bersih akan sulit terjaga, tanaman tidak dapat tumbuh dengan baik, dan keseimbangan ekosistem pun akan terganggu.
 
 Bacalah setiap pernyataan berikut berdasarkan teks "Perjalanan Air yang Tak Pernah Berhenti", kemudian tentukan Benar atau Salah!
-A. Evaporasi adalah proses penguapan air akibat panas matahari.
-B. Kondensasi terjadi ketika titik-titik air berubah menjadi uap air.
-C. Presipitasi adalah proses jatuhnya air dari awan ke permukaan bumi.
-D. Seluruh air hujan yang jatuh ke tanah langsung mengalir ke laut tanpa meresap.
-E. Siklus air terdiri atas empat tahap utama.
-KUNCI: A
+PERNYATAAN: [Benar] Evaporasi adalah proses penguapan air akibat panas matahari.
+PERNYATAAN: [Salah] Kondensasi terjadi ketika titik-titik air berubah menjadi uap air.
+PERNYATAAN: [Benar] Presipitasi adalah proses jatuhnya air dari awan ke permukaan bumi.
+PERNYATAAN: [Salah] Seluruh air hujan yang jatuh ke tanah langsung mengalir ke laut tanpa meresap.
+PERNYATAAN: [Benar] Siklus air terdiri atas empat tahap utama.
 BOBOT: 3.33
 
 === SOAL 7 ===
+[TIPE: pilihan_ganda]
 7. Bacaan 2 (untuk menjawab soal nomor 5-8)
 Bacalah teks nonfiksi berikut dengan saksama!
 
@@ -174,6 +180,7 @@ KUNCI: C
 BOBOT: 3.33
 
 === SOAL 8 ===
+[TIPE: pilihan_ganda]
 8. Bacaan 2 (untuk menjawab soal nomor 5-8)
 Bacalah teks nonfiksi berikut dengan saksama!
 
@@ -198,6 +205,7 @@ KUNCI: B
 BOBOT: 3.33
 
 === SOAL 9 ===
+[TIPE: pilihan_ganda]
 9. Bacaan 3 (untuk menjawab soal nomor 9-12)
 Bacalah teks nonfiksi berikut dengan saksama!
 
@@ -232,6 +240,7 @@ KUNCI: A
 BOBOT: 3.33
 
 === SOAL 10 ===
+[TIPE: pilihan_ganda]
 10. Bacaan 3 (untuk menjawab soal nomor 9-12)
 Bacalah teks nonfiksi berikut dengan saksama!
 
@@ -258,6 +267,7 @@ KUNCI: D
 BOBOT: 3.33
 
 === SOAL 11 ===
+[TIPE: pilihan_ganda]
 11. Bacaan 3 (untuk menjawab soal nomor 9-12)
 Bacalah teks nonfiksi berikut dengan saksama!
 
@@ -284,6 +294,7 @@ KUNCI: B
 BOBOT: 3.33
 
 === SOAL 12 ===
+[TIPE: benar_salah]
 12. Bacaan 3 (untuk menjawab soal nomor 9-12)
 Bacalah teks nonfiksi berikut dengan saksama!
 
@@ -302,15 +313,15 @@ Puncak acara berlangsung pada pukul 13.00 siang, yaitu makan bersama seluruh war
 Acara ditutup pada sore hari, sekitar pukul 16.00, dengan pertunjukan kesenian tradisional berupa tari topeng dan musik gamelan yang ditampilkan oleh anak-anak dan remaja Desa Makmur.
 
 Bacalah setiap pernyataan berikut berdasarkan teks "Tradisi Sedekah Bumi di Desa Makmur", kemudian tentukan Benar atau Salah!
-A. Kerja bakti membersihkan balai desa dilakukan pukul 07.00 pagi.
-B. Hasil bumi yang diarak disusun di atas tandu bambu.
-C. Sesepuh desa memimpin arak-arakan hasil bumi menuju lapangan utama.
-D. Warga makan bersama dengan duduk berjajar beralaskan daun pisang.
-E. Pertunjukan kesenian tradisional ditampilkan oleh Kepala Desa.
-KUNCI: A
+PERNYATAAN: [Benar] Kerja bakti membersihkan balai desa dilakukan pukul 07.00 pagi.
+PERNYATAAN: [Benar] Hasil bumi yang diarak disusun di atas tandu bambu.
+PERNYATAAN: [Salah] Sesepuh desa memimpin arak-arakan hasil bumi menuju lapangan utama.
+PERNYATAAN: [Benar] Warga makan bersama dengan duduk berjajar beralaskan daun pisang.
+PERNYATAAN: [Salah] Pertunjukan kesenian tradisional ditampilkan oleh Kepala Desa.
 BOBOT: 3.33
 
 === SOAL 13 ===
+[TIPE: pg_kompleks]
 13. Bacaan 4 (untuk menjawab soal nomor 13-15)
 Bacalah teks cerita berikut dengan saksama
 
@@ -330,10 +341,11 @@ B. Semakin mahal sepatu seseorang, semakin besar peluangnya untuk menang dalam p
 C. Sikap sombong dapat membuat seseorang kehilangan rasa hormat dari teman-temannya.
 D. Wayan menang dalam lomba lari karena sepatunya lebih bagus daripada sepatu Made.
 E. Kerja keras dan latihan yang rutin lebih penting daripada penampilan luar semata.
-KUNCI: A
+KUNCI: A, C, E
 BOBOT: 3.33
 
 === SOAL 14 ===
+[TIPE: benar_salah]
 14. Bacaan 4 (untuk menjawab soal nomor 13-15)
 Bacalah teks cerita berikut dengan saksama
 
@@ -348,14 +360,14 @@ Peluit tanda mulai lomba pun dibunyikan. Made berlari dengan percaya diri di dep
 Made terdiam. Ia baru sadar bahwa kemenangan Wayan bukan karena sepatunya, melainkan karena kerja keras dan latihan yang selama ini rutin dilakukan Wayan setiap sore. Made pun menghampiri Wayan, meminta maaf atas ejekannya tadi pagi, dan sejak hari itu keduanya menjadi sahabat yang saling mendukung dalam setiap latihan olahraga di sekolah.
 
 Berilah tanda centang (v) pada kolom Benar atau Salah sesuai dengan perubahan sikap tokoh dari awal hingga akhir cerita!
-A. Pada awal cerita, Made bersikap sombong dan meremehkan sepatu Wayan.
-B. Pada akhir cerita, Made tetap mengejek dan tidak mau berteman dengan Wayan.
-C. Made berubah menjadi lebih rendah hati setelah menyaksikan kerja keras Wayan.
-D. Made meminta maaf kepada Wayan setelah lomba lari selesai.
-KUNCI: A
+PERNYATAAN: [Benar] Pada awal cerita, Made bersikap sombong dan meremehkan sepatu Wayan.
+PERNYATAAN: [Salah] Pada akhir cerita, Made tetap mengejek dan tidak mau berteman dengan Wayan.
+PERNYATAAN: [Benar] Made berubah menjadi lebih rendah hati setelah menyaksikan kerja keras Wayan.
+PERNYATAAN: [Benar] Made meminta maaf kepada Wayan setelah lomba lari selesai.
 BOBOT: 3.33
 
 === SOAL 15 ===
+[TIPE: pilihan_ganda]
 15. Bacaan 4 (untuk menjawab soal nomor 13-15)
 Bacalah teks cerita berikut dengan saksama
 
@@ -378,6 +390,7 @@ KUNCI: A
 BOBOT: 3.33
 
 === SOAL 16 ===
+[TIPE: pilihan_ganda]
 16. Bacaan 5 (untuk menjawab soal nomor 16-18)
 
 Metamorfosis Kupu-Kupu
@@ -401,6 +414,7 @@ KUNCI: A
 BOBOT: 3.33
 
 === SOAL 17 ===
+[TIPE: pg_kompleks]
 17. Bacaan 5 (untuk menjawab soal nomor 16-18)
 
 Metamorfosis Kupu-Kupu
@@ -421,10 +435,11 @@ B. Kepompong bergerak aktif mencari makanan agar cepat berubah menjadi kupu-kupu
 C. Tubuh ulat berubah bentuk secara menyeluruh di dalam kepompong karena proses metamorfosis.
 D. Kupu-kupu berdiam diri sambil mengembangkan sayapnya karena sayapnya masih basah dan terlipat.
 E. Telur kupu-kupu menetas dan langsung menjadi kupu-kupu dewasa tanpa melalui tahap lain.
-KUNCI: A
+KUNCI: A, C, D
 BOBOT: 3.33
 
 === SOAL 18 ===
+[TIPE: pilihan_ganda]
 18. Bacaan 5 (untuk menjawab soal nomor 16-18)
 
 Metamorfosis Kupu-Kupu
@@ -448,6 +463,7 @@ KUNCI: A
 BOBOT: 3.33
 
 === SOAL 19 ===
+[TIPE: pilihan_ganda]
 19. Bacaan 6 (untuk menjawab soal nomor 19-21)
 
 Kerja Bakti di Kampung Sukamaju
@@ -467,6 +483,7 @@ KUNCI: B
 BOBOT: 3.33
 
 === SOAL 20 ===
+[TIPE: pilihan_ganda]
 20. Bacaan 6 (untuk menjawab soal nomor 19-21)
 
 Kerja Bakti di Kampung Sukamaju
@@ -486,6 +503,7 @@ KUNCI: B
 BOBOT: 3.33
 
 === SOAL 21 ===
+[TIPE: pg_kompleks]
 21. Bacaan 6 (untuk menjawab soal nomor 19-21)
 
 Kerja Bakti di Kampung Sukamaju
@@ -502,10 +520,11 @@ A. Kerja bakti mempererat rasa kebersamaan dan kekeluargaan warga
 B. Semua warga yang tidak ikut kerja bakti akan dikenai denda
 C. Gotong royong membuat pekerjaan yang berat terasa lebih ringan
 D. Kerja bakti hanya memberikan manfaat bagi Pak RT
-KUNCI: A
+KUNCI: A, C
 BOBOT: 3.33
 
 === SOAL 22 ===
+[TIPE: pilihan_ganda]
 22. Bacaan 7 (untuk menjawab soal nomor 22-24)
 
 Mimpi Rian
@@ -525,6 +544,7 @@ KUNCI: B
 BOBOT: 3.33
 
 === SOAL 23 ===
+[TIPE: pg_kompleks]
 23. Bacaan 7 (untuk menjawab soal nomor 22-24)
 
 Mimpi Rian
@@ -541,10 +561,11 @@ A. Rian tetap berlatih berenang setiap sore meskipun sering gagal
 B. Rian menyalahkan ayahnya atas kegagalannya berenang
 C. Rian dengan tekun meminta ayahnya menemani dan membimbingnya berlatih
 D. Rian berhenti berlatih setelah gagal pada percobaan pertama
-KUNCI: A
+KUNCI: A, C
 BOBOT: 3.33
 
 === SOAL 24 ===
+[TIPE: pilihan_ganda]
 24. Bacaan 7 (untuk menjawab soal nomor 22-24)
 
 Mimpi Rian
@@ -564,6 +585,7 @@ KUNCI: B
 BOBOT: 3.33
 
 === SOAL 25 ===
+[TIPE: benar_salah]
 25. Bacaan 8 (untuk menjawab soal nomor 25-27)
 
 Sampah Plastik yang Berubah Menjadi Paving Block
@@ -577,15 +599,15 @@ Hasil pengolahan itu cukup memuaskan. Satu paving block membutuhkan sekitar dua 
 Menurut Bu Ratna, pengelola bank sampah, keberhasilan itu tidak datang dengan cepat. "Pada bulan-bulan pertama, cetakan kami sering gagal karena plastik belum kering benar," katanya. Warga tidak menyerah. Mereka mencatat setiap kegagalan, lalu memperbaiki cara kerja pada percobaan berikutnya. Kini tumpukan sampah plastik di kelurahan itu berkurang lebih dari separuh.
 
 Perhatikan hubungan antariformasi dalam Teks. Tentukan apakah setiap pernyataan berikut sesuai (Benar) atau tidak sesuai (Salah) dengan informasi dalam teks. Berilah tanda centang (v) pada kolom yang kamu pilih!
-A. Jumlah plastik yang dibutuhkan untuk membuat 600 paving block dalam sebulan adalah sekitar 1.200 kilogram, sesuai dengan keterangan bahwa satu paving block memerlukan dua kilogram plastik.
-B. Tahap pencucian dan pengeringan dilakukan setelah tahap pelelehan agar plastik tidak berbau.
-C. Kegagalan pencetakan pada bulan-bulan pertama sesuai dengan penjelasan bahwa plastik harus benar-benar kering sebelum dilelehkan.
-D. Uang hasil penjualan paving block digunakan untuk membeli alat kebersihan, sesuai dengan keterangan tentang kas bersama warga.
-E. Pernyataan bahwa tumpukan sampah plastik berkurang lebih dari separuh bertentangan dengan keterangan bahwa sampah plastik diolah menjadi paving block setiap bulan.
-KUNCI: A
+PERNYATAAN: [Benar] Jumlah plastik yang dibutuhkan untuk membuat 600 paving block dalam sebulan adalah sekitar 1.200 kilogram, sesuai dengan keterangan bahwa satu paving block memerlukan dua kilogram plastik.
+PERNYATAAN: [Salah] Tahap pencucian dan pengeringan dilakukan setelah tahap pelelehan agar plastik tidak berbau.
+PERNYATAAN: [Benar] Kegagalan pencetakan pada bulan-bulan pertama sesuai dengan penjelasan bahwa plastik harus benar-benar kering sebelum dilelehkan.
+PERNYATAAN: [Benar] Uang hasil penjualan paving block digunakan untuk membeli alat kebersihan, sesuai dengan keterangan tentang kas bersama warga.
+PERNYATAAN: [Salah] Pernyataan bahwa tumpukan sampah plastik berkurang lebih dari separuh bertentangan dengan keterangan bahwa sampah plastik diolah menjadi paving block setiap bulan.
 BOBOT: 3.33
 
 === SOAL 26 ===
+[TIPE: pg_kompleks]
 26. Bacaan 8 (untuk menjawab soal nomor 25-27)
 
 Sampah Plastik yang Berubah Menjadi Paving Block
@@ -604,10 +626,11 @@ B. Pekerjaan yang dilakukan secara bertahap dan berurutan memberi hasil yang leb
 C. Barang yang dianggap tidak berguna dapat bernilai jika diolah dengan sungguh-sungguh.
 D. Hasil yang memuaskan hanya dapat diperoleh jika bekerja menggunakan alat yang mahal.
 E. Pekerjaan yang sulit sebaiknya diserahkan kepada orang lain yang lebih ahli.
-KUNCI: A
+KUNCI: A, B, C
 BOBOT: 3.33
 
 === SOAL 27 ===
+[TIPE: pilihan_ganda]
 27. Bacaan 8 (untuk menjawab soal nomor 25-27)
 
 Sampah Plastik yang Berubah Menjadi Paving Block
@@ -629,6 +652,7 @@ KUNCI: B
 BOBOT: 3.33
 
 === SOAL 28 ===
+[TIPE: pg_kompleks]
 28. Bacaan 9 (untuk menjawab soal nomor 28-30)
 
 Kerja Bakti Membersihkan Sungai Ciwaru
@@ -647,10 +671,11 @@ B. Saluran air di depan rumah tersumbat sampah sehingga air menggenang, seperti 
 C. Keluarga yang tidak dapat ikut kerja bakti menyumbang sapu dan karung, seperti warga desa yang membantu dengan cara lain.
 D. Air sungai meluap karena hujan turun terus-menerus tanpa dipengaruhi tumpukan sampah.
 E. Warga membuang sampah ke sungai karena tempat pembuangan sampah berada jauh dari perkampungan.
-KUNCI: A
+KUNCI: A, B, C
 BOBOT: 3.33
 
 === SOAL 29 ===
+[TIPE: pilihan_ganda]
 29. Bacaan 9 (untuk menjawab soal nomor 28-30)
 
 Kerja Bakti Membersihkan Sungai Ciwaru
@@ -672,6 +697,7 @@ KUNCI: B
 BOBOT: 3.33
 
 === SOAL 30 ===
+[TIPE: pg_kompleks]
 30. Bacaan 9 (untuk menjawab soal nomor 28-30)
 
 Kerja Bakti Membersihkan Sungai Ciwaru
@@ -690,5 +716,5 @@ B. Warga bergantian meronda pada malam hari untuk menjaga keamanan kampung.
 C. Beberapa tetangga bersama-sama membantu memperbaiki rumah tetangga yang rusak karena angin kencang.
 D. Seorang siswa mengerjakan tugas kelompok sendirian agar nilainya lebih tinggi daripada temannya.
 E. Seorang warga menyewa orang lain untuk membersihkan halaman rumahnya sendiri saat kerja bakti berlangsung.
-KUNCI: A
+KUNCI: A, B, C
 BOBOT: 3.33
