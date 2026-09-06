@@ -7,7 +7,7 @@
   "token": "PTCE7S",
   "totalQuestions": 35,
   "totalBobot": 100,
-  "version": 2,
+  "version": 3,
   "questions": [
     {
       "id": "temp_ai_1788685448745_2988_5",
@@ -4021,5 +4021,5 @@
       "kunci": "Lampu menyala karena rangkaian tertutup memungkinkan arus listrik mengalir dari baterai melalui kabel dan lampu. Jika sakelar dibuka, rangkaian terputus sehingga arus tidak mengalir dan lampu padam."
     }
   ],
-  "updatedAt": "2026-09-06T09:13:41.770Z"
+  "updatedAt": "2026-09-06T09:13:53.753Z"
 }
