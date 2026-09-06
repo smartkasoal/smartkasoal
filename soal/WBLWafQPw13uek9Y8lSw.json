@@ -5,460 +5,10 @@
   "subject": "Lainnya",
   "duration": 60,
   "token": "PTCE7S",
-  "totalQuestions": 40,
+  "totalQuestions": 35,
   "totalBobot": 100,
   "version": 2,
   "questions": [
-    {
-      "id": "temp_ai_1788685448743_8710_0",
-      "type": "pg",
-      "teks": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
-      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e17291d7b32127cd.webp",
-      "rawMedia": "soal-01.png",
-      "opsi": [
-        "Belalang dan tikus",
-        "Katak dan ular",
-        "Elang dan katak",
-        "Ular dan elang"
-      ],
-      "opsiMedia": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "jawaban": 0,
-      "bobot": 2.5,
-      "difficulty": "medium",
-      "chapter": "",
-      "order": 1,
-      "structure": {
-        "stimulus": null,
-        "stimulusScope": null,
-        "instruction": null,
-        "title": null,
-        "paragraphs": [],
-        "question": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e17291d7b32127cd.webp",
-            "caption": "soal-01.png"
-          }
-        ],
-        "options": [
-          {
-            "letter": "A",
-            "text": "Belalang dan tikus"
-          },
-          {
-            "letter": "B",
-            "text": "Katak dan ular"
-          },
-          {
-            "letter": "C",
-            "text": "Elang dan katak"
-          },
-          {
-            "letter": "D",
-            "text": "Ular dan elang"
-          }
-        ],
-        "rawText": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
-        "questionType": "pg"
-      },
-      "questionId": "temp_ai_1788685448743_8710_0",
-      "number": 1,
-      "questionType": "pilihan_ganda",
-      "tipe": "pg",
-      "question": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
-      "pertanyaan": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
-      "text": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
-      "stimulus": "",
-      "wacana": "",
-      "weight": 2.5,
-      "options": [
-        {
-          "key": "A",
-          "text": "Belalang dan tikus"
-        },
-        {
-          "key": "B",
-          "text": "Katak dan ular"
-        },
-        {
-          "key": "C",
-          "text": "Elang dan katak"
-        },
-        {
-          "key": "D",
-          "text": "Ular dan elang"
-        }
-      ],
-      "answer": "A",
-      "kunci": "A",
-      "correctAnswer": 0
-    },
-    {
-      "id": "temp_ai_1788685448743_7207_1",
-      "type": "pg",
-      "teks": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
-      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_6d7bb647f346aedf.webp",
-      "rawMedia": "soal-02.png",
-      "opsi": [
-        "Kayu",
-        "Klip kertas logam",
-        "Karet",
-        "Plastik"
-      ],
-      "opsiMedia": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "jawaban": 1,
-      "bobot": 2.5,
-      "difficulty": "medium",
-      "chapter": "",
-      "order": 2,
-      "structure": {
-        "stimulus": null,
-        "stimulusScope": null,
-        "instruction": null,
-        "title": null,
-        "paragraphs": [],
-        "question": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_6d7bb647f346aedf.webp",
-            "caption": "soal-02.png"
-          }
-        ],
-        "options": [
-          {
-            "letter": "A",
-            "text": "Kayu"
-          },
-          {
-            "letter": "B",
-            "text": "Klip kertas logam"
-          },
-          {
-            "letter": "C",
-            "text": "Karet"
-          },
-          {
-            "letter": "D",
-            "text": "Plastik"
-          }
-        ],
-        "rawText": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
-        "questionType": "pg"
-      },
-      "questionId": "temp_ai_1788685448743_7207_1",
-      "number": 2,
-      "questionType": "pilihan_ganda",
-      "tipe": "pg",
-      "question": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
-      "pertanyaan": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
-      "text": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
-      "stimulus": "",
-      "wacana": "",
-      "weight": 2.5,
-      "options": [
-        {
-          "key": "A",
-          "text": "Kayu"
-        },
-        {
-          "key": "B",
-          "text": "Klip kertas logam"
-        },
-        {
-          "key": "C",
-          "text": "Karet"
-        },
-        {
-          "key": "D",
-          "text": "Plastik"
-        }
-      ],
-      "answer": "B",
-      "kunci": "B",
-      "correctAnswer": 1
-    },
-    {
-      "id": "temp_ai_1788685448744_471_2",
-      "type": "pg",
-      "teks": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
-      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e99c9343b2d37052.webp",
-      "rawMedia": "soal-03.png",
-      "opsi": [
-        "Senter",
-        "Bola",
-        "Layar",
-        "Meja"
-      ],
-      "opsiMedia": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "jawaban": 2,
-      "bobot": 2.5,
-      "difficulty": "medium",
-      "chapter": "",
-      "order": 3,
-      "structure": {
-        "stimulus": null,
-        "stimulusScope": null,
-        "instruction": null,
-        "title": null,
-        "paragraphs": [],
-        "question": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e99c9343b2d37052.webp",
-            "caption": "soal-03.png"
-          }
-        ],
-        "options": [
-          {
-            "letter": "A",
-            "text": "Senter"
-          },
-          {
-            "letter": "B",
-            "text": "Bola"
-          },
-          {
-            "letter": "C",
-            "text": "Layar"
-          },
-          {
-            "letter": "D",
-            "text": "Meja"
-          }
-        ],
-        "rawText": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
-        "questionType": "pg"
-      },
-      "questionId": "temp_ai_1788685448744_471_2",
-      "number": 3,
-      "questionType": "pilihan_ganda",
-      "tipe": "pg",
-      "question": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
-      "pertanyaan": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
-      "text": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
-      "stimulus": "",
-      "wacana": "",
-      "weight": 2.5,
-      "options": [
-        {
-          "key": "A",
-          "text": "Senter"
-        },
-        {
-          "key": "B",
-          "text": "Bola"
-        },
-        {
-          "key": "C",
-          "text": "Layar"
-        },
-        {
-          "key": "D",
-          "text": "Meja"
-        }
-      ],
-      "answer": "C",
-      "kunci": "C",
-      "correctAnswer": 2
-    },
-    {
-      "id": "temp_ai_1788685448744_9206_3",
-      "type": "pg",
-      "teks": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
-      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e4b8a59a19e805bf.webp",
-      "rawMedia": "soal-04.png",
-      "opsi": [
-        "Ikan besar → ikan kecil → zooplankton → fitoplankton",
-        "Fitoplankton → zooplankton → ikan kecil → ikan besar",
-        "Zooplankton → fitoplankton → ikan besar → ikan kecil",
-        "Ikan kecil → ikan besar → fitoplankton → zooplankton"
-      ],
-      "opsiMedia": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "jawaban": 1,
-      "bobot": 2.5,
-      "difficulty": "medium",
-      "chapter": "",
-      "order": 4,
-      "structure": {
-        "stimulus": null,
-        "stimulusScope": null,
-        "instruction": null,
-        "title": null,
-        "paragraphs": [],
-        "question": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e4b8a59a19e805bf.webp",
-            "caption": "soal-04.png"
-          }
-        ],
-        "options": [
-          {
-            "letter": "A",
-            "text": "Ikan besar → ikan kecil → zooplankton → fitoplankton"
-          },
-          {
-            "letter": "B",
-            "text": "Fitoplankton → zooplankton → ikan kecil → ikan besar"
-          },
-          {
-            "letter": "C",
-            "text": "Zooplankton → fitoplankton → ikan besar → ikan kecil"
-          },
-          {
-            "letter": "D",
-            "text": "Ikan kecil → ikan besar → fitoplankton → zooplankton"
-          }
-        ],
-        "rawText": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
-        "questionType": "pg"
-      },
-      "questionId": "temp_ai_1788685448744_9206_3",
-      "number": 4,
-      "questionType": "pilihan_ganda",
-      "tipe": "pg",
-      "question": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
-      "pertanyaan": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
-      "text": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
-      "stimulus": "",
-      "wacana": "",
-      "weight": 2.5,
-      "options": [
-        {
-          "key": "A",
-          "text": "Ikan besar → ikan kecil → zooplankton → fitoplankton"
-        },
-        {
-          "key": "B",
-          "text": "Fitoplankton → zooplankton → ikan kecil → ikan besar"
-        },
-        {
-          "key": "C",
-          "text": "Zooplankton → fitoplankton → ikan besar → ikan kecil"
-        },
-        {
-          "key": "D",
-          "text": "Ikan kecil → ikan besar → fitoplankton → zooplankton"
-        }
-      ],
-      "answer": "B",
-      "kunci": "B",
-      "correctAnswer": 1
-    },
-    {
-      "id": "temp_ai_1788685448745_8134_4",
-      "type": "pg",
-      "teks": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
-      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_20b269a997b6ddae.webp",
-      "rawMedia": "soal-05.png",
-      "opsi": [
-        "Terbuka sehingga arus terputus",
-        "Tertutup sehingga rangkaian menjadi lengkap",
-        "Dilepas dari rangkaian",
-        "Dipindahkan ke luar rangkaian"
-      ],
-      "opsiMedia": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "jawaban": 1,
-      "bobot": 2.5,
-      "difficulty": "medium",
-      "chapter": "",
-      "order": 5,
-      "structure": {
-        "stimulus": null,
-        "stimulusScope": null,
-        "instruction": null,
-        "title": null,
-        "paragraphs": [],
-        "question": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
-        "media": [
-          {
-            "type": "image",
-            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_20b269a997b6ddae.webp",
-            "caption": "soal-05.png"
-          }
-        ],
-        "options": [
-          {
-            "letter": "A",
-            "text": "Terbuka sehingga arus terputus"
-          },
-          {
-            "letter": "B",
-            "text": "Tertutup sehingga rangkaian menjadi lengkap"
-          },
-          {
-            "letter": "C",
-            "text": "Dilepas dari rangkaian"
-          },
-          {
-            "letter": "D",
-            "text": "Dipindahkan ke luar rangkaian"
-          }
-        ],
-        "rawText": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
-        "questionType": "pg"
-      },
-      "questionId": "temp_ai_1788685448745_8134_4",
-      "number": 5,
-      "questionType": "pilihan_ganda",
-      "tipe": "pg",
-      "question": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
-      "pertanyaan": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
-      "text": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
-      "stimulus": "",
-      "wacana": "",
-      "weight": 2.5,
-      "options": [
-        {
-          "key": "A",
-          "text": "Terbuka sehingga arus terputus"
-        },
-        {
-          "key": "B",
-          "text": "Tertutup sehingga rangkaian menjadi lengkap"
-        },
-        {
-          "key": "C",
-          "text": "Dilepas dari rangkaian"
-        },
-        {
-          "key": "D",
-          "text": "Dipindahkan ke luar rangkaian"
-        }
-      ],
-      "answer": "B",
-      "kunci": "B",
-      "correctAnswer": 1
-    },
     {
       "id": "temp_ai_1788685448745_2988_5",
       "type": "pg",
@@ -478,10 +28,10 @@
         ""
       ],
       "jawaban": 0,
-      "bobot": 2.5,
+      "bobot": 15,
       "difficulty": "medium",
       "chapter": "",
-      "order": 6,
+      "order": 1,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -520,7 +70,7 @@
       "text": "Dalam sebuah ekosistem, tumbuhan hijau berperan sebagai ....",
       "stimulus": "",
       "wacana": "",
-      "weight": 2.5,
+      "weight": 15,
       "options": [
         {
           "key": "A",
@@ -565,7 +115,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 7,
+      "order": 2,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -649,7 +199,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 8,
+      "order": 3,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -733,7 +283,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 9,
+      "order": 4,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -817,7 +367,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 10,
+      "order": 5,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -901,7 +451,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 11,
+      "order": 6,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -985,7 +535,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 12,
+      "order": 7,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1069,7 +619,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 13,
+      "order": 8,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1153,7 +703,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 14,
+      "order": 9,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1237,7 +787,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 15,
+      "order": 10,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1321,7 +871,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 16,
+      "order": 11,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1405,7 +955,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 17,
+      "order": 12,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1489,7 +1039,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 18,
+      "order": 13,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1573,7 +1123,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 19,
+      "order": 14,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1657,7 +1207,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 20,
+      "order": 15,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1748,7 +1298,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 21,
+      "order": 16,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1850,7 +1400,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 22,
+      "order": 17,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1951,7 +1501,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 23,
+      "order": 18,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2053,7 +1603,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 24,
+      "order": 19,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2155,7 +1705,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 25,
+      "order": 20,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2257,7 +1807,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 26,
+      "order": 21,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2359,7 +1909,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 27,
+      "order": 22,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2461,7 +2011,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 28,
+      "order": 23,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2564,7 +2114,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 29,
+      "order": 24,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2748,7 +2298,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 30,
+      "order": 25,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2904,7 +2454,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 31,
+      "order": 26,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -3060,7 +2610,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 32,
+      "order": 27,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -3216,7 +2766,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 33,
+      "order": 28,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -3372,7 +2922,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 34,
+      "order": 29,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -3573,7 +3123,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 35,
+      "order": 30,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -3774,7 +3324,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 36,
+      "order": 31,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -3975,7 +3525,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 37,
+      "order": 32,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -4176,7 +3726,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 38,
+      "order": 33,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -4377,7 +3927,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 39,
+      "order": 34,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -4442,7 +3992,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 40,
+      "order": 35,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -4471,5 +4021,5 @@
       "kunci": "Lampu menyala karena rangkaian tertutup memungkinkan arus listrik mengalir dari baterai melalui kabel dan lampu. Jika sakelar dibuka, rangkaian terputus sehingga arus tidak mengalir dan lampu padam."
     }
   ],
-  "updatedAt": "2026-09-06T09:04:25.387Z"
+  "updatedAt": "2026-09-06T09:06:01.440Z"
 }
