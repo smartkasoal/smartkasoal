@@ -8,7 +8,7 @@
   "token": "A81VX6",
   "totalQuestions": 27,
   "totalBobot": 100,
-  "version": 5,
+  "version": 6,
   "questions": [
     {
       "id": "temp_ai_1788509166009_3262_147",
@@ -1865,5 +1865,5 @@
       "kunci": "A, B, C"
     }
   ],
-  "updatedAt": "2026-09-06T12:15:37.148Z"
+  "updatedAt": "2026-09-06T12:18:09.134Z"
 }
