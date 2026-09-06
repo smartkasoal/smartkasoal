@@ -1,16 +1,467 @@
 {
+  "fileId": "WBLWafQPw13uek9Y8lSw",
   "id": "WBLWafQPw13uek9Y8lSw",
   "examId": "WBLWafQPw13uek9Y8lSw",
   "title": "Bank Soal Tanpa Judul",
   "subject": "Lainnya",
   "duration": 60,
   "token": "PTCE7S",
-  "totalQuestions": 35,
+  "totalQuestions": 40,
   "totalBobot": 100,
-  "version": 3,
+  "version": 2,
   "questions": [
     {
-      "id": "temp_ai_1788685448745_2988_5",
+      "id": "temp_ai_1788686066622_1706_0",
+      "type": "pg",
+      "teks": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e17291d7b32127cd.webp",
+      "rawMedia": "soal-01.png",
+      "opsi": [
+        "Belalang dan tikus",
+        "Katak dan ular",
+        "Elang dan katak",
+        "Ular dan elang"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 1,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e17291d7b32127cd.webp",
+            "caption": "soal-01.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Belalang dan tikus"
+          },
+          {
+            "letter": "B",
+            "text": "Katak dan ular"
+          },
+          {
+            "letter": "C",
+            "text": "Elang dan katak"
+          },
+          {
+            "letter": "D",
+            "text": "Ular dan elang"
+          }
+        ],
+        "rawText": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788686066622_1706_0",
+      "number": 1,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+      "pertanyaan": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+      "text": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Belalang dan tikus"
+        },
+        {
+          "key": "B",
+          "text": "Katak dan ular"
+        },
+        {
+          "key": "C",
+          "text": "Elang dan katak"
+        },
+        {
+          "key": "D",
+          "text": "Ular dan elang"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788686066623_6594_1",
+      "type": "pg",
+      "teks": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_6d7bb647f346aedf.webp",
+      "rawMedia": "soal-02.png",
+      "opsi": [
+        "Kayu",
+        "Klip kertas logam",
+        "Karet",
+        "Plastik"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 2,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_6d7bb647f346aedf.webp",
+            "caption": "soal-02.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Kayu"
+          },
+          {
+            "letter": "B",
+            "text": "Klip kertas logam"
+          },
+          {
+            "letter": "C",
+            "text": "Karet"
+          },
+          {
+            "letter": "D",
+            "text": "Plastik"
+          }
+        ],
+        "rawText": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788686066623_6594_1",
+      "number": 2,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+      "pertanyaan": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+      "text": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Kayu"
+        },
+        {
+          "key": "B",
+          "text": "Klip kertas logam"
+        },
+        {
+          "key": "C",
+          "text": "Karet"
+        },
+        {
+          "key": "D",
+          "text": "Plastik"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788686066623_2663_2",
+      "type": "pg",
+      "teks": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e99c9343b2d37052.webp",
+      "rawMedia": "soal-03.png",
+      "opsi": [
+        "Senter",
+        "Bola",
+        "Layar",
+        "Meja"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 3,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e99c9343b2d37052.webp",
+            "caption": "soal-03.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Senter"
+          },
+          {
+            "letter": "B",
+            "text": "Bola"
+          },
+          {
+            "letter": "C",
+            "text": "Layar"
+          },
+          {
+            "letter": "D",
+            "text": "Meja"
+          }
+        ],
+        "rawText": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788686066623_2663_2",
+      "number": 3,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+      "pertanyaan": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+      "text": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Senter"
+        },
+        {
+          "key": "B",
+          "text": "Bola"
+        },
+        {
+          "key": "C",
+          "text": "Layar"
+        },
+        {
+          "key": "D",
+          "text": "Meja"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1788686066623_8204_3",
+      "type": "pg",
+      "teks": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e4b8a59a19e805bf.webp",
+      "rawMedia": "soal-04.png",
+      "opsi": [
+        "Ikan besar → ikan kecil → zooplankton → fitoplankton",
+        "Fitoplankton → zooplankton → ikan kecil → ikan besar",
+        "Zooplankton → fitoplankton → ikan besar → ikan kecil",
+        "Ikan kecil → ikan besar → fitoplankton → zooplankton"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 4,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e4b8a59a19e805bf.webp",
+            "caption": "soal-04.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Ikan besar → ikan kecil → zooplankton → fitoplankton"
+          },
+          {
+            "letter": "B",
+            "text": "Fitoplankton → zooplankton → ikan kecil → ikan besar"
+          },
+          {
+            "letter": "C",
+            "text": "Zooplankton → fitoplankton → ikan besar → ikan kecil"
+          },
+          {
+            "letter": "D",
+            "text": "Ikan kecil → ikan besar → fitoplankton → zooplankton"
+          }
+        ],
+        "rawText": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788686066623_8204_3",
+      "number": 4,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+      "pertanyaan": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+      "text": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Ikan besar → ikan kecil → zooplankton → fitoplankton"
+        },
+        {
+          "key": "B",
+          "text": "Fitoplankton → zooplankton → ikan kecil → ikan besar"
+        },
+        {
+          "key": "C",
+          "text": "Zooplankton → fitoplankton → ikan besar → ikan kecil"
+        },
+        {
+          "key": "D",
+          "text": "Ikan kecil → ikan besar → fitoplankton → zooplankton"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788686066623_7176_4",
+      "type": "pg",
+      "teks": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_20b269a997b6ddae.webp",
+      "rawMedia": "soal-05.png",
+      "opsi": [
+        "Terbuka sehingga arus terputus",
+        "Tertutup sehingga rangkaian menjadi lengkap",
+        "Dilepas dari rangkaian",
+        "Dipindahkan ke luar rangkaian"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 5,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_20b269a997b6ddae.webp",
+            "caption": "soal-05.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Terbuka sehingga arus terputus"
+          },
+          {
+            "letter": "B",
+            "text": "Tertutup sehingga rangkaian menjadi lengkap"
+          },
+          {
+            "letter": "C",
+            "text": "Dilepas dari rangkaian"
+          },
+          {
+            "letter": "D",
+            "text": "Dipindahkan ke luar rangkaian"
+          }
+        ],
+        "rawText": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788686066623_7176_4",
+      "number": 5,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+      "pertanyaan": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+      "text": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Terbuka sehingga arus terputus"
+        },
+        {
+          "key": "B",
+          "text": "Tertutup sehingga rangkaian menjadi lengkap"
+        },
+        {
+          "key": "C",
+          "text": "Dilepas dari rangkaian"
+        },
+        {
+          "key": "D",
+          "text": "Dipindahkan ke luar rangkaian"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788686066623_2760_5",
       "type": "pg",
       "teks": "Dalam sebuah ekosistem, tumbuhan hijau berperan sebagai ....",
       "media": "",
@@ -28,10 +479,10 @@
         ""
       ],
       "jawaban": 0,
-      "bobot": 15,
+      "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 1,
+      "order": 6,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -61,7 +512,7 @@
         "rawText": "Dalam sebuah ekosistem, tumbuhan hijau berperan sebagai ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448745_2988_5",
+      "questionId": "temp_ai_1788686066623_2760_5",
       "number": 6,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -70,7 +521,7 @@
       "text": "Dalam sebuah ekosistem, tumbuhan hijau berperan sebagai ....",
       "stimulus": "",
       "wacana": "",
-      "weight": 15,
+      "weight": 2.5,
       "options": [
         {
           "key": "A",
@@ -94,7 +545,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "temp_ai_1788685448746_4692_6",
+      "id": "temp_ai_1788686066623_9594_6",
       "type": "pg",
       "teks": "Hewan yang memperoleh makanan dengan memakan tumbuhan disebut ....",
       "media": "",
@@ -115,7 +566,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 2,
+      "order": 7,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -145,7 +596,7 @@
         "rawText": "Hewan yang memperoleh makanan dengan memakan tumbuhan disebut ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448746_4692_6",
+      "questionId": "temp_ai_1788686066623_9594_6",
       "number": 7,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -178,7 +629,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788685448746_5385_7",
+      "id": "temp_ai_1788686066623_6313_7",
       "type": "pg",
       "teks": "Contoh komponen abiotik dalam ekosistem adalah ....",
       "media": "",
@@ -199,7 +650,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 3,
+      "order": 8,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -229,7 +680,7 @@
         "rawText": "Contoh komponen abiotik dalam ekosistem adalah ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448746_5385_7",
+      "questionId": "temp_ai_1788686066623_6313_7",
       "number": 8,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -262,7 +713,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "temp_ai_1788685448746_5240_8",
+      "id": "temp_ai_1788686066624_7067_8",
       "type": "pg",
       "teks": "Makhluk hidup yang membantu menguraikan sisa makhluk hidup yang mati adalah ....",
       "media": "",
@@ -283,7 +734,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 4,
+      "order": 9,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -313,7 +764,7 @@
         "rawText": "Makhluk hidup yang membantu menguraikan sisa makhluk hidup yang mati adalah ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448746_5240_8",
+      "questionId": "temp_ai_1788686066624_7067_8",
       "number": 9,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -346,7 +797,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788685448746_3184_9",
+      "id": "temp_ai_1788686066624_8390_9",
       "type": "pg",
       "teks": "Jika jumlah rumput di suatu padang berkurang banyak, hewan yang paling mungkin kekurangan makanan terlebih dahulu adalah ....",
       "media": "",
@@ -367,7 +818,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 5,
+      "order": 10,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -397,7 +848,7 @@
         "rawText": "Jika jumlah rumput di suatu padang berkurang banyak, hewan yang paling mungkin kekurangan makanan terlebih dahulu adalah ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448746_3184_9",
+      "questionId": "temp_ai_1788686066624_8390_9",
       "number": 10,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -430,7 +881,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "temp_ai_1788685448746_3106_10",
+      "id": "temp_ai_1788686066624_4114_10",
       "type": "pg",
       "teks": "Gaya yang dimiliki magnet dapat menarik benda tertentu, terutama benda yang terbuat dari ....",
       "media": "",
@@ -451,7 +902,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 6,
+      "order": 11,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -481,7 +932,7 @@
         "rawText": "Gaya yang dimiliki magnet dapat menarik benda tertentu, terutama benda yang terbuat dari ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448746_3106_10",
+      "questionId": "temp_ai_1788686066624_4114_10",
       "number": 11,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -514,7 +965,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "temp_ai_1788685448746_8864_11",
+      "id": "temp_ai_1788686066624_7419_11",
       "type": "pg",
       "teks": "Kutub magnet yang berbeda jika didekatkan akan ....",
       "media": "",
@@ -535,7 +986,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 7,
+      "order": 12,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -565,7 +1016,7 @@
         "rawText": "Kutub magnet yang berbeda jika didekatkan akan ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448746_8864_11",
+      "questionId": "temp_ai_1788686066624_7419_11",
       "number": 12,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -598,7 +1049,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "temp_ai_1788685448746_3617_12",
+      "id": "temp_ai_1788686066624_1771_12",
       "type": "pg",
       "teks": "Alat yang mengubah energi listrik menjadi energi cahaya adalah ....",
       "media": "",
@@ -619,7 +1070,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 8,
+      "order": 13,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -649,7 +1100,7 @@
         "rawText": "Alat yang mengubah energi listrik menjadi energi cahaya adalah ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448746_3617_12",
+      "questionId": "temp_ai_1788686066624_1771_12",
       "number": 13,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -682,7 +1133,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "temp_ai_1788685448746_7466_13",
+      "id": "temp_ai_1788686066624_1225_13",
       "type": "pg",
       "teks": "Benda yang dapat menghasilkan cahaya sendiri adalah ....",
       "media": "",
@@ -703,7 +1154,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 9,
+      "order": 14,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -733,7 +1184,7 @@
         "rawText": "Benda yang dapat menghasilkan cahaya sendiri adalah ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448746_7466_13",
+      "questionId": "temp_ai_1788686066624_1225_13",
       "number": 14,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -766,7 +1217,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788685448746_2204_14",
+      "id": "temp_ai_1788686066624_3510_14",
       "type": "pg",
       "teks": "Bayangan dapat terbentuk ketika cahaya ....",
       "media": "",
@@ -787,7 +1238,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 10,
+      "order": 15,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -817,7 +1268,7 @@
         "rawText": "Bayangan dapat terbentuk ketika cahaya ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448746_2204_14",
+      "questionId": "temp_ai_1788686066624_3510_14",
       "number": 15,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -850,7 +1301,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788685448746_5276_15",
+      "id": "temp_ai_1788686066624_2525_15",
       "type": "pg",
       "teks": "Contoh sumber energi listrik yang dapat digunakan untuk menyalakan senter adalah ....",
       "media": "",
@@ -871,7 +1322,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 11,
+      "order": 16,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -901,7 +1352,7 @@
         "rawText": "Contoh sumber energi listrik yang dapat digunakan untuk menyalakan senter adalah ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448746_5276_15",
+      "questionId": "temp_ai_1788686066624_2525_15",
       "number": 16,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -934,7 +1385,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "temp_ai_1788685448746_5246_16",
+      "id": "temp_ai_1788686066624_8861_16",
       "type": "pg",
       "teks": "Bagian rangkaian listrik yang berfungsi menghubungkan dan memutus arus listrik adalah ....",
       "media": "",
@@ -955,7 +1406,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 12,
+      "order": 17,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -985,7 +1436,7 @@
         "rawText": "Bagian rangkaian listrik yang berfungsi menghubungkan dan memutus arus listrik adalah ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448746_5246_16",
+      "questionId": "temp_ai_1788686066624_8861_16",
       "number": 17,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1018,7 +1469,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788685448747_1201_17",
+      "id": "temp_ai_1788686066624_4586_17",
       "type": "pg",
       "teks": "Jika sebuah lampu pada rangkaian sederhana menyala, hal itu menunjukkan bahwa ....",
       "media": "",
@@ -1039,7 +1490,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 13,
+      "order": 18,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1069,7 +1520,7 @@
         "rawText": "Jika sebuah lampu pada rangkaian sederhana menyala, hal itu menunjukkan bahwa ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448747_1201_17",
+      "questionId": "temp_ai_1788686066624_4586_17",
       "number": 18,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1102,7 +1553,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "temp_ai_1788685448747_1007_18",
+      "id": "temp_ai_1788686066624_101_18",
       "type": "pg",
       "teks": "Cahaya merambat dalam satu arah lurus. Peristiwa yang menunjukkan sifat tersebut adalah ....",
       "media": "",
@@ -1123,7 +1574,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 14,
+      "order": 19,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1153,7 +1604,7 @@
         "rawText": "Cahaya merambat dalam satu arah lurus. Peristiwa yang menunjukkan sifat tersebut adalah ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448747_1007_18",
+      "questionId": "temp_ai_1788686066624_101_18",
       "number": 19,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1186,7 +1637,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "temp_ai_1788685448747_7847_19",
+      "id": "temp_ai_1788686066624_4206_19",
       "type": "pg",
       "teks": "Dalam rantai makanan, energi pada tumbuhan dapat berpindah ke hewan ketika hewan ....",
       "media": "",
@@ -1207,7 +1658,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 15,
+      "order": 20,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1237,7 +1688,7 @@
         "rawText": "Dalam rantai makanan, energi pada tumbuhan dapat berpindah ke hewan ketika hewan ....",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788685448747_7847_19",
+      "questionId": "temp_ai_1788686066624_4206_19",
       "number": 20,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1270,7 +1721,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "temp_ai_1788685448748_5197_20",
+      "id": "temp_ai_1788686066624_5221_20",
       "type": "ma",
       "teks": "Pilih semua pernyataan yang benar tentang ekosistem.",
       "media": "",
@@ -1298,7 +1749,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 16,
+      "order": 21,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1332,7 +1783,7 @@
         "rawText": "Pilih semua pernyataan yang benar tentang ekosistem.",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788685448748_5197_20",
+      "questionId": "temp_ai_1788686066624_5221_20",
       "number": 21,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -1373,7 +1824,7 @@
       "kunci": "A, C, D, E"
     },
     {
-      "id": "temp_ai_1788685448749_4194_21",
+      "id": "temp_ai_1788686066625_5484_21",
       "type": "ma",
       "teks": "Pilih semua benda yang dapat ditarik kuat oleh magnet.",
       "media": "",
@@ -1400,7 +1851,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 17,
+      "order": 22,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1434,7 +1885,7 @@
         "rawText": "Pilih semua benda yang dapat ditarik kuat oleh magnet.",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788685448749_4194_21",
+      "questionId": "temp_ai_1788686066625_5484_21",
       "number": 22,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -1474,7 +1925,7 @@
       "kunci": "A, B, E"
     },
     {
-      "id": "temp_ai_1788685448749_2220_22",
+      "id": "temp_ai_1788686066625_1683_22",
       "type": "ma",
       "teks": "Pilih semua pernyataan yang benar tentang magnet.",
       "media": "",
@@ -1501,7 +1952,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 18,
+      "order": 23,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1535,7 +1986,7 @@
         "rawText": "Pilih semua pernyataan yang benar tentang magnet.",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788685448749_2220_22",
+      "questionId": "temp_ai_1788686066625_1683_22",
       "number": 23,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -1575,7 +2026,7 @@
       "kunci": "A, C, E"
     },
     {
-      "id": "temp_ai_1788685448750_2529_23",
+      "id": "temp_ai_1788686066625_2736_23",
       "type": "ma",
       "teks": "Pilih semua benda yang dapat menjadi sumber cahaya.",
       "media": "",
@@ -1603,7 +2054,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 19,
+      "order": 24,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1637,7 +2088,7 @@
         "rawText": "Pilih semua benda yang dapat menjadi sumber cahaya.",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788685448750_2529_23",
+      "questionId": "temp_ai_1788686066625_2736_23",
       "number": 24,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -1678,7 +2129,7 @@
       "kunci": "A, B, C, E"
     },
     {
-      "id": "temp_ai_1788685448750_4269_24",
+      "id": "temp_ai_1788686066625_1274_24",
       "type": "ma",
       "teks": "Pilih semua kondisi yang dapat membantu terbentuknya bayangan yang jelas.",
       "media": "",
@@ -1705,7 +2156,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 20,
+      "order": 25,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1739,7 +2190,7 @@
         "rawText": "Pilih semua kondisi yang dapat membantu terbentuknya bayangan yang jelas.",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788685448750_4269_24",
+      "questionId": "temp_ai_1788686066625_1274_24",
       "number": 25,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -1779,7 +2230,7 @@
       "kunci": "A, B, C"
     },
     {
-      "id": "temp_ai_1788685448750_8783_25",
+      "id": "temp_ai_1788686066625_2796_25",
       "type": "ma",
       "teks": "Pilih semua bagian yang dapat terdapat pada rangkaian listrik sederhana untuk menyalakan lampu.",
       "media": "",
@@ -1807,7 +2258,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 21,
+      "order": 26,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1841,7 +2292,7 @@
         "rawText": "Pilih semua bagian yang dapat terdapat pada rangkaian listrik sederhana untuk menyalakan lampu.",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788685448750_8783_25",
+      "questionId": "temp_ai_1788686066625_2796_25",
       "number": 26,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -1882,7 +2333,7 @@
       "kunci": "A, B, C, D"
     },
     {
-      "id": "temp_ai_1788685448750_6893_26",
+      "id": "temp_ai_1788686066625_174_26",
       "type": "ma",
       "teks": "Pilih semua contoh perubahan atau pemanfaatan energi yang benar.",
       "media": "",
@@ -1909,7 +2360,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 22,
+      "order": 27,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -1943,7 +2394,7 @@
         "rawText": "Pilih semua contoh perubahan atau pemanfaatan energi yang benar.",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788685448750_6893_26",
+      "questionId": "temp_ai_1788686066625_174_26",
       "number": 27,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -1983,7 +2434,7 @@
       "kunci": "A, B, C"
     },
     {
-      "id": "temp_ai_1788685448750_3801_27",
+      "id": "temp_ai_1788686066625_7053_27",
       "type": "ma",
       "teks": "Pilih semua pernyataan yang benar tentang rantai makanan.",
       "media": "",
@@ -2011,7 +2462,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 23,
+      "order": 28,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2045,7 +2496,7 @@
         "rawText": "Pilih semua pernyataan yang benar tentang rantai makanan.",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788685448750_3801_27",
+      "questionId": "temp_ai_1788686066625_7053_27",
       "number": 28,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -2086,7 +2537,7 @@
       "kunci": "A, B, C, E"
     },
     {
-      "id": "temp_ai_1788685448750_7727_28",
+      "id": "temp_ai_1788686066625_96_28",
       "type": "ma",
       "teks": "Pilih semua contoh komponen abiotik dalam lingkungan.",
       "media": "",
@@ -2114,7 +2565,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 24,
+      "order": 29,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2148,7 +2599,7 @@
         "rawText": "Pilih semua contoh komponen abiotik dalam lingkungan.",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788685448750_7727_28",
+      "questionId": "temp_ai_1788686066625_96_28",
       "number": 29,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -2189,7 +2640,7 @@
       "kunci": "A, B, C, D"
     },
     {
-      "id": "temp_ai_1788685448751_1735_29",
+      "id": "temp_ai_1788686066625_9619_29",
       "type": "tf",
       "teks": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang ekosistem.",
       "media": "",
@@ -2298,7 +2749,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 25,
+      "order": 30,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2332,7 +2783,7 @@
         "rawText": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang ekosistem.",
         "questionType": "tf"
       },
-      "questionId": "temp_ai_1788685448751_1735_29",
+      "questionId": "temp_ai_1788686066625_9619_29",
       "number": 30,
       "questionType": "benar_salah",
       "tipe": "tf",
@@ -2345,7 +2796,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788685448751_7821_30",
+      "id": "temp_ai_1788686066626_2673_30",
       "type": "tf",
       "teks": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang magnet.",
       "media": "",
@@ -2454,7 +2905,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 26,
+      "order": 31,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2488,7 +2939,7 @@
         "rawText": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang magnet.",
         "questionType": "tf"
       },
-      "questionId": "temp_ai_1788685448751_7821_30",
+      "questionId": "temp_ai_1788686066626_2673_30",
       "number": 31,
       "questionType": "benar_salah",
       "tipe": "tf",
@@ -2501,7 +2952,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788685448753_7851_31",
+      "id": "temp_ai_1788686066626_8529_31",
       "type": "tf",
       "teks": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang cahaya.",
       "media": "",
@@ -2610,7 +3061,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 27,
+      "order": 32,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2644,7 +3095,7 @@
         "rawText": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang cahaya.",
         "questionType": "tf"
       },
-      "questionId": "temp_ai_1788685448753_7851_31",
+      "questionId": "temp_ai_1788686066626_8529_31",
       "number": 32,
       "questionType": "benar_salah",
       "tipe": "tf",
@@ -2657,7 +3108,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788685448753_7483_32",
+      "id": "temp_ai_1788686066626_1328_32",
       "type": "tf",
       "teks": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang listrik.",
       "media": "",
@@ -2766,7 +3217,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 28,
+      "order": 33,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2800,7 +3251,7 @@
         "rawText": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang listrik.",
         "questionType": "tf"
       },
-      "questionId": "temp_ai_1788685448753_7483_32",
+      "questionId": "temp_ai_1788686066626_1328_32",
       "number": 33,
       "questionType": "benar_salah",
       "tipe": "tf",
@@ -2813,7 +3264,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788685448753_4868_33",
+      "id": "temp_ai_1788686066626_497_33",
       "type": "tf",
       "teks": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang hubungan ekosistem dan energi.",
       "media": "",
@@ -2922,7 +3373,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 29,
+      "order": 34,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -2956,7 +3407,7 @@
         "rawText": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang hubungan ekosistem dan energi.",
         "questionType": "tf"
       },
-      "questionId": "temp_ai_1788685448753_4868_33",
+      "questionId": "temp_ai_1788686066626_497_33",
       "number": 34,
       "questionType": "benar_salah",
       "tipe": "tf",
@@ -2969,7 +3420,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788685448754_5517_34",
+      "id": "temp_ai_1788686066627_3870_34",
       "type": "match",
       "teks": "Pasangkan istilah di sebelah kiri dengan keterangan yang tepat di sebelah kanan.",
       "media": "",
@@ -3123,7 +3574,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 30,
+      "order": 35,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -3157,7 +3608,7 @@
         "rawText": "Pasangkan istilah di sebelah kiri dengan keterangan yang tepat di sebelah kanan.",
         "questionType": "match"
       },
-      "questionId": "temp_ai_1788685448754_5517_34",
+      "questionId": "temp_ai_1788686066627_3870_34",
       "number": 35,
       "questionType": "pencocokan",
       "tipe": "match",
@@ -3170,7 +3621,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788685448754_2542_35",
+      "id": "temp_ai_1788686066627_6777_35",
       "type": "match",
       "teks": "Pasangkan istilah tentang magnet dengan keterangan yang tepat.",
       "media": "",
@@ -3324,7 +3775,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 31,
+      "order": 36,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -3358,7 +3809,7 @@
         "rawText": "Pasangkan istilah tentang magnet dengan keterangan yang tepat.",
         "questionType": "match"
       },
-      "questionId": "temp_ai_1788685448754_2542_35",
+      "questionId": "temp_ai_1788686066627_6777_35",
       "number": 36,
       "questionType": "pencocokan",
       "tipe": "match",
@@ -3371,7 +3822,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788685448754_6798_36",
+      "id": "temp_ai_1788686066627_3923_36",
       "type": "match",
       "teks": "Pasangkan istilah tentang cahaya dengan keterangan yang tepat.",
       "media": "",
@@ -3525,7 +3976,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 32,
+      "order": 37,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -3559,7 +4010,7 @@
         "rawText": "Pasangkan istilah tentang cahaya dengan keterangan yang tepat.",
         "questionType": "match"
       },
-      "questionId": "temp_ai_1788685448754_6798_36",
+      "questionId": "temp_ai_1788686066627_3923_36",
       "number": 37,
       "questionType": "pencocokan",
       "tipe": "match",
@@ -3572,7 +4023,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788685448754_7471_37",
+      "id": "temp_ai_1788686066627_686_37",
       "type": "match",
       "teks": "Pasangkan komponen rangkaian listrik dengan fungsinya.",
       "media": "",
@@ -3726,7 +4177,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 33,
+      "order": 38,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -3760,7 +4211,7 @@
         "rawText": "Pasangkan komponen rangkaian listrik dengan fungsinya.",
         "questionType": "match"
       },
-      "questionId": "temp_ai_1788685448754_7471_37",
+      "questionId": "temp_ai_1788686066627_686_37",
       "number": 38,
       "questionType": "pencocokan",
       "tipe": "match",
@@ -3773,7 +4224,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788685448755_1719_38",
+      "id": "temp_ai_1788686066627_7844_38",
       "type": "match",
       "teks": "Pasangkan organisme atau komponen dalam rantai makanan dengan perannya.",
       "media": "",
@@ -3927,7 +4378,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 34,
+      "order": 39,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -3961,7 +4412,7 @@
         "rawText": "Pasangkan organisme atau komponen dalam rantai makanan dengan perannya.",
         "questionType": "match"
       },
-      "questionId": "temp_ai_1788685448755_1719_38",
+      "questionId": "temp_ai_1788686066627_7844_38",
       "number": 39,
       "questionType": "pencocokan",
       "tipe": "match",
@@ -3974,7 +4425,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788685448755_7137_39",
+      "id": "temp_ai_1788686066627_7090_39",
       "type": "esai",
       "teks": "Jelaskan mengapa lampu pada rangkaian listrik sederhana dapat menyala ketika baterai, kabel, lampu, dan sakelar tersusun dalam rangkaian tertutup. Jelaskan juga apa yang terjadi jika sakelar dibuka.",
       "media": "",
@@ -3992,7 +4443,7 @@
       "bobot": 2.5,
       "difficulty": "medium",
       "chapter": "",
-      "order": 35,
+      "order": 40,
       "structure": {
         "stimulus": null,
         "stimulusScope": null,
@@ -4005,7 +4456,7 @@
         "rawText": "Jelaskan mengapa lampu pada rangkaian listrik sederhana dapat menyala ketika baterai, kabel, lampu, dan sakelar tersusun dalam rangkaian tertutup. Jelaskan juga apa yang terjadi jika sakelar dibuka.",
         "questionType": "esai"
       },
-      "questionId": "temp_ai_1788685448755_7137_39",
+      "questionId": "temp_ai_1788686066627_7090_39",
       "number": 40,
       "questionType": "esai",
       "tipe": "esai",
@@ -4021,5 +4472,5 @@
       "kunci": "Lampu menyala karena rangkaian tertutup memungkinkan arus listrik mengalir dari baterai melalui kabel dan lampu. Jika sakelar dibuka, rangkaian terputus sehingga arus tidak mengalir dan lampu padam."
     }
   ],
-  "updatedAt": "2026-09-06T09:13:53.753Z"
+  "updatedAt": "2026-09-06T12:00:01.696Z"
 }
