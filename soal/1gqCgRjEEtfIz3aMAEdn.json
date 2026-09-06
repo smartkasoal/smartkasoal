@@ -1,0 +1,4476 @@
+{
+  "fileId": "1gqCgRjEEtfIz3aMAEdn",
+  "id": "1gqCgRjEEtfIz3aMAEdn",
+  "examId": "1gqCgRjEEtfIz3aMAEdn",
+  "title": "Bank Soal Tanpa Judul",
+  "subject": "Lainnya",
+  "duration": 60,
+  "token": "TXBV7C",
+  "totalQuestions": 40,
+  "totalBobot": 100,
+  "version": 1,
+  "questions": [
+    {
+      "id": "temp_ai_1788730069583_2803_0",
+      "type": "pg",
+      "teks": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e17291d7b32127cd.webp",
+      "rawMedia": "soal-01.png",
+      "opsi": [
+        "Belalang dan tikus",
+        "Katak dan ular",
+        "Elang dan katak",
+        "Ular dan elang"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 1,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e17291d7b32127cd.webp",
+            "caption": "soal-01.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Belalang dan tikus"
+          },
+          {
+            "letter": "B",
+            "text": "Katak dan ular"
+          },
+          {
+            "letter": "C",
+            "text": "Elang dan katak"
+          },
+          {
+            "letter": "D",
+            "text": "Ular dan elang"
+          }
+        ],
+        "rawText": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069583_2803_0",
+      "number": 1,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+      "pertanyaan": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+      "text": "Perhatikan jaring-jaring makanan pada gambar. Organisme yang memperoleh makanan langsung dari padi adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Belalang dan tikus"
+        },
+        {
+          "key": "B",
+          "text": "Katak dan ular"
+        },
+        {
+          "key": "C",
+          "text": "Elang dan katak"
+        },
+        {
+          "key": "D",
+          "text": "Ular dan elang"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788730069584_9254_1",
+      "type": "pg",
+      "teks": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_6d7bb647f346aedf.webp",
+      "rawMedia": "soal-02.png",
+      "opsi": [
+        "Kayu",
+        "Klip kertas logam",
+        "Karet",
+        "Plastik"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 2,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_6d7bb647f346aedf.webp",
+            "caption": "soal-02.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Kayu"
+          },
+          {
+            "letter": "B",
+            "text": "Klip kertas logam"
+          },
+          {
+            "letter": "C",
+            "text": "Karet"
+          },
+          {
+            "letter": "D",
+            "text": "Plastik"
+          }
+        ],
+        "rawText": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069584_9254_1",
+      "number": 2,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+      "pertanyaan": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+      "text": "Perhatikan gambar percobaan magnet. Benda yang dapat ditarik oleh magnet pada gambar adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Kayu"
+        },
+        {
+          "key": "B",
+          "text": "Klip kertas logam"
+        },
+        {
+          "key": "C",
+          "text": "Karet"
+        },
+        {
+          "key": "D",
+          "text": "Plastik"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788730069584_952_2",
+      "type": "pg",
+      "teks": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e99c9343b2d37052.webp",
+      "rawMedia": "soal-03.png",
+      "opsi": [
+        "Senter",
+        "Bola",
+        "Layar",
+        "Meja"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 3,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e99c9343b2d37052.webp",
+            "caption": "soal-03.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Senter"
+          },
+          {
+            "letter": "B",
+            "text": "Bola"
+          },
+          {
+            "letter": "C",
+            "text": "Layar"
+          },
+          {
+            "letter": "D",
+            "text": "Meja"
+          }
+        ],
+        "rawText": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069584_952_2",
+      "number": 3,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+      "pertanyaan": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+      "text": "Perhatikan percobaan cahaya pada gambar. Bayangan bola terbentuk pada ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Senter"
+        },
+        {
+          "key": "B",
+          "text": "Bola"
+        },
+        {
+          "key": "C",
+          "text": "Layar"
+        },
+        {
+          "key": "D",
+          "text": "Meja"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1788730069584_1680_3",
+      "type": "pg",
+      "teks": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e4b8a59a19e805bf.webp",
+      "rawMedia": "soal-04.png",
+      "opsi": [
+        "Ikan besar → ikan kecil → zooplankton → fitoplankton",
+        "Fitoplankton → zooplankton → ikan kecil → ikan besar",
+        "Zooplankton → fitoplankton → ikan besar → ikan kecil",
+        "Ikan kecil → ikan besar → fitoplankton → zooplankton"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 4,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e4b8a59a19e805bf.webp",
+            "caption": "soal-04.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Ikan besar → ikan kecil → zooplankton → fitoplankton"
+          },
+          {
+            "letter": "B",
+            "text": "Fitoplankton → zooplankton → ikan kecil → ikan besar"
+          },
+          {
+            "letter": "C",
+            "text": "Zooplankton → fitoplankton → ikan besar → ikan kecil"
+          },
+          {
+            "letter": "D",
+            "text": "Ikan kecil → ikan besar → fitoplankton → zooplankton"
+          }
+        ],
+        "rawText": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069584_1680_3",
+      "number": 4,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+      "pertanyaan": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+      "text": "Perhatikan rantai makanan pada ekosistem kolam. Urutan rantai makanan yang benar sesuai arah panah adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Ikan besar → ikan kecil → zooplankton → fitoplankton"
+        },
+        {
+          "key": "B",
+          "text": "Fitoplankton → zooplankton → ikan kecil → ikan besar"
+        },
+        {
+          "key": "C",
+          "text": "Zooplankton → fitoplankton → ikan besar → ikan kecil"
+        },
+        {
+          "key": "D",
+          "text": "Ikan kecil → ikan besar → fitoplankton → zooplankton"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788730069584_1641_4",
+      "type": "pg",
+      "teks": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_20b269a997b6ddae.webp",
+      "rawMedia": "soal-05.png",
+      "opsi": [
+        "Terbuka sehingga arus terputus",
+        "Tertutup sehingga rangkaian menjadi lengkap",
+        "Dilepas dari rangkaian",
+        "Dipindahkan ke luar rangkaian"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 5,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_20b269a997b6ddae.webp",
+            "caption": "soal-05.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Terbuka sehingga arus terputus"
+          },
+          {
+            "letter": "B",
+            "text": "Tertutup sehingga rangkaian menjadi lengkap"
+          },
+          {
+            "letter": "C",
+            "text": "Dilepas dari rangkaian"
+          },
+          {
+            "letter": "D",
+            "text": "Dipindahkan ke luar rangkaian"
+          }
+        ],
+        "rawText": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069584_1641_4",
+      "number": 5,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+      "pertanyaan": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+      "text": "Perhatikan rangkaian listrik pada gambar. Agar lampu menyala, sakelar harus ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Terbuka sehingga arus terputus"
+        },
+        {
+          "key": "B",
+          "text": "Tertutup sehingga rangkaian menjadi lengkap"
+        },
+        {
+          "key": "C",
+          "text": "Dilepas dari rangkaian"
+        },
+        {
+          "key": "D",
+          "text": "Dipindahkan ke luar rangkaian"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788730069584_908_5",
+      "type": "pg",
+      "teks": "Dalam sebuah ekosistem, tumbuhan hijau berperan sebagai ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Produsen",
+        "Konsumen",
+        "Pengurai",
+        "Pemangsa"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 6,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Dalam sebuah ekosistem, tumbuhan hijau berperan sebagai ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Produsen"
+          },
+          {
+            "letter": "B",
+            "text": "Konsumen"
+          },
+          {
+            "letter": "C",
+            "text": "Pengurai"
+          },
+          {
+            "letter": "D",
+            "text": "Pemangsa"
+          }
+        ],
+        "rawText": "Dalam sebuah ekosistem, tumbuhan hijau berperan sebagai ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069584_908_5",
+      "number": 6,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Dalam sebuah ekosistem, tumbuhan hijau berperan sebagai ....",
+      "pertanyaan": "Dalam sebuah ekosistem, tumbuhan hijau berperan sebagai ....",
+      "text": "Dalam sebuah ekosistem, tumbuhan hijau berperan sebagai ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Produsen"
+        },
+        {
+          "key": "B",
+          "text": "Konsumen"
+        },
+        {
+          "key": "C",
+          "text": "Pengurai"
+        },
+        {
+          "key": "D",
+          "text": "Pemangsa"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788730069585_4397_6",
+      "type": "pg",
+      "teks": "Hewan yang memperoleh makanan dengan memakan tumbuhan disebut ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Karnivor",
+        "Herbivor",
+        "Omnivor",
+        "Pengurai"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 7,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Hewan yang memperoleh makanan dengan memakan tumbuhan disebut ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Karnivor"
+          },
+          {
+            "letter": "B",
+            "text": "Herbivor"
+          },
+          {
+            "letter": "C",
+            "text": "Omnivor"
+          },
+          {
+            "letter": "D",
+            "text": "Pengurai"
+          }
+        ],
+        "rawText": "Hewan yang memperoleh makanan dengan memakan tumbuhan disebut ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069585_4397_6",
+      "number": 7,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Hewan yang memperoleh makanan dengan memakan tumbuhan disebut ....",
+      "pertanyaan": "Hewan yang memperoleh makanan dengan memakan tumbuhan disebut ....",
+      "text": "Hewan yang memperoleh makanan dengan memakan tumbuhan disebut ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Karnivor"
+        },
+        {
+          "key": "B",
+          "text": "Herbivor"
+        },
+        {
+          "key": "C",
+          "text": "Omnivor"
+        },
+        {
+          "key": "D",
+          "text": "Pengurai"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788730069585_3721_7",
+      "type": "pg",
+      "teks": "Contoh komponen abiotik dalam ekosistem adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Rumput",
+        "Ikan",
+        "Air",
+        "Burung"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 8,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Contoh komponen abiotik dalam ekosistem adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Rumput"
+          },
+          {
+            "letter": "B",
+            "text": "Ikan"
+          },
+          {
+            "letter": "C",
+            "text": "Air"
+          },
+          {
+            "letter": "D",
+            "text": "Burung"
+          }
+        ],
+        "rawText": "Contoh komponen abiotik dalam ekosistem adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069585_3721_7",
+      "number": 8,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Contoh komponen abiotik dalam ekosistem adalah ....",
+      "pertanyaan": "Contoh komponen abiotik dalam ekosistem adalah ....",
+      "text": "Contoh komponen abiotik dalam ekosistem adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Rumput"
+        },
+        {
+          "key": "B",
+          "text": "Ikan"
+        },
+        {
+          "key": "C",
+          "text": "Air"
+        },
+        {
+          "key": "D",
+          "text": "Burung"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1788730069585_2582_8",
+      "type": "pg",
+      "teks": "Makhluk hidup yang membantu menguraikan sisa makhluk hidup yang mati adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Produsen",
+        "Pengurai",
+        "Konsumen tingkat I",
+        "Konsumen puncak"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 9,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Makhluk hidup yang membantu menguraikan sisa makhluk hidup yang mati adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Produsen"
+          },
+          {
+            "letter": "B",
+            "text": "Pengurai"
+          },
+          {
+            "letter": "C",
+            "text": "Konsumen tingkat I"
+          },
+          {
+            "letter": "D",
+            "text": "Konsumen puncak"
+          }
+        ],
+        "rawText": "Makhluk hidup yang membantu menguraikan sisa makhluk hidup yang mati adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069585_2582_8",
+      "number": 9,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Makhluk hidup yang membantu menguraikan sisa makhluk hidup yang mati adalah ....",
+      "pertanyaan": "Makhluk hidup yang membantu menguraikan sisa makhluk hidup yang mati adalah ....",
+      "text": "Makhluk hidup yang membantu menguraikan sisa makhluk hidup yang mati adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Produsen"
+        },
+        {
+          "key": "B",
+          "text": "Pengurai"
+        },
+        {
+          "key": "C",
+          "text": "Konsumen tingkat I"
+        },
+        {
+          "key": "D",
+          "text": "Konsumen puncak"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788730069585_8186_9",
+      "type": "pg",
+      "teks": "Jika jumlah rumput di suatu padang berkurang banyak, hewan yang paling mungkin kekurangan makanan terlebih dahulu adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Belalang",
+        "Elang",
+        "Ular",
+        "Jamur"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 10,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Jika jumlah rumput di suatu padang berkurang banyak, hewan yang paling mungkin kekurangan makanan terlebih dahulu adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Belalang"
+          },
+          {
+            "letter": "B",
+            "text": "Elang"
+          },
+          {
+            "letter": "C",
+            "text": "Ular"
+          },
+          {
+            "letter": "D",
+            "text": "Jamur"
+          }
+        ],
+        "rawText": "Jika jumlah rumput di suatu padang berkurang banyak, hewan yang paling mungkin kekurangan makanan terlebih dahulu adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069585_8186_9",
+      "number": 10,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Jika jumlah rumput di suatu padang berkurang banyak, hewan yang paling mungkin kekurangan makanan terlebih dahulu adalah ....",
+      "pertanyaan": "Jika jumlah rumput di suatu padang berkurang banyak, hewan yang paling mungkin kekurangan makanan terlebih dahulu adalah ....",
+      "text": "Jika jumlah rumput di suatu padang berkurang banyak, hewan yang paling mungkin kekurangan makanan terlebih dahulu adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Belalang"
+        },
+        {
+          "key": "B",
+          "text": "Elang"
+        },
+        {
+          "key": "C",
+          "text": "Ular"
+        },
+        {
+          "key": "D",
+          "text": "Jamur"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788730069585_5658_10",
+      "type": "pg",
+      "teks": "Gaya yang dimiliki magnet dapat menarik benda tertentu, terutama benda yang terbuat dari ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Kertas",
+        "Kayu",
+        "Besi",
+        "Kaca"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 11,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Gaya yang dimiliki magnet dapat menarik benda tertentu, terutama benda yang terbuat dari ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Kertas"
+          },
+          {
+            "letter": "B",
+            "text": "Kayu"
+          },
+          {
+            "letter": "C",
+            "text": "Besi"
+          },
+          {
+            "letter": "D",
+            "text": "Kaca"
+          }
+        ],
+        "rawText": "Gaya yang dimiliki magnet dapat menarik benda tertentu, terutama benda yang terbuat dari ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069585_5658_10",
+      "number": 11,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Gaya yang dimiliki magnet dapat menarik benda tertentu, terutama benda yang terbuat dari ....",
+      "pertanyaan": "Gaya yang dimiliki magnet dapat menarik benda tertentu, terutama benda yang terbuat dari ....",
+      "text": "Gaya yang dimiliki magnet dapat menarik benda tertentu, terutama benda yang terbuat dari ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Kertas"
+        },
+        {
+          "key": "B",
+          "text": "Kayu"
+        },
+        {
+          "key": "C",
+          "text": "Besi"
+        },
+        {
+          "key": "D",
+          "text": "Kaca"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1788730069586_8576_11",
+      "type": "pg",
+      "teks": "Kutub magnet yang berbeda jika didekatkan akan ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Saling tarik-menarik",
+        "Saling tolak-menolak",
+        "Tidak saling memengaruhi",
+        "Menjadi tidak bermagnet"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 12,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Kutub magnet yang berbeda jika didekatkan akan ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Saling tarik-menarik"
+          },
+          {
+            "letter": "B",
+            "text": "Saling tolak-menolak"
+          },
+          {
+            "letter": "C",
+            "text": "Tidak saling memengaruhi"
+          },
+          {
+            "letter": "D",
+            "text": "Menjadi tidak bermagnet"
+          }
+        ],
+        "rawText": "Kutub magnet yang berbeda jika didekatkan akan ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069586_8576_11",
+      "number": 12,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Kutub magnet yang berbeda jika didekatkan akan ....",
+      "pertanyaan": "Kutub magnet yang berbeda jika didekatkan akan ....",
+      "text": "Kutub magnet yang berbeda jika didekatkan akan ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Saling tarik-menarik"
+        },
+        {
+          "key": "B",
+          "text": "Saling tolak-menolak"
+        },
+        {
+          "key": "C",
+          "text": "Tidak saling memengaruhi"
+        },
+        {
+          "key": "D",
+          "text": "Menjadi tidak bermagnet"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788730069586_8807_12",
+      "type": "pg",
+      "teks": "Alat yang mengubah energi listrik menjadi energi cahaya adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Lampu",
+        "Kipas angin",
+        "Setrika",
+        "Kompor gas"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 13,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Alat yang mengubah energi listrik menjadi energi cahaya adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Lampu"
+          },
+          {
+            "letter": "B",
+            "text": "Kipas angin"
+          },
+          {
+            "letter": "C",
+            "text": "Setrika"
+          },
+          {
+            "letter": "D",
+            "text": "Kompor gas"
+          }
+        ],
+        "rawText": "Alat yang mengubah energi listrik menjadi energi cahaya adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069586_8807_12",
+      "number": 13,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Alat yang mengubah energi listrik menjadi energi cahaya adalah ....",
+      "pertanyaan": "Alat yang mengubah energi listrik menjadi energi cahaya adalah ....",
+      "text": "Alat yang mengubah energi listrik menjadi energi cahaya adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Lampu"
+        },
+        {
+          "key": "B",
+          "text": "Kipas angin"
+        },
+        {
+          "key": "C",
+          "text": "Setrika"
+        },
+        {
+          "key": "D",
+          "text": "Kompor gas"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788730069586_8743_13",
+      "type": "pg",
+      "teks": "Benda yang dapat menghasilkan cahaya sendiri adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Cermin",
+        "Matahari",
+        "Buku",
+        "Meja"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 14,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Benda yang dapat menghasilkan cahaya sendiri adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Cermin"
+          },
+          {
+            "letter": "B",
+            "text": "Matahari"
+          },
+          {
+            "letter": "C",
+            "text": "Buku"
+          },
+          {
+            "letter": "D",
+            "text": "Meja"
+          }
+        ],
+        "rawText": "Benda yang dapat menghasilkan cahaya sendiri adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069586_8743_13",
+      "number": 14,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Benda yang dapat menghasilkan cahaya sendiri adalah ....",
+      "pertanyaan": "Benda yang dapat menghasilkan cahaya sendiri adalah ....",
+      "text": "Benda yang dapat menghasilkan cahaya sendiri adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Cermin"
+        },
+        {
+          "key": "B",
+          "text": "Matahari"
+        },
+        {
+          "key": "C",
+          "text": "Buku"
+        },
+        {
+          "key": "D",
+          "text": "Meja"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788730069586_2988_14",
+      "type": "pg",
+      "teks": "Bayangan dapat terbentuk ketika cahaya ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Menembus benda bening seluruhnya",
+        "Terhalang oleh benda yang tidak tembus cahaya",
+        "Tidak mempunyai sumber",
+        "Berubah menjadi bunyi"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 15,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Bayangan dapat terbentuk ketika cahaya ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Menembus benda bening seluruhnya"
+          },
+          {
+            "letter": "B",
+            "text": "Terhalang oleh benda yang tidak tembus cahaya"
+          },
+          {
+            "letter": "C",
+            "text": "Tidak mempunyai sumber"
+          },
+          {
+            "letter": "D",
+            "text": "Berubah menjadi bunyi"
+          }
+        ],
+        "rawText": "Bayangan dapat terbentuk ketika cahaya ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069586_2988_14",
+      "number": 15,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Bayangan dapat terbentuk ketika cahaya ....",
+      "pertanyaan": "Bayangan dapat terbentuk ketika cahaya ....",
+      "text": "Bayangan dapat terbentuk ketika cahaya ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Menembus benda bening seluruhnya"
+        },
+        {
+          "key": "B",
+          "text": "Terhalang oleh benda yang tidak tembus cahaya"
+        },
+        {
+          "key": "C",
+          "text": "Tidak mempunyai sumber"
+        },
+        {
+          "key": "D",
+          "text": "Berubah menjadi bunyi"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788730069586_6352_15",
+      "type": "pg",
+      "teks": "Contoh sumber energi listrik yang dapat digunakan untuk menyalakan senter adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Baterai",
+        "Cermin",
+        "Magnet",
+        "Kertas"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 16,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Contoh sumber energi listrik yang dapat digunakan untuk menyalakan senter adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Baterai"
+          },
+          {
+            "letter": "B",
+            "text": "Cermin"
+          },
+          {
+            "letter": "C",
+            "text": "Magnet"
+          },
+          {
+            "letter": "D",
+            "text": "Kertas"
+          }
+        ],
+        "rawText": "Contoh sumber energi listrik yang dapat digunakan untuk menyalakan senter adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069586_6352_15",
+      "number": 16,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Contoh sumber energi listrik yang dapat digunakan untuk menyalakan senter adalah ....",
+      "pertanyaan": "Contoh sumber energi listrik yang dapat digunakan untuk menyalakan senter adalah ....",
+      "text": "Contoh sumber energi listrik yang dapat digunakan untuk menyalakan senter adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Baterai"
+        },
+        {
+          "key": "B",
+          "text": "Cermin"
+        },
+        {
+          "key": "C",
+          "text": "Magnet"
+        },
+        {
+          "key": "D",
+          "text": "Kertas"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788730069586_9277_16",
+      "type": "pg",
+      "teks": "Bagian rangkaian listrik yang berfungsi menghubungkan dan memutus arus listrik adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Lampu",
+        "Sakelar",
+        "Kabel",
+        "Baterai"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 17,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Bagian rangkaian listrik yang berfungsi menghubungkan dan memutus arus listrik adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Lampu"
+          },
+          {
+            "letter": "B",
+            "text": "Sakelar"
+          },
+          {
+            "letter": "C",
+            "text": "Kabel"
+          },
+          {
+            "letter": "D",
+            "text": "Baterai"
+          }
+        ],
+        "rawText": "Bagian rangkaian listrik yang berfungsi menghubungkan dan memutus arus listrik adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069586_9277_16",
+      "number": 17,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Bagian rangkaian listrik yang berfungsi menghubungkan dan memutus arus listrik adalah ....",
+      "pertanyaan": "Bagian rangkaian listrik yang berfungsi menghubungkan dan memutus arus listrik adalah ....",
+      "text": "Bagian rangkaian listrik yang berfungsi menghubungkan dan memutus arus listrik adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Lampu"
+        },
+        {
+          "key": "B",
+          "text": "Sakelar"
+        },
+        {
+          "key": "C",
+          "text": "Kabel"
+        },
+        {
+          "key": "D",
+          "text": "Baterai"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788730069586_1791_17",
+      "type": "pg",
+      "teks": "Jika sebuah lampu pada rangkaian sederhana menyala, hal itu menunjukkan bahwa ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Rangkaian listrik tertutup",
+        "Rangkaian listrik selalu terbuka",
+        "Baterai tidak diperlukan",
+        "Tidak ada arus listrik"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 18,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Jika sebuah lampu pada rangkaian sederhana menyala, hal itu menunjukkan bahwa ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Rangkaian listrik tertutup"
+          },
+          {
+            "letter": "B",
+            "text": "Rangkaian listrik selalu terbuka"
+          },
+          {
+            "letter": "C",
+            "text": "Baterai tidak diperlukan"
+          },
+          {
+            "letter": "D",
+            "text": "Tidak ada arus listrik"
+          }
+        ],
+        "rawText": "Jika sebuah lampu pada rangkaian sederhana menyala, hal itu menunjukkan bahwa ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069586_1791_17",
+      "number": 18,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Jika sebuah lampu pada rangkaian sederhana menyala, hal itu menunjukkan bahwa ....",
+      "pertanyaan": "Jika sebuah lampu pada rangkaian sederhana menyala, hal itu menunjukkan bahwa ....",
+      "text": "Jika sebuah lampu pada rangkaian sederhana menyala, hal itu menunjukkan bahwa ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Rangkaian listrik tertutup"
+        },
+        {
+          "key": "B",
+          "text": "Rangkaian listrik selalu terbuka"
+        },
+        {
+          "key": "C",
+          "text": "Baterai tidak diperlukan"
+        },
+        {
+          "key": "D",
+          "text": "Tidak ada arus listrik"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788730069586_810_18",
+      "type": "pg",
+      "teks": "Cahaya merambat dalam satu arah lurus. Peristiwa yang menunjukkan sifat tersebut adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Terbentuknya bayangan benda",
+        "Benda menjadi lebih berat",
+        "Magnet menarik paku",
+        "Air berubah menjadi es"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 19,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Cahaya merambat dalam satu arah lurus. Peristiwa yang menunjukkan sifat tersebut adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Terbentuknya bayangan benda"
+          },
+          {
+            "letter": "B",
+            "text": "Benda menjadi lebih berat"
+          },
+          {
+            "letter": "C",
+            "text": "Magnet menarik paku"
+          },
+          {
+            "letter": "D",
+            "text": "Air berubah menjadi es"
+          }
+        ],
+        "rawText": "Cahaya merambat dalam satu arah lurus. Peristiwa yang menunjukkan sifat tersebut adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069586_810_18",
+      "number": 19,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Cahaya merambat dalam satu arah lurus. Peristiwa yang menunjukkan sifat tersebut adalah ....",
+      "pertanyaan": "Cahaya merambat dalam satu arah lurus. Peristiwa yang menunjukkan sifat tersebut adalah ....",
+      "text": "Cahaya merambat dalam satu arah lurus. Peristiwa yang menunjukkan sifat tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Terbentuknya bayangan benda"
+        },
+        {
+          "key": "B",
+          "text": "Benda menjadi lebih berat"
+        },
+        {
+          "key": "C",
+          "text": "Magnet menarik paku"
+        },
+        {
+          "key": "D",
+          "text": "Air berubah menjadi es"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788730069586_4900_19",
+      "type": "pg",
+      "teks": "Dalam rantai makanan, energi pada tumbuhan dapat berpindah ke hewan ketika hewan ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Memakan tumbuhan",
+        "Tidur di dekat tumbuhan",
+        "Berjalan menjauhi tumbuhan",
+        "Mendengar suara tumbuhan"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 20,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Dalam rantai makanan, energi pada tumbuhan dapat berpindah ke hewan ketika hewan ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Memakan tumbuhan"
+          },
+          {
+            "letter": "B",
+            "text": "Tidur di dekat tumbuhan"
+          },
+          {
+            "letter": "C",
+            "text": "Berjalan menjauhi tumbuhan"
+          },
+          {
+            "letter": "D",
+            "text": "Mendengar suara tumbuhan"
+          }
+        ],
+        "rawText": "Dalam rantai makanan, energi pada tumbuhan dapat berpindah ke hewan ketika hewan ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788730069586_4900_19",
+      "number": 20,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Dalam rantai makanan, energi pada tumbuhan dapat berpindah ke hewan ketika hewan ....",
+      "pertanyaan": "Dalam rantai makanan, energi pada tumbuhan dapat berpindah ke hewan ketika hewan ....",
+      "text": "Dalam rantai makanan, energi pada tumbuhan dapat berpindah ke hewan ketika hewan ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Memakan tumbuhan"
+        },
+        {
+          "key": "B",
+          "text": "Tidur di dekat tumbuhan"
+        },
+        {
+          "key": "C",
+          "text": "Berjalan menjauhi tumbuhan"
+        },
+        {
+          "key": "D",
+          "text": "Mendengar suara tumbuhan"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788730069587_8791_20",
+      "type": "ma",
+      "teks": "Pilih semua pernyataan yang benar tentang ekosistem.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Tumbuhan dapat menjadi produsen.",
+        "Air termasuk komponen biotik.",
+        "Hewan dapat menjadi konsumen.",
+        "Cahaya matahari termasuk komponen abiotik.",
+        "Jamur dapat berperan sebagai pengurai."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        2,
+        3,
+        4
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 21,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua pernyataan yang benar tentang ekosistem.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Tumbuhan dapat menjadi produsen."
+          },
+          {
+            "letter": "B",
+            "text": "Air termasuk komponen biotik."
+          },
+          {
+            "letter": "C",
+            "text": "Hewan dapat menjadi konsumen."
+          },
+          {
+            "letter": "D",
+            "text": "Cahaya matahari termasuk komponen abiotik."
+          },
+          {
+            "letter": "E",
+            "text": "Jamur dapat berperan sebagai pengurai."
+          }
+        ],
+        "rawText": "Pilih semua pernyataan yang benar tentang ekosistem.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788730069587_8791_20",
+      "number": 21,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua pernyataan yang benar tentang ekosistem.",
+      "pertanyaan": "Pilih semua pernyataan yang benar tentang ekosistem.",
+      "text": "Pilih semua pernyataan yang benar tentang ekosistem.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Tumbuhan dapat menjadi produsen."
+        },
+        {
+          "key": "B",
+          "text": "Air termasuk komponen biotik."
+        },
+        {
+          "key": "C",
+          "text": "Hewan dapat menjadi konsumen."
+        },
+        {
+          "key": "D",
+          "text": "Cahaya matahari termasuk komponen abiotik."
+        },
+        {
+          "key": "E",
+          "text": "Jamur dapat berperan sebagai pengurai."
+        }
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D",
+        "E"
+      ],
+      "kunci": "A, C, D, E"
+    },
+    {
+      "id": "temp_ai_1788730069587_1978_21",
+      "type": "ma",
+      "teks": "Pilih semua benda yang dapat ditarik kuat oleh magnet.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Paku besi",
+        "Klip kertas logam",
+        "Penggaris plastik",
+        "Kancing kayu",
+        "Jarum baja"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        4
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 22,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua benda yang dapat ditarik kuat oleh magnet.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Paku besi"
+          },
+          {
+            "letter": "B",
+            "text": "Klip kertas logam"
+          },
+          {
+            "letter": "C",
+            "text": "Penggaris plastik"
+          },
+          {
+            "letter": "D",
+            "text": "Kancing kayu"
+          },
+          {
+            "letter": "E",
+            "text": "Jarum baja"
+          }
+        ],
+        "rawText": "Pilih semua benda yang dapat ditarik kuat oleh magnet.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788730069587_1978_21",
+      "number": 22,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua benda yang dapat ditarik kuat oleh magnet.",
+      "pertanyaan": "Pilih semua benda yang dapat ditarik kuat oleh magnet.",
+      "text": "Pilih semua benda yang dapat ditarik kuat oleh magnet.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Paku besi"
+        },
+        {
+          "key": "B",
+          "text": "Klip kertas logam"
+        },
+        {
+          "key": "C",
+          "text": "Penggaris plastik"
+        },
+        {
+          "key": "D",
+          "text": "Kancing kayu"
+        },
+        {
+          "key": "E",
+          "text": "Jarum baja"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "kunci": "A, B, E"
+    },
+    {
+      "id": "temp_ai_1788730069587_6114_22",
+      "type": "ma",
+      "teks": "Pilih semua pernyataan yang benar tentang magnet.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Magnet memiliki dua kutub.",
+        "Kutub sejenis saling tarik-menarik.",
+        "Kutub berbeda saling tarik-menarik.",
+        "Magnet dapat menarik semua jenis benda.",
+        "Magnet dapat menarik benda tertentu yang mengandung bahan magnetis."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        2,
+        4
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 23,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua pernyataan yang benar tentang magnet.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Magnet memiliki dua kutub."
+          },
+          {
+            "letter": "B",
+            "text": "Kutub sejenis saling tarik-menarik."
+          },
+          {
+            "letter": "C",
+            "text": "Kutub berbeda saling tarik-menarik."
+          },
+          {
+            "letter": "D",
+            "text": "Magnet dapat menarik semua jenis benda."
+          },
+          {
+            "letter": "E",
+            "text": "Magnet dapat menarik benda tertentu yang mengandung bahan magnetis."
+          }
+        ],
+        "rawText": "Pilih semua pernyataan yang benar tentang magnet.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788730069587_6114_22",
+      "number": 23,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua pernyataan yang benar tentang magnet.",
+      "pertanyaan": "Pilih semua pernyataan yang benar tentang magnet.",
+      "text": "Pilih semua pernyataan yang benar tentang magnet.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Magnet memiliki dua kutub."
+        },
+        {
+          "key": "B",
+          "text": "Kutub sejenis saling tarik-menarik."
+        },
+        {
+          "key": "C",
+          "text": "Kutub berbeda saling tarik-menarik."
+        },
+        {
+          "key": "D",
+          "text": "Magnet dapat menarik semua jenis benda."
+        },
+        {
+          "key": "E",
+          "text": "Magnet dapat menarik benda tertentu yang mengandung bahan magnetis."
+        }
+      ],
+      "answers": [
+        "A",
+        "C",
+        "E"
+      ],
+      "kunci": "A, C, E"
+    },
+    {
+      "id": "temp_ai_1788730069587_7736_23",
+      "type": "ma",
+      "teks": "Pilih semua benda yang dapat menjadi sumber cahaya.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Matahari",
+        "Lampu menyala",
+        "Api",
+        "Cermin",
+        "Bintang"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 24,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua benda yang dapat menjadi sumber cahaya.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Matahari"
+          },
+          {
+            "letter": "B",
+            "text": "Lampu menyala"
+          },
+          {
+            "letter": "C",
+            "text": "Api"
+          },
+          {
+            "letter": "D",
+            "text": "Cermin"
+          },
+          {
+            "letter": "E",
+            "text": "Bintang"
+          }
+        ],
+        "rawText": "Pilih semua benda yang dapat menjadi sumber cahaya.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788730069587_7736_23",
+      "number": 24,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua benda yang dapat menjadi sumber cahaya.",
+      "pertanyaan": "Pilih semua benda yang dapat menjadi sumber cahaya.",
+      "text": "Pilih semua benda yang dapat menjadi sumber cahaya.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Matahari"
+        },
+        {
+          "key": "B",
+          "text": "Lampu menyala"
+        },
+        {
+          "key": "C",
+          "text": "Api"
+        },
+        {
+          "key": "D",
+          "text": "Cermin"
+        },
+        {
+          "key": "E",
+          "text": "Bintang"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "kunci": "A, B, C, E"
+    },
+    {
+      "id": "temp_ai_1788730069587_4468_24",
+      "type": "ma",
+      "teks": "Pilih semua kondisi yang dapat membantu terbentuknya bayangan yang jelas.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Ada sumber cahaya.",
+        "Ada benda yang menghalangi cahaya.",
+        "Ada permukaan untuk menerima bayangan.",
+        "Benda harus selalu transparan.",
+        "Cahaya tidak boleh mengenai benda."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 25,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua kondisi yang dapat membantu terbentuknya bayangan yang jelas.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Ada sumber cahaya."
+          },
+          {
+            "letter": "B",
+            "text": "Ada benda yang menghalangi cahaya."
+          },
+          {
+            "letter": "C",
+            "text": "Ada permukaan untuk menerima bayangan."
+          },
+          {
+            "letter": "D",
+            "text": "Benda harus selalu transparan."
+          },
+          {
+            "letter": "E",
+            "text": "Cahaya tidak boleh mengenai benda."
+          }
+        ],
+        "rawText": "Pilih semua kondisi yang dapat membantu terbentuknya bayangan yang jelas.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788730069587_4468_24",
+      "number": 25,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua kondisi yang dapat membantu terbentuknya bayangan yang jelas.",
+      "pertanyaan": "Pilih semua kondisi yang dapat membantu terbentuknya bayangan yang jelas.",
+      "text": "Pilih semua kondisi yang dapat membantu terbentuknya bayangan yang jelas.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Ada sumber cahaya."
+        },
+        {
+          "key": "B",
+          "text": "Ada benda yang menghalangi cahaya."
+        },
+        {
+          "key": "C",
+          "text": "Ada permukaan untuk menerima bayangan."
+        },
+        {
+          "key": "D",
+          "text": "Benda harus selalu transparan."
+        },
+        {
+          "key": "E",
+          "text": "Cahaya tidak boleh mengenai benda."
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "kunci": "A, B, C"
+    },
+    {
+      "id": "temp_ai_1788730069587_2790_25",
+      "type": "ma",
+      "teks": "Pilih semua bagian yang dapat terdapat pada rangkaian listrik sederhana untuk menyalakan lampu.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Baterai",
+        "Kabel",
+        "Lampu",
+        "Sakelar",
+        "Cermin"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 26,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua bagian yang dapat terdapat pada rangkaian listrik sederhana untuk menyalakan lampu.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Baterai"
+          },
+          {
+            "letter": "B",
+            "text": "Kabel"
+          },
+          {
+            "letter": "C",
+            "text": "Lampu"
+          },
+          {
+            "letter": "D",
+            "text": "Sakelar"
+          },
+          {
+            "letter": "E",
+            "text": "Cermin"
+          }
+        ],
+        "rawText": "Pilih semua bagian yang dapat terdapat pada rangkaian listrik sederhana untuk menyalakan lampu.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788730069587_2790_25",
+      "number": 26,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua bagian yang dapat terdapat pada rangkaian listrik sederhana untuk menyalakan lampu.",
+      "pertanyaan": "Pilih semua bagian yang dapat terdapat pada rangkaian listrik sederhana untuk menyalakan lampu.",
+      "text": "Pilih semua bagian yang dapat terdapat pada rangkaian listrik sederhana untuk menyalakan lampu.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Baterai"
+        },
+        {
+          "key": "B",
+          "text": "Kabel"
+        },
+        {
+          "key": "C",
+          "text": "Lampu"
+        },
+        {
+          "key": "D",
+          "text": "Sakelar"
+        },
+        {
+          "key": "E",
+          "text": "Cermin"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "kunci": "A, B, C, D"
+    },
+    {
+      "id": "temp_ai_1788730069587_3055_26",
+      "type": "ma",
+      "teks": "Pilih semua contoh perubahan atau pemanfaatan energi yang benar.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Lampu mengubah energi listrik menjadi cahaya.",
+        "Kipas angin mengubah energi listrik menjadi gerak.",
+        "Baterai dapat menyediakan energi listrik untuk rangkaian.",
+        "Cermin mengubah energi listrik menjadi cahaya.",
+        "Sakelar menghasilkan energi listrik."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 27,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua contoh perubahan atau pemanfaatan energi yang benar.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Lampu mengubah energi listrik menjadi cahaya."
+          },
+          {
+            "letter": "B",
+            "text": "Kipas angin mengubah energi listrik menjadi gerak."
+          },
+          {
+            "letter": "C",
+            "text": "Baterai dapat menyediakan energi listrik untuk rangkaian."
+          },
+          {
+            "letter": "D",
+            "text": "Cermin mengubah energi listrik menjadi cahaya."
+          },
+          {
+            "letter": "E",
+            "text": "Sakelar menghasilkan energi listrik."
+          }
+        ],
+        "rawText": "Pilih semua contoh perubahan atau pemanfaatan energi yang benar.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788730069587_3055_26",
+      "number": 27,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua contoh perubahan atau pemanfaatan energi yang benar.",
+      "pertanyaan": "Pilih semua contoh perubahan atau pemanfaatan energi yang benar.",
+      "text": "Pilih semua contoh perubahan atau pemanfaatan energi yang benar.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Lampu mengubah energi listrik menjadi cahaya."
+        },
+        {
+          "key": "B",
+          "text": "Kipas angin mengubah energi listrik menjadi gerak."
+        },
+        {
+          "key": "C",
+          "text": "Baterai dapat menyediakan energi listrik untuk rangkaian."
+        },
+        {
+          "key": "D",
+          "text": "Cermin mengubah energi listrik menjadi cahaya."
+        },
+        {
+          "key": "E",
+          "text": "Sakelar menghasilkan energi listrik."
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "kunci": "A, B, C"
+    },
+    {
+      "id": "temp_ai_1788730069588_5221_27",
+      "type": "ma",
+      "teks": "Pilih semua pernyataan yang benar tentang rantai makanan.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Rantai makanan menunjukkan hubungan makan dan dimakan.",
+        "Energi dapat berpindah dari satu organisme ke organisme lain.",
+        "Produsen biasanya berada pada awal rantai makanan.",
+        "Konsumen selalu menghasilkan makanan sendiri.",
+        "Tumbuhan dapat menjadi sumber makanan bagi konsumen."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 28,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua pernyataan yang benar tentang rantai makanan.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Rantai makanan menunjukkan hubungan makan dan dimakan."
+          },
+          {
+            "letter": "B",
+            "text": "Energi dapat berpindah dari satu organisme ke organisme lain."
+          },
+          {
+            "letter": "C",
+            "text": "Produsen biasanya berada pada awal rantai makanan."
+          },
+          {
+            "letter": "D",
+            "text": "Konsumen selalu menghasilkan makanan sendiri."
+          },
+          {
+            "letter": "E",
+            "text": "Tumbuhan dapat menjadi sumber makanan bagi konsumen."
+          }
+        ],
+        "rawText": "Pilih semua pernyataan yang benar tentang rantai makanan.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788730069588_5221_27",
+      "number": 28,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua pernyataan yang benar tentang rantai makanan.",
+      "pertanyaan": "Pilih semua pernyataan yang benar tentang rantai makanan.",
+      "text": "Pilih semua pernyataan yang benar tentang rantai makanan.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Rantai makanan menunjukkan hubungan makan dan dimakan."
+        },
+        {
+          "key": "B",
+          "text": "Energi dapat berpindah dari satu organisme ke organisme lain."
+        },
+        {
+          "key": "C",
+          "text": "Produsen biasanya berada pada awal rantai makanan."
+        },
+        {
+          "key": "D",
+          "text": "Konsumen selalu menghasilkan makanan sendiri."
+        },
+        {
+          "key": "E",
+          "text": "Tumbuhan dapat menjadi sumber makanan bagi konsumen."
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "kunci": "A, B, C, E"
+    },
+    {
+      "id": "temp_ai_1788730069588_3177_28",
+      "type": "ma",
+      "teks": "Pilih semua contoh komponen abiotik dalam lingkungan.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Tanah",
+        "Air",
+        "Cahaya matahari",
+        "Udara",
+        "Rumput"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 29,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua contoh komponen abiotik dalam lingkungan.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Tanah"
+          },
+          {
+            "letter": "B",
+            "text": "Air"
+          },
+          {
+            "letter": "C",
+            "text": "Cahaya matahari"
+          },
+          {
+            "letter": "D",
+            "text": "Udara"
+          },
+          {
+            "letter": "E",
+            "text": "Rumput"
+          }
+        ],
+        "rawText": "Pilih semua contoh komponen abiotik dalam lingkungan.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788730069588_3177_28",
+      "number": 29,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua contoh komponen abiotik dalam lingkungan.",
+      "pertanyaan": "Pilih semua contoh komponen abiotik dalam lingkungan.",
+      "text": "Pilih semua contoh komponen abiotik dalam lingkungan.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Tanah"
+        },
+        {
+          "key": "B",
+          "text": "Air"
+        },
+        {
+          "key": "C",
+          "text": "Cahaya matahari"
+        },
+        {
+          "key": "D",
+          "text": "Udara"
+        },
+        {
+          "key": "E",
+          "text": "Rumput"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "kunci": "A, B, C, D"
+    },
+    {
+      "id": "temp_ai_1788730069588_9993_29",
+      "type": "tf",
+      "teks": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang ekosistem.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Tumbuhan hijau dapat berperan sebagai produsen.",
+          "teks": "Tumbuhan hijau dapat berperan sebagai produsen.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Air termasuk komponen biotik.",
+          "teks": "Air termasuk komponen biotik.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Hewan yang memakan tumbuhan dapat menjadi konsumen.",
+          "teks": "Hewan yang memakan tumbuhan dapat menjadi konsumen.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Pengurai tidak memiliki peran dalam ekosistem.",
+          "teks": "Pengurai tidak memiliki peran dalam ekosistem.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Cahaya matahari merupakan salah satu komponen abiotik.",
+          "teks": "Cahaya matahari merupakan salah satu komponen abiotik.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Tumbuhan hijau dapat berperan sebagai produsen.",
+          "jawaban": true,
+          "text": "Tumbuhan hijau dapat berperan sebagai produsen."
+        },
+        {
+          "teks": "Air termasuk komponen biotik.",
+          "jawaban": false,
+          "text": "Air termasuk komponen biotik."
+        },
+        {
+          "teks": "Hewan yang memakan tumbuhan dapat menjadi konsumen.",
+          "jawaban": true,
+          "text": "Hewan yang memakan tumbuhan dapat menjadi konsumen."
+        },
+        {
+          "teks": "Pengurai tidak memiliki peran dalam ekosistem.",
+          "jawaban": false,
+          "text": "Pengurai tidak memiliki peran dalam ekosistem."
+        },
+        {
+          "teks": "Cahaya matahari merupakan salah satu komponen abiotik.",
+          "jawaban": true,
+          "text": "Cahaya matahari merupakan salah satu komponen abiotik."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Tumbuhan hijau dapat berperan sebagai produsen.",
+          "teks": "Tumbuhan hijau dapat berperan sebagai produsen.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Air termasuk komponen biotik.",
+          "teks": "Air termasuk komponen biotik.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Hewan yang memakan tumbuhan dapat menjadi konsumen.",
+          "teks": "Hewan yang memakan tumbuhan dapat menjadi konsumen.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Pengurai tidak memiliki peran dalam ekosistem.",
+          "teks": "Pengurai tidak memiliki peran dalam ekosistem.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Cahaya matahari merupakan salah satu komponen abiotik.",
+          "teks": "Cahaya matahari merupakan salah satu komponen abiotik.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 30,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang ekosistem.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Tumbuhan hijau dapat berperan sebagai produsen."
+          },
+          {
+            "letter": "B",
+            "text": "Air termasuk komponen biotik."
+          },
+          {
+            "letter": "C",
+            "text": "Hewan yang memakan tumbuhan dapat menjadi konsumen."
+          },
+          {
+            "letter": "D",
+            "text": "Pengurai tidak memiliki peran dalam ekosistem."
+          },
+          {
+            "letter": "E",
+            "text": "Cahaya matahari merupakan salah satu komponen abiotik."
+          }
+        ],
+        "rawText": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang ekosistem.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1788730069588_9993_29",
+      "number": 30,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang ekosistem.",
+      "pertanyaan": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang ekosistem.",
+      "text": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang ekosistem.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788730069588_3030_30",
+      "type": "tf",
+      "teks": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang magnet.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Magnet memiliki kutub utara dan kutub selatan.",
+          "teks": "Magnet memiliki kutub utara dan kutub selatan.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Kutub magnet yang sama saling tarik-menarik.",
+          "teks": "Kutub magnet yang sama saling tarik-menarik.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Magnet dapat menarik paku besi.",
+          "teks": "Magnet dapat menarik paku besi.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Semua benda dapat ditarik magnet.",
+          "teks": "Semua benda dapat ditarik magnet.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Kutub berbeda dapat saling tarik-menarik.",
+          "teks": "Kutub berbeda dapat saling tarik-menarik.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Magnet memiliki kutub utara dan kutub selatan.",
+          "jawaban": true,
+          "text": "Magnet memiliki kutub utara dan kutub selatan."
+        },
+        {
+          "teks": "Kutub magnet yang sama saling tarik-menarik.",
+          "jawaban": false,
+          "text": "Kutub magnet yang sama saling tarik-menarik."
+        },
+        {
+          "teks": "Magnet dapat menarik paku besi.",
+          "jawaban": true,
+          "text": "Magnet dapat menarik paku besi."
+        },
+        {
+          "teks": "Semua benda dapat ditarik magnet.",
+          "jawaban": false,
+          "text": "Semua benda dapat ditarik magnet."
+        },
+        {
+          "teks": "Kutub berbeda dapat saling tarik-menarik.",
+          "jawaban": true,
+          "text": "Kutub berbeda dapat saling tarik-menarik."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Magnet memiliki kutub utara dan kutub selatan.",
+          "teks": "Magnet memiliki kutub utara dan kutub selatan.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Kutub magnet yang sama saling tarik-menarik.",
+          "teks": "Kutub magnet yang sama saling tarik-menarik.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Magnet dapat menarik paku besi.",
+          "teks": "Magnet dapat menarik paku besi.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Semua benda dapat ditarik magnet.",
+          "teks": "Semua benda dapat ditarik magnet.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Kutub berbeda dapat saling tarik-menarik.",
+          "teks": "Kutub berbeda dapat saling tarik-menarik.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 31,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang magnet.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Magnet memiliki kutub utara dan kutub selatan."
+          },
+          {
+            "letter": "B",
+            "text": "Kutub magnet yang sama saling tarik-menarik."
+          },
+          {
+            "letter": "C",
+            "text": "Magnet dapat menarik paku besi."
+          },
+          {
+            "letter": "D",
+            "text": "Semua benda dapat ditarik magnet."
+          },
+          {
+            "letter": "E",
+            "text": "Kutub berbeda dapat saling tarik-menarik."
+          }
+        ],
+        "rawText": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang magnet.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1788730069588_3030_30",
+      "number": 31,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang magnet.",
+      "pertanyaan": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang magnet.",
+      "text": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang magnet.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788730069588_4767_31",
+      "type": "tf",
+      "teks": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang cahaya.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Matahari merupakan sumber cahaya.",
+          "teks": "Matahari merupakan sumber cahaya.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Cermin menghasilkan cahaya sendiri.",
+          "teks": "Cermin menghasilkan cahaya sendiri.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Benda tidak tembus cahaya dapat membentuk bayangan.",
+          "teks": "Benda tidak tembus cahaya dapat membentuk bayangan.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Cahaya tidak dapat merambat tanpa sumber cahaya.",
+          "teks": "Cahaya tidak dapat merambat tanpa sumber cahaya.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Cahaya dapat membantu kita melihat benda.",
+          "teks": "Cahaya dapat membantu kita melihat benda.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Matahari merupakan sumber cahaya.",
+          "jawaban": true,
+          "text": "Matahari merupakan sumber cahaya."
+        },
+        {
+          "teks": "Cermin menghasilkan cahaya sendiri.",
+          "jawaban": false,
+          "text": "Cermin menghasilkan cahaya sendiri."
+        },
+        {
+          "teks": "Benda tidak tembus cahaya dapat membentuk bayangan.",
+          "jawaban": true,
+          "text": "Benda tidak tembus cahaya dapat membentuk bayangan."
+        },
+        {
+          "teks": "Cahaya tidak dapat merambat tanpa sumber cahaya.",
+          "jawaban": true,
+          "text": "Cahaya tidak dapat merambat tanpa sumber cahaya."
+        },
+        {
+          "teks": "Cahaya dapat membantu kita melihat benda.",
+          "jawaban": true,
+          "text": "Cahaya dapat membantu kita melihat benda."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Matahari merupakan sumber cahaya.",
+          "teks": "Matahari merupakan sumber cahaya.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Cermin menghasilkan cahaya sendiri.",
+          "teks": "Cermin menghasilkan cahaya sendiri.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Benda tidak tembus cahaya dapat membentuk bayangan.",
+          "teks": "Benda tidak tembus cahaya dapat membentuk bayangan.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Cahaya tidak dapat merambat tanpa sumber cahaya.",
+          "teks": "Cahaya tidak dapat merambat tanpa sumber cahaya.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Cahaya dapat membantu kita melihat benda.",
+          "teks": "Cahaya dapat membantu kita melihat benda.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 32,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang cahaya.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Matahari merupakan sumber cahaya."
+          },
+          {
+            "letter": "B",
+            "text": "Cermin menghasilkan cahaya sendiri."
+          },
+          {
+            "letter": "C",
+            "text": "Benda tidak tembus cahaya dapat membentuk bayangan."
+          },
+          {
+            "letter": "D",
+            "text": "Cahaya tidak dapat merambat tanpa sumber cahaya."
+          },
+          {
+            "letter": "E",
+            "text": "Cahaya dapat membantu kita melihat benda."
+          }
+        ],
+        "rawText": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang cahaya.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1788730069588_4767_31",
+      "number": 32,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang cahaya.",
+      "pertanyaan": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang cahaya.",
+      "text": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang cahaya.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788730069588_6178_32",
+      "type": "tf",
+      "teks": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang listrik.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Baterai dapat menjadi sumber energi listrik.",
+          "teks": "Baterai dapat menjadi sumber energi listrik.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Sakelar digunakan untuk membuka atau menutup rangkaian.",
+          "teks": "Sakelar digunakan untuk membuka atau menutup rangkaian.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Lampu pada rangkaian tertutup tidak dapat menyala.",
+          "teks": "Lampu pada rangkaian tertutup tidak dapat menyala.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 4,
+          "text": "Kabel dapat digunakan untuk menghantarkan arus listrik dalam rangkaian.",
+          "teks": "Kabel dapat digunakan untuk menghantarkan arus listrik dalam rangkaian.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Cermin merupakan sumber energi listrik dalam rangkaian sederhana.",
+          "teks": "Cermin merupakan sumber energi listrik dalam rangkaian sederhana.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Baterai dapat menjadi sumber energi listrik.",
+          "jawaban": true,
+          "text": "Baterai dapat menjadi sumber energi listrik."
+        },
+        {
+          "teks": "Sakelar digunakan untuk membuka atau menutup rangkaian.",
+          "jawaban": true,
+          "text": "Sakelar digunakan untuk membuka atau menutup rangkaian."
+        },
+        {
+          "teks": "Lampu pada rangkaian tertutup tidak dapat menyala.",
+          "jawaban": false,
+          "text": "Lampu pada rangkaian tertutup tidak dapat menyala."
+        },
+        {
+          "teks": "Kabel dapat digunakan untuk menghantarkan arus listrik dalam rangkaian.",
+          "jawaban": true,
+          "text": "Kabel dapat digunakan untuk menghantarkan arus listrik dalam rangkaian."
+        },
+        {
+          "teks": "Cermin merupakan sumber energi listrik dalam rangkaian sederhana.",
+          "jawaban": false,
+          "text": "Cermin merupakan sumber energi listrik dalam rangkaian sederhana."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Baterai dapat menjadi sumber energi listrik.",
+          "teks": "Baterai dapat menjadi sumber energi listrik.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Sakelar digunakan untuk membuka atau menutup rangkaian.",
+          "teks": "Sakelar digunakan untuk membuka atau menutup rangkaian.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Lampu pada rangkaian tertutup tidak dapat menyala.",
+          "teks": "Lampu pada rangkaian tertutup tidak dapat menyala.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 4,
+          "text": "Kabel dapat digunakan untuk menghantarkan arus listrik dalam rangkaian.",
+          "teks": "Kabel dapat digunakan untuk menghantarkan arus listrik dalam rangkaian.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Cermin merupakan sumber energi listrik dalam rangkaian sederhana.",
+          "teks": "Cermin merupakan sumber energi listrik dalam rangkaian sederhana.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 33,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang listrik.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Baterai dapat menjadi sumber energi listrik."
+          },
+          {
+            "letter": "B",
+            "text": "Sakelar digunakan untuk membuka atau menutup rangkaian."
+          },
+          {
+            "letter": "C",
+            "text": "Lampu pada rangkaian tertutup tidak dapat menyala."
+          },
+          {
+            "letter": "D",
+            "text": "Kabel dapat digunakan untuk menghantarkan arus listrik dalam rangkaian."
+          },
+          {
+            "letter": "E",
+            "text": "Cermin merupakan sumber energi listrik dalam rangkaian sederhana."
+          }
+        ],
+        "rawText": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang listrik.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1788730069588_6178_32",
+      "number": 33,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang listrik.",
+      "pertanyaan": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang listrik.",
+      "text": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang listrik.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788730069588_2642_33",
+      "type": "tf",
+      "teks": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang hubungan ekosistem dan energi.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Energi dapat berpindah melalui proses makan dan dimakan.",
+          "teks": "Energi dapat berpindah melalui proses makan dan dimakan.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Produsen memperoleh energi utama dari cahaya matahari.",
+          "teks": "Produsen memperoleh energi utama dari cahaya matahari.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Konsumen tingkat pertama biasanya memakan produsen.",
+          "teks": "Konsumen tingkat pertama biasanya memakan produsen.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Energi dalam rantai makanan hanya berada pada satu organisme.",
+          "teks": "Energi dalam rantai makanan hanya berada pada satu organisme.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Rantai makanan dapat menggambarkan perpindahan energi antarmakhluk hidup.",
+          "teks": "Rantai makanan dapat menggambarkan perpindahan energi antarmakhluk hidup.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Energi dapat berpindah melalui proses makan dan dimakan.",
+          "jawaban": true,
+          "text": "Energi dapat berpindah melalui proses makan dan dimakan."
+        },
+        {
+          "teks": "Produsen memperoleh energi utama dari cahaya matahari.",
+          "jawaban": true,
+          "text": "Produsen memperoleh energi utama dari cahaya matahari."
+        },
+        {
+          "teks": "Konsumen tingkat pertama biasanya memakan produsen.",
+          "jawaban": true,
+          "text": "Konsumen tingkat pertama biasanya memakan produsen."
+        },
+        {
+          "teks": "Energi dalam rantai makanan hanya berada pada satu organisme.",
+          "jawaban": false,
+          "text": "Energi dalam rantai makanan hanya berada pada satu organisme."
+        },
+        {
+          "teks": "Rantai makanan dapat menggambarkan perpindahan energi antarmakhluk hidup.",
+          "jawaban": true,
+          "text": "Rantai makanan dapat menggambarkan perpindahan energi antarmakhluk hidup."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Energi dapat berpindah melalui proses makan dan dimakan.",
+          "teks": "Energi dapat berpindah melalui proses makan dan dimakan.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Produsen memperoleh energi utama dari cahaya matahari.",
+          "teks": "Produsen memperoleh energi utama dari cahaya matahari.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Konsumen tingkat pertama biasanya memakan produsen.",
+          "teks": "Konsumen tingkat pertama biasanya memakan produsen.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Energi dalam rantai makanan hanya berada pada satu organisme.",
+          "teks": "Energi dalam rantai makanan hanya berada pada satu organisme.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Rantai makanan dapat menggambarkan perpindahan energi antarmakhluk hidup.",
+          "teks": "Rantai makanan dapat menggambarkan perpindahan energi antarmakhluk hidup.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 34,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang hubungan ekosistem dan energi.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Energi dapat berpindah melalui proses makan dan dimakan."
+          },
+          {
+            "letter": "B",
+            "text": "Produsen memperoleh energi utama dari cahaya matahari."
+          },
+          {
+            "letter": "C",
+            "text": "Konsumen tingkat pertama biasanya memakan produsen."
+          },
+          {
+            "letter": "D",
+            "text": "Energi dalam rantai makanan hanya berada pada satu organisme."
+          },
+          {
+            "letter": "E",
+            "text": "Rantai makanan dapat menggambarkan perpindahan energi antarmakhluk hidup."
+          }
+        ],
+        "rawText": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang hubungan ekosistem dan energi.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1788730069588_2642_33",
+      "number": 34,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang hubungan ekosistem dan energi.",
+      "pertanyaan": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang hubungan ekosistem dan energi.",
+      "text": "Tentukan benar atau salah untuk setiap pernyataan berikut tentang hubungan ekosistem dan energi.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788730069589_5458_34",
+      "type": "match",
+      "teks": "Pasangkan istilah di sebelah kiri dengan keterangan yang tepat di sebelah kanan.",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Produsen",
+          "kiri": "Produsen",
+          "right": "Makhluk hidup yang membuat makanan sendiri",
+          "kanan": "Makhluk hidup yang membuat makanan sendiri",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Konsumen",
+          "kiri": "Konsumen",
+          "right": "Makhluk hidup yang memperoleh makanan dari makhluk hidup lain",
+          "kanan": "Makhluk hidup yang memperoleh makanan dari makhluk hidup lain",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Pengurai",
+          "kiri": "Pengurai",
+          "right": "Makhluk hidup yang menguraikan sisa makhluk hidup",
+          "kanan": "Makhluk hidup yang menguraikan sisa makhluk hidup",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Komponen biotik",
+          "kiri": "Komponen biotik",
+          "right": "Bagian ekosistem berupa makhluk hidup",
+          "kanan": "Bagian ekosistem berupa makhluk hidup",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Komponen abiotik",
+          "kiri": "Komponen abiotik",
+          "right": "Bagian ekosistem berupa benda tak hidup",
+          "kanan": "Bagian ekosistem berupa benda tak hidup",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Produsen",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Makhluk hidup yang membuat makanan sendiri",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Konsumen",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Makhluk hidup yang memperoleh makanan dari makhluk hidup lain",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Pengurai",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Makhluk hidup yang menguraikan sisa makhluk hidup",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Komponen biotik",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Bagian ekosistem berupa makhluk hidup",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Komponen abiotik",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Bagian ekosistem berupa benda tak hidup",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Produsen",
+          "kiri": "Produsen",
+          "right": "Makhluk hidup yang membuat makanan sendiri",
+          "kanan": "Makhluk hidup yang membuat makanan sendiri",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Konsumen",
+          "kiri": "Konsumen",
+          "right": "Makhluk hidup yang memperoleh makanan dari makhluk hidup lain",
+          "kanan": "Makhluk hidup yang memperoleh makanan dari makhluk hidup lain",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Pengurai",
+          "kiri": "Pengurai",
+          "right": "Makhluk hidup yang menguraikan sisa makhluk hidup",
+          "kanan": "Makhluk hidup yang menguraikan sisa makhluk hidup",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Komponen biotik",
+          "kiri": "Komponen biotik",
+          "right": "Bagian ekosistem berupa makhluk hidup",
+          "kanan": "Bagian ekosistem berupa makhluk hidup",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Komponen abiotik",
+          "kiri": "Komponen abiotik",
+          "right": "Bagian ekosistem berupa benda tak hidup",
+          "kanan": "Bagian ekosistem berupa benda tak hidup",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 35,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pasangkan istilah di sebelah kiri dengan keterangan yang tepat di sebelah kanan.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Pasangkan istilah di sebelah kiri dengan keterangan yang tepat di sebelah kanan.",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1788730069589_5458_34",
+      "number": 35,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Pasangkan istilah di sebelah kiri dengan keterangan yang tepat di sebelah kanan.",
+      "pertanyaan": "Pasangkan istilah di sebelah kiri dengan keterangan yang tepat di sebelah kanan.",
+      "text": "Pasangkan istilah di sebelah kiri dengan keterangan yang tepat di sebelah kanan.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788730069589_7758_35",
+      "type": "match",
+      "teks": "Pasangkan istilah tentang magnet dengan keterangan yang tepat.",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Kutub utara",
+          "kiri": "Kutub utara",
+          "right": "Salah satu ujung magnet",
+          "kanan": "Salah satu ujung magnet",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Kutub selatan",
+          "kiri": "Kutub selatan",
+          "right": "Ujung magnet yang berlawanan dengan kutub utara",
+          "kanan": "Ujung magnet yang berlawanan dengan kutub utara",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Tarik-menarik",
+          "kiri": "Tarik-menarik",
+          "right": "Gaya yang terjadi antara kutub berbeda",
+          "kanan": "Gaya yang terjadi antara kutub berbeda",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Tolak-menolak",
+          "kiri": "Tolak-menolak",
+          "right": "Gaya yang terjadi antara kutub sejenis",
+          "kanan": "Gaya yang terjadi antara kutub sejenis",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Benda magnetis",
+          "kiri": "Benda magnetis",
+          "right": "Benda tertentu yang dapat ditarik magnet",
+          "kanan": "Benda tertentu yang dapat ditarik magnet",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Kutub utara",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Salah satu ujung magnet",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Kutub selatan",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Ujung magnet yang berlawanan dengan kutub utara",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Tarik-menarik",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Gaya yang terjadi antara kutub berbeda",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Tolak-menolak",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Gaya yang terjadi antara kutub sejenis",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Benda magnetis",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Benda tertentu yang dapat ditarik magnet",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Kutub utara",
+          "kiri": "Kutub utara",
+          "right": "Salah satu ujung magnet",
+          "kanan": "Salah satu ujung magnet",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Kutub selatan",
+          "kiri": "Kutub selatan",
+          "right": "Ujung magnet yang berlawanan dengan kutub utara",
+          "kanan": "Ujung magnet yang berlawanan dengan kutub utara",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Tarik-menarik",
+          "kiri": "Tarik-menarik",
+          "right": "Gaya yang terjadi antara kutub berbeda",
+          "kanan": "Gaya yang terjadi antara kutub berbeda",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Tolak-menolak",
+          "kiri": "Tolak-menolak",
+          "right": "Gaya yang terjadi antara kutub sejenis",
+          "kanan": "Gaya yang terjadi antara kutub sejenis",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Benda magnetis",
+          "kiri": "Benda magnetis",
+          "right": "Benda tertentu yang dapat ditarik magnet",
+          "kanan": "Benda tertentu yang dapat ditarik magnet",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 36,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pasangkan istilah tentang magnet dengan keterangan yang tepat.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Pasangkan istilah tentang magnet dengan keterangan yang tepat.",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1788730069589_7758_35",
+      "number": 36,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Pasangkan istilah tentang magnet dengan keterangan yang tepat.",
+      "pertanyaan": "Pasangkan istilah tentang magnet dengan keterangan yang tepat.",
+      "text": "Pasangkan istilah tentang magnet dengan keterangan yang tepat.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788730069589_4429_36",
+      "type": "match",
+      "teks": "Pasangkan istilah tentang cahaya dengan keterangan yang tepat.",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Sumber cahaya",
+          "kiri": "Sumber cahaya",
+          "right": "Benda yang menghasilkan cahaya",
+          "kanan": "Benda yang menghasilkan cahaya",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Bayangan",
+          "kiri": "Bayangan",
+          "right": "Daerah gelap akibat cahaya terhalang benda",
+          "kanan": "Daerah gelap akibat cahaya terhalang benda",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Cermin",
+          "kiri": "Cermin",
+          "right": "Benda yang dapat memantulkan cahaya",
+          "kanan": "Benda yang dapat memantulkan cahaya",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Benda bening",
+          "kiri": "Benda bening",
+          "right": "Benda yang dapat meneruskan sebagian besar cahaya",
+          "kanan": "Benda yang dapat meneruskan sebagian besar cahaya",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Benda tidak tembus cahaya",
+          "kiri": "Benda tidak tembus cahaya",
+          "right": "Benda yang menghalangi cahaya",
+          "kanan": "Benda yang menghalangi cahaya",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Sumber cahaya",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Benda yang menghasilkan cahaya",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Bayangan",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Daerah gelap akibat cahaya terhalang benda",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Cermin",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Benda yang dapat memantulkan cahaya",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Benda bening",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Benda yang dapat meneruskan sebagian besar cahaya",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Benda tidak tembus cahaya",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Benda yang menghalangi cahaya",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Sumber cahaya",
+          "kiri": "Sumber cahaya",
+          "right": "Benda yang menghasilkan cahaya",
+          "kanan": "Benda yang menghasilkan cahaya",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Bayangan",
+          "kiri": "Bayangan",
+          "right": "Daerah gelap akibat cahaya terhalang benda",
+          "kanan": "Daerah gelap akibat cahaya terhalang benda",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Cermin",
+          "kiri": "Cermin",
+          "right": "Benda yang dapat memantulkan cahaya",
+          "kanan": "Benda yang dapat memantulkan cahaya",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Benda bening",
+          "kiri": "Benda bening",
+          "right": "Benda yang dapat meneruskan sebagian besar cahaya",
+          "kanan": "Benda yang dapat meneruskan sebagian besar cahaya",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Benda tidak tembus cahaya",
+          "kiri": "Benda tidak tembus cahaya",
+          "right": "Benda yang menghalangi cahaya",
+          "kanan": "Benda yang menghalangi cahaya",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 37,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pasangkan istilah tentang cahaya dengan keterangan yang tepat.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Pasangkan istilah tentang cahaya dengan keterangan yang tepat.",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1788730069589_4429_36",
+      "number": 37,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Pasangkan istilah tentang cahaya dengan keterangan yang tepat.",
+      "pertanyaan": "Pasangkan istilah tentang cahaya dengan keterangan yang tepat.",
+      "text": "Pasangkan istilah tentang cahaya dengan keterangan yang tepat.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788730069589_2940_37",
+      "type": "match",
+      "teks": "Pasangkan komponen rangkaian listrik dengan fungsinya.",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Baterai",
+          "kiri": "Baterai",
+          "right": "Sumber energi listrik",
+          "kanan": "Sumber energi listrik",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Kabel",
+          "kiri": "Kabel",
+          "right": "Penghantar arus listrik",
+          "kanan": "Penghantar arus listrik",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Lampu",
+          "kiri": "Lampu",
+          "right": "Mengubah energi listrik menjadi cahaya",
+          "kanan": "Mengubah energi listrik menjadi cahaya",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Sakelar",
+          "kiri": "Sakelar",
+          "right": "Membuka dan menutup rangkaian",
+          "kanan": "Membuka dan menutup rangkaian",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Rangkaian tertutup",
+          "kiri": "Rangkaian tertutup",
+          "right": "Kondisi rangkaian yang memungkinkan arus mengalir",
+          "kanan": "Kondisi rangkaian yang memungkinkan arus mengalir",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Baterai",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Sumber energi listrik",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Kabel",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Penghantar arus listrik",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Lampu",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Mengubah energi listrik menjadi cahaya",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Sakelar",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Membuka dan menutup rangkaian",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Rangkaian tertutup",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Kondisi rangkaian yang memungkinkan arus mengalir",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Baterai",
+          "kiri": "Baterai",
+          "right": "Sumber energi listrik",
+          "kanan": "Sumber energi listrik",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Kabel",
+          "kiri": "Kabel",
+          "right": "Penghantar arus listrik",
+          "kanan": "Penghantar arus listrik",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Lampu",
+          "kiri": "Lampu",
+          "right": "Mengubah energi listrik menjadi cahaya",
+          "kanan": "Mengubah energi listrik menjadi cahaya",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Sakelar",
+          "kiri": "Sakelar",
+          "right": "Membuka dan menutup rangkaian",
+          "kanan": "Membuka dan menutup rangkaian",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Rangkaian tertutup",
+          "kiri": "Rangkaian tertutup",
+          "right": "Kondisi rangkaian yang memungkinkan arus mengalir",
+          "kanan": "Kondisi rangkaian yang memungkinkan arus mengalir",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 38,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pasangkan komponen rangkaian listrik dengan fungsinya.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Pasangkan komponen rangkaian listrik dengan fungsinya.",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1788730069589_2940_37",
+      "number": 38,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Pasangkan komponen rangkaian listrik dengan fungsinya.",
+      "pertanyaan": "Pasangkan komponen rangkaian listrik dengan fungsinya.",
+      "text": "Pasangkan komponen rangkaian listrik dengan fungsinya.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788730069589_1392_38",
+      "type": "match",
+      "teks": "Pasangkan organisme atau komponen dalam rantai makanan dengan perannya.",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Fitoplankton",
+          "kiri": "Fitoplankton",
+          "right": "Produsen di ekosistem perairan",
+          "kanan": "Produsen di ekosistem perairan",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Zooplankton",
+          "kiri": "Zooplankton",
+          "right": "Konsumen yang memakan fitoplankton",
+          "kanan": "Konsumen yang memakan fitoplankton",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Ikan kecil",
+          "kiri": "Ikan kecil",
+          "right": "Konsumen yang dapat memakan zooplankton",
+          "kanan": "Konsumen yang dapat memakan zooplankton",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Ikan besar",
+          "kiri": "Ikan besar",
+          "right": "Konsumen yang dapat memakan ikan kecil",
+          "kanan": "Konsumen yang dapat memakan ikan kecil",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Rantai makanan",
+          "kiri": "Rantai makanan",
+          "right": "Urutan hubungan makan dan dimakan",
+          "kanan": "Urutan hubungan makan dan dimakan",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Fitoplankton",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Produsen di ekosistem perairan",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Zooplankton",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Konsumen yang memakan fitoplankton",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Ikan kecil",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Konsumen yang dapat memakan zooplankton",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Ikan besar",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Konsumen yang dapat memakan ikan kecil",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Rantai makanan",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Urutan hubungan makan dan dimakan",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Fitoplankton",
+          "kiri": "Fitoplankton",
+          "right": "Produsen di ekosistem perairan",
+          "kanan": "Produsen di ekosistem perairan",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Zooplankton",
+          "kiri": "Zooplankton",
+          "right": "Konsumen yang memakan fitoplankton",
+          "kanan": "Konsumen yang memakan fitoplankton",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Ikan kecil",
+          "kiri": "Ikan kecil",
+          "right": "Konsumen yang dapat memakan zooplankton",
+          "kanan": "Konsumen yang dapat memakan zooplankton",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Ikan besar",
+          "kiri": "Ikan besar",
+          "right": "Konsumen yang dapat memakan ikan kecil",
+          "kanan": "Konsumen yang dapat memakan ikan kecil",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Rantai makanan",
+          "kiri": "Rantai makanan",
+          "right": "Urutan hubungan makan dan dimakan",
+          "kanan": "Urutan hubungan makan dan dimakan",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 39,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pasangkan organisme atau komponen dalam rantai makanan dengan perannya.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Pasangkan organisme atau komponen dalam rantai makanan dengan perannya.",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1788730069589_1392_38",
+      "number": 39,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Pasangkan organisme atau komponen dalam rantai makanan dengan perannya.",
+      "pertanyaan": "Pasangkan organisme atau komponen dalam rantai makanan dengan perannya.",
+      "text": "Pasangkan organisme atau komponen dalam rantai makanan dengan perannya.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788730069589_5674_39",
+      "type": "esai",
+      "teks": "Jelaskan mengapa lampu pada rangkaian listrik sederhana dapat menyala ketika baterai, kabel, lampu, dan sakelar tersusun dalam rangkaian tertutup. Jelaskan juga apa yang terjadi jika sakelar dibuka.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "Lampu menyala karena rangkaian tertutup memungkinkan arus listrik mengalir dari baterai melalui kabel dan lampu. Jika sakelar dibuka, rangkaian terputus sehingga arus tidak mengalir dan lampu padam.",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "Lampu menyala karena rangkaian tertutup memungkinkan arus listrik mengalir dari baterai melalui kabel dan lampu. Jika sakelar dibuka, rangkaian terputus sehingga arus tidak mengalir dan lampu padam.",
+      "bobot": 2.5,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 40,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Jelaskan mengapa lampu pada rangkaian listrik sederhana dapat menyala ketika baterai, kabel, lampu, dan sakelar tersusun dalam rangkaian tertutup. Jelaskan juga apa yang terjadi jika sakelar dibuka.",
+        "media": [],
+        "options": [],
+        "rawText": "Jelaskan mengapa lampu pada rangkaian listrik sederhana dapat menyala ketika baterai, kabel, lampu, dan sakelar tersusun dalam rangkaian tertutup. Jelaskan juga apa yang terjadi jika sakelar dibuka.",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1788730069589_5674_39",
+      "number": 40,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Jelaskan mengapa lampu pada rangkaian listrik sederhana dapat menyala ketika baterai, kabel, lampu, dan sakelar tersusun dalam rangkaian tertutup. Jelaskan juga apa yang terjadi jika sakelar dibuka.",
+      "pertanyaan": "Jelaskan mengapa lampu pada rangkaian listrik sederhana dapat menyala ketika baterai, kabel, lampu, dan sakelar tersusun dalam rangkaian tertutup. Jelaskan juga apa yang terjadi jika sakelar dibuka.",
+      "text": "Jelaskan mengapa lampu pada rangkaian listrik sederhana dapat menyala ketika baterai, kabel, lampu, dan sakelar tersusun dalam rangkaian tertutup. Jelaskan juga apa yang terjadi jika sakelar dibuka.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 2.5,
+      "answerGuide": "Lampu menyala karena rangkaian tertutup memungkinkan arus listrik mengalir dari baterai melalui kabel dan lampu. Jika sakelar dibuka, rangkaian terputus sehingga arus tidak mengalir dan lampu padam.",
+      "rubric": "Lampu menyala karena rangkaian tertutup memungkinkan arus listrik mengalir dari baterai melalui kabel dan lampu. Jika sakelar dibuka, rangkaian terputus sehingga arus tidak mengalir dan lampu padam.",
+      "acuanJawaban": "Lampu menyala karena rangkaian tertutup memungkinkan arus listrik mengalir dari baterai melalui kabel dan lampu. Jika sakelar dibuka, rangkaian terputus sehingga arus tidak mengalir dan lampu padam.",
+      "kunci": "Lampu menyala karena rangkaian tertutup memungkinkan arus listrik mengalir dari baterai melalui kabel dan lampu. Jika sakelar dibuka, rangkaian terputus sehingga arus tidak mengalir dan lampu padam."
+    }
+  ],
+  "updatedAt": "2026-09-06T21:28:25.301Z"
+}
