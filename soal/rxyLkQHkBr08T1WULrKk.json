@@ -1,0 +1,2883 @@
+{
+  "fileId": "rxyLkQHkBr08T1WULrKk",
+  "id": "rxyLkQHkBr08T1WULrKk",
+  "examId": "rxyLkQHkBr08T1WULrKk",
+  "title": "Bank Soal Tanpa Judul",
+  "subject": "Lainnya",
+  "duration": 60,
+  "token": "WCNW1I",
+  "totalQuestions": 30,
+  "totalBobot": 100,
+  "version": 1,
+  "questions": [
+    {
+      "id": "temp_ai_1788814189185_5560_0",
+      "type": "pg",
+      "teks": "Perhatikan gambar diagram tata surya bagian dalam berikut ini. Planet yang ditunjukkan oleh orbit ke-3 dari matahari pada gambar tersebut adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_6ca41bd76468df7c.webp",
+      "rawMedia": "soal-01.png",
+      "opsi": [
+        "Merkurius",
+        "Venus",
+        "Bumi",
+        "Mars"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.43,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 1,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar diagram tata surya bagian dalam berikut ini. Planet yang ditunjukkan oleh orbit ke-3 dari matahari pada gambar tersebut adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_6ca41bd76468df7c.webp",
+            "caption": "soal-01.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Merkurius"
+          },
+          {
+            "letter": "B",
+            "text": "Venus"
+          },
+          {
+            "letter": "C",
+            "text": "Bumi"
+          },
+          {
+            "letter": "D",
+            "text": "Mars"
+          }
+        ],
+        "rawText": "Perhatikan gambar diagram tata surya bagian dalam berikut ini. Planet yang ditunjukkan oleh orbit ke-3 dari matahari pada gambar tersebut adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189185_5560_0",
+      "number": 1,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar diagram tata surya bagian dalam berikut ini. Planet yang ditunjukkan oleh orbit ke-3 dari matahari pada gambar tersebut adalah ...",
+      "pertanyaan": "Perhatikan gambar diagram tata surya bagian dalam berikut ini. Planet yang ditunjukkan oleh orbit ke-3 dari matahari pada gambar tersebut adalah ...",
+      "text": "Perhatikan gambar diagram tata surya bagian dalam berikut ini. Planet yang ditunjukkan oleh orbit ke-3 dari matahari pada gambar tersebut adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.43,
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkurius"
+        },
+        {
+          "key": "B",
+          "text": "Venus"
+        },
+        {
+          "key": "C",
+          "text": "Bumi"
+        },
+        {
+          "key": "D",
+          "text": "Mars"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1788814189186_7952_1",
+      "type": "pg",
+      "teks": "Pusat dari tata surya kita, di mana seluruh planet dan benda langit lainnya beredar mengelilinginya, adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Bulan",
+        "Bumi",
+        "Bintang",
+        "Matahari"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 3,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 2,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pusat dari tata surya kita, di mana seluruh planet dan benda langit lainnya beredar mengelilinginya, adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Bulan"
+          },
+          {
+            "letter": "B",
+            "text": "Bumi"
+          },
+          {
+            "letter": "C",
+            "text": "Bintang"
+          },
+          {
+            "letter": "D",
+            "text": "Matahari"
+          }
+        ],
+        "rawText": "Pusat dari tata surya kita, di mana seluruh planet dan benda langit lainnya beredar mengelilinginya, adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189186_7952_1",
+      "number": 2,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pusat dari tata surya kita, di mana seluruh planet dan benda langit lainnya beredar mengelilinginya, adalah ...",
+      "pertanyaan": "Pusat dari tata surya kita, di mana seluruh planet dan benda langit lainnya beredar mengelilinginya, adalah ...",
+      "text": "Pusat dari tata surya kita, di mana seluruh planet dan benda langit lainnya beredar mengelilinginya, adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Bulan"
+        },
+        {
+          "key": "B",
+          "text": "Bumi"
+        },
+        {
+          "key": "C",
+          "text": "Bintang"
+        },
+        {
+          "key": "D",
+          "text": "Matahari"
+        }
+      ],
+      "answer": "D",
+      "kunci": "D",
+      "correctAnswer": 3
+    },
+    {
+      "id": "temp_ai_1788814189186_6209_2",
+      "type": "pg",
+      "teks": "Planet yang memiliki ukuran paling kecil dalam sistem tata surya kita adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Merkurius",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 3,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Planet yang memiliki ukuran paling kecil dalam sistem tata surya kita adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Merkurius"
+          },
+          {
+            "letter": "B",
+            "text": "Mars"
+          },
+          {
+            "letter": "C",
+            "text": "Venus"
+          },
+          {
+            "letter": "D",
+            "text": "Pluto"
+          }
+        ],
+        "rawText": "Planet yang memiliki ukuran paling kecil dalam sistem tata surya kita adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189186_6209_2",
+      "number": 3,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Planet yang memiliki ukuran paling kecil dalam sistem tata surya kita adalah ...",
+      "pertanyaan": "Planet yang memiliki ukuran paling kecil dalam sistem tata surya kita adalah ...",
+      "text": "Planet yang memiliki ukuran paling kecil dalam sistem tata surya kita adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkurius"
+        },
+        {
+          "key": "B",
+          "text": "Mars"
+        },
+        {
+          "key": "C",
+          "text": "Venus"
+        },
+        {
+          "key": "D",
+          "text": "Pluto"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788814189187_6262_3",
+      "type": "pg",
+      "teks": "Planet ini sering terlihat kemerahan dari Bumi sehingga sering dijuluki sebagai \"Planet Merah\". Planet yang dimaksud adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Yupiter",
+        "Mars",
+        "Saturnus",
+        "Uranus"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 4,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Planet ini sering terlihat kemerahan dari Bumi sehingga sering dijuluki sebagai \"Planet Merah\". Planet yang dimaksud adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Yupiter"
+          },
+          {
+            "letter": "B",
+            "text": "Mars"
+          },
+          {
+            "letter": "C",
+            "text": "Saturnus"
+          },
+          {
+            "letter": "D",
+            "text": "Uranus"
+          }
+        ],
+        "rawText": "Planet ini sering terlihat kemerahan dari Bumi sehingga sering dijuluki sebagai \"Planet Merah\". Planet yang dimaksud adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189187_6262_3",
+      "number": 4,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Planet ini sering terlihat kemerahan dari Bumi sehingga sering dijuluki sebagai \"Planet Merah\". Planet yang dimaksud adalah ...",
+      "pertanyaan": "Planet ini sering terlihat kemerahan dari Bumi sehingga sering dijuluki sebagai \"Planet Merah\". Planet yang dimaksud adalah ...",
+      "text": "Planet ini sering terlihat kemerahan dari Bumi sehingga sering dijuluki sebagai \"Planet Merah\". Planet yang dimaksud adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Yupiter"
+        },
+        {
+          "key": "B",
+          "text": "Mars"
+        },
+        {
+          "key": "C",
+          "text": "Saturnus"
+        },
+        {
+          "key": "D",
+          "text": "Uranus"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788814189187_5480_4",
+      "type": "pg",
+      "teks": "Perhatikan susunan benda langit pada gambar di bawah ini. Peristiwa alam yang terjadi akibat posisi benda-benda langit tersebut adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_489d307a92aab54c.webp",
+      "rawMedia": "soal-05.png",
+      "opsi": [
+        "Gerhana bulan total",
+        "Gerhana bulan sebagian",
+        "Gerhana matahari",
+        "Fase bulan purnama"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 5,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan susunan benda langit pada gambar di bawah ini. Peristiwa alam yang terjadi akibat posisi benda-benda langit tersebut adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_489d307a92aab54c.webp",
+            "caption": "soal-05.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Gerhana bulan total"
+          },
+          {
+            "letter": "B",
+            "text": "Gerhana bulan sebagian"
+          },
+          {
+            "letter": "C",
+            "text": "Gerhana matahari"
+          },
+          {
+            "letter": "D",
+            "text": "Fase bulan purnama"
+          }
+        ],
+        "rawText": "Perhatikan susunan benda langit pada gambar di bawah ini. Peristiwa alam yang terjadi akibat posisi benda-benda langit tersebut adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189187_5480_4",
+      "number": 5,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan susunan benda langit pada gambar di bawah ini. Peristiwa alam yang terjadi akibat posisi benda-benda langit tersebut adalah ...",
+      "pertanyaan": "Perhatikan susunan benda langit pada gambar di bawah ini. Peristiwa alam yang terjadi akibat posisi benda-benda langit tersebut adalah ...",
+      "text": "Perhatikan susunan benda langit pada gambar di bawah ini. Peristiwa alam yang terjadi akibat posisi benda-benda langit tersebut adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Gerhana bulan total"
+        },
+        {
+          "key": "B",
+          "text": "Gerhana bulan sebagian"
+        },
+        {
+          "key": "C",
+          "text": "Gerhana matahari"
+        },
+        {
+          "key": "D",
+          "text": "Fase bulan purnama"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1788814189187_7988_5",
+      "type": "pg",
+      "teks": "Benda langit yang tidak memancarkan cahaya sendiri dan bergerak mengelilingi planet disebut ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Komet",
+        "Meteor",
+        "Satelit",
+        "Asteroid"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 6,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Benda langit yang tidak memancarkan cahaya sendiri dan bergerak mengelilingi planet disebut ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Komet"
+          },
+          {
+            "letter": "B",
+            "text": "Meteor"
+          },
+          {
+            "letter": "C",
+            "text": "Satelit"
+          },
+          {
+            "letter": "D",
+            "text": "Asteroid"
+          }
+        ],
+        "rawText": "Benda langit yang tidak memancarkan cahaya sendiri dan bergerak mengelilingi planet disebut ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189187_7988_5",
+      "number": 6,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Benda langit yang tidak memancarkan cahaya sendiri dan bergerak mengelilingi planet disebut ...",
+      "pertanyaan": "Benda langit yang tidak memancarkan cahaya sendiri dan bergerak mengelilingi planet disebut ...",
+      "text": "Benda langit yang tidak memancarkan cahaya sendiri dan bergerak mengelilingi planet disebut ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Komet"
+        },
+        {
+          "key": "B",
+          "text": "Meteor"
+        },
+        {
+          "key": "C",
+          "text": "Satelit"
+        },
+        {
+          "key": "D",
+          "text": "Asteroid"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1788814189187_4424_6",
+      "type": "pg",
+      "teks": "Jalur atau garis edar suatu planet saat mengelilingi matahari disebut dengan ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Rotasi",
+        "Revolusi",
+        "Sumbu",
+        "Orbit"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 3,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 7,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Jalur atau garis edar suatu planet saat mengelilingi matahari disebut dengan ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Rotasi"
+          },
+          {
+            "letter": "B",
+            "text": "Revolusi"
+          },
+          {
+            "letter": "C",
+            "text": "Sumbu"
+          },
+          {
+            "letter": "D",
+            "text": "Orbit"
+          }
+        ],
+        "rawText": "Jalur atau garis edar suatu planet saat mengelilingi matahari disebut dengan ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189187_4424_6",
+      "number": 7,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Jalur atau garis edar suatu planet saat mengelilingi matahari disebut dengan ...",
+      "pertanyaan": "Jalur atau garis edar suatu planet saat mengelilingi matahari disebut dengan ...",
+      "text": "Jalur atau garis edar suatu planet saat mengelilingi matahari disebut dengan ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Rotasi"
+        },
+        {
+          "key": "B",
+          "text": "Revolusi"
+        },
+        {
+          "key": "C",
+          "text": "Sumbu"
+        },
+        {
+          "key": "D",
+          "text": "Orbit"
+        }
+      ],
+      "answer": "D",
+      "kunci": "D",
+      "correctAnswer": 3
+    },
+    {
+      "id": "temp_ai_1788814189187_3135_7",
+      "type": "pg",
+      "teks": "Planet terbesar dalam tata surya yang sebagian besar massanya terdiri dari gas adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Saturnus",
+        "Yupiter",
+        "Uranus",
+        "Neptunus"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 8,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Planet terbesar dalam tata surya yang sebagian besar massanya terdiri dari gas adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Saturnus"
+          },
+          {
+            "letter": "B",
+            "text": "Yupiter"
+          },
+          {
+            "letter": "C",
+            "text": "Uranus"
+          },
+          {
+            "letter": "D",
+            "text": "Neptunus"
+          }
+        ],
+        "rawText": "Planet terbesar dalam tata surya yang sebagian besar massanya terdiri dari gas adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189187_3135_7",
+      "number": 8,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Planet terbesar dalam tata surya yang sebagian besar massanya terdiri dari gas adalah ...",
+      "pertanyaan": "Planet terbesar dalam tata surya yang sebagian besar massanya terdiri dari gas adalah ...",
+      "text": "Planet terbesar dalam tata surya yang sebagian besar massanya terdiri dari gas adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Saturnus"
+        },
+        {
+          "key": "B",
+          "text": "Yupiter"
+        },
+        {
+          "key": "C",
+          "text": "Uranus"
+        },
+        {
+          "key": "D",
+          "text": "Neptunus"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788814189188_9513_8",
+      "type": "pg",
+      "teks": "Benda langit berekor yang orbitnya sangat lonjong dan ekornya selalu menjauhi matahari disebut ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Komet",
+        "Asteroid",
+        "Meteoroid",
+        "Satelit"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 9,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Benda langit berekor yang orbitnya sangat lonjong dan ekornya selalu menjauhi matahari disebut ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Komet"
+          },
+          {
+            "letter": "B",
+            "text": "Asteroid"
+          },
+          {
+            "letter": "C",
+            "text": "Meteoroid"
+          },
+          {
+            "letter": "D",
+            "text": "Satelit"
+          }
+        ],
+        "rawText": "Benda langit berekor yang orbitnya sangat lonjong dan ekornya selalu menjauhi matahari disebut ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189188_9513_8",
+      "number": 9,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Benda langit berekor yang orbitnya sangat lonjong dan ekornya selalu menjauhi matahari disebut ...",
+      "pertanyaan": "Benda langit berekor yang orbitnya sangat lonjong dan ekornya selalu menjauhi matahari disebut ...",
+      "text": "Benda langit berekor yang orbitnya sangat lonjong dan ekornya selalu menjauhi matahari disebut ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Komet"
+        },
+        {
+          "key": "B",
+          "text": "Asteroid"
+        },
+        {
+          "key": "C",
+          "text": "Meteoroid"
+        },
+        {
+          "key": "D",
+          "text": "Satelit"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788814189188_1753_9",
+      "type": "pg",
+      "teks": "Satelit alami satu-satunya yang dimiliki oleh planet Bumi adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Phobos",
+        "Deimos",
+        "Bulan",
+        "Titan"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 10,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Satelit alami satu-satunya yang dimiliki oleh planet Bumi adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Phobos"
+          },
+          {
+            "letter": "B",
+            "text": "Deimos"
+          },
+          {
+            "letter": "C",
+            "text": "Bulan"
+          },
+          {
+            "letter": "D",
+            "text": "Titan"
+          }
+        ],
+        "rawText": "Satelit alami satu-satunya yang dimiliki oleh planet Bumi adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189188_1753_9",
+      "number": 10,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Satelit alami satu-satunya yang dimiliki oleh planet Bumi adalah ...",
+      "pertanyaan": "Satelit alami satu-satunya yang dimiliki oleh planet Bumi adalah ...",
+      "text": "Satelit alami satu-satunya yang dimiliki oleh planet Bumi adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Phobos"
+        },
+        {
+          "key": "B",
+          "text": "Deimos"
+        },
+        {
+          "key": "C",
+          "text": "Bulan"
+        },
+        {
+          "key": "D",
+          "text": "Titan"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1788814189188_9680_10",
+      "type": "pg",
+      "teks": "Perhatikan gambar planet berikut. Planet ini memiliki ciri khas yang sangat menonjol dibandingkan planet lainnya, yaitu ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e6ac6b5c0e4106a2.webp",
+      "rawMedia": "soal-11.png",
+      "opsi": [
+        "Memiliki bintik merah raksasa",
+        "Memiliki sistem cincin yang terbuat dari es dan debu",
+        "Berwarna biru kemerahan",
+        "Merupakan planet yang paling dekat dengan matahari"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 11,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar planet berikut. Planet ini memiliki ciri khas yang sangat menonjol dibandingkan planet lainnya, yaitu ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e6ac6b5c0e4106a2.webp",
+            "caption": "soal-11.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Memiliki bintik merah raksasa"
+          },
+          {
+            "letter": "B",
+            "text": "Memiliki sistem cincin yang terbuat dari es dan debu"
+          },
+          {
+            "letter": "C",
+            "text": "Berwarna biru kemerahan"
+          },
+          {
+            "letter": "D",
+            "text": "Merupakan planet yang paling dekat dengan matahari"
+          }
+        ],
+        "rawText": "Perhatikan gambar planet berikut. Planet ini memiliki ciri khas yang sangat menonjol dibandingkan planet lainnya, yaitu ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189188_9680_10",
+      "number": 11,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar planet berikut. Planet ini memiliki ciri khas yang sangat menonjol dibandingkan planet lainnya, yaitu ...",
+      "pertanyaan": "Perhatikan gambar planet berikut. Planet ini memiliki ciri khas yang sangat menonjol dibandingkan planet lainnya, yaitu ...",
+      "text": "Perhatikan gambar planet berikut. Planet ini memiliki ciri khas yang sangat menonjol dibandingkan planet lainnya, yaitu ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Memiliki bintik merah raksasa"
+        },
+        {
+          "key": "B",
+          "text": "Memiliki sistem cincin yang terbuat dari es dan debu"
+        },
+        {
+          "key": "C",
+          "text": "Berwarna biru kemerahan"
+        },
+        {
+          "key": "D",
+          "text": "Merupakan planet yang paling dekat dengan matahari"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788814189188_2477_11",
+      "type": "pg",
+      "teks": "Waktu yang diperlukan oleh Bumi untuk melakukan satu kali putaran penuh pada porosnya disebut ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Kala revolusi",
+        "Kala rotasi",
+        "Tahun kabisat",
+        "Fase bulan"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 12,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Waktu yang diperlukan oleh Bumi untuk melakukan satu kali putaran penuh pada porosnya disebut ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Kala revolusi"
+          },
+          {
+            "letter": "B",
+            "text": "Kala rotasi"
+          },
+          {
+            "letter": "C",
+            "text": "Tahun kabisat"
+          },
+          {
+            "letter": "D",
+            "text": "Fase bulan"
+          }
+        ],
+        "rawText": "Waktu yang diperlukan oleh Bumi untuk melakukan satu kali putaran penuh pada porosnya disebut ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189188_2477_11",
+      "number": 12,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Waktu yang diperlukan oleh Bumi untuk melakukan satu kali putaran penuh pada porosnya disebut ...",
+      "pertanyaan": "Waktu yang diperlukan oleh Bumi untuk melakukan satu kali putaran penuh pada porosnya disebut ...",
+      "text": "Waktu yang diperlukan oleh Bumi untuk melakukan satu kali putaran penuh pada porosnya disebut ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Kala revolusi"
+        },
+        {
+          "key": "B",
+          "text": "Kala rotasi"
+        },
+        {
+          "key": "C",
+          "text": "Tahun kabisat"
+        },
+        {
+          "key": "D",
+          "text": "Fase bulan"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788814189189_4844_12",
+      "type": "pg",
+      "teks": "Salah satu akibat dari pergerakan Bumi berputar pada porosnya adalah terjadinya ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Pergantian musim",
+        "Perbedaan rasi bintang",
+        "Siang dan malam",
+        "Gerhana matahari"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 13,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Salah satu akibat dari pergerakan Bumi berputar pada porosnya adalah terjadinya ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Pergantian musim"
+          },
+          {
+            "letter": "B",
+            "text": "Perbedaan rasi bintang"
+          },
+          {
+            "letter": "C",
+            "text": "Siang dan malam"
+          },
+          {
+            "letter": "D",
+            "text": "Gerhana matahari"
+          }
+        ],
+        "rawText": "Salah satu akibat dari pergerakan Bumi berputar pada porosnya adalah terjadinya ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189189_4844_12",
+      "number": 13,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Salah satu akibat dari pergerakan Bumi berputar pada porosnya adalah terjadinya ...",
+      "pertanyaan": "Salah satu akibat dari pergerakan Bumi berputar pada porosnya adalah terjadinya ...",
+      "text": "Salah satu akibat dari pergerakan Bumi berputar pada porosnya adalah terjadinya ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Pergantian musim"
+        },
+        {
+          "key": "B",
+          "text": "Perbedaan rasi bintang"
+        },
+        {
+          "key": "C",
+          "text": "Siang dan malam"
+        },
+        {
+          "key": "D",
+          "text": "Gerhana matahari"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1788814189189_3769_13",
+      "type": "pg",
+      "teks": "Waktu yang diperlukan oleh Bumi untuk mengelilingi Matahari satu putaran penuh adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "24 jam",
+        "30 hari",
+        "365 ¼ hari",
+        "354 hari"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 14,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Waktu yang diperlukan oleh Bumi untuk mengelilingi Matahari satu putaran penuh adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "24 jam"
+          },
+          {
+            "letter": "B",
+            "text": "30 hari"
+          },
+          {
+            "letter": "C",
+            "text": "365 ¼ hari"
+          },
+          {
+            "letter": "D",
+            "text": "354 hari"
+          }
+        ],
+        "rawText": "Waktu yang diperlukan oleh Bumi untuk mengelilingi Matahari satu putaran penuh adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189189_3769_13",
+      "number": 14,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Waktu yang diperlukan oleh Bumi untuk mengelilingi Matahari satu putaran penuh adalah ...",
+      "pertanyaan": "Waktu yang diperlukan oleh Bumi untuk mengelilingi Matahari satu putaran penuh adalah ...",
+      "text": "Waktu yang diperlukan oleh Bumi untuk mengelilingi Matahari satu putaran penuh adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "24 jam"
+        },
+        {
+          "key": "B",
+          "text": "30 hari"
+        },
+        {
+          "key": "C",
+          "text": "365 ¼ hari"
+        },
+        {
+          "key": "D",
+          "text": "354 hari"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1788814189189_1095_14",
+      "type": "pg",
+      "teks": "Sabuk asteroid merupakan kumpulan ribuan batuan angkasa yang sebagian besar terletak di antara orbit planet ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Bumi dan Mars",
+        "Mars dan Yupiter",
+        "Yupiter dan Saturnus",
+        "Venus dan Bumi"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 15,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Sabuk asteroid merupakan kumpulan ribuan batuan angkasa yang sebagian besar terletak di antara orbit planet ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Bumi dan Mars"
+          },
+          {
+            "letter": "B",
+            "text": "Mars dan Yupiter"
+          },
+          {
+            "letter": "C",
+            "text": "Yupiter dan Saturnus"
+          },
+          {
+            "letter": "D",
+            "text": "Venus dan Bumi"
+          }
+        ],
+        "rawText": "Sabuk asteroid merupakan kumpulan ribuan batuan angkasa yang sebagian besar terletak di antara orbit planet ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189189_1095_14",
+      "number": 15,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Sabuk asteroid merupakan kumpulan ribuan batuan angkasa yang sebagian besar terletak di antara orbit planet ...",
+      "pertanyaan": "Sabuk asteroid merupakan kumpulan ribuan batuan angkasa yang sebagian besar terletak di antara orbit planet ...",
+      "text": "Sabuk asteroid merupakan kumpulan ribuan batuan angkasa yang sebagian besar terletak di antara orbit planet ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Bumi dan Mars"
+        },
+        {
+          "key": "B",
+          "text": "Mars dan Yupiter"
+        },
+        {
+          "key": "C",
+          "text": "Yupiter dan Saturnus"
+        },
+        {
+          "key": "D",
+          "text": "Venus dan Bumi"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788814189189_8756_15",
+      "type": "pg",
+      "teks": "Berdasarkan urutannya dari Matahari, planet yang letaknya paling jauh adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Uranus",
+        "Saturnus",
+        "Neptunus",
+        "Yupiter"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 16,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Berdasarkan urutannya dari Matahari, planet yang letaknya paling jauh adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Uranus"
+          },
+          {
+            "letter": "B",
+            "text": "Saturnus"
+          },
+          {
+            "letter": "C",
+            "text": "Neptunus"
+          },
+          {
+            "letter": "D",
+            "text": "Yupiter"
+          }
+        ],
+        "rawText": "Berdasarkan urutannya dari Matahari, planet yang letaknya paling jauh adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189189_8756_15",
+      "number": 16,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Berdasarkan urutannya dari Matahari, planet yang letaknya paling jauh adalah ...",
+      "pertanyaan": "Berdasarkan urutannya dari Matahari, planet yang letaknya paling jauh adalah ...",
+      "text": "Berdasarkan urutannya dari Matahari, planet yang letaknya paling jauh adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Uranus"
+        },
+        {
+          "key": "B",
+          "text": "Saturnus"
+        },
+        {
+          "key": "C",
+          "text": "Neptunus"
+        },
+        {
+          "key": "D",
+          "text": "Yupiter"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1788814189189_9843_16",
+      "type": "pg",
+      "teks": "Batuan angkasa yang masuk ke atmosfer Bumi dan habis terbakar sebelum mencapai permukaan Bumi sering disebut sebagai bintang beralih atau ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Meteor",
+        "Meteoroid",
+        "Meteorit",
+        "Komet"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 17,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Batuan angkasa yang masuk ke atmosfer Bumi dan habis terbakar sebelum mencapai permukaan Bumi sering disebut sebagai bintang beralih atau ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Meteor"
+          },
+          {
+            "letter": "B",
+            "text": "Meteoroid"
+          },
+          {
+            "letter": "C",
+            "text": "Meteorit"
+          },
+          {
+            "letter": "D",
+            "text": "Komet"
+          }
+        ],
+        "rawText": "Batuan angkasa yang masuk ke atmosfer Bumi dan habis terbakar sebelum mencapai permukaan Bumi sering disebut sebagai bintang beralih atau ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189189_9843_16",
+      "number": 17,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Batuan angkasa yang masuk ke atmosfer Bumi dan habis terbakar sebelum mencapai permukaan Bumi sering disebut sebagai bintang beralih atau ...",
+      "pertanyaan": "Batuan angkasa yang masuk ke atmosfer Bumi dan habis terbakar sebelum mencapai permukaan Bumi sering disebut sebagai bintang beralih atau ...",
+      "text": "Batuan angkasa yang masuk ke atmosfer Bumi dan habis terbakar sebelum mencapai permukaan Bumi sering disebut sebagai bintang beralih atau ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Meteor"
+        },
+        {
+          "key": "B",
+          "text": "Meteoroid"
+        },
+        {
+          "key": "C",
+          "text": "Meteorit"
+        },
+        {
+          "key": "D",
+          "text": "Komet"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1788814189189_8867_17",
+      "type": "pg",
+      "teks": "Pergerakan rotasi Bumi berputar dari arah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Utara ke selatan",
+        "Selatan ke utara",
+        "Timur ke barat",
+        "Barat ke timur"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 3,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 18,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pergerakan rotasi Bumi berputar dari arah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Utara ke selatan"
+          },
+          {
+            "letter": "B",
+            "text": "Selatan ke utara"
+          },
+          {
+            "letter": "C",
+            "text": "Timur ke barat"
+          },
+          {
+            "letter": "D",
+            "text": "Barat ke timur"
+          }
+        ],
+        "rawText": "Pergerakan rotasi Bumi berputar dari arah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189189_8867_17",
+      "number": 18,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pergerakan rotasi Bumi berputar dari arah ...",
+      "pertanyaan": "Pergerakan rotasi Bumi berputar dari arah ...",
+      "text": "Pergerakan rotasi Bumi berputar dari arah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Utara ke selatan"
+        },
+        {
+          "key": "B",
+          "text": "Selatan ke utara"
+        },
+        {
+          "key": "C",
+          "text": "Timur ke barat"
+        },
+        {
+          "key": "D",
+          "text": "Barat ke timur"
+        }
+      ],
+      "answer": "D",
+      "kunci": "D",
+      "correctAnswer": 3
+    },
+    {
+      "id": "temp_ai_1788814189190_5826_18",
+      "type": "pg",
+      "teks": "Hampir seluruh planet berotasi dari barat ke timur. Namun, ada planet yang arah rotasinya berlawanan (dari timur ke barat). Planet tersebut adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Merkurius",
+        "Venus",
+        "Mars",
+        "Saturnus"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 19,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Hampir seluruh planet berotasi dari barat ke timur. Namun, ada planet yang arah rotasinya berlawanan (dari timur ke barat). Planet tersebut adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Merkurius"
+          },
+          {
+            "letter": "B",
+            "text": "Venus"
+          },
+          {
+            "letter": "C",
+            "text": "Mars"
+          },
+          {
+            "letter": "D",
+            "text": "Saturnus"
+          }
+        ],
+        "rawText": "Hampir seluruh planet berotasi dari barat ke timur. Namun, ada planet yang arah rotasinya berlawanan (dari timur ke barat). Planet tersebut adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189190_5826_18",
+      "number": 19,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Hampir seluruh planet berotasi dari barat ke timur. Namun, ada planet yang arah rotasinya berlawanan (dari timur ke barat). Planet tersebut adalah ...",
+      "pertanyaan": "Hampir seluruh planet berotasi dari barat ke timur. Namun, ada planet yang arah rotasinya berlawanan (dari timur ke barat). Planet tersebut adalah ...",
+      "text": "Hampir seluruh planet berotasi dari barat ke timur. Namun, ada planet yang arah rotasinya berlawanan (dari timur ke barat). Planet tersebut adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkurius"
+        },
+        {
+          "key": "B",
+          "text": "Venus"
+        },
+        {
+          "key": "C",
+          "text": "Mars"
+        },
+        {
+          "key": "D",
+          "text": "Saturnus"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788814189190_7934_19",
+      "type": "pg",
+      "teks": "Bumi mendapat julukan sebagai \"Planet Biru\" jika dilihat dari luar angkasa. Hal ini dikarenakan ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Atmosfernya terdiri dari gas metana",
+        "Sebagian besar permukaannya tertutup oleh air",
+        "Banyaknya es di kutub utara dan selatan",
+        "Pantulan cahaya dari bulan"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 20,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Bumi mendapat julukan sebagai \"Planet Biru\" jika dilihat dari luar angkasa. Hal ini dikarenakan ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Atmosfernya terdiri dari gas metana"
+          },
+          {
+            "letter": "B",
+            "text": "Sebagian besar permukaannya tertutup oleh air"
+          },
+          {
+            "letter": "C",
+            "text": "Banyaknya es di kutub utara dan selatan"
+          },
+          {
+            "letter": "D",
+            "text": "Pantulan cahaya dari bulan"
+          }
+        ],
+        "rawText": "Bumi mendapat julukan sebagai \"Planet Biru\" jika dilihat dari luar angkasa. Hal ini dikarenakan ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1788814189190_7934_19",
+      "number": 20,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Bumi mendapat julukan sebagai \"Planet Biru\" jika dilihat dari luar angkasa. Hal ini dikarenakan ...",
+      "pertanyaan": "Bumi mendapat julukan sebagai \"Planet Biru\" jika dilihat dari luar angkasa. Hal ini dikarenakan ...",
+      "text": "Bumi mendapat julukan sebagai \"Planet Biru\" jika dilihat dari luar angkasa. Hal ini dikarenakan ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Atmosfernya terdiri dari gas metana"
+        },
+        {
+          "key": "B",
+          "text": "Sebagian besar permukaannya tertutup oleh air"
+        },
+        {
+          "key": "C",
+          "text": "Banyaknya es di kutub utara dan selatan"
+        },
+        {
+          "key": "D",
+          "text": "Pantulan cahaya dari bulan"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1788814189191_3263_20",
+      "type": "ma",
+      "teks": "Perhatikan ilustrasi pergerakan Bumi berikut ini. Berdasarkan gambar tersebut, manakah pernyataan yang benar mengenai pergerakan Bumi?",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_b0a99be1de34a140.webp",
+      "rawMedia": "soal-21.png",
+      "opsi": [
+        "Rotasi Bumi (putaran pada porosnya) menyebabkan terjadinya peristiwa siang dan malam",
+        "Revolusi Bumi (mengelilingi matahari) menyebabkan terjadinya pergantian musim di Bumi",
+        "Waktu yang dibutuhkan untuk satu kali revolusi Bumi adalah 24 jam",
+        "Waktu yang dibutuhkan untuk satu kali rotasi Bumi adalah 1 tahun (365 ¼ hari)",
+        "Sumbu rotasi Bumi tidak tegak lurus, melainkan miring dengan sudut sekitar 23,5 derajat"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        4
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 21,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan ilustrasi pergerakan Bumi berikut ini. Berdasarkan gambar tersebut, manakah pernyataan yang benar mengenai pergerakan Bumi?",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_b0a99be1de34a140.webp",
+            "caption": "soal-21.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Rotasi Bumi (putaran pada porosnya) menyebabkan terjadinya peristiwa siang dan malam"
+          },
+          {
+            "letter": "B",
+            "text": "Revolusi Bumi (mengelilingi matahari) menyebabkan terjadinya pergantian musim di Bumi"
+          },
+          {
+            "letter": "C",
+            "text": "Waktu yang dibutuhkan untuk satu kali revolusi Bumi adalah 24 jam"
+          },
+          {
+            "letter": "D",
+            "text": "Waktu yang dibutuhkan untuk satu kali rotasi Bumi adalah 1 tahun (365 ¼ hari)"
+          },
+          {
+            "letter": "E",
+            "text": "Sumbu rotasi Bumi tidak tegak lurus, melainkan miring dengan sudut sekitar 23,5 derajat"
+          }
+        ],
+        "rawText": "Perhatikan ilustrasi pergerakan Bumi berikut ini. Berdasarkan gambar tersebut, manakah pernyataan yang benar mengenai pergerakan Bumi?",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788814189191_3263_20",
+      "number": 21,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Perhatikan ilustrasi pergerakan Bumi berikut ini. Berdasarkan gambar tersebut, manakah pernyataan yang benar mengenai pergerakan Bumi?",
+      "pertanyaan": "Perhatikan ilustrasi pergerakan Bumi berikut ini. Berdasarkan gambar tersebut, manakah pernyataan yang benar mengenai pergerakan Bumi?",
+      "text": "Perhatikan ilustrasi pergerakan Bumi berikut ini. Berdasarkan gambar tersebut, manakah pernyataan yang benar mengenai pergerakan Bumi?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Rotasi Bumi (putaran pada porosnya) menyebabkan terjadinya peristiwa siang dan malam"
+        },
+        {
+          "key": "B",
+          "text": "Revolusi Bumi (mengelilingi matahari) menyebabkan terjadinya pergantian musim di Bumi"
+        },
+        {
+          "key": "C",
+          "text": "Waktu yang dibutuhkan untuk satu kali revolusi Bumi adalah 24 jam"
+        },
+        {
+          "key": "D",
+          "text": "Waktu yang dibutuhkan untuk satu kali rotasi Bumi adalah 1 tahun (365 ¼ hari)"
+        },
+        {
+          "key": "E",
+          "text": "Sumbu rotasi Bumi tidak tegak lurus, melainkan miring dengan sudut sekitar 23,5 derajat"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "kunci": "A, B, E"
+    },
+    {
+      "id": "temp_ai_1788814189191_2775_21",
+      "type": "ma",
+      "teks": "Planet-planet dalam tata surya dikelompokkan menjadi planet dalam (inner planets) dan planet luar (outer planets). Manakah di bawah ini yang termasuk dalam kelompok planet dalam?",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Merkurius",
+        "Venus",
+        "Yupiter",
+        "Saturnus",
+        "Bumi"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        4
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 22,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Planet-planet dalam tata surya dikelompokkan menjadi planet dalam (inner planets) dan planet luar (outer planets). Manakah di bawah ini yang termasuk dalam kelompok planet dalam?",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Merkurius"
+          },
+          {
+            "letter": "B",
+            "text": "Venus"
+          },
+          {
+            "letter": "C",
+            "text": "Yupiter"
+          },
+          {
+            "letter": "D",
+            "text": "Saturnus"
+          },
+          {
+            "letter": "E",
+            "text": "Bumi"
+          }
+        ],
+        "rawText": "Planet-planet dalam tata surya dikelompokkan menjadi planet dalam (inner planets) dan planet luar (outer planets). Manakah di bawah ini yang termasuk dalam kelompok planet dalam?",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788814189191_2775_21",
+      "number": 22,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Planet-planet dalam tata surya dikelompokkan menjadi planet dalam (inner planets) dan planet luar (outer planets). Manakah di bawah ini yang termasuk dalam kelompok planet dalam?",
+      "pertanyaan": "Planet-planet dalam tata surya dikelompokkan menjadi planet dalam (inner planets) dan planet luar (outer planets). Manakah di bawah ini yang termasuk dalam kelompok planet dalam?",
+      "text": "Planet-planet dalam tata surya dikelompokkan menjadi planet dalam (inner planets) dan planet luar (outer planets). Manakah di bawah ini yang termasuk dalam kelompok planet dalam?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Merkurius"
+        },
+        {
+          "key": "B",
+          "text": "Venus"
+        },
+        {
+          "key": "C",
+          "text": "Yupiter"
+        },
+        {
+          "key": "D",
+          "text": "Saturnus"
+        },
+        {
+          "key": "E",
+          "text": "Bumi"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "E"
+      ],
+      "kunci": "A, B, E"
+    },
+    {
+      "id": "temp_ai_1788814189192_2336_22",
+      "type": "ma",
+      "teks": "Satelit merupakan salah satu anggota tata surya. Manakah pernyataan yang benar tentang karakteristik satelit?",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Satelit dapat memancarkan cahayanya sendiri seperti bintang",
+        "Satelit merupakan benda langit yang bergerak mengelilingi planet",
+        "Bulan merupakan contoh dari satelit alami yang dimiliki oleh Bumi",
+        "Planet Merkurius memiliki 2 buah satelit alami",
+        "Phobos dan Deimos adalah satelit alami yang dimiliki oleh planet Mars"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        1,
+        2,
+        4
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 23,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Satelit merupakan salah satu anggota tata surya. Manakah pernyataan yang benar tentang karakteristik satelit?",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Satelit dapat memancarkan cahayanya sendiri seperti bintang"
+          },
+          {
+            "letter": "B",
+            "text": "Satelit merupakan benda langit yang bergerak mengelilingi planet"
+          },
+          {
+            "letter": "C",
+            "text": "Bulan merupakan contoh dari satelit alami yang dimiliki oleh Bumi"
+          },
+          {
+            "letter": "D",
+            "text": "Planet Merkurius memiliki 2 buah satelit alami"
+          },
+          {
+            "letter": "E",
+            "text": "Phobos dan Deimos adalah satelit alami yang dimiliki oleh planet Mars"
+          }
+        ],
+        "rawText": "Satelit merupakan salah satu anggota tata surya. Manakah pernyataan yang benar tentang karakteristik satelit?",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1788814189192_2336_22",
+      "number": 23,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Satelit merupakan salah satu anggota tata surya. Manakah pernyataan yang benar tentang karakteristik satelit?",
+      "pertanyaan": "Satelit merupakan salah satu anggota tata surya. Manakah pernyataan yang benar tentang karakteristik satelit?",
+      "text": "Satelit merupakan salah satu anggota tata surya. Manakah pernyataan yang benar tentang karakteristik satelit?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Satelit dapat memancarkan cahayanya sendiri seperti bintang"
+        },
+        {
+          "key": "B",
+          "text": "Satelit merupakan benda langit yang bergerak mengelilingi planet"
+        },
+        {
+          "key": "C",
+          "text": "Bulan merupakan contoh dari satelit alami yang dimiliki oleh Bumi"
+        },
+        {
+          "key": "D",
+          "text": "Planet Merkurius memiliki 2 buah satelit alami"
+        },
+        {
+          "key": "E",
+          "text": "Phobos dan Deimos adalah satelit alami yang dimiliki oleh planet Mars"
+        }
+      ],
+      "answers": [
+        "B",
+        "C",
+        "E"
+      ],
+      "kunci": "B, C, E"
+    },
+    {
+      "id": "temp_ai_1788814189193_2715_23",
+      "type": "tf",
+      "teks": "Bacalah pernyataan-pernyataan mengenai fenomena gerhana di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Gerhana bulan terjadi ketika posisi Bumi berada dalam satu garis lurus di antara Matahari dan Bulan.",
+          "teks": "Gerhana bulan terjadi ketika posisi Bumi berada dalam satu garis lurus di antara Matahari dan Bulan.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Gerhana matahari terjadi ketika Bulan berada di antara Matahari dan Bumi, sehingga bayangan Bulan jatuh ke permukaan Bumi.",
+          "teks": "Gerhana matahari terjadi ketika Bulan berada di antara Matahari dan Bumi, sehingga bayangan Bulan jatuh ke permukaan Bumi.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Gerhana selalu terjadi pada setiap bulan purnama dan bulan baru setiap bulannya.",
+          "teks": "Gerhana selalu terjadi pada setiap bulan purnama dan bulan baru setiap bulannya.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 4,
+          "text": "Bagian bayangan kabur (tidak terlalu gelap) yang terbentuk saat terjadi gerhana disebut dengan umbra.",
+          "teks": "Bagian bayangan kabur (tidak terlalu gelap) yang terbentuk saat terjadi gerhana disebut dengan umbra.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Gerhana matahari total hanya dapat diamati pada daerah di permukaan Bumi yang tertutup oleh bayangan umbra Bulan.",
+          "teks": "Gerhana matahari total hanya dapat diamati pada daerah di permukaan Bumi yang tertutup oleh bayangan umbra Bulan.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Gerhana bulan terjadi ketika posisi Bumi berada dalam satu garis lurus di antara Matahari dan Bulan.",
+          "jawaban": true,
+          "text": "Gerhana bulan terjadi ketika posisi Bumi berada dalam satu garis lurus di antara Matahari dan Bulan."
+        },
+        {
+          "teks": "Gerhana matahari terjadi ketika Bulan berada di antara Matahari dan Bumi, sehingga bayangan Bulan jatuh ke permukaan Bumi.",
+          "jawaban": true,
+          "text": "Gerhana matahari terjadi ketika Bulan berada di antara Matahari dan Bumi, sehingga bayangan Bulan jatuh ke permukaan Bumi."
+        },
+        {
+          "teks": "Gerhana selalu terjadi pada setiap bulan purnama dan bulan baru setiap bulannya.",
+          "jawaban": false,
+          "text": "Gerhana selalu terjadi pada setiap bulan purnama dan bulan baru setiap bulannya."
+        },
+        {
+          "teks": "Bagian bayangan kabur (tidak terlalu gelap) yang terbentuk saat terjadi gerhana disebut dengan umbra.",
+          "jawaban": false,
+          "text": "Bagian bayangan kabur (tidak terlalu gelap) yang terbentuk saat terjadi gerhana disebut dengan umbra."
+        },
+        {
+          "teks": "Gerhana matahari total hanya dapat diamati pada daerah di permukaan Bumi yang tertutup oleh bayangan umbra Bulan.",
+          "jawaban": true,
+          "text": "Gerhana matahari total hanya dapat diamati pada daerah di permukaan Bumi yang tertutup oleh bayangan umbra Bulan."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Gerhana bulan terjadi ketika posisi Bumi berada dalam satu garis lurus di antara Matahari dan Bulan.",
+          "teks": "Gerhana bulan terjadi ketika posisi Bumi berada dalam satu garis lurus di antara Matahari dan Bulan.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Gerhana matahari terjadi ketika Bulan berada di antara Matahari dan Bumi, sehingga bayangan Bulan jatuh ke permukaan Bumi.",
+          "teks": "Gerhana matahari terjadi ketika Bulan berada di antara Matahari dan Bumi, sehingga bayangan Bulan jatuh ke permukaan Bumi.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Gerhana selalu terjadi pada setiap bulan purnama dan bulan baru setiap bulannya.",
+          "teks": "Gerhana selalu terjadi pada setiap bulan purnama dan bulan baru setiap bulannya.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 4,
+          "text": "Bagian bayangan kabur (tidak terlalu gelap) yang terbentuk saat terjadi gerhana disebut dengan umbra.",
+          "teks": "Bagian bayangan kabur (tidak terlalu gelap) yang terbentuk saat terjadi gerhana disebut dengan umbra.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Gerhana matahari total hanya dapat diamati pada daerah di permukaan Bumi yang tertutup oleh bayangan umbra Bulan.",
+          "teks": "Gerhana matahari total hanya dapat diamati pada daerah di permukaan Bumi yang tertutup oleh bayangan umbra Bulan.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 24,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Bacalah pernyataan-pernyataan mengenai fenomena gerhana di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Gerhana bulan terjadi ketika posisi Bumi berada dalam satu garis lurus di antara Matahari dan Bulan."
+          },
+          {
+            "letter": "B",
+            "text": "Gerhana matahari terjadi ketika Bulan berada di antara Matahari dan Bumi, sehingga bayangan Bulan jatuh ke permukaan Bumi."
+          },
+          {
+            "letter": "C",
+            "text": "Gerhana selalu terjadi pada setiap bulan purnama dan bulan baru setiap bulannya."
+          },
+          {
+            "letter": "D",
+            "text": "Bagian bayangan kabur (tidak terlalu gelap) yang terbentuk saat terjadi gerhana disebut dengan umbra."
+          },
+          {
+            "letter": "E",
+            "text": "Gerhana matahari total hanya dapat diamati pada daerah di permukaan Bumi yang tertutup oleh bayangan umbra Bulan."
+          }
+        ],
+        "rawText": "Bacalah pernyataan-pernyataan mengenai fenomena gerhana di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1788814189193_2715_23",
+      "number": 24,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Bacalah pernyataan-pernyataan mengenai fenomena gerhana di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+      "pertanyaan": "Bacalah pernyataan-pernyataan mengenai fenomena gerhana di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+      "text": "Bacalah pernyataan-pernyataan mengenai fenomena gerhana di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788814189194_8233_24",
+      "type": "tf",
+      "teks": "Bacalah pernyataan-pernyataan mengenai karakteristik planet di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Uranus memiliki kemiringan sumbu rotasi yang sangat ekstrem sehingga tampak seperti menggelinding saat mengelilingi matahari.",
+          "teks": "Uranus memiliki kemiringan sumbu rotasi yang sangat ekstrem sehingga tampak seperti menggelinding saat mengelilingi matahari.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Venus merupakan planet terpanas di tata surya karena efek rumah kaca dari atmosfernya yang sangat tebal.",
+          "teks": "Venus merupakan planet terpanas di tata surya karena efek rumah kaca dari atmosfernya yang sangat tebal.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Yupiter adalah satu-satunya planet di tata surya yang memiliki sistem cincin.",
+          "teks": "Yupiter adalah satu-satunya planet di tata surya yang memiliki sistem cincin.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 4,
+          "text": "Mars diyakini pernah memiliki air mengalir karena ditemukan jejak lembah dan sungai kering di permukaannya.",
+          "teks": "Mars diyakini pernah memiliki air mengalir karena ditemukan jejak lembah dan sungai kering di permukaannya.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Neptunus tampak berwarna biru kemerahan karena banyaknya gas hidrogen di atmosfernya.",
+          "teks": "Neptunus tampak berwarna biru kemerahan karena banyaknya gas hidrogen di atmosfernya.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Uranus memiliki kemiringan sumbu rotasi yang sangat ekstrem sehingga tampak seperti menggelinding saat mengelilingi matahari.",
+          "jawaban": true,
+          "text": "Uranus memiliki kemiringan sumbu rotasi yang sangat ekstrem sehingga tampak seperti menggelinding saat mengelilingi matahari."
+        },
+        {
+          "teks": "Venus merupakan planet terpanas di tata surya karena efek rumah kaca dari atmosfernya yang sangat tebal.",
+          "jawaban": true,
+          "text": "Venus merupakan planet terpanas di tata surya karena efek rumah kaca dari atmosfernya yang sangat tebal."
+        },
+        {
+          "teks": "Yupiter adalah satu-satunya planet di tata surya yang memiliki sistem cincin.",
+          "jawaban": false,
+          "text": "Yupiter adalah satu-satunya planet di tata surya yang memiliki sistem cincin."
+        },
+        {
+          "teks": "Mars diyakini pernah memiliki air mengalir karena ditemukan jejak lembah dan sungai kering di permukaannya.",
+          "jawaban": true,
+          "text": "Mars diyakini pernah memiliki air mengalir karena ditemukan jejak lembah dan sungai kering di permukaannya."
+        },
+        {
+          "teks": "Neptunus tampak berwarna biru kemerahan karena banyaknya gas hidrogen di atmosfernya.",
+          "jawaban": false,
+          "text": "Neptunus tampak berwarna biru kemerahan karena banyaknya gas hidrogen di atmosfernya."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Uranus memiliki kemiringan sumbu rotasi yang sangat ekstrem sehingga tampak seperti menggelinding saat mengelilingi matahari.",
+          "teks": "Uranus memiliki kemiringan sumbu rotasi yang sangat ekstrem sehingga tampak seperti menggelinding saat mengelilingi matahari.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Venus merupakan planet terpanas di tata surya karena efek rumah kaca dari atmosfernya yang sangat tebal.",
+          "teks": "Venus merupakan planet terpanas di tata surya karena efek rumah kaca dari atmosfernya yang sangat tebal.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Yupiter adalah satu-satunya planet di tata surya yang memiliki sistem cincin.",
+          "teks": "Yupiter adalah satu-satunya planet di tata surya yang memiliki sistem cincin.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 4,
+          "text": "Mars diyakini pernah memiliki air mengalir karena ditemukan jejak lembah dan sungai kering di permukaannya.",
+          "teks": "Mars diyakini pernah memiliki air mengalir karena ditemukan jejak lembah dan sungai kering di permukaannya.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Neptunus tampak berwarna biru kemerahan karena banyaknya gas hidrogen di atmosfernya.",
+          "teks": "Neptunus tampak berwarna biru kemerahan karena banyaknya gas hidrogen di atmosfernya.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 25,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Bacalah pernyataan-pernyataan mengenai karakteristik planet di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Uranus memiliki kemiringan sumbu rotasi yang sangat ekstrem sehingga tampak seperti menggelinding saat mengelilingi matahari."
+          },
+          {
+            "letter": "B",
+            "text": "Venus merupakan planet terpanas di tata surya karena efek rumah kaca dari atmosfernya yang sangat tebal."
+          },
+          {
+            "letter": "C",
+            "text": "Yupiter adalah satu-satunya planet di tata surya yang memiliki sistem cincin."
+          },
+          {
+            "letter": "D",
+            "text": "Mars diyakini pernah memiliki air mengalir karena ditemukan jejak lembah dan sungai kering di permukaannya."
+          },
+          {
+            "letter": "E",
+            "text": "Neptunus tampak berwarna biru kemerahan karena banyaknya gas hidrogen di atmosfernya."
+          }
+        ],
+        "rawText": "Bacalah pernyataan-pernyataan mengenai karakteristik planet di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1788814189194_8233_24",
+      "number": 25,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Bacalah pernyataan-pernyataan mengenai karakteristik planet di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+      "pertanyaan": "Bacalah pernyataan-pernyataan mengenai karakteristik planet di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+      "text": "Bacalah pernyataan-pernyataan mengenai karakteristik planet di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788814189194_13_25",
+      "type": "match",
+      "teks": "Pasangkan nama-nama benda langit berikut dengan deskripsi yang paling tepat!",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Komet",
+          "kiri": "Komet",
+          "right": "Benda langit berekor dari es dan debu yang orbitnya mengelilingi matahari",
+          "kanan": "Benda langit berekor dari es dan debu yang orbitnya mengelilingi matahari",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Asteroid",
+          "kiri": "Asteroid",
+          "right": "Gumpalan batuan yang sebagian besar mengorbit di antara Mars dan Yupiter",
+          "kanan": "Gumpalan batuan yang sebagian besar mengorbit di antara Mars dan Yupiter",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Meteor",
+          "kiri": "Meteor",
+          "right": "Batuan angkasa yang sedang terbakar saat memasuki atmosfer bumi",
+          "kanan": "Batuan angkasa yang sedang terbakar saat memasuki atmosfer bumi",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Satelit",
+          "kiri": "Satelit",
+          "right": "Benda langit alami atau buatan yang bergerak mengelilingi sebuah planet",
+          "kanan": "Benda langit alami atau buatan yang bergerak mengelilingi sebuah planet",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Bintang",
+          "kiri": "Bintang",
+          "right": "Benda langit yang mampu menghasilkan dan memancarkan cahayanya sendiri",
+          "kanan": "Benda langit yang mampu menghasilkan dan memancarkan cahayanya sendiri",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Komet",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Benda langit berekor dari es dan debu yang orbitnya mengelilingi matahari",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Asteroid",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Gumpalan batuan yang sebagian besar mengorbit di antara Mars dan Yupiter",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Meteor",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Batuan angkasa yang sedang terbakar saat memasuki atmosfer bumi",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Satelit",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Benda langit alami atau buatan yang bergerak mengelilingi sebuah planet",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Bintang",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Benda langit yang mampu menghasilkan dan memancarkan cahayanya sendiri",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Komet",
+          "kiri": "Komet",
+          "right": "Benda langit berekor dari es dan debu yang orbitnya mengelilingi matahari",
+          "kanan": "Benda langit berekor dari es dan debu yang orbitnya mengelilingi matahari",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Asteroid",
+          "kiri": "Asteroid",
+          "right": "Gumpalan batuan yang sebagian besar mengorbit di antara Mars dan Yupiter",
+          "kanan": "Gumpalan batuan yang sebagian besar mengorbit di antara Mars dan Yupiter",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Meteor",
+          "kiri": "Meteor",
+          "right": "Batuan angkasa yang sedang terbakar saat memasuki atmosfer bumi",
+          "kanan": "Batuan angkasa yang sedang terbakar saat memasuki atmosfer bumi",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Satelit",
+          "kiri": "Satelit",
+          "right": "Benda langit alami atau buatan yang bergerak mengelilingi sebuah planet",
+          "kanan": "Benda langit alami atau buatan yang bergerak mengelilingi sebuah planet",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Bintang",
+          "kiri": "Bintang",
+          "right": "Benda langit yang mampu menghasilkan dan memancarkan cahayanya sendiri",
+          "kanan": "Benda langit yang mampu menghasilkan dan memancarkan cahayanya sendiri",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 26,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pasangkan nama-nama benda langit berikut dengan deskripsi yang paling tepat!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Pasangkan nama-nama benda langit berikut dengan deskripsi yang paling tepat!",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1788814189194_13_25",
+      "number": 26,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Pasangkan nama-nama benda langit berikut dengan deskripsi yang paling tepat!",
+      "pertanyaan": "Pasangkan nama-nama benda langit berikut dengan deskripsi yang paling tepat!",
+      "text": "Pasangkan nama-nama benda langit berikut dengan deskripsi yang paling tepat!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788814189195_8675_26",
+      "type": "match",
+      "teks": "Pasangkan nama planet di bawah ini dengan julukan atau karakteristik utamanya yang paling tepat!",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Merkurius",
+          "kiri": "Merkurius",
+          "right": "Planet yang ukurannya paling kecil di tata surya",
+          "kanan": "Planet yang ukurannya paling kecil di tata surya",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Venus",
+          "kiri": "Venus",
+          "right": "Sering disebut sebagai Bintang Fajar atau Bintang Kejora",
+          "kanan": "Sering disebut sebagai Bintang Fajar atau Bintang Kejora",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Bumi",
+          "kiri": "Bumi",
+          "right": "Satu-satunya planet yang diketahui memiliki kehidupan",
+          "kanan": "Satu-satunya planet yang diketahui memiliki kehidupan",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Mars",
+          "kiri": "Mars",
+          "right": "Dikenal dengan julukan si Planet Merah",
+          "kanan": "Dikenal dengan julukan si Planet Merah",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Yupiter",
+          "kiri": "Yupiter",
+          "right": "Planet yang memiliki ukuran paling besar di tata surya",
+          "kanan": "Planet yang memiliki ukuran paling besar di tata surya",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Merkurius",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Planet yang ukurannya paling kecil di tata surya",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Venus",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Sering disebut sebagai Bintang Fajar atau Bintang Kejora",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Bumi",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Satu-satunya planet yang diketahui memiliki kehidupan",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Mars",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Dikenal dengan julukan si Planet Merah",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Yupiter",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Planet yang memiliki ukuran paling besar di tata surya",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Merkurius",
+          "kiri": "Merkurius",
+          "right": "Planet yang ukurannya paling kecil di tata surya",
+          "kanan": "Planet yang ukurannya paling kecil di tata surya",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Venus",
+          "kiri": "Venus",
+          "right": "Sering disebut sebagai Bintang Fajar atau Bintang Kejora",
+          "kanan": "Sering disebut sebagai Bintang Fajar atau Bintang Kejora",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Bumi",
+          "kiri": "Bumi",
+          "right": "Satu-satunya planet yang diketahui memiliki kehidupan",
+          "kanan": "Satu-satunya planet yang diketahui memiliki kehidupan",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Mars",
+          "kiri": "Mars",
+          "right": "Dikenal dengan julukan si Planet Merah",
+          "kanan": "Dikenal dengan julukan si Planet Merah",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Yupiter",
+          "kiri": "Yupiter",
+          "right": "Planet yang memiliki ukuran paling besar di tata surya",
+          "kanan": "Planet yang memiliki ukuran paling besar di tata surya",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 27,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pasangkan nama planet di bawah ini dengan julukan atau karakteristik utamanya yang paling tepat!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Pasangkan nama planet di bawah ini dengan julukan atau karakteristik utamanya yang paling tepat!",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1788814189195_8675_26",
+      "number": 27,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Pasangkan nama planet di bawah ini dengan julukan atau karakteristik utamanya yang paling tepat!",
+      "pertanyaan": "Pasangkan nama planet di bawah ini dengan julukan atau karakteristik utamanya yang paling tepat!",
+      "text": "Pasangkan nama planet di bawah ini dengan julukan atau karakteristik utamanya yang paling tepat!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1788814189195_6632_27",
+      "type": "esai",
+      "teks": "Perhatikan susunan Matahari, Bumi, dan Bulan pada diagram berikut ini! Berdasarkan gambar tersebut, jelaskan secara singkat peristiwa alam apa yang sedang terjadi dan mengapa hal itu bisa terjadi!",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_bbb216574f777310.webp",
+      "rawMedia": "soal-28.png",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "Peristiwa yang terjadi adalah gerhana bulan. Hal ini terjadi karena posisi Bumi berada di antara Matahari dan Bulan dalam satu garis lurus, sehingga cahaya matahari yang seharusnya menuju Bulan terhalang oleh Bumi dan menyebabkan Bulan berada dalam bayangan Bumi.",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "Peristiwa yang terjadi adalah gerhana bulan. Hal ini terjadi karena posisi Bumi berada di antara Matahari dan Bulan dalam satu garis lurus, sehingga cahaya matahari yang seharusnya menuju Bulan terhalang oleh Bumi dan menyebabkan Bulan berada dalam bayangan Bumi.",
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 28,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan susunan Matahari, Bumi, dan Bulan pada diagram berikut ini! Berdasarkan gambar tersebut, jelaskan secara singkat peristiwa alam apa yang sedang terjadi dan mengapa hal itu bisa terjadi!",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_bbb216574f777310.webp",
+            "caption": "soal-28.png"
+          }
+        ],
+        "options": [],
+        "rawText": "Perhatikan susunan Matahari, Bumi, dan Bulan pada diagram berikut ini! Berdasarkan gambar tersebut, jelaskan secara singkat peristiwa alam apa yang sedang terjadi dan mengapa hal itu bisa terjadi!",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1788814189195_6632_27",
+      "number": 28,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Perhatikan susunan Matahari, Bumi, dan Bulan pada diagram berikut ini! Berdasarkan gambar tersebut, jelaskan secara singkat peristiwa alam apa yang sedang terjadi dan mengapa hal itu bisa terjadi!",
+      "pertanyaan": "Perhatikan susunan Matahari, Bumi, dan Bulan pada diagram berikut ini! Berdasarkan gambar tersebut, jelaskan secara singkat peristiwa alam apa yang sedang terjadi dan mengapa hal itu bisa terjadi!",
+      "text": "Perhatikan susunan Matahari, Bumi, dan Bulan pada diagram berikut ini! Berdasarkan gambar tersebut, jelaskan secara singkat peristiwa alam apa yang sedang terjadi dan mengapa hal itu bisa terjadi!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "answerGuide": "Peristiwa yang terjadi adalah gerhana bulan. Hal ini terjadi karena posisi Bumi berada di antara Matahari dan Bulan dalam satu garis lurus, sehingga cahaya matahari yang seharusnya menuju Bulan terhalang oleh Bumi dan menyebabkan Bulan berada dalam bayangan Bumi.",
+      "rubric": "Peristiwa yang terjadi adalah gerhana bulan. Hal ini terjadi karena posisi Bumi berada di antara Matahari dan Bulan dalam satu garis lurus, sehingga cahaya matahari yang seharusnya menuju Bulan terhalang oleh Bumi dan menyebabkan Bulan berada dalam bayangan Bumi.",
+      "acuanJawaban": "Peristiwa yang terjadi adalah gerhana bulan. Hal ini terjadi karena posisi Bumi berada di antara Matahari dan Bulan dalam satu garis lurus, sehingga cahaya matahari yang seharusnya menuju Bulan terhalang oleh Bumi dan menyebabkan Bulan berada dalam bayangan Bumi.",
+      "kunci": "Peristiwa yang terjadi adalah gerhana bulan. Hal ini terjadi karena posisi Bumi berada di antara Matahari dan Bulan dalam satu garis lurus, sehingga cahaya matahari yang seharusnya menuju Bulan terhalang oleh Bumi dan menyebabkan Bulan berada dalam bayangan Bumi."
+    },
+    {
+      "id": "temp_ai_1788814189195_1366_28",
+      "type": "esai",
+      "teks": "Meskipun Merkurius adalah planet yang letaknya paling dekat dengan Matahari, namun planet terpanas di tata surya kita adalah Venus. Jelaskan mengapa fenomena tersebut bisa terjadi!",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "Venus menjadi planet terpanas karena memiliki atmosfer yang sangat tebal dan kaya akan karbon dioksida. Atmosfer tebal ini menciptakan efek rumah kaca yang sangat kuat, sehingga panas dari Matahari terperangkap di dalam atmosfer Venus dan tidak bisa keluar.",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "Venus menjadi planet terpanas karena memiliki atmosfer yang sangat tebal dan kaya akan karbon dioksida. Atmosfer tebal ini menciptakan efek rumah kaca yang sangat kuat, sehingga panas dari Matahari terperangkap di dalam atmosfer Venus dan tidak bisa keluar.",
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 29,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Meskipun Merkurius adalah planet yang letaknya paling dekat dengan Matahari, namun planet terpanas di tata surya kita adalah Venus. Jelaskan mengapa fenomena tersebut bisa terjadi!",
+        "media": [],
+        "options": [],
+        "rawText": "Meskipun Merkurius adalah planet yang letaknya paling dekat dengan Matahari, namun planet terpanas di tata surya kita adalah Venus. Jelaskan mengapa fenomena tersebut bisa terjadi!",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1788814189195_1366_28",
+      "number": 29,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Meskipun Merkurius adalah planet yang letaknya paling dekat dengan Matahari, namun planet terpanas di tata surya kita adalah Venus. Jelaskan mengapa fenomena tersebut bisa terjadi!",
+      "pertanyaan": "Meskipun Merkurius adalah planet yang letaknya paling dekat dengan Matahari, namun planet terpanas di tata surya kita adalah Venus. Jelaskan mengapa fenomena tersebut bisa terjadi!",
+      "text": "Meskipun Merkurius adalah planet yang letaknya paling dekat dengan Matahari, namun planet terpanas di tata surya kita adalah Venus. Jelaskan mengapa fenomena tersebut bisa terjadi!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "answerGuide": "Venus menjadi planet terpanas karena memiliki atmosfer yang sangat tebal dan kaya akan karbon dioksida. Atmosfer tebal ini menciptakan efek rumah kaca yang sangat kuat, sehingga panas dari Matahari terperangkap di dalam atmosfer Venus dan tidak bisa keluar.",
+      "rubric": "Venus menjadi planet terpanas karena memiliki atmosfer yang sangat tebal dan kaya akan karbon dioksida. Atmosfer tebal ini menciptakan efek rumah kaca yang sangat kuat, sehingga panas dari Matahari terperangkap di dalam atmosfer Venus dan tidak bisa keluar.",
+      "acuanJawaban": "Venus menjadi planet terpanas karena memiliki atmosfer yang sangat tebal dan kaya akan karbon dioksida. Atmosfer tebal ini menciptakan efek rumah kaca yang sangat kuat, sehingga panas dari Matahari terperangkap di dalam atmosfer Venus dan tidak bisa keluar.",
+      "kunci": "Venus menjadi planet terpanas karena memiliki atmosfer yang sangat tebal dan kaya akan karbon dioksida. Atmosfer tebal ini menciptakan efek rumah kaca yang sangat kuat, sehingga panas dari Matahari terperangkap di dalam atmosfer Venus dan tidak bisa keluar."
+    },
+    {
+      "id": "temp_ai_1788814189195_2069_29",
+      "type": "esai",
+      "teks": "Bumi mengalami revolusi, yaitu bergerak mengelilingi Matahari. Sebutkan dan jelaskan secara singkat dua dampak atau akibat dari revolusi Bumi tersebut bagi kehidupan kita!",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "1. Terjadinya pergantian musim di belahan bumi (seperti musim semi, panas, gugur, dan dingin di wilayah subtropis). 2. Perbedaan lamanya waktu siang dan malam di berbagai tempat pada waktu tertentu (misalnya siang lebih lama di musim panas). 3. Terlihatnya rasi bintang yang berbeda-beda di setiap bulannya. (Siswa dapat menyebutkan dua di antaranya).",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "1. Terjadinya pergantian musim di belahan bumi (seperti musim semi, panas, gugur, dan dingin di wilayah subtropis). 2. Perbedaan lamanya waktu siang dan malam di berbagai tempat pada waktu tertentu (misalnya siang lebih lama di musim panas). 3. Terlihatnya rasi bintang yang berbeda-beda di setiap bulannya. (Siswa dapat menyebutkan dua di antaranya).",
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 30,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Bumi mengalami revolusi, yaitu bergerak mengelilingi Matahari. Sebutkan dan jelaskan secara singkat dua dampak atau akibat dari revolusi Bumi tersebut bagi kehidupan kita!",
+        "media": [],
+        "options": [],
+        "rawText": "Bumi mengalami revolusi, yaitu bergerak mengelilingi Matahari. Sebutkan dan jelaskan secara singkat dua dampak atau akibat dari revolusi Bumi tersebut bagi kehidupan kita!",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1788814189195_2069_29",
+      "number": 30,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Bumi mengalami revolusi, yaitu bergerak mengelilingi Matahari. Sebutkan dan jelaskan secara singkat dua dampak atau akibat dari revolusi Bumi tersebut bagi kehidupan kita!",
+      "pertanyaan": "Bumi mengalami revolusi, yaitu bergerak mengelilingi Matahari. Sebutkan dan jelaskan secara singkat dua dampak atau akibat dari revolusi Bumi tersebut bagi kehidupan kita!",
+      "text": "Bumi mengalami revolusi, yaitu bergerak mengelilingi Matahari. Sebutkan dan jelaskan secara singkat dua dampak atau akibat dari revolusi Bumi tersebut bagi kehidupan kita!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "answerGuide": "1. Terjadinya pergantian musim di belahan bumi (seperti musim semi, panas, gugur, dan dingin di wilayah subtropis). 2. Perbedaan lamanya waktu siang dan malam di berbagai tempat pada waktu tertentu (misalnya siang lebih lama di musim panas). 3. Terlihatnya rasi bintang yang berbeda-beda di setiap bulannya. (Siswa dapat menyebutkan dua di antaranya).",
+      "rubric": "1. Terjadinya pergantian musim di belahan bumi (seperti musim semi, panas, gugur, dan dingin di wilayah subtropis). 2. Perbedaan lamanya waktu siang dan malam di berbagai tempat pada waktu tertentu (misalnya siang lebih lama di musim panas). 3. Terlihatnya rasi bintang yang berbeda-beda di setiap bulannya. (Siswa dapat menyebutkan dua di antaranya).",
+      "acuanJawaban": "1. Terjadinya pergantian musim di belahan bumi (seperti musim semi, panas, gugur, dan dingin di wilayah subtropis). 2. Perbedaan lamanya waktu siang dan malam di berbagai tempat pada waktu tertentu (misalnya siang lebih lama di musim panas). 3. Terlihatnya rasi bintang yang berbeda-beda di setiap bulannya. (Siswa dapat menyebutkan dua di antaranya).",
+      "kunci": "1. Terjadinya pergantian musim di belahan bumi (seperti musim semi, panas, gugur, dan dingin di wilayah subtropis). 2. Perbedaan lamanya waktu siang dan malam di berbagai tempat pada waktu tertentu (misalnya siang lebih lama di musim panas). 3. Terlihatnya rasi bintang yang berbeda-beda di setiap bulannya. (Siswa dapat menyebutkan dua di antaranya)."
+    }
+  ],
+  "updatedAt": "2026-09-07T20:50:21.258Z"
+}
