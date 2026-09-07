@@ -11,7 +11,7 @@
   "version": 1,
   "questions": [
     {
-      "id": "temp_ai_1788779571769_1462_0",
+      "id": "temp_ai_1788780254644_2847_0",
       "type": "pg",
       "teks": "Perhatikan gambar diagram tata surya bagian dalam berikut ini. Planet yang ditunjukkan oleh orbit ke-3 dari matahari pada gambar tersebut adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_6ca41bd76468df7c.webp",
@@ -68,7 +68,7 @@
         "rawText": "Perhatikan gambar diagram tata surya bagian dalam berikut ini. Planet yang ditunjukkan oleh orbit ke-3 dari matahari pada gambar tersebut adalah ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571769_1462_0",
+      "questionId": "temp_ai_1788780254644_2847_0",
       "number": 1,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -101,7 +101,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "temp_ai_1788779571769_6611_1",
+      "id": "temp_ai_1788780254644_414_1",
       "type": "pg",
       "teks": "Pusat dari tata surya kita, di mana seluruh planet dan benda langit lainnya beredar mengelilinginya, adalah ...",
       "media": "",
@@ -152,7 +152,7 @@
         "rawText": "Pusat dari tata surya kita, di mana seluruh planet dan benda langit lainnya beredar mengelilinginya, adalah ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571769_6611_1",
+      "questionId": "temp_ai_1788780254644_414_1",
       "number": 2,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -185,7 +185,7 @@
       "correctAnswer": 3
     },
     {
-      "id": "temp_ai_1788779571769_1226_2",
+      "id": "temp_ai_1788780254645_6831_2",
       "type": "pg",
       "teks": "Planet yang memiliki ukuran paling kecil dalam sistem tata surya kita adalah ...",
       "media": "",
@@ -236,7 +236,7 @@
         "rawText": "Planet yang memiliki ukuran paling kecil dalam sistem tata surya kita adalah ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571769_1226_2",
+      "questionId": "temp_ai_1788780254645_6831_2",
       "number": 3,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -269,7 +269,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "temp_ai_1788779571769_1862_3",
+      "id": "temp_ai_1788780254645_1205_3",
       "type": "pg",
       "teks": "Planet ini sering terlihat kemerahan dari Bumi sehingga sering dijuluki sebagai \"Planet Merah\". Planet yang dimaksud adalah ...",
       "media": "",
@@ -320,7 +320,7 @@
         "rawText": "Planet ini sering terlihat kemerahan dari Bumi sehingga sering dijuluki sebagai \"Planet Merah\". Planet yang dimaksud adalah ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571769_1862_3",
+      "questionId": "temp_ai_1788780254645_1205_3",
       "number": 4,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -353,7 +353,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788779571770_1430_4",
+      "id": "temp_ai_1788780254645_7425_4",
       "type": "pg",
       "teks": "Perhatikan susunan benda langit pada gambar di bawah ini. Peristiwa alam yang terjadi akibat posisi benda-benda langit tersebut adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_489d307a92aab54c.webp",
@@ -410,7 +410,7 @@
         "rawText": "Perhatikan susunan benda langit pada gambar di bawah ini. Peristiwa alam yang terjadi akibat posisi benda-benda langit tersebut adalah ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571770_1430_4",
+      "questionId": "temp_ai_1788780254645_7425_4",
       "number": 5,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -443,7 +443,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "temp_ai_1788779571770_7860_5",
+      "id": "temp_ai_1788780254645_4827_5",
       "type": "pg",
       "teks": "Benda langit yang tidak memancarkan cahaya sendiri dan bergerak mengelilingi planet disebut ...",
       "media": "",
@@ -494,7 +494,7 @@
         "rawText": "Benda langit yang tidak memancarkan cahaya sendiri dan bergerak mengelilingi planet disebut ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571770_7860_5",
+      "questionId": "temp_ai_1788780254645_4827_5",
       "number": 6,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -527,7 +527,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "temp_ai_1788779571770_1646_6",
+      "id": "temp_ai_1788780254645_9235_6",
       "type": "pg",
       "teks": "Jalur atau garis edar suatu planet saat mengelilingi matahari disebut dengan ...",
       "media": "",
@@ -578,7 +578,7 @@
         "rawText": "Jalur atau garis edar suatu planet saat mengelilingi matahari disebut dengan ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571770_1646_6",
+      "questionId": "temp_ai_1788780254645_9235_6",
       "number": 7,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -611,7 +611,7 @@
       "correctAnswer": 3
     },
     {
-      "id": "temp_ai_1788779571770_9351_7",
+      "id": "temp_ai_1788780254646_2240_7",
       "type": "pg",
       "teks": "Planet terbesar dalam tata surya yang sebagian besar massanya terdiri dari gas adalah ...",
       "media": "",
@@ -662,7 +662,7 @@
         "rawText": "Planet terbesar dalam tata surya yang sebagian besar massanya terdiri dari gas adalah ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571770_9351_7",
+      "questionId": "temp_ai_1788780254646_2240_7",
       "number": 8,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -695,7 +695,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788779571770_4760_8",
+      "id": "temp_ai_1788780254646_9857_8",
       "type": "pg",
       "teks": "Benda langit berekor yang orbitnya sangat lonjong dan ekornya selalu menjauhi matahari disebut ...",
       "media": "",
@@ -746,7 +746,7 @@
         "rawText": "Benda langit berekor yang orbitnya sangat lonjong dan ekornya selalu menjauhi matahari disebut ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571770_4760_8",
+      "questionId": "temp_ai_1788780254646_9857_8",
       "number": 9,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -779,7 +779,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "temp_ai_1788779571770_9960_9",
+      "id": "temp_ai_1788780254646_8516_9",
       "type": "pg",
       "teks": "Satelit alami satu-satunya yang dimiliki oleh planet Bumi adalah ...",
       "media": "",
@@ -830,7 +830,7 @@
         "rawText": "Satelit alami satu-satunya yang dimiliki oleh planet Bumi adalah ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571770_9960_9",
+      "questionId": "temp_ai_1788780254646_8516_9",
       "number": 10,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -863,7 +863,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "temp_ai_1788779571771_6404_10",
+      "id": "temp_ai_1788780254646_470_10",
       "type": "pg",
       "teks": "Perhatikan gambar planet berikut. Planet ini memiliki ciri khas yang sangat menonjol dibandingkan planet lainnya, yaitu ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_e6ac6b5c0e4106a2.webp",
@@ -920,7 +920,7 @@
         "rawText": "Perhatikan gambar planet berikut. Planet ini memiliki ciri khas yang sangat menonjol dibandingkan planet lainnya, yaitu ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571771_6404_10",
+      "questionId": "temp_ai_1788780254646_470_10",
       "number": 11,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -953,7 +953,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788779571771_1265_11",
+      "id": "temp_ai_1788780254647_5170_11",
       "type": "pg",
       "teks": "Waktu yang diperlukan oleh Bumi untuk melakukan satu kali putaran penuh pada porosnya disebut ...",
       "media": "",
@@ -1004,7 +1004,7 @@
         "rawText": "Waktu yang diperlukan oleh Bumi untuk melakukan satu kali putaran penuh pada porosnya disebut ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571771_1265_11",
+      "questionId": "temp_ai_1788780254647_5170_11",
       "number": 12,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1037,7 +1037,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788779571771_4928_12",
+      "id": "temp_ai_1788780254647_5142_12",
       "type": "pg",
       "teks": "Salah satu akibat dari pergerakan Bumi berputar pada porosnya adalah terjadinya ...",
       "media": "",
@@ -1088,7 +1088,7 @@
         "rawText": "Salah satu akibat dari pergerakan Bumi berputar pada porosnya adalah terjadinya ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571771_4928_12",
+      "questionId": "temp_ai_1788780254647_5142_12",
       "number": 13,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1121,7 +1121,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "temp_ai_1788779571771_6563_13",
+      "id": "temp_ai_1788780254647_438_13",
       "type": "pg",
       "teks": "Waktu yang diperlukan oleh Bumi untuk mengelilingi Matahari satu putaran penuh adalah ...",
       "media": "",
@@ -1172,7 +1172,7 @@
         "rawText": "Waktu yang diperlukan oleh Bumi untuk mengelilingi Matahari satu putaran penuh adalah ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571771_6563_13",
+      "questionId": "temp_ai_1788780254647_438_13",
       "number": 14,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1205,7 +1205,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "temp_ai_1788779571771_231_14",
+      "id": "temp_ai_1788780254648_3619_14",
       "type": "pg",
       "teks": "Sabuk asteroid merupakan kumpulan ribuan batuan angkasa yang sebagian besar terletak di antara orbit planet ...",
       "media": "",
@@ -1256,7 +1256,7 @@
         "rawText": "Sabuk asteroid merupakan kumpulan ribuan batuan angkasa yang sebagian besar terletak di antara orbit planet ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571771_231_14",
+      "questionId": "temp_ai_1788780254648_3619_14",
       "number": 15,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1289,7 +1289,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788779571771_8477_15",
+      "id": "temp_ai_1788780254648_6009_15",
       "type": "pg",
       "teks": "Berdasarkan urutannya dari Matahari, planet yang letaknya paling jauh adalah ...",
       "media": "",
@@ -1340,7 +1340,7 @@
         "rawText": "Berdasarkan urutannya dari Matahari, planet yang letaknya paling jauh adalah ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571771_8477_15",
+      "questionId": "temp_ai_1788780254648_6009_15",
       "number": 16,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1373,7 +1373,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "temp_ai_1788779571771_4672_16",
+      "id": "temp_ai_1788780254648_8442_16",
       "type": "pg",
       "teks": "Batuan angkasa yang masuk ke atmosfer Bumi dan habis terbakar sebelum mencapai permukaan Bumi sering disebut sebagai bintang beralih atau ...",
       "media": "",
@@ -1424,7 +1424,7 @@
         "rawText": "Batuan angkasa yang masuk ke atmosfer Bumi dan habis terbakar sebelum mencapai permukaan Bumi sering disebut sebagai bintang beralih atau ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571771_4672_16",
+      "questionId": "temp_ai_1788780254648_8442_16",
       "number": 17,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1457,7 +1457,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "temp_ai_1788779571771_3098_17",
+      "id": "temp_ai_1788780254648_4834_17",
       "type": "pg",
       "teks": "Pergerakan rotasi Bumi berputar dari arah ...",
       "media": "",
@@ -1508,7 +1508,7 @@
         "rawText": "Pergerakan rotasi Bumi berputar dari arah ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571771_3098_17",
+      "questionId": "temp_ai_1788780254648_4834_17",
       "number": 18,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1541,7 +1541,7 @@
       "correctAnswer": 3
     },
     {
-      "id": "temp_ai_1788779571771_8736_18",
+      "id": "temp_ai_1788780254648_3281_18",
       "type": "pg",
       "teks": "Hampir seluruh planet berotasi dari barat ke timur. Namun, ada planet yang arah rotasinya berlawanan (dari timur ke barat). Planet tersebut adalah ...",
       "media": "",
@@ -1592,7 +1592,7 @@
         "rawText": "Hampir seluruh planet berotasi dari barat ke timur. Namun, ada planet yang arah rotasinya berlawanan (dari timur ke barat). Planet tersebut adalah ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571771_8736_18",
+      "questionId": "temp_ai_1788780254648_3281_18",
       "number": 19,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1625,7 +1625,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788779571771_8830_19",
+      "id": "temp_ai_1788780254648_58_19",
       "type": "pg",
       "teks": "Bumi mendapat julukan sebagai \"Planet Biru\" jika dilihat dari luar angkasa. Hal ini dikarenakan ...",
       "media": "",
@@ -1676,7 +1676,7 @@
         "rawText": "Bumi mendapat julukan sebagai \"Planet Biru\" jika dilihat dari luar angkasa. Hal ini dikarenakan ...",
         "questionType": "pg"
       },
-      "questionId": "temp_ai_1788779571771_8830_19",
+      "questionId": "temp_ai_1788780254648_58_19",
       "number": 20,
       "questionType": "pilihan_ganda",
       "tipe": "pg",
@@ -1709,7 +1709,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "temp_ai_1788779571772_9538_20",
+      "id": "temp_ai_1788780254652_9697_20",
       "type": "ma",
       "teks": "Perhatikan ilustrasi pergerakan Bumi berikut ini. Berdasarkan gambar tersebut, manakah pernyataan yang benar mengenai pergerakan Bumi?",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_b0a99be1de34a140.webp",
@@ -1776,7 +1776,7 @@
         "rawText": "Perhatikan ilustrasi pergerakan Bumi berikut ini. Berdasarkan gambar tersebut, manakah pernyataan yang benar mengenai pergerakan Bumi?",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788779571772_9538_20",
+      "questionId": "temp_ai_1788780254652_9697_20",
       "number": 21,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -1816,7 +1816,7 @@
       "kunci": "A, B, E"
     },
     {
-      "id": "temp_ai_1788779571772_6748_21",
+      "id": "temp_ai_1788780254652_2047_21",
       "type": "ma",
       "teks": "Planet-planet dalam tata surya dikelompokkan menjadi planet dalam (inner planets) dan planet luar (outer planets). Manakah di bawah ini yang termasuk dalam kelompok planet dalam?",
       "media": "",
@@ -1877,7 +1877,7 @@
         "rawText": "Planet-planet dalam tata surya dikelompokkan menjadi planet dalam (inner planets) dan planet luar (outer planets). Manakah di bawah ini yang termasuk dalam kelompok planet dalam?",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788779571772_6748_21",
+      "questionId": "temp_ai_1788780254652_2047_21",
       "number": 22,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -1917,7 +1917,7 @@
       "kunci": "A, B, E"
     },
     {
-      "id": "temp_ai_1788779571772_7265_22",
+      "id": "temp_ai_1788780254652_4446_22",
       "type": "ma",
       "teks": "Satelit merupakan salah satu anggota tata surya. Manakah pernyataan yang benar tentang karakteristik satelit?",
       "media": "",
@@ -1978,7 +1978,7 @@
         "rawText": "Satelit merupakan salah satu anggota tata surya. Manakah pernyataan yang benar tentang karakteristik satelit?",
         "questionType": "ma"
       },
-      "questionId": "temp_ai_1788779571772_7265_22",
+      "questionId": "temp_ai_1788780254652_4446_22",
       "number": 23,
       "questionType": "pg_kompleks",
       "tipe": "ma",
@@ -2018,7 +2018,7 @@
       "kunci": "B, C, E"
     },
     {
-      "id": "temp_ai_1788779571772_4671_23",
+      "id": "temp_ai_1788780254653_6280_23",
       "type": "tf",
       "teks": "Bacalah pernyataan-pernyataan mengenai fenomena gerhana di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
       "media": "",
@@ -2161,7 +2161,7 @@
         "rawText": "Bacalah pernyataan-pernyataan mengenai fenomena gerhana di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
         "questionType": "tf"
       },
-      "questionId": "temp_ai_1788779571772_4671_23",
+      "questionId": "temp_ai_1788780254653_6280_23",
       "number": 24,
       "questionType": "benar_salah",
       "tipe": "tf",
@@ -2174,7 +2174,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788779571772_9716_24",
+      "id": "temp_ai_1788780254655_1290_24",
       "type": "tf",
       "teks": "Bacalah pernyataan-pernyataan mengenai karakteristik planet di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
       "media": "",
@@ -2317,7 +2317,7 @@
         "rawText": "Bacalah pernyataan-pernyataan mengenai karakteristik planet di bawah ini. Tentukan apakah setiap pernyataan tersebut Benar atau Salah!",
         "questionType": "tf"
       },
-      "questionId": "temp_ai_1788779571772_9716_24",
+      "questionId": "temp_ai_1788780254655_1290_24",
       "number": 25,
       "questionType": "benar_salah",
       "tipe": "tf",
@@ -2330,7 +2330,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788779571772_2560_25",
+      "id": "temp_ai_1788780254656_1246_25",
       "type": "match",
       "teks": "Pasangkan nama-nama benda langit berikut dengan deskripsi yang paling tepat!",
       "media": "",
@@ -2518,7 +2518,7 @@
         "rawText": "Pasangkan nama-nama benda langit berikut dengan deskripsi yang paling tepat!",
         "questionType": "match"
       },
-      "questionId": "temp_ai_1788779571772_2560_25",
+      "questionId": "temp_ai_1788780254656_1246_25",
       "number": 26,
       "questionType": "pencocokan",
       "tipe": "match",
@@ -2531,7 +2531,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788779571772_7811_26",
+      "id": "temp_ai_1788780254657_8509_26",
       "type": "match",
       "teks": "Pasangkan nama planet di bawah ini dengan julukan atau karakteristik utamanya yang paling tepat!",
       "media": "",
@@ -2719,7 +2719,7 @@
         "rawText": "Pasangkan nama planet di bawah ini dengan julukan atau karakteristik utamanya yang paling tepat!",
         "questionType": "match"
       },
-      "questionId": "temp_ai_1788779571772_7811_26",
+      "questionId": "temp_ai_1788780254657_8509_26",
       "number": 27,
       "questionType": "pencocokan",
       "tipe": "match",
@@ -2732,7 +2732,7 @@
       "opsiMedia": []
     },
     {
-      "id": "temp_ai_1788779571772_3807_27",
+      "id": "temp_ai_1788780254657_9820_27",
       "type": "esai",
       "teks": "Perhatikan susunan Matahari, Bumi, dan Bulan pada diagram berikut ini! Berdasarkan gambar tersebut, jelaskan secara singkat peristiwa alam apa yang sedang terjadi dan mengapa hal itu bisa terjadi!",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/img_bbb216574f777310.webp",
@@ -2769,7 +2769,7 @@
         "rawText": "Perhatikan susunan Matahari, Bumi, dan Bulan pada diagram berikut ini! Berdasarkan gambar tersebut, jelaskan secara singkat peristiwa alam apa yang sedang terjadi dan mengapa hal itu bisa terjadi!",
         "questionType": "esai"
       },
-      "questionId": "temp_ai_1788779571772_3807_27",
+      "questionId": "temp_ai_1788780254657_9820_27",
       "number": 28,
       "questionType": "esai",
       "tipe": "esai",
@@ -2785,7 +2785,7 @@
       "kunci": "Peristiwa yang terjadi adalah gerhana bulan. Hal ini terjadi karena posisi Bumi berada di antara Matahari dan Bulan dalam satu garis lurus, sehingga cahaya matahari yang seharusnya menuju Bulan terhalang oleh Bumi dan menyebabkan Bulan berada dalam bayangan Bumi."
     },
     {
-      "id": "temp_ai_1788779571772_5952_28",
+      "id": "temp_ai_1788780254658_6598_28",
       "type": "esai",
       "teks": "Meskipun Merkurius adalah planet yang letaknya paling dekat dengan Matahari, namun planet terpanas di tata surya kita adalah Venus. Jelaskan mengapa fenomena tersebut bisa terjadi!",
       "media": "",
@@ -2816,7 +2816,7 @@
         "rawText": "Meskipun Merkurius adalah planet yang letaknya paling dekat dengan Matahari, namun planet terpanas di tata surya kita adalah Venus. Jelaskan mengapa fenomena tersebut bisa terjadi!",
         "questionType": "esai"
       },
-      "questionId": "temp_ai_1788779571772_5952_28",
+      "questionId": "temp_ai_1788780254658_6598_28",
       "number": 29,
       "questionType": "esai",
       "tipe": "esai",
@@ -2832,7 +2832,7 @@
       "kunci": "Venus menjadi planet terpanas karena memiliki atmosfer yang sangat tebal dan kaya akan karbon dioksida. Atmosfer tebal ini menciptakan efek rumah kaca yang sangat kuat, sehingga panas dari Matahari terperangkap di dalam atmosfer Venus dan tidak bisa keluar."
     },
     {
-      "id": "temp_ai_1788779571772_2216_29",
+      "id": "temp_ai_1788780254658_9905_29",
       "type": "esai",
       "teks": "Bumi mengalami revolusi, yaitu bergerak mengelilingi Matahari. Sebutkan dan jelaskan secara singkat dua dampak atau akibat dari revolusi Bumi tersebut bagi kehidupan kita!",
       "media": "",
@@ -2863,7 +2863,7 @@
         "rawText": "Bumi mengalami revolusi, yaitu bergerak mengelilingi Matahari. Sebutkan dan jelaskan secara singkat dua dampak atau akibat dari revolusi Bumi tersebut bagi kehidupan kita!",
         "questionType": "esai"
       },
-      "questionId": "temp_ai_1788779571772_2216_29",
+      "questionId": "temp_ai_1788780254658_9905_29",
       "number": 30,
       "questionType": "esai",
       "tipe": "esai",
@@ -2879,5 +2879,5 @@
       "kunci": "1. Terjadinya pergantian musim di belahan bumi (seperti musim semi, panas, gugur, dan dingin di wilayah subtropis). 2. Perbedaan lamanya waktu siang dan malam di berbagai tempat pada waktu tertentu (misalnya siang lebih lama di musim panas). 3. Terlihatnya rasi bintang yang berbeda-beda di setiap bulannya. (Siswa dapat menyebutkan dua di antaranya)."
     }
   ],
-  "updatedAt": "2026-09-07T11:19:52.302Z"
+  "updatedAt": "2026-09-07T11:24:36.371Z"
 }
