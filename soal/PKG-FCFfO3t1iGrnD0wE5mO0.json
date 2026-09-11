@@ -1,0 +1,24 @@
+{
+  "packageId": "PKG-FCFfO3t1iGrnD0wE5mO0",
+  "examId": "FCFfO3t1iGrnD0wE5mO0",
+  "title": "Bank Soal Tanpa Judul",
+  "subject": "Lainnya",
+  "examMode": "rekap",
+  "token": "XGG0CL",
+  "duration": 60,
+  "violationControl": {
+    "limit": 5,
+    "enabled": true
+  },
+  "syncToProctor": false,
+  "status": "online",
+  "totalQuestions": 0,
+  "questions": [],
+  "images": [],
+  "onlineMeta": {
+    "syncedAt": "2026-09-11T23:52:15.926Z",
+    "githubPath": "soal/PKG-FCFfO3t1iGrnD0wE5mO0.json",
+    "githubSha": null,
+    "version": 1
+  }
+}
