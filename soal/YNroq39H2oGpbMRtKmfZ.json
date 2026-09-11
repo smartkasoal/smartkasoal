@@ -1,0 +1,1090 @@
+{
+  "fileId": "YNroq39H2oGpbMRtKmfZ",
+  "id": "YNroq39H2oGpbMRtKmfZ",
+  "examId": "YNroq39H2oGpbMRtKmfZ",
+  "title": "Bank Soal Tanpa Judul",
+  "subject": "Lainnya",
+  "duration": 60,
+  "token": "XDV5AK",
+  "totalQuestions": 15,
+  "totalBobot": 100,
+  "version": 1,
+  "questions": [
+    {
+      "id": "temp_ai_1789037644387_2194_0",
+      "type": "pg",
+      "teks": "Perhatikan gambar berikut. Berapa jumlah apel pada gambar tersebut?",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 6.76,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 1,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar berikut. Berapa jumlah apel pada gambar tersebut?",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "3"
+          },
+          {
+            "letter": "B",
+            "text": "4"
+          },
+          {
+            "letter": "C",
+            "text": "5"
+          },
+          {
+            "letter": "D",
+            "text": "6"
+          }
+        ],
+        "rawText": "Perhatikan gambar berikut. Berapa jumlah apel pada gambar tersebut?",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789037644387_2194_0",
+      "number": 1,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar berikut. Berapa jumlah apel pada gambar tersebut?",
+      "pertanyaan": "Perhatikan gambar berikut. Berapa jumlah apel pada gambar tersebut?",
+      "text": "Perhatikan gambar berikut. Berapa jumlah apel pada gambar tersebut?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.76,
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789037644387_2391_1",
+      "type": "pg",
+      "teks": "Bilangan 7 dapat dibentuk dari penjumlahan angka 4 dan ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 2,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Bilangan 7 dapat dibentuk dari penjumlahan angka 4 dan ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "2"
+          },
+          {
+            "letter": "B",
+            "text": "3"
+          },
+          {
+            "letter": "C",
+            "text": "4"
+          },
+          {
+            "letter": "D",
+            "text": "5"
+          }
+        ],
+        "rawText": "Bilangan 7 dapat dibentuk dari penjumlahan angka 4 dan ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789037644387_2391_1",
+      "number": 2,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Bilangan 7 dapat dibentuk dari penjumlahan angka 4 dan ...",
+      "pertanyaan": "Bilangan 7 dapat dibentuk dari penjumlahan angka 4 dan ...",
+      "text": "Bilangan 7 dapat dibentuk dari penjumlahan angka 4 dan ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789037644387_7352_2",
+      "type": "pg",
+      "teks": "Perhatikan gambar bangun ruang berikut. Benda tersebut berbentuk ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Kubus",
+        "Tabung",
+        "Bola",
+        "Balok"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 3,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar bangun ruang berikut. Benda tersebut berbentuk ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Kubus"
+          },
+          {
+            "letter": "B",
+            "text": "Tabung"
+          },
+          {
+            "letter": "C",
+            "text": "Bola"
+          },
+          {
+            "letter": "D",
+            "text": "Balok"
+          }
+        ],
+        "rawText": "Perhatikan gambar bangun ruang berikut. Benda tersebut berbentuk ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789037644387_7352_2",
+      "number": 3,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar bangun ruang berikut. Benda tersebut berbentuk ...",
+      "pertanyaan": "Perhatikan gambar bangun ruang berikut. Benda tersebut berbentuk ...",
+      "text": "Perhatikan gambar bangun ruang berikut. Benda tersebut berbentuk ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "options": [
+        {
+          "key": "A",
+          "text": "Kubus"
+        },
+        {
+          "key": "B",
+          "text": "Tabung"
+        },
+        {
+          "key": "C",
+          "text": "Bola"
+        },
+        {
+          "key": "D",
+          "text": "Balok"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789037644387_7777_3",
+      "type": "pg",
+      "teks": "Ibu membeli 3 buah jeruk. Kemudian ibu membeli lagi 2 buah jeruk. Jumlah jeruk ibu sekarang adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 4,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Ibu membeli 3 buah jeruk. Kemudian ibu membeli lagi 2 buah jeruk. Jumlah jeruk ibu sekarang adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "4"
+          },
+          {
+            "letter": "B",
+            "text": "5"
+          },
+          {
+            "letter": "C",
+            "text": "6"
+          },
+          {
+            "letter": "D",
+            "text": "7"
+          }
+        ],
+        "rawText": "Ibu membeli 3 buah jeruk. Kemudian ibu membeli lagi 2 buah jeruk. Jumlah jeruk ibu sekarang adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789037644387_7777_3",
+      "number": 4,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Ibu membeli 3 buah jeruk. Kemudian ibu membeli lagi 2 buah jeruk. Jumlah jeruk ibu sekarang adalah ...",
+      "pertanyaan": "Ibu membeli 3 buah jeruk. Kemudian ibu membeli lagi 2 buah jeruk. Jumlah jeruk ibu sekarang adalah ...",
+      "text": "Ibu membeli 3 buah jeruk. Kemudian ibu membeli lagi 2 buah jeruk. Jumlah jeruk ibu sekarang adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789037644387_7706_4",
+      "type": "pg",
+      "teks": "Perhatikan gambar berikut. Ada 6 burung di dahan pohon, lalu 2 burung terbang. Sisa burung yang masih di dahan adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 5,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar berikut. Ada 6 burung di dahan pohon, lalu 2 burung terbang. Sisa burung yang masih di dahan adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "3"
+          },
+          {
+            "letter": "B",
+            "text": "4"
+          },
+          {
+            "letter": "C",
+            "text": "5"
+          },
+          {
+            "letter": "D",
+            "text": "6"
+          }
+        ],
+        "rawText": "Perhatikan gambar berikut. Ada 6 burung di dahan pohon, lalu 2 burung terbang. Sisa burung yang masih di dahan adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789037644387_7706_4",
+      "number": 5,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar berikut. Ada 6 burung di dahan pohon, lalu 2 burung terbang. Sisa burung yang masih di dahan adalah ...",
+      "pertanyaan": "Perhatikan gambar berikut. Ada 6 burung di dahan pohon, lalu 2 burung terbang. Sisa burung yang masih di dahan adalah ...",
+      "text": "Perhatikan gambar berikut. Ada 6 burung di dahan pohon, lalu 2 burung terbang. Sisa burung yang masih di dahan adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789037644387_62_5",
+      "type": "pg",
+      "teks": "Urutan bilangan yang benar dari yang terkecil adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "1, 3, 2, 4",
+        "4, 3, 2, 1",
+        "2, 3, 4, 5",
+        "5, 2, 3, 4"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 6,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Urutan bilangan yang benar dari yang terkecil adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1, 3, 2, 4"
+          },
+          {
+            "letter": "B",
+            "text": "4, 3, 2, 1"
+          },
+          {
+            "letter": "C",
+            "text": "2, 3, 4, 5"
+          },
+          {
+            "letter": "D",
+            "text": "5, 2, 3, 4"
+          }
+        ],
+        "rawText": "Urutan bilangan yang benar dari yang terkecil adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789037644387_62_5",
+      "number": 6,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Urutan bilangan yang benar dari yang terkecil adalah ...",
+      "pertanyaan": "Urutan bilangan yang benar dari yang terkecil adalah ...",
+      "text": "Urutan bilangan yang benar dari yang terkecil adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "options": [
+        {
+          "key": "A",
+          "text": "1, 3, 2, 4"
+        },
+        {
+          "key": "B",
+          "text": "4, 3, 2, 1"
+        },
+        {
+          "key": "C",
+          "text": "2, 3, 4, 5"
+        },
+        {
+          "key": "D",
+          "text": "5, 2, 3, 4"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789037644387_4123_6",
+      "type": "pg",
+      "teks": "Benda pada gambar di bawah ini memiliki bentuk ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Tabung",
+        "Balok",
+        "Kerucut",
+        "Bola"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 7,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Benda pada gambar di bawah ini memiliki bentuk ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Tabung"
+          },
+          {
+            "letter": "B",
+            "text": "Balok"
+          },
+          {
+            "letter": "C",
+            "text": "Kerucut"
+          },
+          {
+            "letter": "D",
+            "text": "Bola"
+          }
+        ],
+        "rawText": "Benda pada gambar di bawah ini memiliki bentuk ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789037644387_4123_6",
+      "number": 7,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Benda pada gambar di bawah ini memiliki bentuk ...",
+      "pertanyaan": "Benda pada gambar di bawah ini memiliki bentuk ...",
+      "text": "Benda pada gambar di bawah ini memiliki bentuk ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "options": [
+        {
+          "key": "A",
+          "text": "Tabung"
+        },
+        {
+          "key": "B",
+          "text": "Balok"
+        },
+        {
+          "key": "C",
+          "text": "Kerucut"
+        },
+        {
+          "key": "D",
+          "text": "Bola"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789037644387_5210_7",
+      "type": "pg",
+      "teks": "9 dikurangi 4 sama dengan ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 8,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "9 dikurangi 4 sama dengan ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "4"
+          },
+          {
+            "letter": "B",
+            "text": "5"
+          },
+          {
+            "letter": "C",
+            "text": "6"
+          },
+          {
+            "letter": "D",
+            "text": "7"
+          }
+        ],
+        "rawText": "9 dikurangi 4 sama dengan ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789037644387_5210_7",
+      "number": 8,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "9 dikurangi 4 sama dengan ...",
+      "pertanyaan": "9 dikurangi 4 sama dengan ...",
+      "text": "9 dikurangi 4 sama dengan ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789037644387_8071_8",
+      "type": "pg",
+      "teks": "Perhatikan gambar kotak merah dan kotak biru. Kotak yang berisi bola lebih banyak adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Kotak merah",
+        "Kotak biru",
+        "Sama banyak",
+        "Tidak ada"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 9,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar kotak merah dan kotak biru. Kotak yang berisi bola lebih banyak adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Kotak merah"
+          },
+          {
+            "letter": "B",
+            "text": "Kotak biru"
+          },
+          {
+            "letter": "C",
+            "text": "Sama banyak"
+          },
+          {
+            "letter": "D",
+            "text": "Tidak ada"
+          }
+        ],
+        "rawText": "Perhatikan gambar kotak merah dan kotak biru. Kotak yang berisi bola lebih banyak adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789037644387_8071_8",
+      "number": 9,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar kotak merah dan kotak biru. Kotak yang berisi bola lebih banyak adalah ...",
+      "pertanyaan": "Perhatikan gambar kotak merah dan kotak biru. Kotak yang berisi bola lebih banyak adalah ...",
+      "text": "Perhatikan gambar kotak merah dan kotak biru. Kotak yang berisi bola lebih banyak adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "options": [
+        {
+          "key": "A",
+          "text": "Kotak merah"
+        },
+        {
+          "key": "B",
+          "text": "Kotak biru"
+        },
+        {
+          "key": "C",
+          "text": "Sama banyak"
+        },
+        {
+          "key": "D",
+          "text": "Tidak ada"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789037644387_3588_9",
+      "type": "pg",
+      "teks": "Kakak memiliki 8 pensil. Adik memiliki 2 pensil. Selisih pensil kakak dan adik adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 10,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Kakak memiliki 8 pensil. Adik memiliki 2 pensil. Selisih pensil kakak dan adik adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "4"
+          },
+          {
+            "letter": "B",
+            "text": "5"
+          },
+          {
+            "letter": "C",
+            "text": "6"
+          },
+          {
+            "letter": "D",
+            "text": "7"
+          }
+        ],
+        "rawText": "Kakak memiliki 8 pensil. Adik memiliki 2 pensil. Selisih pensil kakak dan adik adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789037644387_3588_9",
+      "number": 10,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Kakak memiliki 8 pensil. Adik memiliki 2 pensil. Selisih pensil kakak dan adik adalah ...",
+      "pertanyaan": "Kakak memiliki 8 pensil. Adik memiliki 2 pensil. Selisih pensil kakak dan adik adalah ...",
+      "text": "Kakak memiliki 8 pensil. Adik memiliki 2 pensil. Selisih pensil kakak dan adik adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789037644387_4979_10",
+      "type": "esai",
+      "teks": "Andi mempunyai 4 kelereng merah dan 5 kelereng biru. Berapa jumlah seluruh kelereng Andi?",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "9 kelereng.",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "9 kelereng.",
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 11,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Andi mempunyai 4 kelereng merah dan 5 kelereng biru. Berapa jumlah seluruh kelereng Andi?",
+        "media": [],
+        "options": [],
+        "rawText": "Andi mempunyai 4 kelereng merah dan 5 kelereng biru. Berapa jumlah seluruh kelereng Andi?",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1789037644387_4979_10",
+      "number": 11,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Andi mempunyai 4 kelereng merah dan 5 kelereng biru. Berapa jumlah seluruh kelereng Andi?",
+      "pertanyaan": "Andi mempunyai 4 kelereng merah dan 5 kelereng biru. Berapa jumlah seluruh kelereng Andi?",
+      "text": "Andi mempunyai 4 kelereng merah dan 5 kelereng biru. Berapa jumlah seluruh kelereng Andi?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "answerGuide": "9 kelereng.",
+      "rubric": "9 kelereng.",
+      "acuanJawaban": "9 kelereng.",
+      "kunci": "9 kelereng."
+    },
+    {
+      "id": "temp_ai_1789037644388_5729_11",
+      "type": "esai",
+      "teks": "Sebutkan 2 contoh benda di rumah yang berbentuk balok!",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "Lemari dan kulkas.",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "Lemari dan kulkas.",
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 12,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Sebutkan 2 contoh benda di rumah yang berbentuk balok!",
+        "media": [],
+        "options": [],
+        "rawText": "Sebutkan 2 contoh benda di rumah yang berbentuk balok!",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1789037644388_5729_11",
+      "number": 12,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Sebutkan 2 contoh benda di rumah yang berbentuk balok!",
+      "pertanyaan": "Sebutkan 2 contoh benda di rumah yang berbentuk balok!",
+      "text": "Sebutkan 2 contoh benda di rumah yang berbentuk balok!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "answerGuide": "Lemari dan kulkas.",
+      "rubric": "Lemari dan kulkas.",
+      "acuanJawaban": "Lemari dan kulkas.",
+      "kunci": "Lemari dan kulkas."
+    },
+    {
+      "id": "temp_ai_1789037644388_4466_12",
+      "type": "esai",
+      "teks": "Di atas meja ada 10 potong kue. Dimakan oleh Budi sebanyak 3 potong. Berapa sisa kue di atas meja?",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "7 potong kue.",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "7 potong kue.",
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 13,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Di atas meja ada 10 potong kue. Dimakan oleh Budi sebanyak 3 potong. Berapa sisa kue di atas meja?",
+        "media": [],
+        "options": [],
+        "rawText": "Di atas meja ada 10 potong kue. Dimakan oleh Budi sebanyak 3 potong. Berapa sisa kue di atas meja?",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1789037644388_4466_12",
+      "number": 13,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Di atas meja ada 10 potong kue. Dimakan oleh Budi sebanyak 3 potong. Berapa sisa kue di atas meja?",
+      "pertanyaan": "Di atas meja ada 10 potong kue. Dimakan oleh Budi sebanyak 3 potong. Berapa sisa kue di atas meja?",
+      "text": "Di atas meja ada 10 potong kue. Dimakan oleh Budi sebanyak 3 potong. Berapa sisa kue di atas meja?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "answerGuide": "7 potong kue.",
+      "rubric": "7 potong kue.",
+      "acuanJawaban": "7 potong kue.",
+      "kunci": "7 potong kue."
+    },
+    {
+      "id": "temp_ai_1789037644388_8511_13",
+      "type": "esai",
+      "teks": "Tuliskan lambang bilangan dari kata \"delapan\"!",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "8",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "8",
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 14,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Tuliskan lambang bilangan dari kata \"delapan\"!",
+        "media": [],
+        "options": [],
+        "rawText": "Tuliskan lambang bilangan dari kata \"delapan\"!",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1789037644388_8511_13",
+      "number": 14,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Tuliskan lambang bilangan dari kata \"delapan\"!",
+      "pertanyaan": "Tuliskan lambang bilangan dari kata \"delapan\"!",
+      "text": "Tuliskan lambang bilangan dari kata \"delapan\"!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "answerGuide": "8",
+      "rubric": "8",
+      "acuanJawaban": "8",
+      "kunci": "8"
+    },
+    {
+      "id": "temp_ai_1789037644388_9745_14",
+      "type": "esai",
+      "teks": "Berapa ditambah 3 agar hasilnya menjadi 10?",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "7",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "7",
+      "bobot": 6.66,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 15,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Berapa ditambah 3 agar hasilnya menjadi 10?",
+        "media": [],
+        "options": [],
+        "rawText": "Berapa ditambah 3 agar hasilnya menjadi 10?",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1789037644388_9745_14",
+      "number": 15,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Berapa ditambah 3 agar hasilnya menjadi 10?",
+      "pertanyaan": "Berapa ditambah 3 agar hasilnya menjadi 10?",
+      "text": "Berapa ditambah 3 agar hasilnya menjadi 10?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 6.66,
+      "answerGuide": "7",
+      "rubric": "7",
+      "acuanJawaban": "7",
+      "kunci": "7"
+    }
+  ],
+  "updatedAt": "2026-09-11T23:27:50.334Z"
+}
