@@ -7,8 +7,8 @@
   "token": "XDV5AK",
   "duration": 60,
   "violationControl": {
-    "enabled": true,
-    "limit": 5
+    "limit": 5,
+    "enabled": true
   },
   "syncToProctor": true,
   "status": "online",
@@ -1092,7 +1092,7 @@
   ],
   "images": [],
   "onlineMeta": {
-    "syncedAt": "2026-09-12T00:07:01.468Z",
+    "syncedAt": "2026-09-12T00:07:13.707Z",
     "githubPath": "soal/PKG-YNroq39H2oGpbMRtKmfZ.json",
     "githubSha": null,
     "version": 1
