@@ -8,7 +8,7 @@
   "token": "ZEYTRS",
   "totalQuestions": 40,
   "totalBobot": 100,
-  "version": 2,
+  "version": 3,
   "questions": [
     {
       "id": "temp_ai_1789224019865_7875_0",
@@ -4522,5 +4522,5 @@
       "kunci": "Penghematan energi listrik perlu dilakukan karena sebagian besar pembangkit listrik saat ini masih menggunakan bahan bakar fosil (seperti batu bara dan minyak bumi) yang jumlahnya terbatas di alam serta menghasilkan polusi gas rumah kaca yang merusak ekosistem lingkungan. Dua tindakan nyata yang dapat dilakukan siswa untuk menghemat listrik adalah: (1) Mematikan lampu ruangan, kipas angin, atau televisi jika sudah tidak digunakan; dan (2) Mencabut steker atau colokan peralatan elektronik yang sudah selesai diisi dayanya dari stopkontak."
     }
   ],
-  "updatedAt": "2026-09-12T14:43:06.629Z"
+  "updatedAt": "2026-09-12T16:44:47.617Z"
 }
