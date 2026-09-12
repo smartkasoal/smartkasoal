@@ -8,14 +8,13 @@
   "token": "ZEYTRS",
   "totalQuestions": 40,
   "totalBobot": 100,
-  "version": 1,
+  "version": 2,
   "questions": [
     {
       "id": "temp_ai_1789224019865_7875_0",
       "type": "pg",
       "teks": "Perhatikan bagan rantai makanan ekosistem sawah pada gambar. Organisme yang paling tepat untuk menempati posisi (X) adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_d7a8d04c52f99b4a.webp",
-      "rawMedia": "soal-01.png",
       "opsi": [
         "Kelinci",
         "Katak",
@@ -105,7 +104,6 @@
       "type": "pg",
       "teks": "Perhatikan bagan piramida tingkat trofik ekosistem pada gambar. Peran organisme yang menempati tingkatan dasar (P) adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_c3fdca4db86107ed.webp",
-      "rawMedia": "soal-02.png",
       "opsi": [
         "Konsumen puncak",
         "Produsen",
@@ -195,7 +193,6 @@
       "type": "pg",
       "teks": "Perhatikan interaksi antara lebah madu dan tanaman berbunga pada gambar. Bentuk simbiosis yang terjadi antara kedua makhluk hidup tersebut adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_cfdbbea7422a2de2.webp",
-      "rawMedia": "soal-03.png",
       "opsi": [
         "Parasitisme",
         "Komensalisme",
@@ -285,7 +282,6 @@
       "type": "pg",
       "teks": "Perhatikan jaring-jaring makanan pada gambar. Kelompok hewan yang berperan langsung sebagai konsumen tingkat I (pemakan produsen) adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_442c9cf0fdd257c5.webp",
-      "rawMedia": "soal-04.png",
       "opsi": [
         "Ulat, belalang, dan tikus",
         "Ayam, katak, dan ular",
@@ -375,7 +371,6 @@
       "type": "pg",
       "teks": "Perhatikan gambar pengamatan komponen ekosistem kolam. Komponen abiotik (benda tak hidup) ditunjukkan oleh nomor ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_f3c7bb5132adbe42.webp",
-      "rawMedia": "soal-05.png",
       "opsi": [
         "(1), (2), dan (5)",
         "(2), (3), dan (4)",
@@ -465,7 +460,6 @@
       "type": "pg",
       "teks": "Perhatikan gambar dua batang magnet. Jika kutub utara (U) Magnet A didekatkan dengan kutub utara (U) Magnet B seperti pada gambar, maka kedua magnet tersebut akan ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_de3247aac16b9716.webp",
-      "rawMedia": "soal-06.png",
       "opsi": [
         "Tarik-menarik",
         "Tolak-menolak",
@@ -555,7 +549,6 @@
       "type": "pg",
       "teks": "Perhatikan posisi dua kutub magnet pada gambar. Jika kutub utara (U) Magnet A didekatkan dengan kutub selatan (S) Magnet B, maka peristiwa yang terjadi adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_55cd2b44b0047195.webp",
-      "rawMedia": "soal-07.png",
       "opsi": [
         "Tolak-menolak",
         "Saling menjauh",
@@ -645,7 +638,6 @@
       "type": "pg",
       "teks": "Perhatikan pola garis gaya magnet dan sebaran serbuk besi pada gambar. Bagian magnet yang memiliki gaya tarik paling kuat karena kerapatan serbuk besi paling tinggi terletak pada ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_42074d66be45d05b.webp",
-      "rawMedia": "soal-08.png",
       "opsi": [
         "Bagian tengah magnet",
         "Kedua kutub magnet",
@@ -735,7 +727,6 @@
       "type": "pg",
       "teks": "Perhatikan gambar kegiatan pembuatan magnet. Cara pembuatan magnet buatan yang ditunjukkan pada gambar adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_817ab481650d82c0.webp",
-      "rawMedia": "soal-09.png",
       "opsi": [
         "Induksi",
         "Elektromagnetik",
@@ -825,7 +816,6 @@
       "type": "pg",
       "teks": "Perhatikan gambar rangkaian paku yang dililit kawat dan dihubungkan dengan baterai sehingga dapat menarik klip kertas. Cara pembuatan magnet tersebut dilakukan dengan prinsip ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_326c41db824810c2.webp",
-      "rawMedia": "soal-10.png",
       "opsi": [
         "Menggosok bolak-balik",
         "Elektromagnetik (arus listrik)",
@@ -915,7 +905,6 @@
       "type": "pg",
       "teks": "Perhatikan gambar rangkaian listrik dengan dua lampu yang disusun secara berderet dalam satu jalur tanpa percabangan. Jenis rangkaian listrik tersebut adalah rangkaian ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_ed8017eafc2f5666.webp",
-      "rawMedia": "soal-11.png",
       "opsi": [
         "Paralel",
         "Seri",
@@ -1005,7 +994,6 @@
       "type": "pg",
       "teks": "Perhatikan skema rangkaian listrik bercabang pada gambar. Jika lampu L1 padam atau dilepas, maka kondisi lampu L2 adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_5a7f4480096a0720.webp",
-      "rawMedia": "soal-12.png",
       "opsi": [
         "Ikut padam",
         "Tetap menyala",
@@ -1095,7 +1083,6 @@
       "type": "pg",
       "teks": "Perhatikan gambar rangkaian listrik sederhana. Penyebab lampu pada rangkaian tersebut tidak menyala adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_7baf5aca39de3c3b.webp",
-      "rawMedia": "soal-13.png",
       "opsi": [
         "Baterai dipasang terbalik",
         "Sakelar dalam posisi terbuka sehingga arus listrik terputus",
@@ -1185,7 +1172,6 @@
       "type": "pg",
       "teks": "Perhatikan simbol komponen yang diberi tanda huruf (K) pada gambar rangkaian listrik. Fungsi dari komponen tersebut adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_24e0a17f222e3998.webp",
-      "rawMedia": "soal-14.png",
       "opsi": [
         "Menghasilkan arus listrik",
         "Memutus dan menyambung aliran arus listrik",
@@ -1275,7 +1261,6 @@
       "type": "pg",
       "teks": "Perhatikan gambar peralatan rumah tangga setrika listrik. Perubahan bentuk energi yang terjadi ketika alat tersebut digunakan adalah ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_d00cbdbfb389a689.webp",
-      "rawMedia": "soal-15.png",
       "opsi": [
         "Energi listrik menjadi energi panas",
         "Energi listrik menjadi energi gerak",
@@ -1365,7 +1350,6 @@
       "type": "pg",
       "teks": "Perhatikan percobaan tiga karton berlubang yang diletakkan sejajar di depan nyala lilin pada gambar. Percobaan tersebut membuktikan sifat cahaya yaitu ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_e72d44a664be96b7.webp",
-      "rawMedia": "soal-16.png",
       "opsi": [
         "Dapat dipantulkan",
         "Merambat lurus",
@@ -1455,7 +1439,6 @@
       "type": "pg",
       "teks": "Perhatikan gambar berkas cahaya senter yang diarahkan ke gelas kaca bening dan menembus hingga ke layar. Percobaan ini membuktikan bahwa cahaya ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_e6224fc3217735cd.webp",
-      "rawMedia": "soal-17.png",
       "opsi": [
         "Dapat diuraikan",
         "Merambat berbelok-belok",
@@ -1545,7 +1528,6 @@
       "type": "pg",
       "teks": "Perhatikan gambar berkas sinar yang mengenai permukaan cermin datar lalu memantul kembali. Peristiwa tersebut menunjukkan sifat cahaya yaitu ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_31aa47df614def07.webp",
-      "rawMedia": "soal-18.png",
       "opsi": [
         "Dapat dipantulkan",
         "Dapat dibiaskan",
@@ -1635,7 +1617,6 @@
       "type": "pg",
       "teks": "Perhatikan pengamatan batang pensil yang dimasukkan ke dalam gelas berisi air pada gambar. Pensil tampak patah atau membengkok pada batas permukaan air karena adanya peristiwa ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_8542c2bd25f69b81.webp",
-      "rawMedia": "soal-19.png",
       "opsi": [
         "Pemantulan sempurna",
         "Pembiasan cahaya",
@@ -1725,7 +1706,6 @@
       "type": "pg",
       "teks": "Perhatikan gambar berkas cahaya putih yang melewati prisma kaca dan terurai menjadi tujuh warna pelangi. Peristiwa penguraian cahaya putih tersebut disebut ...",
       "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/Rvi9WBMv6C5XfSKlG4XB/img_e6096f59d5687833.webp",
-      "rawMedia": "soal-20.png",
       "opsi": [
         "Refleksi",
         "Polarisasi",
@@ -4542,5 +4522,5 @@
       "kunci": "Penghematan energi listrik perlu dilakukan karena sebagian besar pembangkit listrik saat ini masih menggunakan bahan bakar fosil (seperti batu bara dan minyak bumi) yang jumlahnya terbatas di alam serta menghasilkan polusi gas rumah kaca yang merusak ekosistem lingkungan. Dua tindakan nyata yang dapat dilakukan siswa untuk menghemat listrik adalah: (1) Mematikan lampu ruangan, kipas angin, atau televisi jika sudah tidak digunakan; dan (2) Mencabut steker atau colokan peralatan elektronik yang sudah selesai diisi dayanya dari stopkontak."
     }
   ],
-  "updatedAt": "2026-09-12T14:42:17.502Z"
+  "updatedAt": "2026-09-12T14:43:06.629Z"
 }
