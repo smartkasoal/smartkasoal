@@ -8,7 +8,7 @@
   "token": "WYAQW6",
   "totalQuestions": 15,
   "totalBobot": 100,
-  "version": 1,
+  "version": 2,
   "questions": [
     {
       "id": "temp_ai_1789181192435_47_0",
@@ -881,5 +881,5 @@
       "kunci": "Contoh jawaban: Saya bermain dengan teman di halaman. Jawaban lain yang sederhana, sesuai pengalaman bermain, dan bermakna dapat diterima."
     }
   ],
-  "updatedAt": "2026-09-12T02:48:31.611Z"
+  "updatedAt": "2026-09-12T03:41:02.191Z"
 }
