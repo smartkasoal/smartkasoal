@@ -1,0 +1,2915 @@
+{
+  "fileId": "X0w9w55dmWJCx60fZD8N",
+  "id": "X0w9w55dmWJCx60fZD8N",
+  "examId": "X0w9w55dmWJCx60fZD8N",
+  "title": "Bank Soal Tanpa Judul",
+  "subject": "Lainnya",
+  "duration": 60,
+  "token": "MOP03J",
+  "totalQuestions": 30,
+  "totalBobot": 100,
+  "version": 1,
+  "questions": [
+    {
+      "id": "temp_ai_1789608287737_7909_0",
+      "type": "pg",
+      "teks": "Perhatikan gambar pecahan. Sebuah lingkaran dibagi menjadi 8 bagian sama besar dan 5 bagian diarsir. Pecahan yang menyatakan bagian yang diarsir adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_1b0554b8b3e3dfb7.webp",
+      "rawMedia": "soal-01.png",
+      "opsi": [
+        "3/8",
+        "4/8",
+        "5/8",
+        "6/8"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.43,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 1,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar pecahan. Sebuah lingkaran dibagi menjadi 8 bagian sama besar dan 5 bagian diarsir. Pecahan yang menyatakan bagian yang diarsir adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_1b0554b8b3e3dfb7.webp",
+            "caption": "soal-01.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "3/8"
+          },
+          {
+            "letter": "B",
+            "text": "4/8"
+          },
+          {
+            "letter": "C",
+            "text": "5/8"
+          },
+          {
+            "letter": "D",
+            "text": "6/8"
+          }
+        ],
+        "rawText": "Perhatikan gambar pecahan. Sebuah lingkaran dibagi menjadi 8 bagian sama besar dan 5 bagian diarsir. Pecahan yang menyatakan bagian yang diarsir adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287737_7909_0",
+      "number": 1,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar pecahan. Sebuah lingkaran dibagi menjadi 8 bagian sama besar dan 5 bagian diarsir. Pecahan yang menyatakan bagian yang diarsir adalah ...",
+      "pertanyaan": "Perhatikan gambar pecahan. Sebuah lingkaran dibagi menjadi 8 bagian sama besar dan 5 bagian diarsir. Pecahan yang menyatakan bagian yang diarsir adalah ...",
+      "text": "Perhatikan gambar pecahan. Sebuah lingkaran dibagi menjadi 8 bagian sama besar dan 5 bagian diarsir. Pecahan yang menyatakan bagian yang diarsir adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.43,
+      "options": [
+        {
+          "key": "A",
+          "text": "3/8"
+        },
+        {
+          "key": "B",
+          "text": "4/8"
+        },
+        {
+          "key": "C",
+          "text": "5/8"
+        },
+        {
+          "key": "D",
+          "text": "6/8"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287738_7586_1",
+      "type": "pg",
+      "teks": "Perhatikan gambar. Gelas A berisi 0,6 liter dan gelas B berisi 0,4 liter. Berapa liter lebih banyak air dalam gelas A?",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_11f5d888ee0be53b.webp",
+      "rawMedia": "soal-02.png",
+      "opsi": [
+        "0,1 liter",
+        "0,2 liter",
+        "0,3 liter",
+        "0,4 liter"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 2,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar. Gelas A berisi 0,6 liter dan gelas B berisi 0,4 liter. Berapa liter lebih banyak air dalam gelas A?",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_11f5d888ee0be53b.webp",
+            "caption": "soal-02.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "0,1 liter"
+          },
+          {
+            "letter": "B",
+            "text": "0,2 liter"
+          },
+          {
+            "letter": "C",
+            "text": "0,3 liter"
+          },
+          {
+            "letter": "D",
+            "text": "0,4 liter"
+          }
+        ],
+        "rawText": "Perhatikan gambar. Gelas A berisi 0,6 liter dan gelas B berisi 0,4 liter. Berapa liter lebih banyak air dalam gelas A?",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287738_7586_1",
+      "number": 2,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar. Gelas A berisi 0,6 liter dan gelas B berisi 0,4 liter. Berapa liter lebih banyak air dalam gelas A?",
+      "pertanyaan": "Perhatikan gambar. Gelas A berisi 0,6 liter dan gelas B berisi 0,4 liter. Berapa liter lebih banyak air dalam gelas A?",
+      "text": "Perhatikan gambar. Gelas A berisi 0,6 liter dan gelas B berisi 0,4 liter. Berapa liter lebih banyak air dalam gelas A?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "0,1 liter"
+        },
+        {
+          "key": "B",
+          "text": "0,2 liter"
+        },
+        {
+          "key": "C",
+          "text": "0,3 liter"
+        },
+        {
+          "key": "D",
+          "text": "0,4 liter"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789608287738_4885_2",
+      "type": "pg",
+      "teks": "Perhatikan gambar kubus. Panjang rusuk kubus adalah 3 cm. Volume kubus tersebut adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_a26582337e43818e.webp",
+      "rawMedia": "soal-03.png",
+      "opsi": [
+        "9 cm³",
+        "18 cm³",
+        "27 cm³",
+        "36 cm³"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 3,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar kubus. Panjang rusuk kubus adalah 3 cm. Volume kubus tersebut adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_a26582337e43818e.webp",
+            "caption": "soal-03.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "9 cm³"
+          },
+          {
+            "letter": "B",
+            "text": "18 cm³"
+          },
+          {
+            "letter": "C",
+            "text": "27 cm³"
+          },
+          {
+            "letter": "D",
+            "text": "36 cm³"
+          }
+        ],
+        "rawText": "Perhatikan gambar kubus. Panjang rusuk kubus adalah 3 cm. Volume kubus tersebut adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287738_4885_2",
+      "number": 3,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar kubus. Panjang rusuk kubus adalah 3 cm. Volume kubus tersebut adalah ...",
+      "pertanyaan": "Perhatikan gambar kubus. Panjang rusuk kubus adalah 3 cm. Volume kubus tersebut adalah ...",
+      "text": "Perhatikan gambar kubus. Panjang rusuk kubus adalah 3 cm. Volume kubus tersebut adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "9 cm³"
+        },
+        {
+          "key": "B",
+          "text": "18 cm³"
+        },
+        {
+          "key": "C",
+          "text": "27 cm³"
+        },
+        {
+          "key": "D",
+          "text": "36 cm³"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287738_1439_3",
+      "type": "pg",
+      "teks": "Perhatikan gambar balok. Panjangnya 6 cm, lebarnya 4 cm, dan tingginya 3 cm. Volume balok adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_0f6e4e81234a554d.webp",
+      "rawMedia": "soal-04.png",
+      "opsi": [
+        "48 cm³",
+        "60 cm³",
+        "72 cm³",
+        "84 cm³"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 4,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar balok. Panjangnya 6 cm, lebarnya 4 cm, dan tingginya 3 cm. Volume balok adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_0f6e4e81234a554d.webp",
+            "caption": "soal-04.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "48 cm³"
+          },
+          {
+            "letter": "B",
+            "text": "60 cm³"
+          },
+          {
+            "letter": "C",
+            "text": "72 cm³"
+          },
+          {
+            "letter": "D",
+            "text": "84 cm³"
+          }
+        ],
+        "rawText": "Perhatikan gambar balok. Panjangnya 6 cm, lebarnya 4 cm, dan tingginya 3 cm. Volume balok adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287738_1439_3",
+      "number": 4,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar balok. Panjangnya 6 cm, lebarnya 4 cm, dan tingginya 3 cm. Volume balok adalah ...",
+      "pertanyaan": "Perhatikan gambar balok. Panjangnya 6 cm, lebarnya 4 cm, dan tingginya 3 cm. Volume balok adalah ...",
+      "text": "Perhatikan gambar balok. Panjangnya 6 cm, lebarnya 4 cm, dan tingginya 3 cm. Volume balok adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "48 cm³"
+        },
+        {
+          "key": "B",
+          "text": "60 cm³"
+        },
+        {
+          "key": "C",
+          "text": "72 cm³"
+        },
+        {
+          "key": "D",
+          "text": "84 cm³"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287739_6286_4",
+      "type": "pg",
+      "teks": "Perhatikan gambar kantong bola. Terdapat 3 bola merah, 2 bola biru, dan 3 bola hijau. Jika satu bola diambil secara acak, peluang terambil bola biru adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_388a2dded762b9a5.webp",
+      "rawMedia": "soal-05.png",
+      "opsi": [
+        "1/8",
+        "2/8",
+        "3/8",
+        "4/8"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 5,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar kantong bola. Terdapat 3 bola merah, 2 bola biru, dan 3 bola hijau. Jika satu bola diambil secara acak, peluang terambil bola biru adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_388a2dded762b9a5.webp",
+            "caption": "soal-05.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1/8"
+          },
+          {
+            "letter": "B",
+            "text": "2/8"
+          },
+          {
+            "letter": "C",
+            "text": "3/8"
+          },
+          {
+            "letter": "D",
+            "text": "4/8"
+          }
+        ],
+        "rawText": "Perhatikan gambar kantong bola. Terdapat 3 bola merah, 2 bola biru, dan 3 bola hijau. Jika satu bola diambil secara acak, peluang terambil bola biru adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287739_6286_4",
+      "number": 5,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar kantong bola. Terdapat 3 bola merah, 2 bola biru, dan 3 bola hijau. Jika satu bola diambil secara acak, peluang terambil bola biru adalah ...",
+      "pertanyaan": "Perhatikan gambar kantong bola. Terdapat 3 bola merah, 2 bola biru, dan 3 bola hijau. Jika satu bola diambil secara acak, peluang terambil bola biru adalah ...",
+      "text": "Perhatikan gambar kantong bola. Terdapat 3 bola merah, 2 bola biru, dan 3 bola hijau. Jika satu bola diambil secara acak, peluang terambil bola biru adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "1/8"
+        },
+        {
+          "key": "B",
+          "text": "2/8"
+        },
+        {
+          "key": "C",
+          "text": "3/8"
+        },
+        {
+          "key": "D",
+          "text": "4/8"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789608287739_1622_5",
+      "type": "pg",
+      "teks": "Perhatikan diagram jumlah siswa. Hari Senin terdapat 8 siswa, Selasa 10 siswa, Rabu 6 siswa, dan Kamis 12 siswa. Hari dengan jumlah siswa paling banyak adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_55b1552523b0e90e.webp",
+      "rawMedia": "soal-06.png",
+      "opsi": [
+        "Senin",
+        "Selasa",
+        "Rabu",
+        "Kamis"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 3,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 6,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan diagram jumlah siswa. Hari Senin terdapat 8 siswa, Selasa 10 siswa, Rabu 6 siswa, dan Kamis 12 siswa. Hari dengan jumlah siswa paling banyak adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_55b1552523b0e90e.webp",
+            "caption": "soal-06.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Senin"
+          },
+          {
+            "letter": "B",
+            "text": "Selasa"
+          },
+          {
+            "letter": "C",
+            "text": "Rabu"
+          },
+          {
+            "letter": "D",
+            "text": "Kamis"
+          }
+        ],
+        "rawText": "Perhatikan diagram jumlah siswa. Hari Senin terdapat 8 siswa, Selasa 10 siswa, Rabu 6 siswa, dan Kamis 12 siswa. Hari dengan jumlah siswa paling banyak adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287739_1622_5",
+      "number": 6,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan diagram jumlah siswa. Hari Senin terdapat 8 siswa, Selasa 10 siswa, Rabu 6 siswa, dan Kamis 12 siswa. Hari dengan jumlah siswa paling banyak adalah ...",
+      "pertanyaan": "Perhatikan diagram jumlah siswa. Hari Senin terdapat 8 siswa, Selasa 10 siswa, Rabu 6 siswa, dan Kamis 12 siswa. Hari dengan jumlah siswa paling banyak adalah ...",
+      "text": "Perhatikan diagram jumlah siswa. Hari Senin terdapat 8 siswa, Selasa 10 siswa, Rabu 6 siswa, dan Kamis 12 siswa. Hari dengan jumlah siswa paling banyak adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Senin"
+        },
+        {
+          "key": "B",
+          "text": "Selasa"
+        },
+        {
+          "key": "C",
+          "text": "Rabu"
+        },
+        {
+          "key": "D",
+          "text": "Kamis"
+        }
+      ],
+      "answer": "D",
+      "kunci": "D",
+      "correctAnswer": 3
+    },
+    {
+      "id": "temp_ai_1789608287739_2997_6",
+      "type": "pg",
+      "teks": "Perhatikan spinner. Spinner memiliki 6 bagian sama besar bernomor 1 sampai 6. Peluang jarum berhenti pada bilangan genap adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_1e50869f036b4f86.webp",
+      "rawMedia": "soal-07.png",
+      "opsi": [
+        "1/6",
+        "2/6",
+        "3/6",
+        "4/6"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 7,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan spinner. Spinner memiliki 6 bagian sama besar bernomor 1 sampai 6. Peluang jarum berhenti pada bilangan genap adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_1e50869f036b4f86.webp",
+            "caption": "soal-07.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1/6"
+          },
+          {
+            "letter": "B",
+            "text": "2/6"
+          },
+          {
+            "letter": "C",
+            "text": "3/6"
+          },
+          {
+            "letter": "D",
+            "text": "4/6"
+          }
+        ],
+        "rawText": "Perhatikan spinner. Spinner memiliki 6 bagian sama besar bernomor 1 sampai 6. Peluang jarum berhenti pada bilangan genap adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287739_2997_6",
+      "number": 7,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan spinner. Spinner memiliki 6 bagian sama besar bernomor 1 sampai 6. Peluang jarum berhenti pada bilangan genap adalah ...",
+      "pertanyaan": "Perhatikan spinner. Spinner memiliki 6 bagian sama besar bernomor 1 sampai 6. Peluang jarum berhenti pada bilangan genap adalah ...",
+      "text": "Perhatikan spinner. Spinner memiliki 6 bagian sama besar bernomor 1 sampai 6. Peluang jarum berhenti pada bilangan genap adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "1/6"
+        },
+        {
+          "key": "B",
+          "text": "2/6"
+        },
+        {
+          "key": "C",
+          "text": "3/6"
+        },
+        {
+          "key": "D",
+          "text": "4/6"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287740_7946_7",
+      "type": "pg",
+      "teks": "Perhatikan jaring-jaring kubus. Berapa banyak persegi yang membentuk jaring-jaring tersebut?",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_ab858b200a1a73af.webp",
+      "rawMedia": "soal-08.png",
+      "opsi": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 8,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan jaring-jaring kubus. Berapa banyak persegi yang membentuk jaring-jaring tersebut?",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_ab858b200a1a73af.webp",
+            "caption": "soal-08.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "4"
+          },
+          {
+            "letter": "B",
+            "text": "5"
+          },
+          {
+            "letter": "C",
+            "text": "6"
+          },
+          {
+            "letter": "D",
+            "text": "7"
+          }
+        ],
+        "rawText": "Perhatikan jaring-jaring kubus. Berapa banyak persegi yang membentuk jaring-jaring tersebut?",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287740_7946_7",
+      "number": 8,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan jaring-jaring kubus. Berapa banyak persegi yang membentuk jaring-jaring tersebut?",
+      "pertanyaan": "Perhatikan jaring-jaring kubus. Berapa banyak persegi yang membentuk jaring-jaring tersebut?",
+      "text": "Perhatikan jaring-jaring kubus. Berapa banyak persegi yang membentuk jaring-jaring tersebut?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "7"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287740_7853_8",
+      "type": "pg",
+      "teks": "Perhatikan gambar blok nilai tempat. Terdapat 1 blok ratusan, 3 batang puluhan, dan 3 kubus satuan. Bilangan yang ditunjukkan adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_55b81bd69373cca5.webp",
+      "rawMedia": "soal-09.png",
+      "opsi": [
+        "133",
+        "313",
+        "330",
+        "1330"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 9,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar blok nilai tempat. Terdapat 1 blok ratusan, 3 batang puluhan, dan 3 kubus satuan. Bilangan yang ditunjukkan adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_55b81bd69373cca5.webp",
+            "caption": "soal-09.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "133"
+          },
+          {
+            "letter": "B",
+            "text": "313"
+          },
+          {
+            "letter": "C",
+            "text": "330"
+          },
+          {
+            "letter": "D",
+            "text": "1330"
+          }
+        ],
+        "rawText": "Perhatikan gambar blok nilai tempat. Terdapat 1 blok ratusan, 3 batang puluhan, dan 3 kubus satuan. Bilangan yang ditunjukkan adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287740_7853_8",
+      "number": 9,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar blok nilai tempat. Terdapat 1 blok ratusan, 3 batang puluhan, dan 3 kubus satuan. Bilangan yang ditunjukkan adalah ...",
+      "pertanyaan": "Perhatikan gambar blok nilai tempat. Terdapat 1 blok ratusan, 3 batang puluhan, dan 3 kubus satuan. Bilangan yang ditunjukkan adalah ...",
+      "text": "Perhatikan gambar blok nilai tempat. Terdapat 1 blok ratusan, 3 batang puluhan, dan 3 kubus satuan. Bilangan yang ditunjukkan adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "133"
+        },
+        {
+          "key": "B",
+          "text": "313"
+        },
+        {
+          "key": "C",
+          "text": "330"
+        },
+        {
+          "key": "D",
+          "text": "1330"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789608287740_4372_9",
+      "type": "pg",
+      "teks": "Perhatikan gambar. Kubus A memiliki panjang rusuk 2 cm, sedangkan kubus B memiliki panjang rusuk 4 cm. Berapa volume kubus B?",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_d55730dfc205a5d0.webp",
+      "rawMedia": "soal-10.png",
+      "opsi": [
+        "16 cm³",
+        "32 cm³",
+        "48 cm³",
+        "64 cm³"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 3,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 10,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar. Kubus A memiliki panjang rusuk 2 cm, sedangkan kubus B memiliki panjang rusuk 4 cm. Berapa volume kubus B?",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/X0w9w55dmWJCx60fZD8N/img_d55730dfc205a5d0.webp",
+            "caption": "soal-10.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "16 cm³"
+          },
+          {
+            "letter": "B",
+            "text": "32 cm³"
+          },
+          {
+            "letter": "C",
+            "text": "48 cm³"
+          },
+          {
+            "letter": "D",
+            "text": "64 cm³"
+          }
+        ],
+        "rawText": "Perhatikan gambar. Kubus A memiliki panjang rusuk 2 cm, sedangkan kubus B memiliki panjang rusuk 4 cm. Berapa volume kubus B?",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287740_4372_9",
+      "number": 10,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar. Kubus A memiliki panjang rusuk 2 cm, sedangkan kubus B memiliki panjang rusuk 4 cm. Berapa volume kubus B?",
+      "pertanyaan": "Perhatikan gambar. Kubus A memiliki panjang rusuk 2 cm, sedangkan kubus B memiliki panjang rusuk 4 cm. Berapa volume kubus B?",
+      "text": "Perhatikan gambar. Kubus A memiliki panjang rusuk 2 cm, sedangkan kubus B memiliki panjang rusuk 4 cm. Berapa volume kubus B?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "16 cm³"
+        },
+        {
+          "key": "B",
+          "text": "32 cm³"
+        },
+        {
+          "key": "C",
+          "text": "48 cm³"
+        },
+        {
+          "key": "D",
+          "text": "64 cm³"
+        }
+      ],
+      "answer": "D",
+      "kunci": "D",
+      "correctAnswer": 3
+    },
+    {
+      "id": "temp_ai_1789608287741_1406_10",
+      "type": "pg",
+      "teks": "Pecahan 3/5 senilai dengan pecahan ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "4/10",
+        "5/10",
+        "6/10",
+        "7/10"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 11,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pecahan 3/5 senilai dengan pecahan ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "4/10"
+          },
+          {
+            "letter": "B",
+            "text": "5/10"
+          },
+          {
+            "letter": "C",
+            "text": "6/10"
+          },
+          {
+            "letter": "D",
+            "text": "7/10"
+          }
+        ],
+        "rawText": "Pecahan 3/5 senilai dengan pecahan ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287741_1406_10",
+      "number": 11,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pecahan 3/5 senilai dengan pecahan ...",
+      "pertanyaan": "Pecahan 3/5 senilai dengan pecahan ...",
+      "text": "Pecahan 3/5 senilai dengan pecahan ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "4/10"
+        },
+        {
+          "key": "B",
+          "text": "5/10"
+        },
+        {
+          "key": "C",
+          "text": "6/10"
+        },
+        {
+          "key": "D",
+          "text": "7/10"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287741_6828_11",
+      "type": "pg",
+      "teks": "Rina memiliki 2,5 meter pita. Ia menggunakan 0,75 meter. Sisa pita Rina adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "1,25 meter",
+        "1,50 meter",
+        "1,75 meter",
+        "2,25 meter"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 12,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Rina memiliki 2,5 meter pita. Ia menggunakan 0,75 meter. Sisa pita Rina adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1,25 meter"
+          },
+          {
+            "letter": "B",
+            "text": "1,50 meter"
+          },
+          {
+            "letter": "C",
+            "text": "1,75 meter"
+          },
+          {
+            "letter": "D",
+            "text": "2,25 meter"
+          }
+        ],
+        "rawText": "Rina memiliki 2,5 meter pita. Ia menggunakan 0,75 meter. Sisa pita Rina adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287741_6828_11",
+      "number": 12,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Rina memiliki 2,5 meter pita. Ia menggunakan 0,75 meter. Sisa pita Rina adalah ...",
+      "pertanyaan": "Rina memiliki 2,5 meter pita. Ia menggunakan 0,75 meter. Sisa pita Rina adalah ...",
+      "text": "Rina memiliki 2,5 meter pita. Ia menggunakan 0,75 meter. Sisa pita Rina adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "1,25 meter"
+        },
+        {
+          "key": "B",
+          "text": "1,50 meter"
+        },
+        {
+          "key": "C",
+          "text": "1,75 meter"
+        },
+        {
+          "key": "D",
+          "text": "2,25 meter"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287741_9156_12",
+      "type": "pg",
+      "teks": "Sebuah kubus memiliki volume 64 cm³. Panjang rusuk kubus tersebut adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "2 cm",
+        "3 cm",
+        "4 cm",
+        "8 cm"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 13,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Sebuah kubus memiliki volume 64 cm³. Panjang rusuk kubus tersebut adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "2 cm"
+          },
+          {
+            "letter": "B",
+            "text": "3 cm"
+          },
+          {
+            "letter": "C",
+            "text": "4 cm"
+          },
+          {
+            "letter": "D",
+            "text": "8 cm"
+          }
+        ],
+        "rawText": "Sebuah kubus memiliki volume 64 cm³. Panjang rusuk kubus tersebut adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287741_9156_12",
+      "number": 13,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Sebuah kubus memiliki volume 64 cm³. Panjang rusuk kubus tersebut adalah ...",
+      "pertanyaan": "Sebuah kubus memiliki volume 64 cm³. Panjang rusuk kubus tersebut adalah ...",
+      "text": "Sebuah kubus memiliki volume 64 cm³. Panjang rusuk kubus tersebut adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "2 cm"
+        },
+        {
+          "key": "B",
+          "text": "3 cm"
+        },
+        {
+          "key": "C",
+          "text": "4 cm"
+        },
+        {
+          "key": "D",
+          "text": "8 cm"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287741_8725_13",
+      "type": "pg",
+      "teks": "Sebuah balok berukuran panjang 10 cm, lebar 5 cm, dan tinggi 2 cm. Volume balok tersebut adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "50 cm³",
+        "75 cm³",
+        "100 cm³",
+        "120 cm³"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 14,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Sebuah balok berukuran panjang 10 cm, lebar 5 cm, dan tinggi 2 cm. Volume balok tersebut adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "50 cm³"
+          },
+          {
+            "letter": "B",
+            "text": "75 cm³"
+          },
+          {
+            "letter": "C",
+            "text": "100 cm³"
+          },
+          {
+            "letter": "D",
+            "text": "120 cm³"
+          }
+        ],
+        "rawText": "Sebuah balok berukuran panjang 10 cm, lebar 5 cm, dan tinggi 2 cm. Volume balok tersebut adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287741_8725_13",
+      "number": 14,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Sebuah balok berukuran panjang 10 cm, lebar 5 cm, dan tinggi 2 cm. Volume balok tersebut adalah ...",
+      "pertanyaan": "Sebuah balok berukuran panjang 10 cm, lebar 5 cm, dan tinggi 2 cm. Volume balok tersebut adalah ...",
+      "text": "Sebuah balok berukuran panjang 10 cm, lebar 5 cm, dan tinggi 2 cm. Volume balok tersebut adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "50 cm³"
+        },
+        {
+          "key": "B",
+          "text": "75 cm³"
+        },
+        {
+          "key": "C",
+          "text": "100 cm³"
+        },
+        {
+          "key": "D",
+          "text": "120 cm³"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287742_1458_14",
+      "type": "pg",
+      "teks": "Di dalam kotak terdapat 5 kelereng merah dan 5 kelereng biru. Jika satu kelereng diambil secara acak, peluang terambil kelereng merah adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "1/10",
+        "1/5",
+        "1/2",
+        "3/5"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 15,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Di dalam kotak terdapat 5 kelereng merah dan 5 kelereng biru. Jika satu kelereng diambil secara acak, peluang terambil kelereng merah adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1/10"
+          },
+          {
+            "letter": "B",
+            "text": "1/5"
+          },
+          {
+            "letter": "C",
+            "text": "1/2"
+          },
+          {
+            "letter": "D",
+            "text": "3/5"
+          }
+        ],
+        "rawText": "Di dalam kotak terdapat 5 kelereng merah dan 5 kelereng biru. Jika satu kelereng diambil secara acak, peluang terambil kelereng merah adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287742_1458_14",
+      "number": 15,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Di dalam kotak terdapat 5 kelereng merah dan 5 kelereng biru. Jika satu kelereng diambil secara acak, peluang terambil kelereng merah adalah ...",
+      "pertanyaan": "Di dalam kotak terdapat 5 kelereng merah dan 5 kelereng biru. Jika satu kelereng diambil secara acak, peluang terambil kelereng merah adalah ...",
+      "text": "Di dalam kotak terdapat 5 kelereng merah dan 5 kelereng biru. Jika satu kelereng diambil secara acak, peluang terambil kelereng merah adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "1/10"
+        },
+        {
+          "key": "B",
+          "text": "1/5"
+        },
+        {
+          "key": "C",
+          "text": "1/2"
+        },
+        {
+          "key": "D",
+          "text": "3/5"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287742_4900_15",
+      "type": "pg",
+      "teks": "Data jumlah buku yang dibaca Dita selama empat minggu adalah 3, 5, 4, dan 6 buku. Jumlah seluruh buku yang dibaca Dita adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "16 buku",
+        "17 buku",
+        "18 buku",
+        "19 buku"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 16,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Data jumlah buku yang dibaca Dita selama empat minggu adalah 3, 5, 4, dan 6 buku. Jumlah seluruh buku yang dibaca Dita adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "16 buku"
+          },
+          {
+            "letter": "B",
+            "text": "17 buku"
+          },
+          {
+            "letter": "C",
+            "text": "18 buku"
+          },
+          {
+            "letter": "D",
+            "text": "19 buku"
+          }
+        ],
+        "rawText": "Data jumlah buku yang dibaca Dita selama empat minggu adalah 3, 5, 4, dan 6 buku. Jumlah seluruh buku yang dibaca Dita adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287742_4900_15",
+      "number": 16,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Data jumlah buku yang dibaca Dita selama empat minggu adalah 3, 5, 4, dan 6 buku. Jumlah seluruh buku yang dibaca Dita adalah ...",
+      "pertanyaan": "Data jumlah buku yang dibaca Dita selama empat minggu adalah 3, 5, 4, dan 6 buku. Jumlah seluruh buku yang dibaca Dita adalah ...",
+      "text": "Data jumlah buku yang dibaca Dita selama empat minggu adalah 3, 5, 4, dan 6 buku. Jumlah seluruh buku yang dibaca Dita adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "16 buku"
+        },
+        {
+          "key": "B",
+          "text": "17 buku"
+        },
+        {
+          "key": "C",
+          "text": "18 buku"
+        },
+        {
+          "key": "D",
+          "text": "19 buku"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287743_3964_16",
+      "type": "pg",
+      "teks": "Nilai desimal yang paling besar adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "0,35",
+        "0,5",
+        "0,45",
+        "0,4"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 17,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Nilai desimal yang paling besar adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "0,35"
+          },
+          {
+            "letter": "B",
+            "text": "0,5"
+          },
+          {
+            "letter": "C",
+            "text": "0,45"
+          },
+          {
+            "letter": "D",
+            "text": "0,4"
+          }
+        ],
+        "rawText": "Nilai desimal yang paling besar adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287743_3964_16",
+      "number": 17,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Nilai desimal yang paling besar adalah ...",
+      "pertanyaan": "Nilai desimal yang paling besar adalah ...",
+      "text": "Nilai desimal yang paling besar adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "0,35"
+        },
+        {
+          "key": "B",
+          "text": "0,5"
+        },
+        {
+          "key": "C",
+          "text": "0,45"
+        },
+        {
+          "key": "D",
+          "text": "0,4"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789608287744_3728_17",
+      "type": "pg",
+      "teks": "Sebuah bak berbentuk balok berukuran 4 m × 2 m × 1 m. Volume bak tersebut adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "6 m³",
+        "7 m³",
+        "8 m³",
+        "9 m³"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 18,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Sebuah bak berbentuk balok berukuran 4 m × 2 m × 1 m. Volume bak tersebut adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "6 m³"
+          },
+          {
+            "letter": "B",
+            "text": "7 m³"
+          },
+          {
+            "letter": "C",
+            "text": "8 m³"
+          },
+          {
+            "letter": "D",
+            "text": "9 m³"
+          }
+        ],
+        "rawText": "Sebuah bak berbentuk balok berukuran 4 m × 2 m × 1 m. Volume bak tersebut adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287744_3728_17",
+      "number": 18,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Sebuah bak berbentuk balok berukuran 4 m × 2 m × 1 m. Volume bak tersebut adalah ...",
+      "pertanyaan": "Sebuah bak berbentuk balok berukuran 4 m × 2 m × 1 m. Volume bak tersebut adalah ...",
+      "text": "Sebuah bak berbentuk balok berukuran 4 m × 2 m × 1 m. Volume bak tersebut adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "6 m³"
+        },
+        {
+          "key": "B",
+          "text": "7 m³"
+        },
+        {
+          "key": "C",
+          "text": "8 m³"
+        },
+        {
+          "key": "D",
+          "text": "9 m³"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789608287744_9162_18",
+      "type": "pg",
+      "teks": "Pecahan 1/4 jika ditulis dalam bentuk desimal adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "0,2",
+        "0,25",
+        "0,4",
+        "0,5"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 19,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pecahan 1/4 jika ditulis dalam bentuk desimal adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "0,2"
+          },
+          {
+            "letter": "B",
+            "text": "0,25"
+          },
+          {
+            "letter": "C",
+            "text": "0,4"
+          },
+          {
+            "letter": "D",
+            "text": "0,5"
+          }
+        ],
+        "rawText": "Pecahan 1/4 jika ditulis dalam bentuk desimal adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287744_9162_18",
+      "number": 19,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pecahan 1/4 jika ditulis dalam bentuk desimal adalah ...",
+      "pertanyaan": "Pecahan 1/4 jika ditulis dalam bentuk desimal adalah ...",
+      "text": "Pecahan 1/4 jika ditulis dalam bentuk desimal adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "0,2"
+        },
+        {
+          "key": "B",
+          "text": "0,25"
+        },
+        {
+          "key": "C",
+          "text": "0,4"
+        },
+        {
+          "key": "D",
+          "text": "0,5"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789608287744_4766_19",
+      "type": "pg",
+      "teks": "Sebuah dadu memiliki 6 sisi bernomor 1 sampai 6. Peluang muncul bilangan lebih dari 4 adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "1/6",
+        "2/6",
+        "3/6",
+        "4/6"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 20,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Sebuah dadu memiliki 6 sisi bernomor 1 sampai 6. Peluang muncul bilangan lebih dari 4 adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1/6"
+          },
+          {
+            "letter": "B",
+            "text": "2/6"
+          },
+          {
+            "letter": "C",
+            "text": "3/6"
+          },
+          {
+            "letter": "D",
+            "text": "4/6"
+          }
+        ],
+        "rawText": "Sebuah dadu memiliki 6 sisi bernomor 1 sampai 6. Peluang muncul bilangan lebih dari 4 adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789608287744_4766_19",
+      "number": 20,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Sebuah dadu memiliki 6 sisi bernomor 1 sampai 6. Peluang muncul bilangan lebih dari 4 adalah ...",
+      "pertanyaan": "Sebuah dadu memiliki 6 sisi bernomor 1 sampai 6. Peluang muncul bilangan lebih dari 4 adalah ...",
+      "text": "Sebuah dadu memiliki 6 sisi bernomor 1 sampai 6. Peluang muncul bilangan lebih dari 4 adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "1/6"
+        },
+        {
+          "key": "B",
+          "text": "2/6"
+        },
+        {
+          "key": "C",
+          "text": "3/6"
+        },
+        {
+          "key": "D",
+          "text": "4/6"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789608287744_7464_20",
+      "type": "ma",
+      "teks": "Pilih semua pernyataan yang benar berdasarkan gambar pecahan pada soal 1.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Bagian yang diarsir adalah 5/8.",
+        "Bagian yang tidak diarsir adalah 3/8.",
+        "Bagian yang diarsir lebih banyak daripada yang tidak diarsir.",
+        "Pecahan 5/8 lebih kecil daripada 1/2.",
+        "Jumlah seluruh bagian adalah 8."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 21,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua pernyataan yang benar berdasarkan gambar pecahan pada soal 1.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Bagian yang diarsir adalah 5/8."
+          },
+          {
+            "letter": "B",
+            "text": "Bagian yang tidak diarsir adalah 3/8."
+          },
+          {
+            "letter": "C",
+            "text": "Bagian yang diarsir lebih banyak daripada yang tidak diarsir."
+          },
+          {
+            "letter": "D",
+            "text": "Pecahan 5/8 lebih kecil daripada 1/2."
+          },
+          {
+            "letter": "E",
+            "text": "Jumlah seluruh bagian adalah 8."
+          }
+        ],
+        "rawText": "Pilih semua pernyataan yang benar berdasarkan gambar pecahan pada soal 1.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1789608287744_7464_20",
+      "number": 21,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua pernyataan yang benar berdasarkan gambar pecahan pada soal 1.",
+      "pertanyaan": "Pilih semua pernyataan yang benar berdasarkan gambar pecahan pada soal 1.",
+      "text": "Pilih semua pernyataan yang benar berdasarkan gambar pecahan pada soal 1.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Bagian yang diarsir adalah 5/8."
+        },
+        {
+          "key": "B",
+          "text": "Bagian yang tidak diarsir adalah 3/8."
+        },
+        {
+          "key": "C",
+          "text": "Bagian yang diarsir lebih banyak daripada yang tidak diarsir."
+        },
+        {
+          "key": "D",
+          "text": "Pecahan 5/8 lebih kecil daripada 1/2."
+        },
+        {
+          "key": "E",
+          "text": "Jumlah seluruh bagian adalah 8."
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "kunci": "A, B, C, E"
+    },
+    {
+      "id": "temp_ai_1789608287745_1937_21",
+      "type": "ma",
+      "teks": "Pilih semua pernyataan yang benar tentang kubus dan balok.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Volume kubus dengan rusuk 3 cm adalah 27 cm³.",
+        "Volume balok 6 cm × 4 cm × 3 cm adalah 72 cm³.",
+        "Volume kubus dengan rusuk 3 cm lebih besar daripada volume balok pada soal 4.",
+        "Volume kubus dihitung dengan rusuk × rusuk × rusuk.",
+        "Volume balok dihitung dengan panjang + lebar + tinggi."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        3
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 22,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua pernyataan yang benar tentang kubus dan balok.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Volume kubus dengan rusuk 3 cm adalah 27 cm³."
+          },
+          {
+            "letter": "B",
+            "text": "Volume balok 6 cm × 4 cm × 3 cm adalah 72 cm³."
+          },
+          {
+            "letter": "C",
+            "text": "Volume kubus dengan rusuk 3 cm lebih besar daripada volume balok pada soal 4."
+          },
+          {
+            "letter": "D",
+            "text": "Volume kubus dihitung dengan rusuk × rusuk × rusuk."
+          },
+          {
+            "letter": "E",
+            "text": "Volume balok dihitung dengan panjang + lebar + tinggi."
+          }
+        ],
+        "rawText": "Pilih semua pernyataan yang benar tentang kubus dan balok.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1789608287745_1937_21",
+      "number": 22,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua pernyataan yang benar tentang kubus dan balok.",
+      "pertanyaan": "Pilih semua pernyataan yang benar tentang kubus dan balok.",
+      "text": "Pilih semua pernyataan yang benar tentang kubus dan balok.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Volume kubus dengan rusuk 3 cm adalah 27 cm³."
+        },
+        {
+          "key": "B",
+          "text": "Volume balok 6 cm × 4 cm × 3 cm adalah 72 cm³."
+        },
+        {
+          "key": "C",
+          "text": "Volume kubus dengan rusuk 3 cm lebih besar daripada volume balok pada soal 4."
+        },
+        {
+          "key": "D",
+          "text": "Volume kubus dihitung dengan rusuk × rusuk × rusuk."
+        },
+        {
+          "key": "E",
+          "text": "Volume balok dihitung dengan panjang + lebar + tinggi."
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "kunci": "A, B, D"
+    },
+    {
+      "id": "temp_ai_1789608287745_720_22",
+      "type": "ma",
+      "teks": "Pilih semua pernyataan yang benar tentang peluang.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Peluang mengambil bola biru pada soal 5 adalah 2/8.",
+        "Peluang 2/8 sama dengan 1/4.",
+        "Peluang suatu kejadian pasti adalah 0.",
+        "Peluang suatu kejadian mustahil adalah 0.",
+        "Peluang selalu lebih besar dari 1."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        3
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 23,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua pernyataan yang benar tentang peluang.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Peluang mengambil bola biru pada soal 5 adalah 2/8."
+          },
+          {
+            "letter": "B",
+            "text": "Peluang 2/8 sama dengan 1/4."
+          },
+          {
+            "letter": "C",
+            "text": "Peluang suatu kejadian pasti adalah 0."
+          },
+          {
+            "letter": "D",
+            "text": "Peluang suatu kejadian mustahil adalah 0."
+          },
+          {
+            "letter": "E",
+            "text": "Peluang selalu lebih besar dari 1."
+          }
+        ],
+        "rawText": "Pilih semua pernyataan yang benar tentang peluang.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1789608287745_720_22",
+      "number": 23,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua pernyataan yang benar tentang peluang.",
+      "pertanyaan": "Pilih semua pernyataan yang benar tentang peluang.",
+      "text": "Pilih semua pernyataan yang benar tentang peluang.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Peluang mengambil bola biru pada soal 5 adalah 2/8."
+        },
+        {
+          "key": "B",
+          "text": "Peluang 2/8 sama dengan 1/4."
+        },
+        {
+          "key": "C",
+          "text": "Peluang suatu kejadian pasti adalah 0."
+        },
+        {
+          "key": "D",
+          "text": "Peluang suatu kejadian mustahil adalah 0."
+        },
+        {
+          "key": "E",
+          "text": "Peluang selalu lebih besar dari 1."
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "kunci": "A, B, D"
+    },
+    {
+      "id": "temp_ai_1789608287745_4848_23",
+      "type": "tf",
+      "teks": "Perhatikan gambar pecahan pada soal 1. Tentukan benar atau salah untuk setiap pernyataan.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Lingkaran dibagi menjadi 8 bagian sama besar.",
+          "teks": "Lingkaran dibagi menjadi 8 bagian sama besar.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Bagian yang diarsir berjumlah 4 bagian.",
+          "teks": "Bagian yang diarsir berjumlah 4 bagian.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Pecahan bagian yang diarsir adalah 5/8.",
+          "teks": "Pecahan bagian yang diarsir adalah 5/8.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Bagian yang tidak diarsir lebih banyak daripada bagian yang diarsir.",
+          "teks": "Bagian yang tidak diarsir lebih banyak daripada bagian yang diarsir.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Jumlah bagian yang diarsir dan tidak diarsir adalah 8.",
+          "teks": "Jumlah bagian yang diarsir dan tidak diarsir adalah 8.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Lingkaran dibagi menjadi 8 bagian sama besar.",
+          "jawaban": true,
+          "text": "Lingkaran dibagi menjadi 8 bagian sama besar."
+        },
+        {
+          "teks": "Bagian yang diarsir berjumlah 4 bagian.",
+          "jawaban": false,
+          "text": "Bagian yang diarsir berjumlah 4 bagian."
+        },
+        {
+          "teks": "Pecahan bagian yang diarsir adalah 5/8.",
+          "jawaban": true,
+          "text": "Pecahan bagian yang diarsir adalah 5/8."
+        },
+        {
+          "teks": "Bagian yang tidak diarsir lebih banyak daripada bagian yang diarsir.",
+          "jawaban": false,
+          "text": "Bagian yang tidak diarsir lebih banyak daripada bagian yang diarsir."
+        },
+        {
+          "teks": "Jumlah bagian yang diarsir dan tidak diarsir adalah 8.",
+          "jawaban": true,
+          "text": "Jumlah bagian yang diarsir dan tidak diarsir adalah 8."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Lingkaran dibagi menjadi 8 bagian sama besar.",
+          "teks": "Lingkaran dibagi menjadi 8 bagian sama besar.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Bagian yang diarsir berjumlah 4 bagian.",
+          "teks": "Bagian yang diarsir berjumlah 4 bagian.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Pecahan bagian yang diarsir adalah 5/8.",
+          "teks": "Pecahan bagian yang diarsir adalah 5/8.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Bagian yang tidak diarsir lebih banyak daripada bagian yang diarsir.",
+          "teks": "Bagian yang tidak diarsir lebih banyak daripada bagian yang diarsir.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Jumlah bagian yang diarsir dan tidak diarsir adalah 8.",
+          "teks": "Jumlah bagian yang diarsir dan tidak diarsir adalah 8.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 24,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar pecahan pada soal 1. Tentukan benar atau salah untuk setiap pernyataan.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Lingkaran dibagi menjadi 8 bagian sama besar."
+          },
+          {
+            "letter": "B",
+            "text": "Bagian yang diarsir berjumlah 4 bagian."
+          },
+          {
+            "letter": "C",
+            "text": "Pecahan bagian yang diarsir adalah 5/8."
+          },
+          {
+            "letter": "D",
+            "text": "Bagian yang tidak diarsir lebih banyak daripada bagian yang diarsir."
+          },
+          {
+            "letter": "E",
+            "text": "Jumlah bagian yang diarsir dan tidak diarsir adalah 8."
+          }
+        ],
+        "rawText": "Perhatikan gambar pecahan pada soal 1. Tentukan benar atau salah untuk setiap pernyataan.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1789608287745_4848_23",
+      "number": 24,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Perhatikan gambar pecahan pada soal 1. Tentukan benar atau salah untuk setiap pernyataan.",
+      "pertanyaan": "Perhatikan gambar pecahan pada soal 1. Tentukan benar atau salah untuk setiap pernyataan.",
+      "text": "Perhatikan gambar pecahan pada soal 1. Tentukan benar atau salah untuk setiap pernyataan.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789608287745_388_24",
+      "type": "tf",
+      "teks": "Perhatikan gambar spinner pada soal 7. Tentukan benar atau salah untuk setiap pernyataan.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Spinner memiliki 6 bagian sama besar.",
+          "teks": "Spinner memiliki 6 bagian sama besar.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Bilangan genap pada spinner adalah 1, 3, dan 5.",
+          "teks": "Bilangan genap pada spinner adalah 1, 3, dan 5.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Ada 3 bilangan genap pada spinner.",
+          "teks": "Ada 3 bilangan genap pada spinner.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Peluang mendapat bilangan genap adalah 2/6.",
+          "teks": "Peluang mendapat bilangan genap adalah 2/6.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Peluang mendapat bilangan 6 adalah 1/6.",
+          "teks": "Peluang mendapat bilangan 6 adalah 1/6.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Spinner memiliki 6 bagian sama besar.",
+          "jawaban": true,
+          "text": "Spinner memiliki 6 bagian sama besar."
+        },
+        {
+          "teks": "Bilangan genap pada spinner adalah 1, 3, dan 5.",
+          "jawaban": false,
+          "text": "Bilangan genap pada spinner adalah 1, 3, dan 5."
+        },
+        {
+          "teks": "Ada 3 bilangan genap pada spinner.",
+          "jawaban": true,
+          "text": "Ada 3 bilangan genap pada spinner."
+        },
+        {
+          "teks": "Peluang mendapat bilangan genap adalah 2/6.",
+          "jawaban": false,
+          "text": "Peluang mendapat bilangan genap adalah 2/6."
+        },
+        {
+          "teks": "Peluang mendapat bilangan 6 adalah 1/6.",
+          "jawaban": true,
+          "text": "Peluang mendapat bilangan 6 adalah 1/6."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Spinner memiliki 6 bagian sama besar.",
+          "teks": "Spinner memiliki 6 bagian sama besar.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Bilangan genap pada spinner adalah 1, 3, dan 5.",
+          "teks": "Bilangan genap pada spinner adalah 1, 3, dan 5.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Ada 3 bilangan genap pada spinner.",
+          "teks": "Ada 3 bilangan genap pada spinner.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Peluang mendapat bilangan genap adalah 2/6.",
+          "teks": "Peluang mendapat bilangan genap adalah 2/6.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Peluang mendapat bilangan 6 adalah 1/6.",
+          "teks": "Peluang mendapat bilangan 6 adalah 1/6.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 25,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar spinner pada soal 7. Tentukan benar atau salah untuk setiap pernyataan.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Spinner memiliki 6 bagian sama besar."
+          },
+          {
+            "letter": "B",
+            "text": "Bilangan genap pada spinner adalah 1, 3, dan 5."
+          },
+          {
+            "letter": "C",
+            "text": "Ada 3 bilangan genap pada spinner."
+          },
+          {
+            "letter": "D",
+            "text": "Peluang mendapat bilangan genap adalah 2/6."
+          },
+          {
+            "letter": "E",
+            "text": "Peluang mendapat bilangan 6 adalah 1/6."
+          }
+        ],
+        "rawText": "Perhatikan gambar spinner pada soal 7. Tentukan benar atau salah untuk setiap pernyataan.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1789608287745_388_24",
+      "number": 25,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Perhatikan gambar spinner pada soal 7. Tentukan benar atau salah untuk setiap pernyataan.",
+      "pertanyaan": "Perhatikan gambar spinner pada soal 7. Tentukan benar atau salah untuk setiap pernyataan.",
+      "text": "Perhatikan gambar spinner pada soal 7. Tentukan benar atau salah untuk setiap pernyataan.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789608287746_5926_25",
+      "type": "match",
+      "teks": "Cocokkan bentuk atau situasi di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "3/5",
+          "kiri": "3/5",
+          "right": "0,6",
+          "kanan": "0,6",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Kubus rusuk 3 cm",
+          "kiri": "Kubus rusuk 3 cm",
+          "right": "27 cm³",
+          "kanan": "27 cm³",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Balok 6 cm × 4 cm × 3 cm",
+          "kiri": "Balok 6 cm × 4 cm × 3 cm",
+          "right": "72 cm³",
+          "kanan": "72 cm³",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Peluang bola biru pada soal 5",
+          "kiri": "Peluang bola biru pada soal 5",
+          "right": "2/8",
+          "kanan": "2/8",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Jumlah siswa hari Kamis pada soal 6",
+          "kiri": "Jumlah siswa hari Kamis pada soal 6",
+          "right": "12 siswa",
+          "kanan": "12 siswa",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "3/5",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "0,6",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Kubus rusuk 3 cm",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "27 cm³",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Balok 6 cm × 4 cm × 3 cm",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "72 cm³",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Peluang bola biru pada soal 5",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "2/8",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Jumlah siswa hari Kamis pada soal 6",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "12 siswa",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "3/5",
+          "kiri": "3/5",
+          "right": "0,6",
+          "kanan": "0,6",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Kubus rusuk 3 cm",
+          "kiri": "Kubus rusuk 3 cm",
+          "right": "27 cm³",
+          "kanan": "27 cm³",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Balok 6 cm × 4 cm × 3 cm",
+          "kiri": "Balok 6 cm × 4 cm × 3 cm",
+          "right": "72 cm³",
+          "kanan": "72 cm³",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Peluang bola biru pada soal 5",
+          "kiri": "Peluang bola biru pada soal 5",
+          "right": "2/8",
+          "kanan": "2/8",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Jumlah siswa hari Kamis pada soal 6",
+          "kiri": "Jumlah siswa hari Kamis pada soal 6",
+          "right": "12 siswa",
+          "kanan": "12 siswa",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 26,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Cocokkan bentuk atau situasi di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Cocokkan bentuk atau situasi di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1789608287746_5926_25",
+      "number": 26,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Cocokkan bentuk atau situasi di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "pertanyaan": "Cocokkan bentuk atau situasi di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "text": "Cocokkan bentuk atau situasi di sebelah kiri dengan jawaban yang tepat di sebelah kanan.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789608287746_9336_26",
+      "type": "match",
+      "teks": "Cocokkan pecahan atau desimal berikut dengan nilai yang sesuai.",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "1/2",
+          "kiri": "1/2",
+          "right": "0,5",
+          "kanan": "0,5",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "1/4",
+          "kiri": "1/4",
+          "right": "0,25",
+          "kanan": "0,25",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "3/4",
+          "kiri": "3/4",
+          "right": "0,75",
+          "kanan": "0,75",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "2/5",
+          "kiri": "2/5",
+          "right": "0,4",
+          "kanan": "0,4",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "4/5",
+          "kiri": "4/5",
+          "right": "0,8",
+          "kanan": "0,8",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "1/2",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "0,5",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "1/4",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "0,25",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "3/4",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "0,75",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "2/5",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "0,4",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "4/5",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "0,8",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "1/2",
+          "kiri": "1/2",
+          "right": "0,5",
+          "kanan": "0,5",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "1/4",
+          "kiri": "1/4",
+          "right": "0,25",
+          "kanan": "0,25",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "3/4",
+          "kiri": "3/4",
+          "right": "0,75",
+          "kanan": "0,75",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "2/5",
+          "kiri": "2/5",
+          "right": "0,4",
+          "kanan": "0,4",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "4/5",
+          "kiri": "4/5",
+          "right": "0,8",
+          "kanan": "0,8",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 27,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Cocokkan pecahan atau desimal berikut dengan nilai yang sesuai.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Cocokkan pecahan atau desimal berikut dengan nilai yang sesuai.",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1789608287746_9336_26",
+      "number": 27,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Cocokkan pecahan atau desimal berikut dengan nilai yang sesuai.",
+      "pertanyaan": "Cocokkan pecahan atau desimal berikut dengan nilai yang sesuai.",
+      "text": "Cocokkan pecahan atau desimal berikut dengan nilai yang sesuai.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789608287747_575_27",
+      "type": "esai",
+      "teks": "Sebuah taman berbentuk persegi panjang memiliki panjang 12 m dan lebar 5 m. Hitung luas taman tersebut dan jelaskan langkah perhitungannya.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "Luas = 12 × 5 = 60 m². Siswa memperoleh nilai penuh jika menuliskan rumus, substitusi ukuran, dan hasil 60 m².",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "Luas = 12 × 5 = 60 m². Siswa memperoleh nilai penuh jika menuliskan rumus, substitusi ukuran, dan hasil 60 m².",
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 28,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Sebuah taman berbentuk persegi panjang memiliki panjang 12 m dan lebar 5 m. Hitung luas taman tersebut dan jelaskan langkah perhitungannya.",
+        "media": [],
+        "options": [],
+        "rawText": "Sebuah taman berbentuk persegi panjang memiliki panjang 12 m dan lebar 5 m. Hitung luas taman tersebut dan jelaskan langkah perhitungannya.",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1789608287747_575_27",
+      "number": 28,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Sebuah taman berbentuk persegi panjang memiliki panjang 12 m dan lebar 5 m. Hitung luas taman tersebut dan jelaskan langkah perhitungannya.",
+      "pertanyaan": "Sebuah taman berbentuk persegi panjang memiliki panjang 12 m dan lebar 5 m. Hitung luas taman tersebut dan jelaskan langkah perhitungannya.",
+      "text": "Sebuah taman berbentuk persegi panjang memiliki panjang 12 m dan lebar 5 m. Hitung luas taman tersebut dan jelaskan langkah perhitungannya.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "answerGuide": "Luas = 12 × 5 = 60 m². Siswa memperoleh nilai penuh jika menuliskan rumus, substitusi ukuran, dan hasil 60 m².",
+      "rubric": "Luas = 12 × 5 = 60 m². Siswa memperoleh nilai penuh jika menuliskan rumus, substitusi ukuran, dan hasil 60 m².",
+      "acuanJawaban": "Luas = 12 × 5 = 60 m². Siswa memperoleh nilai penuh jika menuliskan rumus, substitusi ukuran, dan hasil 60 m².",
+      "kunci": "Luas = 12 × 5 = 60 m². Siswa memperoleh nilai penuh jika menuliskan rumus, substitusi ukuran, dan hasil 60 m²."
+    },
+    {
+      "id": "temp_ai_1789608287747_4126_28",
+      "type": "esai",
+      "teks": "Ibu mempunyai 3 liter jus. Sebanyak 1,25 liter diberikan kepada tetangga. Berapa liter jus yang tersisa? Jelaskan cara menghitungnya.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "3,00 − 1,25 = 1,75 liter. Siswa memperoleh nilai penuh jika menuliskan pengurangan desimal dengan benar dan hasil 1,75 liter.",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "3,00 − 1,25 = 1,75 liter. Siswa memperoleh nilai penuh jika menuliskan pengurangan desimal dengan benar dan hasil 1,75 liter.",
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 29,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Ibu mempunyai 3 liter jus. Sebanyak 1,25 liter diberikan kepada tetangga. Berapa liter jus yang tersisa? Jelaskan cara menghitungnya.",
+        "media": [],
+        "options": [],
+        "rawText": "Ibu mempunyai 3 liter jus. Sebanyak 1,25 liter diberikan kepada tetangga. Berapa liter jus yang tersisa? Jelaskan cara menghitungnya.",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1789608287747_4126_28",
+      "number": 29,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Ibu mempunyai 3 liter jus. Sebanyak 1,25 liter diberikan kepada tetangga. Berapa liter jus yang tersisa? Jelaskan cara menghitungnya.",
+      "pertanyaan": "Ibu mempunyai 3 liter jus. Sebanyak 1,25 liter diberikan kepada tetangga. Berapa liter jus yang tersisa? Jelaskan cara menghitungnya.",
+      "text": "Ibu mempunyai 3 liter jus. Sebanyak 1,25 liter diberikan kepada tetangga. Berapa liter jus yang tersisa? Jelaskan cara menghitungnya.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "answerGuide": "3,00 − 1,25 = 1,75 liter. Siswa memperoleh nilai penuh jika menuliskan pengurangan desimal dengan benar dan hasil 1,75 liter.",
+      "rubric": "3,00 − 1,25 = 1,75 liter. Siswa memperoleh nilai penuh jika menuliskan pengurangan desimal dengan benar dan hasil 1,75 liter.",
+      "acuanJawaban": "3,00 − 1,25 = 1,75 liter. Siswa memperoleh nilai penuh jika menuliskan pengurangan desimal dengan benar dan hasil 1,75 liter.",
+      "kunci": "3,00 − 1,25 = 1,75 liter. Siswa memperoleh nilai penuh jika menuliskan pengurangan desimal dengan benar dan hasil 1,75 liter."
+    },
+    {
+      "id": "temp_ai_1789608287747_2261_29",
+      "type": "esai",
+      "teks": "Sebuah kotak berbentuk balok berukuran panjang 8 cm, lebar 5 cm, dan tinggi 4 cm. Hitung volume kotak dan jelaskan langkah perhitungannya.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [],
+      "opsiMedia": [],
+      "jawaban": [
+        {
+          "keyword": "Volume = 8 × 5 × 4 = 160 cm³. Siswa memperoleh nilai penuh jika menggunakan rumus volume balok, memasukkan ketiga ukuran dengan benar, dan memperoleh 160 cm³.",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "answerKey": "Volume = 8 × 5 × 4 = 160 cm³. Siswa memperoleh nilai penuh jika menggunakan rumus volume balok, memasukkan ketiga ukuran dengan benar, dan memperoleh 160 cm³.",
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 30,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Sebuah kotak berbentuk balok berukuran panjang 8 cm, lebar 5 cm, dan tinggi 4 cm. Hitung volume kotak dan jelaskan langkah perhitungannya.",
+        "media": [],
+        "options": [],
+        "rawText": "Sebuah kotak berbentuk balok berukuran panjang 8 cm, lebar 5 cm, dan tinggi 4 cm. Hitung volume kotak dan jelaskan langkah perhitungannya.",
+        "questionType": "esai"
+      },
+      "questionId": "temp_ai_1789608287747_2261_29",
+      "number": 30,
+      "questionType": "esai",
+      "tipe": "esai",
+      "question": "Sebuah kotak berbentuk balok berukuran panjang 8 cm, lebar 5 cm, dan tinggi 4 cm. Hitung volume kotak dan jelaskan langkah perhitungannya.",
+      "pertanyaan": "Sebuah kotak berbentuk balok berukuran panjang 8 cm, lebar 5 cm, dan tinggi 4 cm. Hitung volume kotak dan jelaskan langkah perhitungannya.",
+      "text": "Sebuah kotak berbentuk balok berukuran panjang 8 cm, lebar 5 cm, dan tinggi 4 cm. Hitung volume kotak dan jelaskan langkah perhitungannya.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "answerGuide": "Volume = 8 × 5 × 4 = 160 cm³. Siswa memperoleh nilai penuh jika menggunakan rumus volume balok, memasukkan ketiga ukuran dengan benar, dan memperoleh 160 cm³.",
+      "rubric": "Volume = 8 × 5 × 4 = 160 cm³. Siswa memperoleh nilai penuh jika menggunakan rumus volume balok, memasukkan ketiga ukuran dengan benar, dan memperoleh 160 cm³.",
+      "acuanJawaban": "Volume = 8 × 5 × 4 = 160 cm³. Siswa memperoleh nilai penuh jika menggunakan rumus volume balok, memasukkan ketiga ukuran dengan benar, dan memperoleh 160 cm³.",
+      "kunci": "Volume = 8 × 5 × 4 = 160 cm³. Siswa memperoleh nilai penuh jika menggunakan rumus volume balok, memasukkan ketiga ukuran dengan benar, dan memperoleh 160 cm³."
+    }
+  ],
+  "updatedAt": "2026-09-17T03:46:37.774Z"
+}
