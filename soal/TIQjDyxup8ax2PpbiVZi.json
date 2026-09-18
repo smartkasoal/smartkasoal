@@ -1,0 +1,86 @@
+{
+  "fileId": "TIQjDyxup8ax2PpbiVZi",
+  "id": "TIQjDyxup8ax2PpbiVZi",
+  "examId": "TIQjDyxup8ax2PpbiVZi",
+  "title": "Bank Soal Tanpa Judul",
+  "subject": "Umum",
+  "duration": 60,
+  "token": "BS0CGO",
+  "totalQuestions": 1,
+  "totalBobot": 100,
+  "version": 1,
+  "questions": [
+    {
+      "examId": "TIQjDyxup8ax2PpbiVZi",
+      "type": "pg",
+      "teks": "Bacalah paragraf berikut ini!\n\n(1) Rian memarkir sepeda miliknya di dekat pohon mangga. (2) Ia bergegas menuju puskesmas untuk mengambil obat neneknya. (3) Udara siang itu terasa sangat membakar kulit. (4) Meskipun keringatnya bercucuran, Rian tidak memedulikannya. (5) Demi kesembuhan sang nenek, ia rela mengayuh kembali sepedanya di bawah terik matahari tanpa mengeluh.\n\nMakna denotatif dari kata yang bercetak tebal pada paragraf tersebut adalah ....",
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": "Bacalah paragraf berikut ini!",
+        "title": null,
+        "paragraphs": [
+          "(1) Rian memarkir sepeda miliknya di dekat pohon mangga. (2) Ia bergegas menuju puskesmas untuk mengambil obat neneknya. (3) Udara siang itu terasa sangat membakar kulit. (4) Meskipun keringatnya bercucuran, Rian tidak memedulikannya. (5) Demi kesembuhan sang nenek, ia rela mengayuh kembali sepedanya di bawah terik matahari tanpa mengeluh."
+        ],
+        "question": "Makna denotatif dari kata yang bercetak tebal pada paragraf tersebut adalah ....",
+        "media": [],
+        "options": [],
+        "rawText": "Bacalah paragraf berikut ini!\n\n(1) Rian memarkir sepeda miliknya di dekat pohon mangga. (2) Ia bergegas menuju puskesmas untuk mengambil obat neneknya. (3) Udara siang itu terasa sangat membakar kulit. (4) Meskipun keringatnya bercucuran, Rian tidak memedulikannya. (5) Demi kesembuhan sang nenek, ia rela mengayuh kembali sepedanya di bawah terik matahari tanpa mengeluh.\n\nMakna denotatif dari kata yang bercetak tebal pada paragraf tersebut adalah ...."
+      },
+      "bobot": 100,
+      "difficulty": "medium",
+      "chapter": "",
+      "media": "",
+      "updatedAt": "2026-09-18T22:15:08.719Z",
+      "opsi": [
+        "kendaraan beroda dua yang dijalankan dengan cara dikayuh",
+        "alat transportasi umum yang menggunakan mesin bensin",
+        "kendaraan roda tiga untuk mengangkut barang belanjaan",
+        "kereta kecil yang ditarik oleh hewan piaraan"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "id": "temp_1789769708719",
+      "order": 1,
+      "createdAt": "2026-09-18T22:15:08.719Z",
+      "createdBy": "ACnlt6rX8xgfmaxEXmI8rQdTtOD2",
+      "questionId": "temp_1789769708719",
+      "number": 1,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Bacalah paragraf berikut ini!\n\n(1) Rian memarkir sepeda miliknya di dekat pohon mangga. (2) Ia bergegas menuju puskesmas untuk mengambil obat neneknya. (3) Udara siang itu terasa sangat membakar kulit. (4) Meskipun keringatnya bercucuran, Rian tidak memedulikannya. (5) Demi kesembuhan sang nenek, ia rela mengayuh kembali sepedanya di bawah terik matahari tanpa mengeluh.\n\nMakna denotatif dari kata yang bercetak tebal pada paragraf tersebut adalah ....",
+      "pertanyaan": "Bacalah paragraf berikut ini!\n\n(1) Rian memarkir sepeda miliknya di dekat pohon mangga. (2) Ia bergegas menuju puskesmas untuk mengambil obat neneknya. (3) Udara siang itu terasa sangat membakar kulit. (4) Meskipun keringatnya bercucuran, Rian tidak memedulikannya. (5) Demi kesembuhan sang nenek, ia rela mengayuh kembali sepedanya di bawah terik matahari tanpa mengeluh.\n\nMakna denotatif dari kata yang bercetak tebal pada paragraf tersebut adalah ....",
+      "text": "Bacalah paragraf berikut ini!\n\n(1) Rian memarkir sepeda miliknya di dekat pohon mangga. (2) Ia bergegas menuju puskesmas untuk mengambil obat neneknya. (3) Udara siang itu terasa sangat membakar kulit. (4) Meskipun keringatnya bercucuran, Rian tidak memedulikannya. (5) Demi kesembuhan sang nenek, ia rela mengayuh kembali sepedanya di bawah terik matahari tanpa mengeluh.\n\nMakna denotatif dari kata yang bercetak tebal pada paragraf tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 100,
+      "options": [
+        {
+          "key": "A",
+          "text": "kendaraan beroda dua yang dijalankan dengan cara dikayuh"
+        },
+        {
+          "key": "B",
+          "text": "alat transportasi umum yang menggunakan mesin bensin"
+        },
+        {
+          "key": "C",
+          "text": "kendaraan roda tiga untuk mengangkut barang belanjaan"
+        },
+        {
+          "key": "D",
+          "text": "kereta kecil yang ditarik oleh hewan piaraan"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    }
+  ],
+  "updatedAt": "2026-09-18T22:15:45.579Z"
+}
