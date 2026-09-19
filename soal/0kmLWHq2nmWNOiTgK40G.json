@@ -1,0 +1,2757 @@
+{
+  "fileId": "0kmLWHq2nmWNOiTgK40G",
+  "id": "0kmLWHq2nmWNOiTgK40G",
+  "examId": "0kmLWHq2nmWNOiTgK40G",
+  "title": "Bank Soal Tanpa Judul",
+  "subject": "Umum",
+  "duration": 60,
+  "token": "G3OS5X",
+  "totalQuestions": 30,
+  "totalBobot": 100,
+  "version": 1,
+  "questions": [
+    {
+      "id": "temp_ai_1789785520715_7920_0",
+      "type": "pg",
+      "teks": "Pernyataan:\nPecahan yang menyatakan banyak kelereng berwarna merah dari seluruh kelereng adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "1/6\n\nC.\n1/3",
+        "1/4\n\nD.\n1/2",
+        "1/3\n\nB.\n1/4",
+        "1/2"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.43,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 1,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nPecahan yang menyatakan banyak kelereng berwarna merah dari seluruh kelereng adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1/6\n\nC.\n1/3"
+          },
+          {
+            "letter": "B",
+            "text": "1/4\n\nD.\n1/2"
+          },
+          {
+            "letter": "C",
+            "text": "1/3\n\nB.\n1/4"
+          },
+          {
+            "letter": "D",
+            "text": "1/2"
+          }
+        ],
+        "rawText": "Pernyataan:\nPecahan yang menyatakan banyak kelereng berwarna merah dari seluruh kelereng adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520715_7920_0",
+      "number": 1,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nPecahan yang menyatakan banyak kelereng berwarna merah dari seluruh kelereng adalah ....",
+      "pertanyaan": "Pernyataan:\nPecahan yang menyatakan banyak kelereng berwarna merah dari seluruh kelereng adalah ....",
+      "text": "Pernyataan:\nPecahan yang menyatakan banyak kelereng berwarna merah dari seluruh kelereng adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.43,
+      "options": [
+        {
+          "key": "A",
+          "text": "1/6\n\nC.\n1/3"
+        },
+        {
+          "key": "B",
+          "text": "1/4\n\nD.\n1/2"
+        },
+        {
+          "key": "C",
+          "text": "1/3\n\nB.\n1/4"
+        },
+        {
+          "key": "D",
+          "text": "1/2"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789785520715_4406_1",
+      "type": "pg",
+      "teks": "Pernyataan:\nUrutan pecahan 3/4, 2/3, 5/6, dan 7/12 dari yang terkecil ke yang terbesar adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "7/12, 2/3, 3/4, 5/6\n\nC.\n7/12, 3/4, 2/3, 5/6",
+        "2/3, 7/12, 3/4, 5/6\n\nD.\n5/6, 3/4, 2/3, 7/12",
+        "7/12, 3/4, 2/3, 5/6\n\nB.\n2/3, 7/12, 3/4, 5/6",
+        "5/6, 3/4, 2/3, 7/12"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 2,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nUrutan pecahan 3/4, 2/3, 5/6, dan 7/12 dari yang terkecil ke yang terbesar adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "7/12, 2/3, 3/4, 5/6\n\nC.\n7/12, 3/4, 2/3, 5/6"
+          },
+          {
+            "letter": "B",
+            "text": "2/3, 7/12, 3/4, 5/6\n\nD.\n5/6, 3/4, 2/3, 7/12"
+          },
+          {
+            "letter": "C",
+            "text": "7/12, 3/4, 2/3, 5/6\n\nB.\n2/3, 7/12, 3/4, 5/6"
+          },
+          {
+            "letter": "D",
+            "text": "5/6, 3/4, 2/3, 7/12"
+          }
+        ],
+        "rawText": "Pernyataan:\nUrutan pecahan 3/4, 2/3, 5/6, dan 7/12 dari yang terkecil ke yang terbesar adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520715_4406_1",
+      "number": 2,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nUrutan pecahan 3/4, 2/3, 5/6, dan 7/12 dari yang terkecil ke yang terbesar adalah ....",
+      "pertanyaan": "Pernyataan:\nUrutan pecahan 3/4, 2/3, 5/6, dan 7/12 dari yang terkecil ke yang terbesar adalah ....",
+      "text": "Pernyataan:\nUrutan pecahan 3/4, 2/3, 5/6, dan 7/12 dari yang terkecil ke yang terbesar adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "7/12, 2/3, 3/4, 5/6\n\nC.\n7/12, 3/4, 2/3, 5/6"
+        },
+        {
+          "key": "B",
+          "text": "2/3, 7/12, 3/4, 5/6\n\nD.\n5/6, 3/4, 2/3, 7/12"
+        },
+        {
+          "key": "C",
+          "text": "7/12, 3/4, 2/3, 5/6\n\nB.\n2/3, 7/12, 3/4, 5/6"
+        },
+        {
+          "key": "D",
+          "text": "5/6, 3/4, 2/3, 7/12"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789785520716_3846_2",
+      "type": "pg",
+      "teks": "Pernyataan:\nBentuk persen dari pecahan 3/5 adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "30%\n\nC.\n60%",
+        "35%\n\nD.\n65%",
+        "60%\n\nB.\n35%",
+        "65%"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 3,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nBentuk persen dari pecahan 3/5 adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "30%\n\nC.\n60%"
+          },
+          {
+            "letter": "B",
+            "text": "35%\n\nD.\n65%"
+          },
+          {
+            "letter": "C",
+            "text": "60%\n\nB.\n35%"
+          },
+          {
+            "letter": "D",
+            "text": "65%"
+          }
+        ],
+        "rawText": "Pernyataan:\nBentuk persen dari pecahan 3/5 adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520716_3846_2",
+      "number": 3,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nBentuk persen dari pecahan 3/5 adalah ....",
+      "pertanyaan": "Pernyataan:\nBentuk persen dari pecahan 3/5 adalah ....",
+      "text": "Pernyataan:\nBentuk persen dari pecahan 3/5 adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "30%\n\nC.\n60%"
+        },
+        {
+          "key": "B",
+          "text": "35%\n\nD.\n65%"
+        },
+        {
+          "key": "C",
+          "text": "60%\n\nB.\n35%"
+        },
+        {
+          "key": "D",
+          "text": "65%"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789785520716_8649_3",
+      "type": "pg",
+      "teks": "Pernyataan:\nPak Budi memiliki 5 karung beras. Setiap karung berisi 25 kg beras. Beras tersebut dijual sebanyak 60 kg, kemudian sisanya dibagikan sama rata kepada 13 keluarga korban bencana. Banyak beras yang diterima setiap keluarga adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "4 kg\n\nC.\n6 kg",
+        "5 kg\n\nD.\n7 kg",
+        "6 kg\n\nB.\n5 kg",
+        "7 kg"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 4,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nPak Budi memiliki 5 karung beras. Setiap karung berisi 25 kg beras. Beras tersebut dijual sebanyak 60 kg, kemudian sisanya dibagikan sama rata kepada 13 keluarga korban bencana. Banyak beras yang diterima setiap keluarga adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "4 kg\n\nC.\n6 kg"
+          },
+          {
+            "letter": "B",
+            "text": "5 kg\n\nD.\n7 kg"
+          },
+          {
+            "letter": "C",
+            "text": "6 kg\n\nB.\n5 kg"
+          },
+          {
+            "letter": "D",
+            "text": "7 kg"
+          }
+        ],
+        "rawText": "Pernyataan:\nPak Budi memiliki 5 karung beras. Setiap karung berisi 25 kg beras. Beras tersebut dijual sebanyak 60 kg, kemudian sisanya dibagikan sama rata kepada 13 keluarga korban bencana. Banyak beras yang diterima setiap keluarga adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520716_8649_3",
+      "number": 4,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nPak Budi memiliki 5 karung beras. Setiap karung berisi 25 kg beras. Beras tersebut dijual sebanyak 60 kg, kemudian sisanya dibagikan sama rata kepada 13 keluarga korban bencana. Banyak beras yang diterima setiap keluarga adalah ....",
+      "pertanyaan": "Pernyataan:\nPak Budi memiliki 5 karung beras. Setiap karung berisi 25 kg beras. Beras tersebut dijual sebanyak 60 kg, kemudian sisanya dibagikan sama rata kepada 13 keluarga korban bencana. Banyak beras yang diterima setiap keluarga adalah ....",
+      "text": "Pernyataan:\nPak Budi memiliki 5 karung beras. Setiap karung berisi 25 kg beras. Beras tersebut dijual sebanyak 60 kg, kemudian sisanya dibagikan sama rata kepada 13 keluarga korban bencana. Banyak beras yang diterima setiap keluarga adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "4 kg\n\nC.\n6 kg"
+        },
+        {
+          "key": "B",
+          "text": "5 kg\n\nD.\n7 kg"
+        },
+        {
+          "key": "C",
+          "text": "6 kg\n\nB.\n5 kg"
+        },
+        {
+          "key": "D",
+          "text": "7 kg"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789785520716_8179_4",
+      "type": "ma",
+      "teks": "Pernyataan:\nSebuah toko alat tulis memiliki persediaan 240 buku tulis. Pada hari pertama terjual 45 buku. Pada hari kedua terjual dua kali lipat dari banyak buku yang terjual pada hari pertama. Sisa buku tulis kemudian dibagi sama rata ke dalam 5 kardus untuk dikirim ke toko cabang. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Buku yang terjual pada hari kedua adalah 90 buku.",
+        "Total buku yang terjual selama dua hari adalah 125 buku.",
+        "Sisa buku tulis yang dibagi ke dalam kardus adalah 105 buku.",
+        "Setiap kardus berisi 21 buku tulis."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        2,
+        3
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 5,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nSebuah toko alat tulis memiliki persediaan 240 buku tulis. Pada hari pertama terjual 45 buku. Pada hari kedua terjual dua kali lipat dari banyak buku yang terjual pada hari pertama. Sisa buku tulis kemudian dibagi sama rata ke dalam 5 kardus untuk dikirim ke toko cabang. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Buku yang terjual pada hari kedua adalah 90 buku."
+          },
+          {
+            "letter": "B",
+            "text": "Total buku yang terjual selama dua hari adalah 125 buku."
+          },
+          {
+            "letter": "C",
+            "text": "Sisa buku tulis yang dibagi ke dalam kardus adalah 105 buku."
+          },
+          {
+            "letter": "D",
+            "text": "Setiap kardus berisi 21 buku tulis."
+          }
+        ],
+        "rawText": "Pernyataan:\nSebuah toko alat tulis memiliki persediaan 240 buku tulis. Pada hari pertama terjual 45 buku. Pada hari kedua terjual dua kali lipat dari banyak buku yang terjual pada hari pertama. Sisa buku tulis kemudian dibagi sama rata ke dalam 5 kardus untuk dikirim ke toko cabang. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1789785520716_8179_4",
+      "number": 5,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pernyataan:\nSebuah toko alat tulis memiliki persediaan 240 buku tulis. Pada hari pertama terjual 45 buku. Pada hari kedua terjual dua kali lipat dari banyak buku yang terjual pada hari pertama. Sisa buku tulis kemudian dibagi sama rata ke dalam 5 kardus untuk dikirim ke toko cabang. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "pertanyaan": "Pernyataan:\nSebuah toko alat tulis memiliki persediaan 240 buku tulis. Pada hari pertama terjual 45 buku. Pada hari kedua terjual dua kali lipat dari banyak buku yang terjual pada hari pertama. Sisa buku tulis kemudian dibagi sama rata ke dalam 5 kardus untuk dikirim ke toko cabang. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "text": "Pernyataan:\nSebuah toko alat tulis memiliki persediaan 240 buku tulis. Pada hari pertama terjual 45 buku. Pada hari kedua terjual dua kali lipat dari banyak buku yang terjual pada hari pertama. Sisa buku tulis kemudian dibagi sama rata ke dalam 5 kardus untuk dikirim ke toko cabang. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Buku yang terjual pada hari kedua adalah 90 buku."
+        },
+        {
+          "key": "B",
+          "text": "Total buku yang terjual selama dua hari adalah 125 buku."
+        },
+        {
+          "key": "C",
+          "text": "Sisa buku tulis yang dibagi ke dalam kardus adalah 105 buku."
+        },
+        {
+          "key": "D",
+          "text": "Setiap kardus berisi 21 buku tulis."
+        }
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "kunci": "A, C, D"
+    },
+    {
+      "id": "temp_ai_1789785520716_7474_5",
+      "type": "pg",
+      "teks": "Pernyataan:\nBu Wati mempunyai 3/4 kg tepung. Ia membeli lagi tepung sebanyak 2 bungkus yang masing-masing beratnya 1/4 kg. Berat tepung Bu Wati sekarang adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "1 kg\n\nC.\n1 1/2 kg",
+        "1 1/4 kg\n\nD.\n2 kg",
+        "1 1/2 kg\n\nB.\n1 1/4 kg",
+        "2 kg"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 6,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nBu Wati mempunyai 3/4 kg tepung. Ia membeli lagi tepung sebanyak 2 bungkus yang masing-masing beratnya 1/4 kg. Berat tepung Bu Wati sekarang adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1 kg\n\nC.\n1 1/2 kg"
+          },
+          {
+            "letter": "B",
+            "text": "1 1/4 kg\n\nD.\n2 kg"
+          },
+          {
+            "letter": "C",
+            "text": "1 1/2 kg\n\nB.\n1 1/4 kg"
+          },
+          {
+            "letter": "D",
+            "text": "2 kg"
+          }
+        ],
+        "rawText": "Pernyataan:\nBu Wati mempunyai 3/4 kg tepung. Ia membeli lagi tepung sebanyak 2 bungkus yang masing-masing beratnya 1/4 kg. Berat tepung Bu Wati sekarang adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520716_7474_5",
+      "number": 6,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nBu Wati mempunyai 3/4 kg tepung. Ia membeli lagi tepung sebanyak 2 bungkus yang masing-masing beratnya 1/4 kg. Berat tepung Bu Wati sekarang adalah ....",
+      "pertanyaan": "Pernyataan:\nBu Wati mempunyai 3/4 kg tepung. Ia membeli lagi tepung sebanyak 2 bungkus yang masing-masing beratnya 1/4 kg. Berat tepung Bu Wati sekarang adalah ....",
+      "text": "Pernyataan:\nBu Wati mempunyai 3/4 kg tepung. Ia membeli lagi tepung sebanyak 2 bungkus yang masing-masing beratnya 1/4 kg. Berat tepung Bu Wati sekarang adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "1 kg\n\nC.\n1 1/2 kg"
+        },
+        {
+          "key": "B",
+          "text": "1 1/4 kg\n\nD.\n2 kg"
+        },
+        {
+          "key": "C",
+          "text": "1 1/2 kg\n\nB.\n1 1/4 kg"
+        },
+        {
+          "key": "D",
+          "text": "2 kg"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789785520716_1664_6",
+      "type": "pg",
+      "teks": "Pernyataan:\nIbu mempunyai 2 1/2 kg gula pasir. Gula tersebut digunakan untuk membuat kue sebanyak 3/4 kg, kemudian ibu membeli lagi gula sebanyak 1 1/4 kg. Banyak gula pasir yang dimiliki ibu sekarang adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "2 1/2 kg\n\nC.\n3 kg",
+        "2 3/4 kg\n\nD.\n3 1/4 kg",
+        "3 kg\n\nB.\n2 3/4 kg",
+        "3 1/4 kg"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 7,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nIbu mempunyai 2 1/2 kg gula pasir. Gula tersebut digunakan untuk membuat kue sebanyak 3/4 kg, kemudian ibu membeli lagi gula sebanyak 1 1/4 kg. Banyak gula pasir yang dimiliki ibu sekarang adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "2 1/2 kg\n\nC.\n3 kg"
+          },
+          {
+            "letter": "B",
+            "text": "2 3/4 kg\n\nD.\n3 1/4 kg"
+          },
+          {
+            "letter": "C",
+            "text": "3 kg\n\nB.\n2 3/4 kg"
+          },
+          {
+            "letter": "D",
+            "text": "3 1/4 kg"
+          }
+        ],
+        "rawText": "Pernyataan:\nIbu mempunyai 2 1/2 kg gula pasir. Gula tersebut digunakan untuk membuat kue sebanyak 3/4 kg, kemudian ibu membeli lagi gula sebanyak 1 1/4 kg. Banyak gula pasir yang dimiliki ibu sekarang adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520716_1664_6",
+      "number": 7,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nIbu mempunyai 2 1/2 kg gula pasir. Gula tersebut digunakan untuk membuat kue sebanyak 3/4 kg, kemudian ibu membeli lagi gula sebanyak 1 1/4 kg. Banyak gula pasir yang dimiliki ibu sekarang adalah ....",
+      "pertanyaan": "Pernyataan:\nIbu mempunyai 2 1/2 kg gula pasir. Gula tersebut digunakan untuk membuat kue sebanyak 3/4 kg, kemudian ibu membeli lagi gula sebanyak 1 1/4 kg. Banyak gula pasir yang dimiliki ibu sekarang adalah ....",
+      "text": "Pernyataan:\nIbu mempunyai 2 1/2 kg gula pasir. Gula tersebut digunakan untuk membuat kue sebanyak 3/4 kg, kemudian ibu membeli lagi gula sebanyak 1 1/4 kg. Banyak gula pasir yang dimiliki ibu sekarang adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "2 1/2 kg\n\nC.\n3 kg"
+        },
+        {
+          "key": "B",
+          "text": "2 3/4 kg\n\nD.\n3 1/4 kg"
+        },
+        {
+          "key": "C",
+          "text": "3 kg\n\nB.\n2 3/4 kg"
+        },
+        {
+          "key": "D",
+          "text": "3 1/4 kg"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789785520716_4285_7",
+      "type": "pg",
+      "teks": "Pernyataan:\nLampu hias A menyala setiap 4 detik sekali, sedangkan lampu hias B menyala setiap 6 detik sekali. Jika kedua lampu menyala bersamaan pada detik ke-0, kedua lampu akan menyala bersamaan lagi pada detik ke-....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "8\n\nC.\n12",
+        "10\n\nD.\n24",
+        "12\n\nB.\n10",
+        "24"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 8,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nLampu hias A menyala setiap 4 detik sekali, sedangkan lampu hias B menyala setiap 6 detik sekali. Jika kedua lampu menyala bersamaan pada detik ke-0, kedua lampu akan menyala bersamaan lagi pada detik ke-....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "8\n\nC.\n12"
+          },
+          {
+            "letter": "B",
+            "text": "10\n\nD.\n24"
+          },
+          {
+            "letter": "C",
+            "text": "12\n\nB.\n10"
+          },
+          {
+            "letter": "D",
+            "text": "24"
+          }
+        ],
+        "rawText": "Pernyataan:\nLampu hias A menyala setiap 4 detik sekali, sedangkan lampu hias B menyala setiap 6 detik sekali. Jika kedua lampu menyala bersamaan pada detik ke-0, kedua lampu akan menyala bersamaan lagi pada detik ke-....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520716_4285_7",
+      "number": 8,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nLampu hias A menyala setiap 4 detik sekali, sedangkan lampu hias B menyala setiap 6 detik sekali. Jika kedua lampu menyala bersamaan pada detik ke-0, kedua lampu akan menyala bersamaan lagi pada detik ke-....",
+      "pertanyaan": "Pernyataan:\nLampu hias A menyala setiap 4 detik sekali, sedangkan lampu hias B menyala setiap 6 detik sekali. Jika kedua lampu menyala bersamaan pada detik ke-0, kedua lampu akan menyala bersamaan lagi pada detik ke-....",
+      "text": "Pernyataan:\nLampu hias A menyala setiap 4 detik sekali, sedangkan lampu hias B menyala setiap 6 detik sekali. Jika kedua lampu menyala bersamaan pada detik ke-0, kedua lampu akan menyala bersamaan lagi pada detik ke-....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "8\n\nC.\n12"
+        },
+        {
+          "key": "B",
+          "text": "10\n\nD.\n24"
+        },
+        {
+          "key": "C",
+          "text": "12\n\nB.\n10"
+        },
+        {
+          "key": "D",
+          "text": "24"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789785520716_5063_8",
+      "type": "tf",
+      "teks": "Pernyataan:\nBu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Bu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah kantong plastik terbanyak yang dapat dibuat adalah 12 kantong.",
+          "teks": "Bu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah kantong plastik terbanyak yang dapat dibuat adalah 12 kantong.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Setiap kantong plastik berisi 3 permen cokelat.",
+          "teks": "Setiap kantong plastik berisi 3 permen cokelat.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Setiap kantong plastik berisi 4 permen mint.",
+          "teks": "Setiap kantong plastik berisi 4 permen mint.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Jumlah kantong plastik terbanyak yang dapat dibuat adalah 6 kantong.",
+          "teks": "Jumlah kantong plastik terbanyak yang dapat dibuat adalah 6 kantong.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Bu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah kantong plastik terbanyak yang dapat dibuat adalah 12 kantong.",
+          "jawaban": true,
+          "text": "Bu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah kantong plastik terbanyak yang dapat dibuat adalah 12 kantong."
+        },
+        {
+          "teks": "Setiap kantong plastik berisi 3 permen cokelat.",
+          "jawaban": true,
+          "text": "Setiap kantong plastik berisi 3 permen cokelat."
+        },
+        {
+          "teks": "Setiap kantong plastik berisi 4 permen mint.",
+          "jawaban": true,
+          "text": "Setiap kantong plastik berisi 4 permen mint."
+        },
+        {
+          "teks": "Jumlah kantong plastik terbanyak yang dapat dibuat adalah 6 kantong.",
+          "jawaban": false,
+          "text": "Jumlah kantong plastik terbanyak yang dapat dibuat adalah 6 kantong."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Bu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah kantong plastik terbanyak yang dapat dibuat adalah 12 kantong.",
+          "teks": "Bu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah kantong plastik terbanyak yang dapat dibuat adalah 12 kantong.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Setiap kantong plastik berisi 3 permen cokelat.",
+          "teks": "Setiap kantong plastik berisi 3 permen cokelat.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Setiap kantong plastik berisi 4 permen mint.",
+          "teks": "Setiap kantong plastik berisi 4 permen mint.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Jumlah kantong plastik terbanyak yang dapat dibuat adalah 6 kantong.",
+          "teks": "Jumlah kantong plastik terbanyak yang dapat dibuat adalah 6 kantong.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 9,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nBu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Bu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah kantong plastik terbanyak yang dapat dibuat adalah 12 kantong."
+          },
+          {
+            "letter": "B",
+            "text": "Setiap kantong plastik berisi 3 permen cokelat."
+          },
+          {
+            "letter": "C",
+            "text": "Setiap kantong plastik berisi 4 permen mint."
+          },
+          {
+            "letter": "D",
+            "text": "Jumlah kantong plastik terbanyak yang dapat dibuat adalah 6 kantong."
+          }
+        ],
+        "rawText": "Pernyataan:\nBu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1789785520716_5063_8",
+      "number": 9,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Pernyataan:\nBu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "pertanyaan": "Pernyataan:\nBu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "text": "Pernyataan:\nBu Rini mempunyai 36 permen cokelat dan 48 permen mint. Kedua jenis permen tersebut akan dimasukkan ke dalam beberapa kantong plastik dengan jumlah setiap jenis permen sama banyak pada tiap kantong, tanpa ada sisa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789785520716_9214_9",
+      "type": "pg",
+      "teks": "Pernyataan:\nBanyak bangun segitiga yang menyusun gambar tersebut adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "3 buah\n\nC.\n5 buah",
+        "4 buah\n\nD.\n6 buah",
+        "5 buah\n\nB.\n4 buah",
+        "6 buah"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 10,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nBanyak bangun segitiga yang menyusun gambar tersebut adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "3 buah\n\nC.\n5 buah"
+          },
+          {
+            "letter": "B",
+            "text": "4 buah\n\nD.\n6 buah"
+          },
+          {
+            "letter": "C",
+            "text": "5 buah\n\nB.\n4 buah"
+          },
+          {
+            "letter": "D",
+            "text": "6 buah"
+          }
+        ],
+        "rawText": "Pernyataan:\nBanyak bangun segitiga yang menyusun gambar tersebut adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520716_9214_9",
+      "number": 10,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nBanyak bangun segitiga yang menyusun gambar tersebut adalah ....",
+      "pertanyaan": "Pernyataan:\nBanyak bangun segitiga yang menyusun gambar tersebut adalah ....",
+      "text": "Pernyataan:\nBanyak bangun segitiga yang menyusun gambar tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "3 buah\n\nC.\n5 buah"
+        },
+        {
+          "key": "B",
+          "text": "4 buah\n\nD.\n6 buah"
+        },
+        {
+          "key": "C",
+          "text": "5 buah\n\nB.\n4 buah"
+        },
+        {
+          "key": "D",
+          "text": "6 buah"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789785520716_1373_10",
+      "type": "pg",
+      "teks": "Pernyataan:\nBanyak sudut siku-siku yang terdapat pada seluruh bangun tersebut adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "3 sudut\n\nC.\n5 sudut",
+        "4 sudut\n\nD.\n6 sudut",
+        "5 sudut\n\nB.\n4 sudut",
+        "6 sudut"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 11,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nBanyak sudut siku-siku yang terdapat pada seluruh bangun tersebut adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "3 sudut\n\nC.\n5 sudut"
+          },
+          {
+            "letter": "B",
+            "text": "4 sudut\n\nD.\n6 sudut"
+          },
+          {
+            "letter": "C",
+            "text": "5 sudut\n\nB.\n4 sudut"
+          },
+          {
+            "letter": "D",
+            "text": "6 sudut"
+          }
+        ],
+        "rawText": "Pernyataan:\nBanyak sudut siku-siku yang terdapat pada seluruh bangun tersebut adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520716_1373_10",
+      "number": 11,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nBanyak sudut siku-siku yang terdapat pada seluruh bangun tersebut adalah ....",
+      "pertanyaan": "Pernyataan:\nBanyak sudut siku-siku yang terdapat pada seluruh bangun tersebut adalah ....",
+      "text": "Pernyataan:\nBanyak sudut siku-siku yang terdapat pada seluruh bangun tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "3 sudut\n\nC.\n5 sudut"
+        },
+        {
+          "key": "B",
+          "text": "4 sudut\n\nD.\n6 sudut"
+        },
+        {
+          "key": "C",
+          "text": "5 sudut\n\nB.\n4 sudut"
+        },
+        {
+          "key": "D",
+          "text": "6 sudut"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789785520717_868_11",
+      "type": "pg",
+      "teks": "Pernyataan:\nBentuk tampak atas (dilihat dari atas) susunan kubus tersebut yang tepat ditunjukkan oleh gambar ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Gambar A\n\nC.\nGambar C",
+        "Gambar B\n\nD.\nGambar D",
+        "Gambar C\n\nB.\nGambar B",
+        "Gambar D"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 12,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nBentuk tampak atas (dilihat dari atas) susunan kubus tersebut yang tepat ditunjukkan oleh gambar ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Gambar A\n\nC.\nGambar C"
+          },
+          {
+            "letter": "B",
+            "text": "Gambar B\n\nD.\nGambar D"
+          },
+          {
+            "letter": "C",
+            "text": "Gambar C\n\nB.\nGambar B"
+          },
+          {
+            "letter": "D",
+            "text": "Gambar D"
+          }
+        ],
+        "rawText": "Pernyataan:\nBentuk tampak atas (dilihat dari atas) susunan kubus tersebut yang tepat ditunjukkan oleh gambar ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_868_11",
+      "number": 12,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nBentuk tampak atas (dilihat dari atas) susunan kubus tersebut yang tepat ditunjukkan oleh gambar ....",
+      "pertanyaan": "Pernyataan:\nBentuk tampak atas (dilihat dari atas) susunan kubus tersebut yang tepat ditunjukkan oleh gambar ....",
+      "text": "Pernyataan:\nBentuk tampak atas (dilihat dari atas) susunan kubus tersebut yang tepat ditunjukkan oleh gambar ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Gambar A\n\nC.\nGambar C"
+        },
+        {
+          "key": "B",
+          "text": "Gambar B\n\nD.\nGambar D"
+        },
+        {
+          "key": "C",
+          "text": "Gambar C\n\nB.\nGambar B"
+        },
+        {
+          "key": "D",
+          "text": "Gambar D"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789785520717_5724_12",
+      "type": "pg",
+      "teks": "Pernyataan:\nJarak rumah Andi ke sekolah adalah 2 km 300 m. Andi berjalan kaki sejauh 800 m, kemudian melanjutkan perjalanan dengan naik angkot untuk sisa jaraknya. Jarak yang ditempuh Andi dengan naik angkot adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "1.300 m\n\nC.\n1.500 m",
+        "1.400 m\n\nD.\n1.600 m",
+        "1.500 m\n\nB.\n1.400 m",
+        "1.600 m"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 13,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nJarak rumah Andi ke sekolah adalah 2 km 300 m. Andi berjalan kaki sejauh 800 m, kemudian melanjutkan perjalanan dengan naik angkot untuk sisa jaraknya. Jarak yang ditempuh Andi dengan naik angkot adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1.300 m\n\nC.\n1.500 m"
+          },
+          {
+            "letter": "B",
+            "text": "1.400 m\n\nD.\n1.600 m"
+          },
+          {
+            "letter": "C",
+            "text": "1.500 m\n\nB.\n1.400 m"
+          },
+          {
+            "letter": "D",
+            "text": "1.600 m"
+          }
+        ],
+        "rawText": "Pernyataan:\nJarak rumah Andi ke sekolah adalah 2 km 300 m. Andi berjalan kaki sejauh 800 m, kemudian melanjutkan perjalanan dengan naik angkot untuk sisa jaraknya. Jarak yang ditempuh Andi dengan naik angkot adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_5724_12",
+      "number": 13,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nJarak rumah Andi ke sekolah adalah 2 km 300 m. Andi berjalan kaki sejauh 800 m, kemudian melanjutkan perjalanan dengan naik angkot untuk sisa jaraknya. Jarak yang ditempuh Andi dengan naik angkot adalah ....",
+      "pertanyaan": "Pernyataan:\nJarak rumah Andi ke sekolah adalah 2 km 300 m. Andi berjalan kaki sejauh 800 m, kemudian melanjutkan perjalanan dengan naik angkot untuk sisa jaraknya. Jarak yang ditempuh Andi dengan naik angkot adalah ....",
+      "text": "Pernyataan:\nJarak rumah Andi ke sekolah adalah 2 km 300 m. Andi berjalan kaki sejauh 800 m, kemudian melanjutkan perjalanan dengan naik angkot untuk sisa jaraknya. Jarak yang ditempuh Andi dengan naik angkot adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "1.300 m\n\nC.\n1.500 m"
+        },
+        {
+          "key": "B",
+          "text": "1.400 m\n\nD.\n1.600 m"
+        },
+        {
+          "key": "C",
+          "text": "1.500 m\n\nB.\n1.400 m"
+        },
+        {
+          "key": "D",
+          "text": "1.600 m"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789785520717_1948_13",
+      "type": "pg",
+      "teks": "Pernyataan:\nSebuah pita hias panjangnya 4 meter akan dipotong menjadi 5 bagian sama panjang untuk hiasan dinding kelas. Panjang setiap potongan pita tersebut dalam satuan sentimeter adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "60 cm\n\nC.\n80 cm",
+        "70 cm\n\nD.\n90 cm",
+        "80 cm\n\nB.\n70 cm",
+        "90 cm"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 14,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nSebuah pita hias panjangnya 4 meter akan dipotong menjadi 5 bagian sama panjang untuk hiasan dinding kelas. Panjang setiap potongan pita tersebut dalam satuan sentimeter adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "60 cm\n\nC.\n80 cm"
+          },
+          {
+            "letter": "B",
+            "text": "70 cm\n\nD.\n90 cm"
+          },
+          {
+            "letter": "C",
+            "text": "80 cm\n\nB.\n70 cm"
+          },
+          {
+            "letter": "D",
+            "text": "90 cm"
+          }
+        ],
+        "rawText": "Pernyataan:\nSebuah pita hias panjangnya 4 meter akan dipotong menjadi 5 bagian sama panjang untuk hiasan dinding kelas. Panjang setiap potongan pita tersebut dalam satuan sentimeter adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_1948_13",
+      "number": 14,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nSebuah pita hias panjangnya 4 meter akan dipotong menjadi 5 bagian sama panjang untuk hiasan dinding kelas. Panjang setiap potongan pita tersebut dalam satuan sentimeter adalah ....",
+      "pertanyaan": "Pernyataan:\nSebuah pita hias panjangnya 4 meter akan dipotong menjadi 5 bagian sama panjang untuk hiasan dinding kelas. Panjang setiap potongan pita tersebut dalam satuan sentimeter adalah ....",
+      "text": "Pernyataan:\nSebuah pita hias panjangnya 4 meter akan dipotong menjadi 5 bagian sama panjang untuk hiasan dinding kelas. Panjang setiap potongan pita tersebut dalam satuan sentimeter adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "60 cm\n\nC.\n80 cm"
+        },
+        {
+          "key": "B",
+          "text": "70 cm\n\nD.\n90 cm"
+        },
+        {
+          "key": "C",
+          "text": "80 cm\n\nB.\n70 cm"
+        },
+        {
+          "key": "D",
+          "text": "90 cm"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789785520717_9302_14",
+      "type": "pg",
+      "teks": "Pernyataan:\nVolume prisma segitiga tersebut adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "244 cm3\n\nC.\n288 cm3",
+        "268 cm3\n\nD.\n296 cm3",
+        "288 cm3\n\nB.\n268 cm3",
+        "296 cm3"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 15,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nVolume prisma segitiga tersebut adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "244 cm3\n\nC.\n288 cm3"
+          },
+          {
+            "letter": "B",
+            "text": "268 cm3\n\nD.\n296 cm3"
+          },
+          {
+            "letter": "C",
+            "text": "288 cm3\n\nB.\n268 cm3"
+          },
+          {
+            "letter": "D",
+            "text": "296 cm3"
+          }
+        ],
+        "rawText": "Pernyataan:\nVolume prisma segitiga tersebut adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_9302_14",
+      "number": 15,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nVolume prisma segitiga tersebut adalah ....",
+      "pertanyaan": "Pernyataan:\nVolume prisma segitiga tersebut adalah ....",
+      "text": "Pernyataan:\nVolume prisma segitiga tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "244 cm3\n\nC.\n288 cm3"
+        },
+        {
+          "key": "B",
+          "text": "268 cm3\n\nD.\n296 cm3"
+        },
+        {
+          "key": "C",
+          "text": "288 cm3\n\nB.\n268 cm3"
+        },
+        {
+          "key": "D",
+          "text": "296 cm3"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789785520717_9394_15",
+      "type": "tf",
+      "teks": "Pernyataan:\nSebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Sebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nSetelah ditambah air oleh ayah, volume air dalam tangki menjadi 10.500 ml.",
+          "teks": "Sebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nSetelah ditambah air oleh ayah, volume air dalam tangki menjadi 10.500 ml.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "15 dl sama dengan 150 ml.",
+          "teks": "15 dl sama dengan 150 ml.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Volume air dalam tangki sekarang adalah 9 liter.",
+          "teks": "Volume air dalam tangki sekarang adalah 9 liter.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Volume air dalam tangki sekarang adalah 900 ml.",
+          "teks": "Volume air dalam tangki sekarang adalah 900 ml.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Sebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nSetelah ditambah air oleh ayah, volume air dalam tangki menjadi 10.500 ml.",
+          "jawaban": true,
+          "text": "Sebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nSetelah ditambah air oleh ayah, volume air dalam tangki menjadi 10.500 ml."
+        },
+        {
+          "teks": "15 dl sama dengan 150 ml.",
+          "jawaban": false,
+          "text": "15 dl sama dengan 150 ml."
+        },
+        {
+          "teks": "Volume air dalam tangki sekarang adalah 9 liter.",
+          "jawaban": true,
+          "text": "Volume air dalam tangki sekarang adalah 9 liter."
+        },
+        {
+          "teks": "Volume air dalam tangki sekarang adalah 900 ml.",
+          "jawaban": false,
+          "text": "Volume air dalam tangki sekarang adalah 900 ml."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Sebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nSetelah ditambah air oleh ayah, volume air dalam tangki menjadi 10.500 ml.",
+          "teks": "Sebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nSetelah ditambah air oleh ayah, volume air dalam tangki menjadi 10.500 ml.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "15 dl sama dengan 150 ml.",
+          "teks": "15 dl sama dengan 150 ml.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Volume air dalam tangki sekarang adalah 9 liter.",
+          "teks": "Volume air dalam tangki sekarang adalah 9 liter.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Volume air dalam tangki sekarang adalah 900 ml.",
+          "teks": "Volume air dalam tangki sekarang adalah 900 ml.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 16,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nSebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Sebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nSetelah ditambah air oleh ayah, volume air dalam tangki menjadi 10.500 ml."
+          },
+          {
+            "letter": "B",
+            "text": "15 dl sama dengan 150 ml."
+          },
+          {
+            "letter": "C",
+            "text": "Volume air dalam tangki sekarang adalah 9 liter."
+          },
+          {
+            "letter": "D",
+            "text": "Volume air dalam tangki sekarang adalah 900 ml."
+          }
+        ],
+        "rawText": "Pernyataan:\nSebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1789785520717_9394_15",
+      "number": 16,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Pernyataan:\nSebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "pertanyaan": "Pernyataan:\nSebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "text": "Pernyataan:\nSebuah tangki penampung berisi 8 liter air. Ayah menambahkan 2.500 ml air ke dalam tangki, kemudian mengambil 15 dl air dari tangki untuk menyiram tanaman. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789785520717_4747_16",
+      "type": "pg",
+      "teks": "Pernyataan:\nBerat satu karung beras adalah 25 kg. Beras tersebut akan dibagi sama rata ke dalam 5 kantong plastik. Berat beras pada setiap kantong plastik adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "4 kg\n\nC.\n6 kg",
+        "5 kg\n\nD.\n7 kg",
+        "6 kg\n\nB.\n5 kg",
+        "7 kg"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 17,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nBerat satu karung beras adalah 25 kg. Beras tersebut akan dibagi sama rata ke dalam 5 kantong plastik. Berat beras pada setiap kantong plastik adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "4 kg\n\nC.\n6 kg"
+          },
+          {
+            "letter": "B",
+            "text": "5 kg\n\nD.\n7 kg"
+          },
+          {
+            "letter": "C",
+            "text": "6 kg\n\nB.\n5 kg"
+          },
+          {
+            "letter": "D",
+            "text": "7 kg"
+          }
+        ],
+        "rawText": "Pernyataan:\nBerat satu karung beras adalah 25 kg. Beras tersebut akan dibagi sama rata ke dalam 5 kantong plastik. Berat beras pada setiap kantong plastik adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_4747_16",
+      "number": 17,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nBerat satu karung beras adalah 25 kg. Beras tersebut akan dibagi sama rata ke dalam 5 kantong plastik. Berat beras pada setiap kantong plastik adalah ....",
+      "pertanyaan": "Pernyataan:\nBerat satu karung beras adalah 25 kg. Beras tersebut akan dibagi sama rata ke dalam 5 kantong plastik. Berat beras pada setiap kantong plastik adalah ....",
+      "text": "Pernyataan:\nBerat satu karung beras adalah 25 kg. Beras tersebut akan dibagi sama rata ke dalam 5 kantong plastik. Berat beras pada setiap kantong plastik adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "4 kg\n\nC.\n6 kg"
+        },
+        {
+          "key": "B",
+          "text": "5 kg\n\nD.\n7 kg"
+        },
+        {
+          "key": "C",
+          "text": "6 kg\n\nB.\n5 kg"
+        },
+        {
+          "key": "D",
+          "text": "7 kg"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789785520717_1386_17",
+      "type": "pg",
+      "teks": "Pernyataan:\nBu Sari membeli 2 kg gula pasir dan 750 gram tepung terigu di pasar. Selisih berat kedua bahan belanjaan tersebut dalam satuan gram adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "1.050 gram\n\nC.\n1.250 gram",
+        "1.150 gram\n\nD.\n1.350 gram",
+        "1.250 gram\n\nB.\n1.150 gram",
+        "1.350 gram"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 18,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nBu Sari membeli 2 kg gula pasir dan 750 gram tepung terigu di pasar. Selisih berat kedua bahan belanjaan tersebut dalam satuan gram adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1.050 gram\n\nC.\n1.250 gram"
+          },
+          {
+            "letter": "B",
+            "text": "1.150 gram\n\nD.\n1.350 gram"
+          },
+          {
+            "letter": "C",
+            "text": "1.250 gram\n\nB.\n1.150 gram"
+          },
+          {
+            "letter": "D",
+            "text": "1.350 gram"
+          }
+        ],
+        "rawText": "Pernyataan:\nBu Sari membeli 2 kg gula pasir dan 750 gram tepung terigu di pasar. Selisih berat kedua bahan belanjaan tersebut dalam satuan gram adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_1386_17",
+      "number": 18,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nBu Sari membeli 2 kg gula pasir dan 750 gram tepung terigu di pasar. Selisih berat kedua bahan belanjaan tersebut dalam satuan gram adalah ....",
+      "pertanyaan": "Pernyataan:\nBu Sari membeli 2 kg gula pasir dan 750 gram tepung terigu di pasar. Selisih berat kedua bahan belanjaan tersebut dalam satuan gram adalah ....",
+      "text": "Pernyataan:\nBu Sari membeli 2 kg gula pasir dan 750 gram tepung terigu di pasar. Selisih berat kedua bahan belanjaan tersebut dalam satuan gram adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "1.050 gram\n\nC.\n1.250 gram"
+        },
+        {
+          "key": "B",
+          "text": "1.150 gram\n\nD.\n1.350 gram"
+        },
+        {
+          "key": "C",
+          "text": "1.250 gram\n\nB.\n1.150 gram"
+        },
+        {
+          "key": "D",
+          "text": "1.350 gram"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789785520717_1428_18",
+      "type": "ma",
+      "teks": "Pernyataan:\nAndi berangkat ke tempat les matematika pukul 15.20 dan tiba di tempat les setelah menempuh perjalanan selama 35 menit. Andi mengikuti kegiatan les selama 1 jam 15 menit, kemudian pulang dan tiba di rumah pukul 17.30. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Andi tiba di tempat les pukul 15.55.",
+        "Andi selesai mengikuti les pukul 17.10.",
+        "Lama perjalanan pulang Andi adalah 15 menit.",
+        "Lama perjalanan pulang Andi adalah 20 menit."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        3
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 19,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nAndi berangkat ke tempat les matematika pukul 15.20 dan tiba di tempat les setelah menempuh perjalanan selama 35 menit. Andi mengikuti kegiatan les selama 1 jam 15 menit, kemudian pulang dan tiba di rumah pukul 17.30. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Andi tiba di tempat les pukul 15.55."
+          },
+          {
+            "letter": "B",
+            "text": "Andi selesai mengikuti les pukul 17.10."
+          },
+          {
+            "letter": "C",
+            "text": "Lama perjalanan pulang Andi adalah 15 menit."
+          },
+          {
+            "letter": "D",
+            "text": "Lama perjalanan pulang Andi adalah 20 menit."
+          }
+        ],
+        "rawText": "Pernyataan:\nAndi berangkat ke tempat les matematika pukul 15.20 dan tiba di tempat les setelah menempuh perjalanan selama 35 menit. Andi mengikuti kegiatan les selama 1 jam 15 menit, kemudian pulang dan tiba di rumah pukul 17.30. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1789785520717_1428_18",
+      "number": 19,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pernyataan:\nAndi berangkat ke tempat les matematika pukul 15.20 dan tiba di tempat les setelah menempuh perjalanan selama 35 menit. Andi mengikuti kegiatan les selama 1 jam 15 menit, kemudian pulang dan tiba di rumah pukul 17.30. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "pertanyaan": "Pernyataan:\nAndi berangkat ke tempat les matematika pukul 15.20 dan tiba di tempat les setelah menempuh perjalanan selama 35 menit. Andi mengikuti kegiatan les selama 1 jam 15 menit, kemudian pulang dan tiba di rumah pukul 17.30. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "text": "Pernyataan:\nAndi berangkat ke tempat les matematika pukul 15.20 dan tiba di tempat les setelah menempuh perjalanan selama 35 menit. Andi mengikuti kegiatan les selama 1 jam 15 menit, kemudian pulang dan tiba di rumah pukul 17.30. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Andi tiba di tempat les pukul 15.55."
+        },
+        {
+          "key": "B",
+          "text": "Andi selesai mengikuti les pukul 17.10."
+        },
+        {
+          "key": "C",
+          "text": "Lama perjalanan pulang Andi adalah 15 menit."
+        },
+        {
+          "key": "D",
+          "text": "Lama perjalanan pulang Andi adalah 20 menit."
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "kunci": "A, B, D"
+    },
+    {
+      "id": "temp_ai_1789785520717_7972_19",
+      "type": "pg",
+      "teks": "Pernyataan:\nSebuah proyek pembangunan jembatan direncanakan selesai dalam waktu 2 tahun 3 bulan. Jika proyek tersebut sudah berjalan selama 15 bulan, sisa waktu penyelesaian proyek tersebut adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "10 bulan\n\nC.\n12 bulan",
+        "11 bulan\n\nD.\n13 bulan",
+        "12 bulan\n\nB.\n11 bulan",
+        "13 bulan"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 20,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nSebuah proyek pembangunan jembatan direncanakan selesai dalam waktu 2 tahun 3 bulan. Jika proyek tersebut sudah berjalan selama 15 bulan, sisa waktu penyelesaian proyek tersebut adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "10 bulan\n\nC.\n12 bulan"
+          },
+          {
+            "letter": "B",
+            "text": "11 bulan\n\nD.\n13 bulan"
+          },
+          {
+            "letter": "C",
+            "text": "12 bulan\n\nB.\n11 bulan"
+          },
+          {
+            "letter": "D",
+            "text": "13 bulan"
+          }
+        ],
+        "rawText": "Pernyataan:\nSebuah proyek pembangunan jembatan direncanakan selesai dalam waktu 2 tahun 3 bulan. Jika proyek tersebut sudah berjalan selama 15 bulan, sisa waktu penyelesaian proyek tersebut adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_7972_19",
+      "number": 20,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nSebuah proyek pembangunan jembatan direncanakan selesai dalam waktu 2 tahun 3 bulan. Jika proyek tersebut sudah berjalan selama 15 bulan, sisa waktu penyelesaian proyek tersebut adalah ....",
+      "pertanyaan": "Pernyataan:\nSebuah proyek pembangunan jembatan direncanakan selesai dalam waktu 2 tahun 3 bulan. Jika proyek tersebut sudah berjalan selama 15 bulan, sisa waktu penyelesaian proyek tersebut adalah ....",
+      "text": "Pernyataan:\nSebuah proyek pembangunan jembatan direncanakan selesai dalam waktu 2 tahun 3 bulan. Jika proyek tersebut sudah berjalan selama 15 bulan, sisa waktu penyelesaian proyek tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "10 bulan\n\nC.\n12 bulan"
+        },
+        {
+          "key": "B",
+          "text": "11 bulan\n\nD.\n13 bulan"
+        },
+        {
+          "key": "C",
+          "text": "12 bulan\n\nB.\n11 bulan"
+        },
+        {
+          "key": "D",
+          "text": "13 bulan"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789785520717_6682_20",
+      "type": "pg",
+      "teks": "Pernyataan:\nSebuah kereta api menempuh jarak 180 km dalam waktu 2 jam 30 menit. Kecepatan rata-rata kereta api tersebut adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "65 km/jam\n\nC.\n72 km/jam",
+        "70 km/jam\n\nD.\n75 km/jam",
+        "72 km/jam\n\nB.\n70 km/jam",
+        "75 km/jam"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 21,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nSebuah kereta api menempuh jarak 180 km dalam waktu 2 jam 30 menit. Kecepatan rata-rata kereta api tersebut adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "65 km/jam\n\nC.\n72 km/jam"
+          },
+          {
+            "letter": "B",
+            "text": "70 km/jam\n\nD.\n75 km/jam"
+          },
+          {
+            "letter": "C",
+            "text": "72 km/jam\n\nB.\n70 km/jam"
+          },
+          {
+            "letter": "D",
+            "text": "75 km/jam"
+          }
+        ],
+        "rawText": "Pernyataan:\nSebuah kereta api menempuh jarak 180 km dalam waktu 2 jam 30 menit. Kecepatan rata-rata kereta api tersebut adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_6682_20",
+      "number": 21,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nSebuah kereta api menempuh jarak 180 km dalam waktu 2 jam 30 menit. Kecepatan rata-rata kereta api tersebut adalah ....",
+      "pertanyaan": "Pernyataan:\nSebuah kereta api menempuh jarak 180 km dalam waktu 2 jam 30 menit. Kecepatan rata-rata kereta api tersebut adalah ....",
+      "text": "Pernyataan:\nSebuah kereta api menempuh jarak 180 km dalam waktu 2 jam 30 menit. Kecepatan rata-rata kereta api tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "65 km/jam\n\nC.\n72 km/jam"
+        },
+        {
+          "key": "B",
+          "text": "70 km/jam\n\nD.\n75 km/jam"
+        },
+        {
+          "key": "C",
+          "text": "72 km/jam\n\nB.\n70 km/jam"
+        },
+        {
+          "key": "D",
+          "text": "75 km/jam"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789785520717_4973_21",
+      "type": "pg",
+      "teks": "Pernyataan:\nKeliling bangun datar tersebut adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "18 cm\n\nC.\n22 cm",
+        "20 cm\n\nD.\n24 cm",
+        "22 cm\n\nB.\n20 cm",
+        "24 cm"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 22,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nKeliling bangun datar tersebut adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "18 cm\n\nC.\n22 cm"
+          },
+          {
+            "letter": "B",
+            "text": "20 cm\n\nD.\n24 cm"
+          },
+          {
+            "letter": "C",
+            "text": "22 cm\n\nB.\n20 cm"
+          },
+          {
+            "letter": "D",
+            "text": "24 cm"
+          }
+        ],
+        "rawText": "Pernyataan:\nKeliling bangun datar tersebut adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_4973_21",
+      "number": 22,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nKeliling bangun datar tersebut adalah ....",
+      "pertanyaan": "Pernyataan:\nKeliling bangun datar tersebut adalah ....",
+      "text": "Pernyataan:\nKeliling bangun datar tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "18 cm\n\nC.\n22 cm"
+        },
+        {
+          "key": "B",
+          "text": "20 cm\n\nD.\n24 cm"
+        },
+        {
+          "key": "C",
+          "text": "22 cm\n\nB.\n20 cm"
+        },
+        {
+          "key": "D",
+          "text": "24 cm"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789785520717_6737_22",
+      "type": "pg",
+      "teks": "Pernyataan:\nLuas bangun datar tersebut adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "30 cm2\n\nC.\n36 cm2",
+        "33 cm2\n\nD.\n39 cm2",
+        "36 cm2\n\nB.\n33 cm2",
+        "39 cm2"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 23,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nLuas bangun datar tersebut adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "30 cm2\n\nC.\n36 cm2"
+          },
+          {
+            "letter": "B",
+            "text": "33 cm2\n\nD.\n39 cm2"
+          },
+          {
+            "letter": "C",
+            "text": "36 cm2\n\nB.\n33 cm2"
+          },
+          {
+            "letter": "D",
+            "text": "39 cm2"
+          }
+        ],
+        "rawText": "Pernyataan:\nLuas bangun datar tersebut adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_6737_22",
+      "number": 23,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nLuas bangun datar tersebut adalah ....",
+      "pertanyaan": "Pernyataan:\nLuas bangun datar tersebut adalah ....",
+      "text": "Pernyataan:\nLuas bangun datar tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "30 cm2\n\nC.\n36 cm2"
+        },
+        {
+          "key": "B",
+          "text": "33 cm2\n\nD.\n39 cm2"
+        },
+        {
+          "key": "C",
+          "text": "36 cm2\n\nB.\n33 cm2"
+        },
+        {
+          "key": "D",
+          "text": "39 cm2"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789785520717_907_23",
+      "type": "ma",
+      "teks": "Pernyataan:\nBangun ruang gabungan balok dan tabung. (gunakan = 3,14) Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Volume balok pada bangun tersebut adalah 25 cm3.",
+        "Volume tabung pada bangun tersebut adalah 6,28 cm3.",
+        "Volume gabungan kedua bangun ruang tersebut adalah 31,28 cm3.",
+        "Volume gabungan kedua bangun ruang tersebut adalah 28,28 cm3."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 24,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nBangun ruang gabungan balok dan tabung. (gunakan = 3,14) Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Volume balok pada bangun tersebut adalah 25 cm3."
+          },
+          {
+            "letter": "B",
+            "text": "Volume tabung pada bangun tersebut adalah 6,28 cm3."
+          },
+          {
+            "letter": "C",
+            "text": "Volume gabungan kedua bangun ruang tersebut adalah 31,28 cm3."
+          },
+          {
+            "letter": "D",
+            "text": "Volume gabungan kedua bangun ruang tersebut adalah 28,28 cm3."
+          }
+        ],
+        "rawText": "Pernyataan:\nBangun ruang gabungan balok dan tabung. (gunakan = 3,14) Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1789785520717_907_23",
+      "number": 24,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pernyataan:\nBangun ruang gabungan balok dan tabung. (gunakan = 3,14) Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "pertanyaan": "Pernyataan:\nBangun ruang gabungan balok dan tabung. (gunakan = 3,14) Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "text": "Pernyataan:\nBangun ruang gabungan balok dan tabung. (gunakan = 3,14) Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Volume balok pada bangun tersebut adalah 25 cm3."
+        },
+        {
+          "key": "B",
+          "text": "Volume tabung pada bangun tersebut adalah 6,28 cm3."
+        },
+        {
+          "key": "C",
+          "text": "Volume gabungan kedua bangun ruang tersebut adalah 31,28 cm3."
+        },
+        {
+          "key": "D",
+          "text": "Volume gabungan kedua bangun ruang tersebut adalah 28,28 cm3."
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "kunci": "A, B, C"
+    },
+    {
+      "id": "temp_ai_1789785520717_2931_24",
+      "type": "pg",
+      "teks": "Pernyataan:\nBesar sudut x pada gambar tersebut adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "40°\n\nC.\n60°",
+        "50°\n\nD.\n70°",
+        "60°\n\nB.\n50°",
+        "70°"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 25,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nBesar sudut x pada gambar tersebut adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "40°\n\nC.\n60°"
+          },
+          {
+            "letter": "B",
+            "text": "50°\n\nD.\n70°"
+          },
+          {
+            "letter": "C",
+            "text": "60°\n\nB.\n50°"
+          },
+          {
+            "letter": "D",
+            "text": "70°"
+          }
+        ],
+        "rawText": "Pernyataan:\nBesar sudut x pada gambar tersebut adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_2931_24",
+      "number": 25,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nBesar sudut x pada gambar tersebut adalah ....",
+      "pertanyaan": "Pernyataan:\nBesar sudut x pada gambar tersebut adalah ....",
+      "text": "Pernyataan:\nBesar sudut x pada gambar tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "40°\n\nC.\n60°"
+        },
+        {
+          "key": "B",
+          "text": "50°\n\nD.\n70°"
+        },
+        {
+          "key": "C",
+          "text": "60°\n\nB.\n50°"
+        },
+        {
+          "key": "D",
+          "text": "70°"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789785520717_3296_25",
+      "type": "tf",
+      "teks": "Pernyataan:\nTabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Tabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah seluruh nilai kelima siswa tersebut adalah 400.",
+          "teks": "Tabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah seluruh nilai kelima siswa tersebut adalah 400.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Rata-rata nilai kelima siswa tersebut adalah 80.",
+          "teks": "Rata-rata nilai kelima siswa tersebut adalah 80.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Nilai tertinggi diperoleh oleh Citra.",
+          "teks": "Nilai tertinggi diperoleh oleh Citra.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Rata-rata nilai kelima siswa tersebut adalah 85.",
+          "teks": "Rata-rata nilai kelima siswa tersebut adalah 85.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Tabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah seluruh nilai kelima siswa tersebut adalah 400.",
+          "jawaban": true,
+          "text": "Tabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah seluruh nilai kelima siswa tersebut adalah 400."
+        },
+        {
+          "teks": "Rata-rata nilai kelima siswa tersebut adalah 80.",
+          "jawaban": true,
+          "text": "Rata-rata nilai kelima siswa tersebut adalah 80."
+        },
+        {
+          "teks": "Nilai tertinggi diperoleh oleh Citra.",
+          "jawaban": true,
+          "text": "Nilai tertinggi diperoleh oleh Citra."
+        },
+        {
+          "teks": "Rata-rata nilai kelima siswa tersebut adalah 85.",
+          "jawaban": false,
+          "text": "Rata-rata nilai kelima siswa tersebut adalah 85."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Tabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah seluruh nilai kelima siswa tersebut adalah 400.",
+          "teks": "Tabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah seluruh nilai kelima siswa tersebut adalah 400.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Rata-rata nilai kelima siswa tersebut adalah 80.",
+          "teks": "Rata-rata nilai kelima siswa tersebut adalah 80.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Nilai tertinggi diperoleh oleh Citra.",
+          "teks": "Nilai tertinggi diperoleh oleh Citra.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Rata-rata nilai kelima siswa tersebut adalah 85.",
+          "teks": "Rata-rata nilai kelima siswa tersebut adalah 85.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 26,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nTabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Tabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nJumlah seluruh nilai kelima siswa tersebut adalah 400."
+          },
+          {
+            "letter": "B",
+            "text": "Rata-rata nilai kelima siswa tersebut adalah 80."
+          },
+          {
+            "letter": "C",
+            "text": "Nilai tertinggi diperoleh oleh Citra."
+          },
+          {
+            "letter": "D",
+            "text": "Rata-rata nilai kelima siswa tersebut adalah 85."
+          }
+        ],
+        "rawText": "Pernyataan:\nTabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1789785520717_3296_25",
+      "number": 26,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Pernyataan:\nTabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "pertanyaan": "Pernyataan:\nTabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "text": "Pernyataan:\nTabel berikut menunjukkan nilai ulangan Matematika lima orang siswa Kelas VI. Nama Siswa Ani Budi Citra Dedi Eka Nilai 80 75 90 70 85 Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789785520717_679_26",
+      "type": "ma",
+      "teks": "Pernyataan:\nHasil penjualan buah di koperasi sekolah. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Buah yang paling banyak terjual adalah pisang.",
+        "Buah yang paling sedikit terjual adalah anggur.",
+        "Selisih penjualan mangga dan jeruk adalah 6 kg.",
+        "Total penjualan seluruh buah adalah 90 kg."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        2
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 27,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nHasil penjualan buah di koperasi sekolah. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Buah yang paling banyak terjual adalah pisang."
+          },
+          {
+            "letter": "B",
+            "text": "Buah yang paling sedikit terjual adalah anggur."
+          },
+          {
+            "letter": "C",
+            "text": "Selisih penjualan mangga dan jeruk adalah 6 kg."
+          },
+          {
+            "letter": "D",
+            "text": "Total penjualan seluruh buah adalah 90 kg."
+          }
+        ],
+        "rawText": "Pernyataan:\nHasil penjualan buah di koperasi sekolah. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1789785520717_679_26",
+      "number": 27,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pernyataan:\nHasil penjualan buah di koperasi sekolah. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "pertanyaan": "Pernyataan:\nHasil penjualan buah di koperasi sekolah. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "text": "Pernyataan:\nHasil penjualan buah di koperasi sekolah. Petunjuk: Centanglah ( ) lebih dari satu jawaban yang BENAR! (Pilihlah jawaban yang benar! Jawaban dapat lebih dari satu)",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Buah yang paling banyak terjual adalah pisang."
+        },
+        {
+          "key": "B",
+          "text": "Buah yang paling sedikit terjual adalah anggur."
+        },
+        {
+          "key": "C",
+          "text": "Selisih penjualan mangga dan jeruk adalah 6 kg."
+        },
+        {
+          "key": "D",
+          "text": "Total penjualan seluruh buah adalah 90 kg."
+        }
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "kunci": "A, C"
+    },
+    {
+      "id": "temp_ai_1789785520717_9069_27",
+      "type": "pg",
+      "teks": "Pernyataan:\nNilai ulangan harian Matematika Kelas VI. Banyak hari dengan nilai ulangan di bawah 80 adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "2 hari\n\nC.\n4 hari",
+        "3 hari\n\nD.\n5 hari",
+        "4 hari\n\nB.\n3 hari",
+        "5 hari"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 28,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nNilai ulangan harian Matematika Kelas VI. Banyak hari dengan nilai ulangan di bawah 80 adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "2 hari\n\nC.\n4 hari"
+          },
+          {
+            "letter": "B",
+            "text": "3 hari\n\nD.\n5 hari"
+          },
+          {
+            "letter": "C",
+            "text": "4 hari\n\nB.\n3 hari"
+          },
+          {
+            "letter": "D",
+            "text": "5 hari"
+          }
+        ],
+        "rawText": "Pernyataan:\nNilai ulangan harian Matematika Kelas VI. Banyak hari dengan nilai ulangan di bawah 80 adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_9069_27",
+      "number": 28,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nNilai ulangan harian Matematika Kelas VI. Banyak hari dengan nilai ulangan di bawah 80 adalah ....",
+      "pertanyaan": "Pernyataan:\nNilai ulangan harian Matematika Kelas VI. Banyak hari dengan nilai ulangan di bawah 80 adalah ....",
+      "text": "Pernyataan:\nNilai ulangan harian Matematika Kelas VI. Banyak hari dengan nilai ulangan di bawah 80 adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "2 hari\n\nC.\n4 hari"
+        },
+        {
+          "key": "B",
+          "text": "3 hari\n\nD.\n5 hari"
+        },
+        {
+          "key": "C",
+          "text": "4 hari\n\nB.\n3 hari"
+        },
+        {
+          "key": "D",
+          "text": "5 hari"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789785520717_7930_28",
+      "type": "tf",
+      "teks": "Pernyataan:\nOlahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Olahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nBanyak siswa yang menyukai sepak bola adalah 16 siswa.",
+          "teks": "Olahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nBanyak siswa yang menyukai sepak bola adalah 16 siswa.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Banyak siswa yang menyukai bulu tangkis lebih banyak daripada renang.",
+          "teks": "Banyak siswa yang menyukai bulu tangkis lebih banyak daripada renang.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Banyak siswa yang menyukai basket adalah 6 siswa.",
+          "teks": "Banyak siswa yang menyukai basket adalah 6 siswa.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Banyak siswa yang menyukai renang adalah 10 siswa.",
+          "teks": "Banyak siswa yang menyukai renang adalah 10 siswa.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Olahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nBanyak siswa yang menyukai sepak bola adalah 16 siswa.",
+          "jawaban": true,
+          "text": "Olahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nBanyak siswa yang menyukai sepak bola adalah 16 siswa."
+        },
+        {
+          "teks": "Banyak siswa yang menyukai bulu tangkis lebih banyak daripada renang.",
+          "jawaban": true,
+          "text": "Banyak siswa yang menyukai bulu tangkis lebih banyak daripada renang."
+        },
+        {
+          "teks": "Banyak siswa yang menyukai basket adalah 6 siswa.",
+          "jawaban": true,
+          "text": "Banyak siswa yang menyukai basket adalah 6 siswa."
+        },
+        {
+          "teks": "Banyak siswa yang menyukai renang adalah 10 siswa.",
+          "jawaban": true,
+          "text": "Banyak siswa yang menyukai renang adalah 10 siswa."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Olahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nBanyak siswa yang menyukai sepak bola adalah 16 siswa.",
+          "teks": "Olahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nBanyak siswa yang menyukai sepak bola adalah 16 siswa.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Banyak siswa yang menyukai bulu tangkis lebih banyak daripada renang.",
+          "teks": "Banyak siswa yang menyukai bulu tangkis lebih banyak daripada renang.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Banyak siswa yang menyukai basket adalah 6 siswa.",
+          "teks": "Banyak siswa yang menyukai basket adalah 6 siswa.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Banyak siswa yang menyukai renang adalah 10 siswa.",
+          "teks": "Banyak siswa yang menyukai renang adalah 10 siswa.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 29,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nOlahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Olahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!\n\nPernyataan:\n\n1.\nBanyak siswa yang menyukai sepak bola adalah 16 siswa."
+          },
+          {
+            "letter": "B",
+            "text": "Banyak siswa yang menyukai bulu tangkis lebih banyak daripada renang."
+          },
+          {
+            "letter": "C",
+            "text": "Banyak siswa yang menyukai basket adalah 6 siswa."
+          },
+          {
+            "letter": "D",
+            "text": "Banyak siswa yang menyukai renang adalah 10 siswa."
+          }
+        ],
+        "rawText": "Pernyataan:\nOlahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1789785520717_7930_28",
+      "number": 29,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Pernyataan:\nOlahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "pertanyaan": "Pernyataan:\nOlahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "text": "Pernyataan:\nOlahraga favorit siswa Kelas VI dari 40 siswa. Petunjuk: Berilah tanda centang ( ) pada kolom Benar atau Salah untuk setiap pernyataan berikut!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789785520717_553_29",
+      "type": "pg",
+      "teks": "Pernyataan:\nData nilai ulangan Matematika 7 orang siswa sebagai berikut. 80, 65, 90, 72, 78, 85, 70 Median dari data nilai ulangan tersebut adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "72\n\nC.\n78",
+        "75\n\nD.\n80",
+        "78\n\nB.\n75",
+        "80"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 30,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pernyataan:\nData nilai ulangan Matematika 7 orang siswa sebagai berikut. 80, 65, 90, 72, 78, 85, 70 Median dari data nilai ulangan tersebut adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "72\n\nC.\n78"
+          },
+          {
+            "letter": "B",
+            "text": "75\n\nD.\n80"
+          },
+          {
+            "letter": "C",
+            "text": "78\n\nB.\n75"
+          },
+          {
+            "letter": "D",
+            "text": "80"
+          }
+        ],
+        "rawText": "Pernyataan:\nData nilai ulangan Matematika 7 orang siswa sebagai berikut. 80, 65, 90, 72, 78, 85, 70 Median dari data nilai ulangan tersebut adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1789785520717_553_29",
+      "number": 30,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pernyataan:\nData nilai ulangan Matematika 7 orang siswa sebagai berikut. 80, 65, 90, 72, 78, 85, 70 Median dari data nilai ulangan tersebut adalah ....",
+      "pertanyaan": "Pernyataan:\nData nilai ulangan Matematika 7 orang siswa sebagai berikut. 80, 65, 90, 72, 78, 85, 70 Median dari data nilai ulangan tersebut adalah ....",
+      "text": "Pernyataan:\nData nilai ulangan Matematika 7 orang siswa sebagai berikut. 80, 65, 90, 72, 78, 85, 70 Median dari data nilai ulangan tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "72\n\nC.\n78"
+        },
+        {
+          "key": "B",
+          "text": "75\n\nD.\n80"
+        },
+        {
+          "key": "C",
+          "text": "78\n\nB.\n75"
+        },
+        {
+          "key": "D",
+          "text": "80"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    }
+  ],
+  "updatedAt": "2026-09-19T02:40:17.728Z"
+}
