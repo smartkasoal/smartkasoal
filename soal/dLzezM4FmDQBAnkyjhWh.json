@@ -1,0 +1,3483 @@
+{
+  "fileId": "dLzezM4FmDQBAnkyjhWh",
+  "id": "dLzezM4FmDQBAnkyjhWh",
+  "examId": "dLzezM4FmDQBAnkyjhWh",
+  "title": "ASSESSMENT TENGAH SEMESTER MI PANATASAN",
+  "subject": "PJOK",
+  "duration": 60,
+  "token": "42EDHW",
+  "totalQuestions": 40,
+  "totalBobot": 100,
+  "version": 1,
+  "questions": [
+    {
+      "id": "temp_ai_1789980490187_1304_0",
+      "questionId": "temp_ai_1789980490187_1304_0",
+      "order": 1,
+      "number": 1,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Perhatikan gambar. Seorang pemain A ingin melewati pemain bertahan dan mencapai pemain C dengan satu rangkaian gerak yang aman. Pola gerak yang paling sesuai untuk situasi tersebut adalah ....",
+      "teks": "Perhatikan gambar. Seorang pemain A ingin melewati pemain bertahan dan mencapai pemain C dengan satu rangkaian gerak yang aman. Pola gerak yang paling sesuai untuk situasi tersebut adalah ....",
+      "pertanyaan": "Perhatikan gambar. Seorang pemain A ingin melewati pemain bertahan dan mencapai pemain C dengan satu rangkaian gerak yang aman. Pola gerak yang paling sesuai untuk situasi tersebut adalah ....",
+      "text": "Perhatikan gambar. Seorang pemain A ingin melewati pemain bertahan dan mencapai pemain C dengan satu rangkaian gerak yang aman. Pola gerak yang paling sesuai untuk situasi tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "[{\"url\":\"https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_de69fa23e59879f1.webp\"}]",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_de69fa23e59879f1.webp",
+      "rawMedia": "soal-01.png",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Melakukan operan satu-dua (wall pass) agar bola dapat dikembalikan ke ruang gerak pemain"
+        },
+        {
+          "key": "B",
+          "text": "Menggiring bola lurus tanpa memperhatikan posisi lawan"
+        },
+        {
+          "key": "C",
+          "text": "Menendang bola langsung ke gawang dari posisi tersebut"
+        },
+        {
+          "key": "D",
+          "text": "Menghentikan bola lalu meninggalkan permainan"
+        }
+      ],
+      "opsi": [
+        "Melakukan operan satu-dua (wall pass) agar bola dapat dikembalikan ke ruang gerak pemain",
+        "Menggiring bola lurus tanpa memperhatikan posisi lawan",
+        "Menendang bola langsung ke gawang dari posisi tersebut",
+        "Menghentikan bola lalu meninggalkan permainan"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "A",
+      "answers": [
+        "A"
+      ],
+      "kunci": "A",
+      "jawaban": 0,
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789980490187_530_1",
+      "questionId": "temp_ai_1789980490187_530_1",
+      "order": 2,
+      "number": 2,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Perhatikan gambar. Seorang pemain menggiring bola melewati beberapa rintangan dengan perubahan arah. Modifikasi latihan tersebut terutama bertujuan untuk meningkatkan ....",
+      "teks": "Perhatikan gambar. Seorang pemain menggiring bola melewati beberapa rintangan dengan perubahan arah. Modifikasi latihan tersebut terutama bertujuan untuk meningkatkan ....",
+      "pertanyaan": "Perhatikan gambar. Seorang pemain menggiring bola melewati beberapa rintangan dengan perubahan arah. Modifikasi latihan tersebut terutama bertujuan untuk meningkatkan ....",
+      "text": "Perhatikan gambar. Seorang pemain menggiring bola melewati beberapa rintangan dengan perubahan arah. Modifikasi latihan tersebut terutama bertujuan untuk meningkatkan ....",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "[{\"url\":\"https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_fe5853f23c40fad7.webp\"}]",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_fe5853f23c40fad7.webp",
+      "rawMedia": "soal-02.png",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kemampuan menyundul bola"
+        },
+        {
+          "key": "B",
+          "text": "Kelincahan dan kontrol bola saat bergerak"
+        },
+        {
+          "key": "C",
+          "text": "Kemampuan melakukan lemparan ke dalam"
+        },
+        {
+          "key": "D",
+          "text": "Kekuatan tangan saat membawa bola"
+        }
+      ],
+      "opsi": [
+        "Kemampuan menyundul bola",
+        "Kelincahan dan kontrol bola saat bergerak",
+        "Kemampuan melakukan lemparan ke dalam",
+        "Kekuatan tangan saat membawa bola"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "answers": [
+        "B"
+      ],
+      "kunci": "B",
+      "jawaban": 1,
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789980490187_1169_2",
+      "questionId": "temp_ai_1789980490187_1169_2",
+      "order": 3,
+      "number": 3,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Perhatikan gambar. Bola dilempar dari pemain A menuju pemain C dengan melewati pemain B. Dalam situasi tersebut, jenis operan yang paling tepat agar bola dapat melewati pemain B adalah ....",
+      "teks": "Perhatikan gambar. Bola dilempar dari pemain A menuju pemain C dengan melewati pemain B. Dalam situasi tersebut, jenis operan yang paling tepat agar bola dapat melewati pemain B adalah ....",
+      "pertanyaan": "Perhatikan gambar. Bola dilempar dari pemain A menuju pemain C dengan melewati pemain B. Dalam situasi tersebut, jenis operan yang paling tepat agar bola dapat melewati pemain B adalah ....",
+      "text": "Perhatikan gambar. Bola dilempar dari pemain A menuju pemain C dengan melewati pemain B. Dalam situasi tersebut, jenis operan yang paling tepat agar bola dapat melewati pemain B adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "[{\"url\":\"https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_744ca9f48cfc41c2.webp\"}]",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_744ca9f48cfc41c2.webp",
+      "rawMedia": "soal-03.png",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chest pass"
+        },
+        {
+          "key": "B",
+          "text": "Bounce pass"
+        },
+        {
+          "key": "C",
+          "text": "Dribbling tinggi"
+        },
+        {
+          "key": "D",
+          "text": "Overhead pass"
+        }
+      ],
+      "opsi": [
+        "Chest pass",
+        "Bounce pass",
+        "Dribbling tinggi",
+        "Overhead pass"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "D",
+      "answers": [
+        "D"
+      ],
+      "kunci": "D",
+      "jawaban": 3,
+      "correctAnswer": 3
+    },
+    {
+      "id": "temp_ai_1789980490187_312_3",
+      "questionId": "temp_ai_1789980490187_312_3",
+      "order": 4,
+      "number": 4,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Perhatikan gambar. Pemain yang membawa bola berusaha melewati dua pemain bertahan dengan tetap menguasai bola menggunakan sentuhan kaki. Variasi gerak tersebut merupakan ....",
+      "teks": "Perhatikan gambar. Pemain yang membawa bola berusaha melewati dua pemain bertahan dengan tetap menguasai bola menggunakan sentuhan kaki. Variasi gerak tersebut merupakan ....",
+      "pertanyaan": "Perhatikan gambar. Pemain yang membawa bola berusaha melewati dua pemain bertahan dengan tetap menguasai bola menggunakan sentuhan kaki. Variasi gerak tersebut merupakan ....",
+      "text": "Perhatikan gambar. Pemain yang membawa bola berusaha melewati dua pemain bertahan dengan tetap menguasai bola menggunakan sentuhan kaki. Variasi gerak tersebut merupakan ....",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "[{\"url\":\"https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_d5613f1a4c40fe75.webp\"}]",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_d5613f1a4c40fe75.webp",
+      "rawMedia": "soal-04.png",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menendang bola jarak jauh"
+        },
+        {
+          "key": "B",
+          "text": "Mengoper bola lambung"
+        },
+        {
+          "key": "C",
+          "text": "Menggiring bola melewati lawan"
+        },
+        {
+          "key": "D",
+          "text": "Menghentikan bola dengan punggung kaki"
+        }
+      ],
+      "opsi": [
+        "Menendang bola jarak jauh",
+        "Mengoper bola lambung",
+        "Menggiring bola melewati lawan",
+        "Menghentikan bola dengan punggung kaki"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "C",
+      "answers": [
+        "C"
+      ],
+      "kunci": "C",
+      "jawaban": 2,
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789980490187_8113_4",
+      "questionId": "temp_ai_1789980490187_8113_4",
+      "order": 5,
+      "number": 5,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Perhatikan gambar. Urutan gerak pemain bola basket dari menerima bola, melangkah mendekati ring, kemudian melepaskan bola ke arah ring merupakan contoh ....",
+      "teks": "Perhatikan gambar. Urutan gerak pemain bola basket dari menerima bola, melangkah mendekati ring, kemudian melepaskan bola ke arah ring merupakan contoh ....",
+      "pertanyaan": "Perhatikan gambar. Urutan gerak pemain bola basket dari menerima bola, melangkah mendekati ring, kemudian melepaskan bola ke arah ring merupakan contoh ....",
+      "text": "Perhatikan gambar. Urutan gerak pemain bola basket dari menerima bola, melangkah mendekati ring, kemudian melepaskan bola ke arah ring merupakan contoh ....",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "[{\"url\":\"https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_3985f5f4786ff3dd.webp\"}]",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_3985f5f4786ff3dd.webp",
+      "rawMedia": "soal-05.png",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chest pass"
+        },
+        {
+          "key": "B",
+          "text": "Pivot"
+        },
+        {
+          "key": "C",
+          "text": "Lay up"
+        },
+        {
+          "key": "D",
+          "text": "Dribbling di tempat"
+        }
+      ],
+      "opsi": [
+        "Chest pass",
+        "Pivot",
+        "Lay up",
+        "Dribbling di tempat"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "C",
+      "answers": [
+        "C"
+      ],
+      "kunci": "C",
+      "jawaban": 2,
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789980504130_9034_0",
+      "questionId": "temp_ai_1789980504130_9034_0",
+      "order": 6,
+      "number": 6,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Perhatikan gambar. Pemain menggiring bola melewati cone dengan perubahan arah secara berurutan. Tujuan utama modifikasi latihan tersebut adalah ....",
+      "teks": "Perhatikan gambar. Pemain menggiring bola melewati cone dengan perubahan arah secara berurutan. Tujuan utama modifikasi latihan tersebut adalah ....",
+      "pertanyaan": "Perhatikan gambar. Pemain menggiring bola melewati cone dengan perubahan arah secara berurutan. Tujuan utama modifikasi latihan tersebut adalah ....",
+      "text": "Perhatikan gambar. Pemain menggiring bola melewati cone dengan perubahan arah secara berurutan. Tujuan utama modifikasi latihan tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "[{\"url\":\"https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_6cd9d065e7e3f9b5.webp\"}]",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_6cd9d065e7e3f9b5.webp",
+      "rawMedia": "soal-01.png",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Melatih kekuatan tendangan"
+        },
+        {
+          "key": "B",
+          "text": "Melatih akurasi mengoper bola"
+        },
+        {
+          "key": "C",
+          "text": "Melatih kelincahan saat menggiring bola"
+        },
+        {
+          "key": "D",
+          "text": "Melatih kemampuan menghentikan bola"
+        }
+      ],
+      "opsi": [
+        "Melatih kekuatan tendangan",
+        "Melatih akurasi mengoper bola",
+        "Melatih kelincahan saat menggiring bola",
+        "Melatih kemampuan menghentikan bola"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "C",
+      "answers": [
+        "C"
+      ],
+      "kunci": "C",
+      "jawaban": 2,
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789980504130_9419_1",
+      "questionId": "temp_ai_1789980504130_9419_1",
+      "order": 7,
+      "number": 7,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Perhatikan gambar. Pemain bola basket melepaskan bola ke arah ring dari posisi melayang. Teknik yang digunakan adalah ....",
+      "teks": "Perhatikan gambar. Pemain bola basket melepaskan bola ke arah ring dari posisi melayang. Teknik yang digunakan adalah ....",
+      "pertanyaan": "Perhatikan gambar. Pemain bola basket melepaskan bola ke arah ring dari posisi melayang. Teknik yang digunakan adalah ....",
+      "text": "Perhatikan gambar. Pemain bola basket melepaskan bola ke arah ring dari posisi melayang. Teknik yang digunakan adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "[{\"url\":\"https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_b7413caa398e5c8e.webp\"}]",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_b7413caa398e5c8e.webp",
+      "rawMedia": "soal-02.png",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bounce pass"
+        },
+        {
+          "key": "B",
+          "text": "Jump shot"
+        },
+        {
+          "key": "C",
+          "text": "Chest pass"
+        },
+        {
+          "key": "D",
+          "text": "Lay up"
+        }
+      ],
+      "opsi": [
+        "Bounce pass",
+        "Jump shot",
+        "Chest pass",
+        "Lay up"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "answers": [
+        "B"
+      ],
+      "kunci": "B",
+      "jawaban": 1,
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789980504130_7027_2",
+      "questionId": "temp_ai_1789980504130_7027_2",
+      "order": 8,
+      "number": 8,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Perhatikan gambar. Pemain A mengoper kepada B, B kepada C, dan C kepada D. Jika jalur perpindahan bola mengikuti sisi-sisi yang menghubungkan keempat pemain, pola geraknya membentuk ....",
+      "teks": "Perhatikan gambar. Pemain A mengoper kepada B, B kepada C, dan C kepada D. Jika jalur perpindahan bola mengikuti sisi-sisi yang menghubungkan keempat pemain, pola geraknya membentuk ....",
+      "pertanyaan": "Perhatikan gambar. Pemain A mengoper kepada B, B kepada C, dan C kepada D. Jika jalur perpindahan bola mengikuti sisi-sisi yang menghubungkan keempat pemain, pola geraknya membentuk ....",
+      "text": "Perhatikan gambar. Pemain A mengoper kepada B, B kepada C, dan C kepada D. Jika jalur perpindahan bola mengikuti sisi-sisi yang menghubungkan keempat pemain, pola geraknya membentuk ....",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "[{\"url\":\"https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_75e51e7237a13b1c.webp\"}]",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_75e51e7237a13b1c.webp",
+      "rawMedia": "soal-03.png",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Segitiga"
+        },
+        {
+          "key": "B",
+          "text": "Zig-zag"
+        },
+        {
+          "key": "C",
+          "text": "Huruf U"
+        },
+        {
+          "key": "D",
+          "text": "Segi empat"
+        }
+      ],
+      "opsi": [
+        "Segitiga",
+        "Zig-zag",
+        "Huruf U",
+        "Segi empat"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "D",
+      "answers": [
+        "D"
+      ],
+      "kunci": "D",
+      "jawaban": 3,
+      "correctAnswer": 3
+    },
+    {
+      "id": "temp_ai_1789980504130_4583_3",
+      "questionId": "temp_ai_1789980504130_4583_3",
+      "order": 9,
+      "number": 9,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Perhatikan gambar. Pemain melakukan dribel melewati cone dengan perubahan arah dan kecepatan. Kemampuan yang paling banyak dilatih melalui modifikasi tersebut adalah ....",
+      "teks": "Perhatikan gambar. Pemain melakukan dribel melewati cone dengan perubahan arah dan kecepatan. Kemampuan yang paling banyak dilatih melalui modifikasi tersebut adalah ....",
+      "pertanyaan": "Perhatikan gambar. Pemain melakukan dribel melewati cone dengan perubahan arah dan kecepatan. Kemampuan yang paling banyak dilatih melalui modifikasi tersebut adalah ....",
+      "text": "Perhatikan gambar. Pemain melakukan dribel melewati cone dengan perubahan arah dan kecepatan. Kemampuan yang paling banyak dilatih melalui modifikasi tersebut adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "[{\"url\":\"https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_a3ca34b161b249e1.webp\"}]",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_a3ca34b161b249e1.webp",
+      "rawMedia": "soal-04.png",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kekuatan lengan"
+        },
+        {
+          "key": "B",
+          "text": "Ketepatan shooting"
+        },
+        {
+          "key": "C",
+          "text": "Kelincahan dan kontrol bola"
+        },
+        {
+          "key": "D",
+          "text": "Kemampuan menangkap bola"
+        }
+      ],
+      "opsi": [
+        "Kekuatan lengan",
+        "Ketepatan shooting",
+        "Kelincahan dan kontrol bola",
+        "Kemampuan menangkap bola"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "C",
+      "answers": [
+        "C"
+      ],
+      "kunci": "C",
+      "jawaban": 2,
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789980504130_2833_4",
+      "questionId": "temp_ai_1789980504130_2833_4",
+      "order": 10,
+      "number": 10,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Perhatikan gambar. Pemain nomor 9 melakukan tendangan langsung ke arah gawang dari luar kotak penalti. Jika pelanggaran lawan terjadi di daerah permainan dan wasit memberikan kesempatan menendang langsung, teknik yang sesuai adalah ....",
+      "teks": "Perhatikan gambar. Pemain nomor 9 melakukan tendangan langsung ke arah gawang dari luar kotak penalti. Jika pelanggaran lawan terjadi di daerah permainan dan wasit memberikan kesempatan menendang langsung, teknik yang sesuai adalah ....",
+      "pertanyaan": "Perhatikan gambar. Pemain nomor 9 melakukan tendangan langsung ke arah gawang dari luar kotak penalti. Jika pelanggaran lawan terjadi di daerah permainan dan wasit memberikan kesempatan menendang langsung, teknik yang sesuai adalah ....",
+      "text": "Perhatikan gambar. Pemain nomor 9 melakukan tendangan langsung ke arah gawang dari luar kotak penalti. Jika pelanggaran lawan terjadi di daerah permainan dan wasit memberikan kesempatan menendang langsung, teknik yang sesuai adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "[{\"url\":\"https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_ef58fd08143f22d7.webp\"}]",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/dLzezM4FmDQBAnkyjhWh/img_ef58fd08143f22d7.webp",
+      "rawMedia": "soal-05.png",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tendangan bebas"
+        },
+        {
+          "key": "B",
+          "text": "Tendangan sudut"
+        },
+        {
+          "key": "C",
+          "text": "Tendangan gawang"
+        },
+        {
+          "key": "D",
+          "text": "Tendangan penalti"
+        }
+      ],
+      "opsi": [
+        "Tendangan bebas",
+        "Tendangan sudut",
+        "Tendangan gawang",
+        "Tendangan penalti"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "A",
+      "answers": [
+        "A"
+      ],
+      "kunci": "A",
+      "jawaban": 0,
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1789980542533_1677_0",
+      "questionId": "temp_ai_1789980542533_1677_0",
+      "order": 11,
+      "number": 11,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Dalam sebuah pertandingan sepak bola, tim lawan menerapkan pertahanan gerendel yang sangat rapat di area tengah lapangan sehingga jalur operan mendatar tertutup rapat. Variasi pola gerak manipulatif dan lokomotor manakah yang paling efektif dilakukan oleh seorang pemain gelandang untuk mengalirkan bola langsung ke ruang kosong di belakang garis pertahanan lawan?",
+      "teks": "Dalam sebuah pertandingan sepak bola, tim lawan menerapkan pertahanan gerendel yang sangat rapat di area tengah lapangan sehingga jalur operan mendatar tertutup rapat. Variasi pola gerak manipulatif dan lokomotor manakah yang paling efektif dilakukan oleh seorang pemain gelandang untuk mengalirkan bola langsung ke ruang kosong di belakang garis pertahanan lawan?",
+      "pertanyaan": "Dalam sebuah pertandingan sepak bola, tim lawan menerapkan pertahanan gerendel yang sangat rapat di area tengah lapangan sehingga jalur operan mendatar tertutup rapat. Variasi pola gerak manipulatif dan lokomotor manakah yang paling efektif dilakukan oleh seorang pemain gelandang untuk mengalirkan bola langsung ke ruang kosong di belakang garis pertahanan lawan?",
+      "text": "Dalam sebuah pertandingan sepak bola, tim lawan menerapkan pertahanan gerendel yang sangat rapat di area tengah lapangan sehingga jalur operan mendatar tertutup rapat. Variasi pola gerak manipulatif dan lokomotor manakah yang paling efektif dilakukan oleh seorang pemain gelandang untuk mengalirkan bola langsung ke ruang kosong di belakang garis pertahanan lawan?",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menggiring bola secara perlahan menggunakan kaki bagian luar lalu melakukan operan pendek menyusur tanah."
+        },
+        {
+          "key": "B",
+          "text": "Berlari kencang menggiring bola lurus menembus kerumunan pemain bertahan lawan dengan ujung kaki."
+        },
+        {
+          "key": "C",
+          "text": "Melakukan awalan lari beberapa langkah lalu melepaskan operan lambung panjang menggunakan punggung kaki bagian dalam ke ruang kosong."
+        },
+        {
+          "key": "D",
+          "text": "Menghentikan bola dengan telapak kaki di tempat lalu melakukan operan menggunakan tumit ke arah belakang."
+        }
+      ],
+      "opsi": [
+        "Menggiring bola secara perlahan menggunakan kaki bagian luar lalu melakukan operan pendek menyusur tanah.",
+        "Berlari kencang menggiring bola lurus menembus kerumunan pemain bertahan lawan dengan ujung kaki.",
+        "Melakukan awalan lari beberapa langkah lalu melepaskan operan lambung panjang menggunakan punggung kaki bagian dalam ke ruang kosong.",
+        "Menghentikan bola dengan telapak kaki di tempat lalu melakukan operan menggunakan tumit ke arah belakang."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "C",
+      "answers": [
+        "C"
+      ],
+      "kunci": "C",
+      "jawaban": 2,
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789980542533_3234_1",
+      "questionId": "temp_ai_1789980542533_3234_1",
+      "order": 12,
+      "number": 12,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Seorang pemain penyerang bola basket menerima bola di area sayap luar dan langsung ditempel ketat oleh pemain bertahan lawan yang berpostur jauh lebih tinggi dengan rentangan kedua tangan diangkat ke atas. Untuk mengalirkan bola dengan cepat dan aman kepada pemain pivot yang bergerak bebas di bawah ring tanpa tertepis lawan, variasi gerak operan yang paling tepat adalah...",
+      "teks": "Seorang pemain penyerang bola basket menerima bola di area sayap luar dan langsung ditempel ketat oleh pemain bertahan lawan yang berpostur jauh lebih tinggi dengan rentangan kedua tangan diangkat ke atas. Untuk mengalirkan bola dengan cepat dan aman kepada pemain pivot yang bergerak bebas di bawah ring tanpa tertepis lawan, variasi gerak operan yang paling tepat adalah...",
+      "pertanyaan": "Seorang pemain penyerang bola basket menerima bola di area sayap luar dan langsung ditempel ketat oleh pemain bertahan lawan yang berpostur jauh lebih tinggi dengan rentangan kedua tangan diangkat ke atas. Untuk mengalirkan bola dengan cepat dan aman kepada pemain pivot yang bergerak bebas di bawah ring tanpa tertepis lawan, variasi gerak operan yang paling tepat adalah...",
+      "text": "Seorang pemain penyerang bola basket menerima bola di area sayap luar dan langsung ditempel ketat oleh pemain bertahan lawan yang berpostur jauh lebih tinggi dengan rentangan kedua tangan diangkat ke atas. Untuk mengalirkan bola dengan cepat dan aman kepada pemain pivot yang bergerak bebas di bawah ring tanpa tertepis lawan, variasi gerak operan yang paling tepat adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Melakukan overhead pass langsung melintasi atas kepala pemain bertahan lawan."
+        },
+        {
+          "key": "B",
+          "text": "Melakukan chest pass lurus setinggi dada dengan kekuatan dorongan maksimal."
+        },
+        {
+          "key": "C",
+          "text": "Melakukan bounce pass rendah dengan sudut pantulan dua pertiga jarak ke arah pemain pivot."
+        },
+        {
+          "key": "D",
+          "text": "Melakukan baseball pass melambung tinggi dari samping telinga."
+        }
+      ],
+      "opsi": [
+        "Melakukan overhead pass langsung melintasi atas kepala pemain bertahan lawan.",
+        "Melakukan chest pass lurus setinggi dada dengan kekuatan dorongan maksimal.",
+        "Melakukan bounce pass rendah dengan sudut pantulan dua pertiga jarak ke arah pemain pivot.",
+        "Melakukan baseball pass melambung tinggi dari samping telinga."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "C",
+      "answers": [
+        "C"
+      ],
+      "kunci": "C",
+      "jawaban": 2,
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789980542533_3502_2",
+      "questionId": "temp_ai_1789980542533_3502_2",
+      "order": 13,
+      "number": 13,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Pada saat melakukan variasi gerak menggiring bola melewati beberapa rintangan corong secara zig-zag dalam sepak bola, seorang pemain dituntut untuk mengubah arah bola secara cepat dan menjaga keseimbangan tubuh. Analisis mekanika gerak kaki yang paling tepat saat bola harus dibelokkan mendadak ke arah kanan luar oleh pemain bertumpuan kaki kanan adalah...",
+      "teks": "Pada saat melakukan variasi gerak menggiring bola melewati beberapa rintangan corong secara zig-zag dalam sepak bola, seorang pemain dituntut untuk mengubah arah bola secara cepat dan menjaga keseimbangan tubuh. Analisis mekanika gerak kaki yang paling tepat saat bola harus dibelokkan mendadak ke arah kanan luar oleh pemain bertumpuan kaki kanan adalah...",
+      "pertanyaan": "Pada saat melakukan variasi gerak menggiring bola melewati beberapa rintangan corong secara zig-zag dalam sepak bola, seorang pemain dituntut untuk mengubah arah bola secara cepat dan menjaga keseimbangan tubuh. Analisis mekanika gerak kaki yang paling tepat saat bola harus dibelokkan mendadak ke arah kanan luar oleh pemain bertumpuan kaki kanan adalah...",
+      "text": "Pada saat melakukan variasi gerak menggiring bola melewati beberapa rintangan corong secara zig-zag dalam sepak bola, seorang pemain dituntut untuk mengubah arah bola secara cepat dan menjaga keseimbangan tubuh. Analisis mekanika gerak kaki yang paling tepat saat bola harus dibelokkan mendadak ke arah kanan luar oleh pemain bertumpuan kaki kanan adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menghentikan bola sepenuhnya dengan tumit lalu melompat ke arah kanan."
+        },
+        {
+          "key": "B",
+          "text": "Menyentuh sisi samping bola menggunakan kaki kanan bagian luar disertai pergeseran berat badan ke arah luar."
+        },
+        {
+          "key": "C",
+          "text": "Menendang bola sekeras mungkin menggunakan punggung kaki kanan ke arah depan lintasan."
+        },
+        {
+          "key": "D",
+          "text": "Menjepit bola di antara kedua mata kaki kemudian melompat melewati corong rintangan."
+        }
+      ],
+      "opsi": [
+        "Menghentikan bola sepenuhnya dengan tumit lalu melompat ke arah kanan.",
+        "Menyentuh sisi samping bola menggunakan kaki kanan bagian luar disertai pergeseran berat badan ke arah luar.",
+        "Menendang bola sekeras mungkin menggunakan punggung kaki kanan ke arah depan lintasan.",
+        "Menjepit bola di antara kedua mata kaki kemudian melompat melewati corong rintangan."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "answers": [
+        "B"
+      ],
+      "kunci": "B",
+      "jawaban": 1,
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789980542533_5733_3",
+      "questionId": "temp_ai_1789980542533_5733_3",
+      "order": 14,
+      "number": 14,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Dalam permainan bola basket, seorang pemain yang sedang memegang bola setelah berhenti mendribble mendapat tekanan ketat dari pemain bertahan lawan. Pemain tersebut kemudian melakukan gerak pivot (berporos). Manakah ketentuan gerak biomekanik poros kaki yang benar agar pemain tidak dinyatakan melakukan pelanggaran traveling?",
+      "teks": "Dalam permainan bola basket, seorang pemain yang sedang memegang bola setelah berhenti mendribble mendapat tekanan ketat dari pemain bertahan lawan. Pemain tersebut kemudian melakukan gerak pivot (berporos). Manakah ketentuan gerak biomekanik poros kaki yang benar agar pemain tidak dinyatakan melakukan pelanggaran traveling?",
+      "pertanyaan": "Dalam permainan bola basket, seorang pemain yang sedang memegang bola setelah berhenti mendribble mendapat tekanan ketat dari pemain bertahan lawan. Pemain tersebut kemudian melakukan gerak pivot (berporos). Manakah ketentuan gerak biomekanik poros kaki yang benar agar pemain tidak dinyatakan melakukan pelanggaran traveling?",
+      "text": "Dalam permainan bola basket, seorang pemain yang sedang memegang bola setelah berhenti mendribble mendapat tekanan ketat dari pemain bertahan lawan. Pemain tersebut kemudian melakukan gerak pivot (berporos). Manakah ketentuan gerak biomekanik poros kaki yang benar agar pemain tidak dinyatakan melakukan pelanggaran traveling?",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kedua kaki boleh digeser bersamaan asalkan bola tetap dipeluk erat di dada."
+        },
+        {
+          "key": "B",
+          "text": "Salah satu kaki tetap menempel di lantai sebagai poros tumpuan sementara kaki lainnya bebas melangkah memutar ke segala arah."
+        },
+        {
+          "key": "C",
+          "text": "Kaki tumpu poros boleh diangkat dan diganti secara bergantian selama badan terus berputar."
+        },
+        {
+          "key": "D",
+          "text": "Pemain boleh melompat dengan kedua kaki lalu mendarat kembali sambil tetap memegang bola."
+        }
+      ],
+      "opsi": [
+        "Kedua kaki boleh digeser bersamaan asalkan bola tetap dipeluk erat di dada.",
+        "Salah satu kaki tetap menempel di lantai sebagai poros tumpuan sementara kaki lainnya bebas melangkah memutar ke segala arah.",
+        "Kaki tumpu poros boleh diangkat dan diganti secara bergantian selama badan terus berputar.",
+        "Pemain boleh melompat dengan kedua kaki lalu mendarat kembali sambil tetap memegang bola."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "answers": [
+        "B"
+      ],
+      "kunci": "B",
+      "jawaban": 1,
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789980542533_1610_4",
+      "questionId": "temp_ai_1789980542533_1610_4",
+      "order": 15,
+      "number": 15,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Dalam pembelajaran PJOK, guru menerapkan modifikasi permainan sepak bola 4 lawan 2 di dalam area persegi berukuran 10 x 10 meter dengan aturan maksimal dua kali sentuhan bola. Tujuan utama dari modifikasi pola gerak dan aturan permainan ini adalah untuk melatih...",
+      "teks": "Dalam pembelajaran PJOK, guru menerapkan modifikasi permainan sepak bola 4 lawan 2 di dalam area persegi berukuran 10 x 10 meter dengan aturan maksimal dua kali sentuhan bola. Tujuan utama dari modifikasi pola gerak dan aturan permainan ini adalah untuk melatih...",
+      "pertanyaan": "Dalam pembelajaran PJOK, guru menerapkan modifikasi permainan sepak bola 4 lawan 2 di dalam area persegi berukuran 10 x 10 meter dengan aturan maksimal dua kali sentuhan bola. Tujuan utama dari modifikasi pola gerak dan aturan permainan ini adalah untuk melatih...",
+      "text": "Dalam pembelajaran PJOK, guru menerapkan modifikasi permainan sepak bola 4 lawan 2 di dalam area persegi berukuran 10 x 10 meter dengan aturan maksimal dua kali sentuhan bola. Tujuan utama dari modifikasi pola gerak dan aturan permainan ini adalah untuk melatih...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kekuatan tendangan jarak jauh dan sundulan bola melambung tinggi ke arah gawang."
+        },
+        {
+          "key": "B",
+          "text": "Kecepatan membaca ruang kosong, variasi operan pendek cepat, dan gerak lokomotor tanpa bola."
+        },
+        {
+          "key": "C",
+          "text": "Kemampuan menggiring bola melewati lawan secara individu selama mungkin di dalam area."
+        },
+        {
+          "key": "D",
+          "text": "Daya tahan fisik penjaga gawang dalam menangkap tendangan keras dari pemain penyerang."
+        }
+      ],
+      "opsi": [
+        "Kekuatan tendangan jarak jauh dan sundulan bola melambung tinggi ke arah gawang.",
+        "Kecepatan membaca ruang kosong, variasi operan pendek cepat, dan gerak lokomotor tanpa bola.",
+        "Kemampuan menggiring bola melewati lawan secara individu selama mungkin di dalam area.",
+        "Daya tahan fisik penjaga gawang dalam menangkap tendangan keras dari pemain penyerang."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "answers": [
+        "B"
+      ],
+      "kunci": "B",
+      "jawaban": 1,
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789980542533_5291_5",
+      "questionId": "temp_ai_1789980542533_5291_5",
+      "order": 16,
+      "number": 16,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Analisis tahapan gerak lay-up shoot tangan kanan dalam permainan bola basket yang diawali dengan menggiring bola dari sisi kanan lapangan adalah...",
+      "teks": "Analisis tahapan gerak lay-up shoot tangan kanan dalam permainan bola basket yang diawali dengan menggiring bola dari sisi kanan lapangan adalah...",
+      "pertanyaan": "Analisis tahapan gerak lay-up shoot tangan kanan dalam permainan bola basket yang diawali dengan menggiring bola dari sisi kanan lapangan adalah...",
+      "text": "Analisis tahapan gerak lay-up shoot tangan kanan dalam permainan bola basket yang diawali dengan menggiring bola dari sisi kanan lapangan adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Langkah pertama pendek dengan kaki kiri, langkah kedua panjang dengan kaki kanan, lalu melompat dengan tumpuan kaki kanan."
+        },
+        {
+          "key": "B",
+          "text": "Langkah pertama panjang dengan kaki kanan, langkah kedua pendek bertenaga dengan kaki kiri, lalu menolak ke atas menggunakan tumpuan kaki kiri sambil mengangkat lutut kanan."
+        },
+        {
+          "key": "C",
+          "text": "Kedua kaki melompat bersamaan dari luar garis tembakan lalu melepaskan bola dengan kedua tangan setinggi dada."
+        },
+        {
+          "key": "D",
+          "text": "Melompat langsung dengan satu kaki kanan dari tengah lapangan tanpa melakukan langkah awalan kaki."
+        }
+      ],
+      "opsi": [
+        "Langkah pertama pendek dengan kaki kiri, langkah kedua panjang dengan kaki kanan, lalu melompat dengan tumpuan kaki kanan.",
+        "Langkah pertama panjang dengan kaki kanan, langkah kedua pendek bertenaga dengan kaki kiri, lalu menolak ke atas menggunakan tumpuan kaki kiri sambil mengangkat lutut kanan.",
+        "Kedua kaki melompat bersamaan dari luar garis tembakan lalu melepaskan bola dengan kedua tangan setinggi dada.",
+        "Melompat langsung dengan satu kaki kanan dari tengah lapangan tanpa melakukan langkah awalan kaki."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "answers": [
+        "B"
+      ],
+      "kunci": "B",
+      "jawaban": 1,
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789980542533_9412_6",
+      "questionId": "temp_ai_1789980542533_9412_6",
+      "order": 17,
+      "number": 17,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Seorang penyerang sepak bola menerima umpan lambung melayang setinggi dada saat dijaga pemain bertahan dari belakang. Modifikasi kombinasi gerak nonlokomotor dan manipulatif menghentikan bola dengan dada (chest trap) yang efektif agar bola siap dieksekusi tembakan adalah...",
+      "teks": "Seorang penyerang sepak bola menerima umpan lambung melayang setinggi dada saat dijaga pemain bertahan dari belakang. Modifikasi kombinasi gerak nonlokomotor dan manipulatif menghentikan bola dengan dada (chest trap) yang efektif agar bola siap dieksekusi tembakan adalah...",
+      "pertanyaan": "Seorang penyerang sepak bola menerima umpan lambung melayang setinggi dada saat dijaga pemain bertahan dari belakang. Modifikasi kombinasi gerak nonlokomotor dan manipulatif menghentikan bola dengan dada (chest trap) yang efektif agar bola siap dieksekusi tembakan adalah...",
+      "text": "Seorang penyerang sepak bola menerima umpan lambung melayang setinggi dada saat dijaga pemain bertahan dari belakang. Modifikasi kombinasi gerak nonlokomotor dan manipulatif menghentikan bola dengan dada (chest trap) yang efektif agar bola siap dieksekusi tembakan adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Membusungkan dada ke depan sekeras mungkin agar bola memantul jauh ke depan melewati bek lawan."
+        },
+        {
+          "key": "B",
+          "text": "Menarik badan dan dada sedikit ke belakang saat bola menyentuh dada untuk meredam kecepatan bola sehingga jatuh di dekat kaki."
+        },
+        {
+          "key": "C",
+          "text": "Melompat kaku ke atas sambil memukul bola menggunakan kedua lengan yang menempel di dada."
+        },
+        {
+          "key": "D",
+          "text": "Menundukkan kepala ke bawah sehingga bola mengenai bagian belakang leher dan punggung."
+        }
+      ],
+      "opsi": [
+        "Membusungkan dada ke depan sekeras mungkin agar bola memantul jauh ke depan melewati bek lawan.",
+        "Menarik badan dan dada sedikit ke belakang saat bola menyentuh dada untuk meredam kecepatan bola sehingga jatuh di dekat kaki.",
+        "Melompat kaku ke atas sambil memukul bola menggunakan kedua lengan yang menempel di dada.",
+        "Menundukkan kepala ke bawah sehingga bola mengenai bagian belakang leher dan punggung."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "answers": [
+        "B"
+      ],
+      "kunci": "B",
+      "jawaban": 1,
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789980542533_1107_7",
+      "questionId": "temp_ai_1789980542533_1107_7",
+      "order": 18,
+      "number": 18,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Dalam variasi permainan bola basket modifikasi 3 lawan 3 setengah lapangan, seorang point guard sering melakukan teknik low dribble (menggiring rendah) saat mendekati garis pertahanan lawan. Posisi tubuh dan tangan non-dribble yang paling tepat untuk melindungi bola dari sergapan lawan adalah...",
+      "teks": "Dalam variasi permainan bola basket modifikasi 3 lawan 3 setengah lapangan, seorang point guard sering melakukan teknik low dribble (menggiring rendah) saat mendekati garis pertahanan lawan. Posisi tubuh dan tangan non-dribble yang paling tepat untuk melindungi bola dari sergapan lawan adalah...",
+      "pertanyaan": "Dalam variasi permainan bola basket modifikasi 3 lawan 3 setengah lapangan, seorang point guard sering melakukan teknik low dribble (menggiring rendah) saat mendekati garis pertahanan lawan. Posisi tubuh dan tangan non-dribble yang paling tepat untuk melindungi bola dari sergapan lawan adalah...",
+      "text": "Dalam variasi permainan bola basket modifikasi 3 lawan 3 setengah lapangan, seorang point guard sering melakukan teknik low dribble (menggiring rendah) saat mendekati garis pertahanan lawan. Posisi tubuh dan tangan non-dribble yang paling tepat untuk melindungi bola dari sergapan lawan adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Badan tegak lurus dengan tangan non-dribble diletakkan di pinggang untuk menjaga keseimbangan."
+        },
+        {
+          "key": "B",
+          "text": "Pusat gravitasi tubuh direndahkan dengan lutut ditekuk, badan menyamping membelakangi lawan, dan lengan non-dribble diangkat rileks sebagai pelindung bola."
+        },
+        {
+          "key": "C",
+          "text": "Kedua tangan memantulkan bola secara bergantian di atas kepala sambil berjalan mundur."
+        },
+        {
+          "key": "D",
+          "text": "Membungkukkan punggung sejajar lantai sambil mendorong pemain bertahan menggunakan tangan non-dribble."
+        }
+      ],
+      "opsi": [
+        "Badan tegak lurus dengan tangan non-dribble diletakkan di pinggang untuk menjaga keseimbangan.",
+        "Pusat gravitasi tubuh direndahkan dengan lutut ditekuk, badan menyamping membelakangi lawan, dan lengan non-dribble diangkat rileks sebagai pelindung bola.",
+        "Kedua tangan memantulkan bola secara bergantian di atas kepala sambil berjalan mundur.",
+        "Membungkukkan punggung sejajar lantai sambil mendorong pemain bertahan menggunakan tangan non-dribble."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "B",
+      "answers": [
+        "B"
+      ],
+      "kunci": "B",
+      "jawaban": 1,
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1789980542533_2365_8",
+      "questionId": "temp_ai_1789980542533_2365_8",
+      "order": 19,
+      "number": 19,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Ketika melakukan tendangan bebas langsung di dekat kotak penalti, seorang penendang ingin menghasilkan tembakan melengkung ke sudut atas gawang yang sulit dijangkau kiper. Kombinasi pola gerak manipulatif yang tepat pada perkenaan kaki terhadap bola adalah...",
+      "teks": "Ketika melakukan tendangan bebas langsung di dekat kotak penalti, seorang penendang ingin menghasilkan tembakan melengkung ke sudut atas gawang yang sulit dijangkau kiper. Kombinasi pola gerak manipulatif yang tepat pada perkenaan kaki terhadap bola adalah...",
+      "pertanyaan": "Ketika melakukan tendangan bebas langsung di dekat kotak penalti, seorang penendang ingin menghasilkan tembakan melengkung ke sudut atas gawang yang sulit dijangkau kiper. Kombinasi pola gerak manipulatif yang tepat pada perkenaan kaki terhadap bola adalah...",
+      "text": "Ketika melakukan tendangan bebas langsung di dekat kotak penalti, seorang penendang ingin menghasilkan tembakan melengkung ke sudut atas gawang yang sulit dijangkau kiper. Kombinasi pola gerak manipulatif yang tepat pada perkenaan kaki terhadap bola adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menendang bagian tengah bola secara tegak lurus menggunakan ujung sepatu dengan pergelangan kaki lemas."
+        },
+        {
+          "key": "B",
+          "text": "Memukul bagian atas bola menggunakan telapak kaki dari arah atas ke bawah secara mendadak."
+        },
+        {
+          "key": "C",
+          "text": "Menendang bagian samping bawah bola menggunakan kaki bagian dalam dengan gerakan ayunan melingkar melintasi tubuh."
+        },
+        {
+          "key": "D",
+          "text": "Menusuk bagian bawah bola menggunakan tumit kaki sambil menjatuhkan badan ke belakang."
+        }
+      ],
+      "opsi": [
+        "Menendang bagian tengah bola secara tegak lurus menggunakan ujung sepatu dengan pergelangan kaki lemas.",
+        "Memukul bagian atas bola menggunakan telapak kaki dari arah atas ke bawah secara mendadak.",
+        "Menendang bagian samping bawah bola menggunakan kaki bagian dalam dengan gerakan ayunan melingkar melintasi tubuh.",
+        "Menusuk bagian bawah bola menggunakan tumit kaki sambil menjatuhkan badan ke belakang."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "C",
+      "answers": [
+        "C"
+      ],
+      "kunci": "C",
+      "jawaban": 2,
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789980542533_6138_9",
+      "questionId": "temp_ai_1789980542533_6138_9",
+      "order": 20,
+      "number": 20,
+      "type": "pg",
+      "tipe": "pg",
+      "questionType": "pilihan_ganda",
+      "question": "Pada permainan bola basket mini untuk anak usia sekolah dasar, ring basket dimodifikasi diturunkan menjadi setinggi 2,75 meter dan ukuran bola diganti dengan bola nomor 5. Alasan utama modifikasi sarana ini terhadap pembentukan mekanika tembakan (shooting) yang benar adalah...",
+      "teks": "Pada permainan bola basket mini untuk anak usia sekolah dasar, ring basket dimodifikasi diturunkan menjadi setinggi 2,75 meter dan ukuran bola diganti dengan bola nomor 5. Alasan utama modifikasi sarana ini terhadap pembentukan mekanika tembakan (shooting) yang benar adalah...",
+      "pertanyaan": "Pada permainan bola basket mini untuk anak usia sekolah dasar, ring basket dimodifikasi diturunkan menjadi setinggi 2,75 meter dan ukuran bola diganti dengan bola nomor 5. Alasan utama modifikasi sarana ini terhadap pembentukan mekanika tembakan (shooting) yang benar adalah...",
+      "text": "Pada permainan bola basket mini untuk anak usia sekolah dasar, ring basket dimodifikasi diturunkan menjadi setinggi 2,75 meter dan ukuran bola diganti dengan bola nomor 5. Alasan utama modifikasi sarana ini terhadap pembentukan mekanika tembakan (shooting) yang benar adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Membuat permainan berlangsung jauh lebih lama tanpa perlu ada pergantian pemain cadangan."
+        },
+        {
+          "key": "B",
+          "text": "Memungkinkan siswa melakukan teknik melempar bola dengan kedua tangan dari bawah lutut."
+        },
+        {
+          "key": "C",
+          "text": "Mencegah kerusakan bentuk teknik tembakan dasar (BEEF) akibat beban bola dan ring yang melebihi kapasitas kekuatan otot lengan anak."
+        },
+        {
+          "key": "D",
+          "text": "Mempermudah pemain bertahan untuk melakukan blokade terhadap bola tembakan lawan di udara."
+        }
+      ],
+      "opsi": [
+        "Membuat permainan berlangsung jauh lebih lama tanpa perlu ada pergantian pemain cadangan.",
+        "Memungkinkan siswa melakukan teknik melempar bola dengan kedua tangan dari bawah lutut.",
+        "Mencegah kerusakan bentuk teknik tembakan dasar (BEEF) akibat beban bola dan ring yang melebihi kapasitas kekuatan otot lengan anak.",
+        "Mempermudah pemain bertahan untuk melakukan blokade terhadap bola tembakan lawan di udara."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": "C",
+      "answers": [
+        "C"
+      ],
+      "kunci": "C",
+      "jawaban": 2,
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1789980542533_2988_10",
+      "questionId": "temp_ai_1789980542533_2988_10",
+      "order": 21,
+      "number": 21,
+      "type": "ma",
+      "tipe": "ma",
+      "questionType": "pg_kompleks",
+      "question": "Perhatikan variasi gerak menyundul bola (heading) sambil melompat menyambut umpan silang dalam sepak bola berikut. Manakah kombinasi pola gerak yang benar dalam pelaksanaan teknik tersebut?",
+      "teks": "Perhatikan variasi gerak menyundul bola (heading) sambil melompat menyambut umpan silang dalam sepak bola berikut. Manakah kombinasi pola gerak yang benar dalam pelaksanaan teknik tersebut?",
+      "pertanyaan": "Perhatikan variasi gerak menyundul bola (heading) sambil melompat menyambut umpan silang dalam sepak bola berikut. Manakah kombinasi pola gerak yang benar dalam pelaksanaan teknik tersebut?",
+      "text": "Perhatikan variasi gerak menyundul bola (heading) sambil melompat menyambut umpan silang dalam sepak bola berikut. Manakah kombinasi pola gerak yang benar dalam pelaksanaan teknik tersebut?",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Melompat ke atas menggunakan tolakan satu atau dua kaki merupakan pola gerak lokomotor."
+        },
+        {
+          "key": "B",
+          "text": "Menarik leher dan melentingkan pinggang ke belakang saat melayang di udara merupakan pola gerak nonlokomotor."
+        },
+        {
+          "key": "C",
+          "text": "Menyundul bola tepat pada dahi di titik tertinggi lompatan merupakan pola gerak manipulatif."
+        },
+        {
+          "key": "D",
+          "text": "Mendarat dengan kedua lutut kaku dan lurus untuk menahan laju tubuh agar tidak terjatuh."
+        }
+      ],
+      "opsi": [
+        "Melompat ke atas menggunakan tolakan satu atau dua kaki merupakan pola gerak lokomotor.",
+        "Menarik leher dan melentingkan pinggang ke belakang saat melayang di udara merupakan pola gerak nonlokomotor.",
+        "Menyundul bola tepat pada dahi di titik tertinggi lompatan merupakan pola gerak manipulatif.",
+        "Mendarat dengan kedua lutut kaku dan lurus untuk menahan laju tubuh agar tidak terjatuh."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "A, B, C",
+      "kunci": "A, B, C",
+      "jawaban": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "temp_ai_1789980542533_4186_11",
+      "questionId": "temp_ai_1789980542533_4186_11",
+      "order": 22,
+      "number": 22,
+      "type": "ma",
+      "tipe": "ma",
+      "questionType": "pg_kompleks",
+      "question": "Dalam situasi serangan balik cepat (fast break) pada permainan bola basket, tim penyerang harus mengalirkan bola dari area pertahanan sendiri menuju ujung pertahanan lawan dalam hitungan detik. Variasi operan mana sajakah yang efektif digunakan dalam situasi tersebut?",
+      "teks": "Dalam situasi serangan balik cepat (fast break) pada permainan bola basket, tim penyerang harus mengalirkan bola dari area pertahanan sendiri menuju ujung pertahanan lawan dalam hitungan detik. Variasi operan mana sajakah yang efektif digunakan dalam situasi tersebut?",
+      "pertanyaan": "Dalam situasi serangan balik cepat (fast break) pada permainan bola basket, tim penyerang harus mengalirkan bola dari area pertahanan sendiri menuju ujung pertahanan lawan dalam hitungan detik. Variasi operan mana sajakah yang efektif digunakan dalam situasi tersebut?",
+      "text": "Dalam situasi serangan balik cepat (fast break) pada permainan bola basket, tim penyerang harus mengalirkan bola dari area pertahanan sendiri menuju ujung pertahanan lawan dalam hitungan detik. Variasi operan mana sajakah yang efektif digunakan dalam situasi tersebut?",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Baseball pass jarak jauh bertenaga menggunakan satu tangan terkuat langsung ke rekan yang berlari membuka ruang di depan."
+        },
+        {
+          "key": "B",
+          "text": "Chest pass berantai cepat dan bertenaga saat jalur lintasan operan di area depan bebas dari halangan lawan."
+        },
+        {
+          "key": "C",
+          "text": "Bounce pass pendek berulang-ulang di area lingkaran pertahanan sendiri untuk mengulur waktu penyerangan."
+        },
+        {
+          "key": "D",
+          "text": "Overhead pass melambung melewati jangkauan tangan pemain lawan yang mencoba menahan laju serangan di lini tengah."
+        }
+      ],
+      "opsi": [
+        "Baseball pass jarak jauh bertenaga menggunakan satu tangan terkuat langsung ke rekan yang berlari membuka ruang di depan.",
+        "Chest pass berantai cepat dan bertenaga saat jalur lintasan operan di area depan bebas dari halangan lawan.",
+        "Bounce pass pendek berulang-ulang di area lingkaran pertahanan sendiri untuk mengulur waktu penyerangan.",
+        "Overhead pass melambung melewati jangkauan tangan pemain lawan yang mencoba menahan laju serangan di lini tengah."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "A, B, D",
+      "kunci": "A, B, D",
+      "jawaban": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "temp_ai_1789980542534_1533_12",
+      "questionId": "temp_ai_1789980542534_1533_12",
+      "order": 23,
+      "number": 23,
+      "type": "ma",
+      "tipe": "ma",
+      "questionType": "pg_kompleks",
+      "question": "Modifikasi permainan sepak bola mini 5 lawan 5 pada lapangan berukuran kecil tanpa menggunakan penjaga gawang menuntut keterlibatan fisik dan taktik yang tinggi. Dampak positif modifikasi tersebut terhadap pembiasaan variasi pola gerak siswa adalah...",
+      "teks": "Modifikasi permainan sepak bola mini 5 lawan 5 pada lapangan berukuran kecil tanpa menggunakan penjaga gawang menuntut keterlibatan fisik dan taktik yang tinggi. Dampak positif modifikasi tersebut terhadap pembiasaan variasi pola gerak siswa adalah...",
+      "pertanyaan": "Modifikasi permainan sepak bola mini 5 lawan 5 pada lapangan berukuran kecil tanpa menggunakan penjaga gawang menuntut keterlibatan fisik dan taktik yang tinggi. Dampak positif modifikasi tersebut terhadap pembiasaan variasi pola gerak siswa adalah...",
+      "text": "Modifikasi permainan sepak bola mini 5 lawan 5 pada lapangan berukuran kecil tanpa menggunakan penjaga gawang menuntut keterlibatan fisik dan taktik yang tinggi. Dampak positif modifikasi tersebut terhadap pembiasaan variasi pola gerak siswa adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Meningkatkan frekuensi sentuhan bola dan variasi operan pendek menggunakan kaki bagian dalam."
+        },
+        {
+          "key": "B",
+          "text": "Membiasakan siswa aktif melakukan gerak lokomotor tanpa bola untuk membuka sudut operan bagi rekan setim."
+        },
+        {
+          "key": "C",
+          "text": "Mendorong pemain hanya mengandalkan tendangan lambung jauh secara spekulatif dari area pertahanan sendiri."
+        },
+        {
+          "key": "D",
+          "text": "Melatih ketepatan akurasi tembakan penempatan bola dibanding sekadar mengandalkan kekuatan tendangan keras."
+        }
+      ],
+      "opsi": [
+        "Meningkatkan frekuensi sentuhan bola dan variasi operan pendek menggunakan kaki bagian dalam.",
+        "Membiasakan siswa aktif melakukan gerak lokomotor tanpa bola untuk membuka sudut operan bagi rekan setim.",
+        "Mendorong pemain hanya mengandalkan tendangan lambung jauh secara spekulatif dari area pertahanan sendiri.",
+        "Melatih ketepatan akurasi tembakan penempatan bola dibanding sekadar mengandalkan kekuatan tendangan keras."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "A, B, D",
+      "kunci": "A, B, D",
+      "jawaban": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "temp_ai_1789980542534_7660_13",
+      "questionId": "temp_ai_1789980542534_7660_13",
+      "order": 24,
+      "number": 24,
+      "type": "ma",
+      "tipe": "ma",
+      "questionType": "pg_kompleks",
+      "question": "Seorang siswa kelas 6 sering mengalami kegagalan saat melakukan tembakan melayang (lay-up shoot) pada permainan bola basket karena bola selalu memantul keras keluar dari keranjang. Faktor-faktor penyebab kesalahan gerak manipulatif dan lokomotor pada kasus tersebut adalah...",
+      "teks": "Seorang siswa kelas 6 sering mengalami kegagalan saat melakukan tembakan melayang (lay-up shoot) pada permainan bola basket karena bola selalu memantul keras keluar dari keranjang. Faktor-faktor penyebab kesalahan gerak manipulatif dan lokomotor pada kasus tersebut adalah...",
+      "pertanyaan": "Seorang siswa kelas 6 sering mengalami kegagalan saat melakukan tembakan melayang (lay-up shoot) pada permainan bola basket karena bola selalu memantul keras keluar dari keranjang. Faktor-faktor penyebab kesalahan gerak manipulatif dan lokomotor pada kasus tersebut adalah...",
+      "text": "Seorang siswa kelas 6 sering mengalami kegagalan saat melakukan tembakan melayang (lay-up shoot) pada permainan bola basket karena bola selalu memantul keras keluar dari keranjang. Faktor-faktor penyebab kesalahan gerak manipulatif dan lokomotor pada kasus tersebut adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Arah tolakan lompatan terlalu condong ke depan ke arah tiang ring sehingga momentum vertikal ke atas hilang."
+        },
+        {
+          "key": "B",
+          "text": "Melepaskan bola menggunakan bantalan ujung jari dengan sentuhan lembut pada sudut kotak papan pantul."
+        },
+        {
+          "key": "C",
+          "text": "Mengambil tumpuan melompat dengan kaki kanan saat melepaskan tembakan menggunakan tangan kanan."
+        },
+        {
+          "key": "D",
+          "text": "Melempar bola terlalu kuat menggunakan telapak tangan dan dorongan bahu alih-alih meletakkannya secara terarah."
+        }
+      ],
+      "opsi": [
+        "Arah tolakan lompatan terlalu condong ke depan ke arah tiang ring sehingga momentum vertikal ke atas hilang.",
+        "Melepaskan bola menggunakan bantalan ujung jari dengan sentuhan lembut pada sudut kotak papan pantul.",
+        "Mengambil tumpuan melompat dengan kaki kanan saat melepaskan tembakan menggunakan tangan kanan.",
+        "Melempar bola terlalu kuat menggunakan telapak tangan dan dorongan bahu alih-alih meletakkannya secara terarah."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "A, C, D",
+      "kunci": "A, C, D",
+      "jawaban": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "temp_ai_1789980542534_2712_14",
+      "questionId": "temp_ai_1789980542534_2712_14",
+      "order": 25,
+      "number": 25,
+      "type": "ma",
+      "tipe": "ma",
+      "questionType": "pg_kompleks",
+      "question": "Kombinasi gerak menembak bola (shooting) menggunakan punggung kaki (instep drive) bertujuan menghasilkan bola mendatar yang deras dan akurat. Pernyataan yang benar mengenai biomekanika gerak menembak tersebut adalah...",
+      "teks": "Kombinasi gerak menembak bola (shooting) menggunakan punggung kaki (instep drive) bertujuan menghasilkan bola mendatar yang deras dan akurat. Pernyataan yang benar mengenai biomekanika gerak menembak tersebut adalah...",
+      "pertanyaan": "Kombinasi gerak menembak bola (shooting) menggunakan punggung kaki (instep drive) bertujuan menghasilkan bola mendatar yang deras dan akurat. Pernyataan yang benar mengenai biomekanika gerak menembak tersebut adalah...",
+      "text": "Kombinasi gerak menembak bola (shooting) menggunakan punggung kaki (instep drive) bertujuan menghasilkan bola mendatar yang deras dan akurat. Pernyataan yang benar mengenai biomekanika gerak menembak tersebut adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kaki tumpu diletakkan di samping bola berjarak sekitar 10-15 cm dengan ujung kaki mengarah ke target sasaran."
+        },
+        {
+          "key": "B",
+          "text": "Pergelangan kaki penendang dikunci kokoh ke arah bawah dengan jari-jari kaki menghadap ke tanah."
+        },
+        {
+          "key": "C",
+          "text": "Posisi badan dicondongkan sejauh mungkin ke belakang agar bola melambung tinggi melintasi mistar gawang."
+        },
+        {
+          "key": "D",
+          "text": "Tubuh bagian atas sedikit condong ke depan menutup arah bola saat kontak benturan terjadi disertai gerakan lanjutan (follow through)."
+        }
+      ],
+      "opsi": [
+        "Kaki tumpu diletakkan di samping bola berjarak sekitar 10-15 cm dengan ujung kaki mengarah ke target sasaran.",
+        "Pergelangan kaki penendang dikunci kokoh ke arah bawah dengan jari-jari kaki menghadap ke tanah.",
+        "Posisi badan dicondongkan sejauh mungkin ke belakang agar bola melambung tinggi melintasi mistar gawang.",
+        "Tubuh bagian atas sedikit condong ke depan menutup arah bola saat kontak benturan terjadi disertai gerakan lanjutan (follow through)."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "A, B, D",
+      "kunci": "A, B, D",
+      "jawaban": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "temp_ai_1789980542534_6586_15",
+      "questionId": "temp_ai_1789980542534_6586_15",
+      "order": 26,
+      "number": 26,
+      "type": "ma",
+      "tipe": "ma",
+      "questionType": "pg_kompleks",
+      "question": "Crossover dribble merupakan variasi gerak manipulatif menggiring bola basket tingkat lanjut yang berfungsi untuk mengecoh lawan. Unsur-unsur esensial agar pelaksanaan crossover dribble berhasil melewati pemain bertahan adalah...",
+      "teks": "Crossover dribble merupakan variasi gerak manipulatif menggiring bola basket tingkat lanjut yang berfungsi untuk mengecoh lawan. Unsur-unsur esensial agar pelaksanaan crossover dribble berhasil melewati pemain bertahan adalah...",
+      "pertanyaan": "Crossover dribble merupakan variasi gerak manipulatif menggiring bola basket tingkat lanjut yang berfungsi untuk mengecoh lawan. Unsur-unsur esensial agar pelaksanaan crossover dribble berhasil melewati pemain bertahan adalah...",
+      "text": "Crossover dribble merupakan variasi gerak manipulatif menggiring bola basket tingkat lanjut yang berfungsi untuk mengecoh lawan. Unsur-unsur esensial agar pelaksanaan crossover dribble berhasil melewati pemain bertahan adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menurunkan pusat gravitasi tubuh dengan menekuk lutut saat memindahkan bola dari satu tangan ke tangan lain."
+        },
+        {
+          "key": "B",
+          "text": "Memantulkan bola setinggi dada agar jangkauan tangan menjadi lebih leluasa saat berpindah arah."
+        },
+        {
+          "key": "C",
+          "text": "Melakukan gerak tipu menggunakan pandangan mata, kepala, dan bahu ke arah yang berlawanan sebelum memotong lintasan."
+        },
+        {
+          "key": "D",
+          "text": "Memantulkan bola secara cepat dan rendah di bawah lutut sambil segera mempercepat langkah melewati lawan."
+        }
+      ],
+      "opsi": [
+        "Menurunkan pusat gravitasi tubuh dengan menekuk lutut saat memindahkan bola dari satu tangan ke tangan lain.",
+        "Memantulkan bola setinggi dada agar jangkauan tangan menjadi lebih leluasa saat berpindah arah.",
+        "Melakukan gerak tipu menggunakan pandangan mata, kepala, dan bahu ke arah yang berlawanan sebelum memotong lintasan.",
+        "Memantulkan bola secara cepat dan rendah di bawah lutut sambil segera mempercepat langkah melewati lawan."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "A, C, D",
+      "kunci": "A, C, D",
+      "jawaban": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "temp_ai_1789980542534_2486_16",
+      "questionId": "temp_ai_1789980542534_2486_16",
+      "order": 27,
+      "number": 27,
+      "type": "ma",
+      "tipe": "ma",
+      "questionType": "pg_kompleks",
+      "question": "Saat menghadapi pemain lawan yang sedang menggiring bola cepat menuju area penalti dalam permainan sepak bola, seorang pemain bertahan harus melakukan variasi gerak menutup ruang (jockeying/delaying). Sikap gerak bertahan yang tepat adalah...",
+      "teks": "Saat menghadapi pemain lawan yang sedang menggiring bola cepat menuju area penalti dalam permainan sepak bola, seorang pemain bertahan harus melakukan variasi gerak menutup ruang (jockeying/delaying). Sikap gerak bertahan yang tepat adalah...",
+      "pertanyaan": "Saat menghadapi pemain lawan yang sedang menggiring bola cepat menuju area penalti dalam permainan sepak bola, seorang pemain bertahan harus melakukan variasi gerak menutup ruang (jockeying/delaying). Sikap gerak bertahan yang tepat adalah...",
+      "text": "Saat menghadapi pemain lawan yang sedang menggiring bola cepat menuju area penalti dalam permainan sepak bola, seorang pemain bertahan harus melakukan variasi gerak menutup ruang (jockeying/delaying). Sikap gerak bertahan yang tepat adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mengambil posisi berdiri menyamping dengan salah satu kaki di depan untuk mengarahkan lawan ke area luar lapangan."
+        },
+        {
+          "key": "B",
+          "text": "Langsung merebut bola dengan menerjang kaki lawan tanpa memperhatikan keseimbangan posisi badan lawan."
+        },
+        {
+          "key": "C",
+          "text": "Menjaga jarak aman sekitar 1 sampai 2 meter sambil melangkah mundur mengikuti irama pergerakan lawan."
+        },
+        {
+          "key": "D",
+          "text": "Bertumpu pada ujung telapak kaki dengan kedua lutut lentur ditekuk agar dapat merespons perubahan arah secara eksplosif."
+        }
+      ],
+      "opsi": [
+        "Mengambil posisi berdiri menyamping dengan salah satu kaki di depan untuk mengarahkan lawan ke area luar lapangan.",
+        "Langsung merebut bola dengan menerjang kaki lawan tanpa memperhatikan keseimbangan posisi badan lawan.",
+        "Menjaga jarak aman sekitar 1 sampai 2 meter sambil melangkah mundur mengikuti irama pergerakan lawan.",
+        "Bertumpu pada ujung telapak kaki dengan kedua lutut lentur ditekuk agar dapat merespons perubahan arah secara eksplosif."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answer": "A, C, D",
+      "kunci": "A, C, D",
+      "jawaban": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "temp_ai_1789980542534_1303_17",
+      "questionId": "temp_ai_1789980542534_1303_17",
+      "order": 28,
+      "number": 28,
+      "type": "ma",
+      "tipe": "ma",
+      "questionType": "pg_kompleks",
+      "question": "Dalam proses latihan bola basket, guru menerapkan aturan modifikasi No Dribble Game (permainan tanpa menggiring bola) dalam format 4 lawan 4. Manfaat pembelajaran dari penerapan modifikasi aturan gerak ini adalah...",
+      "teks": "Dalam proses latihan bola basket, guru menerapkan aturan modifikasi No Dribble Game (permainan tanpa menggiring bola) dalam format 4 lawan 4. Manfaat pembelajaran dari penerapan modifikasi aturan gerak ini adalah...",
+      "pertanyaan": "Dalam proses latihan bola basket, guru menerapkan aturan modifikasi No Dribble Game (permainan tanpa menggiring bola) dalam format 4 lawan 4. Manfaat pembelajaran dari penerapan modifikasi aturan gerak ini adalah...",
+      "text": "Dalam proses latihan bola basket, guru menerapkan aturan modifikasi No Dribble Game (permainan tanpa menggiring bola) dalam format 4 lawan 4. Manfaat pembelajaran dari penerapan modifikasi aturan gerak ini adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mendorong semua pemain untuk aktif melakukan gerak lokomotor mencari ruang kosong tanpa bola."
+        },
+        {
+          "key": "B",
+          "text": "Meningkatkan kecepatan berpikir dan pengambilan keputusan dalam memilih jenis variasi operan yang tepat."
+        },
+        {
+          "key": "C",
+          "text": "Memperbolehkan pemain memegang bola selama yang diinginkan tanpa ancaman batas waktu pelanggaran."
+        },
+        {
+          "key": "D",
+          "text": "Mengasah penguasaan gerak berporos (pivot) untuk mencari celah operan saat ditekan lawan."
+        }
+      ],
+      "opsi": [
+        "Mendorong semua pemain untuk aktif melakukan gerak lokomotor mencari ruang kosong tanpa bola.",
+        "Meningkatkan kecepatan berpikir dan pengambilan keputusan dalam memilih jenis variasi operan yang tepat.",
+        "Memperbolehkan pemain memegang bola selama yang diinginkan tanpa ancaman batas waktu pelanggaran.",
+        "Mengasah penguasaan gerak berporos (pivot) untuk mencari celah operan saat ditekan lawan."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answer": "A, B, D",
+      "kunci": "A, B, D",
+      "jawaban": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "temp_ai_1789980542534_2571_18",
+      "questionId": "temp_ai_1789980542534_2571_18",
+      "order": 29,
+      "number": 29,
+      "type": "ma",
+      "tipe": "ma",
+      "questionType": "pg_kompleks",
+      "question": "Keterkaitan konsep dasar variasi pola gerak pada fase transisi dari menyerang ke bertahan dalam permainan sepak bola dan bola basket memiliki kesamaan prinsip taktis. Prinsip gerak bersama yang benar di kedua cabang olahraga tersebut adalah...",
+      "teks": "Keterkaitan konsep dasar variasi pola gerak pada fase transisi dari menyerang ke bertahan dalam permainan sepak bola dan bola basket memiliki kesamaan prinsip taktis. Prinsip gerak bersama yang benar di kedua cabang olahraga tersebut adalah...",
+      "pertanyaan": "Keterkaitan konsep dasar variasi pola gerak pada fase transisi dari menyerang ke bertahan dalam permainan sepak bola dan bola basket memiliki kesamaan prinsip taktis. Prinsip gerak bersama yang benar di kedua cabang olahraga tersebut adalah...",
+      "text": "Keterkaitan konsep dasar variasi pola gerak pada fase transisi dari menyerang ke bertahan dalam permainan sepak bola dan bola basket memiliki kesamaan prinsip taktis. Prinsip gerak bersama yang benar di kedua cabang olahraga tersebut adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pemain terdekat dengan bola segera melakukan tekanan (pressing) untuk membatasi ruang pandang dan operan lawan."
+        },
+        {
+          "key": "B",
+          "text": "Pemain lainnya segera melakukan gerak lokomotor berlari mundur untuk memadatkan area pertahanan sendiri."
+        },
+        {
+          "key": "C",
+          "text": "Mengombinasikan gerak lari cepat dengan kemampuan gerak nonlokomotor untuk menjaga keseimbangan posisi siap bertahan."
+        },
+        {
+          "key": "D",
+          "text": "Diperbolehkan menjatuhkan lawan dengan kontak fisik langsung menggunakan dorongan tangan secara sengaja."
+        }
+      ],
+      "opsi": [
+        "Pemain terdekat dengan bola segera melakukan tekanan (pressing) untuk membatasi ruang pandang dan operan lawan.",
+        "Pemain lainnya segera melakukan gerak lokomotor berlari mundur untuk memadatkan area pertahanan sendiri.",
+        "Mengombinasikan gerak lari cepat dengan kemampuan gerak nonlokomotor untuk menjaga keseimbangan posisi siap bertahan.",
+        "Diperbolehkan menjatuhkan lawan dengan kontak fisik langsung menggunakan dorongan tangan secara sengaja."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": "A, B, C",
+      "kunci": "A, B, C",
+      "jawaban": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "temp_ai_1789980542534_3734_19",
+      "questionId": "temp_ai_1789980542534_3734_19",
+      "order": 30,
+      "number": 30,
+      "type": "tf",
+      "tipe": "tf",
+      "questionType": "benar_salah",
+      "question": "Tentukan kebenaran pernyataan mengenai analisis variasi gerak manipulatif menendang bola dalam permainan sepak bola berdasarkan lintasan dan arah bola berikut!",
+      "teks": "Tentukan kebenaran pernyataan mengenai analisis variasi gerak manipulatif menendang bola dalam permainan sepak bola berdasarkan lintasan dan arah bola berikut!",
+      "pertanyaan": "Tentukan kebenaran pernyataan mengenai analisis variasi gerak manipulatif menendang bola dalam permainan sepak bola berdasarkan lintasan dan arah bola berikut!",
+      "text": "Tentukan kebenaran pernyataan mengenai analisis variasi gerak manipulatif menendang bola dalam permainan sepak bola berdasarkan lintasan dan arah bola berikut!",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "statements": [
+        {
+          "id": "1",
+          "text": "Menendang bagian samping bawah bola menggunakan kaki bagian dalam menghasilkan lintasan bola melengkung ke arah dalam gawang.",
+          "teks": "Menendang bagian samping bawah bola menggunakan kaki bagian dalam menghasilkan lintasan bola melengkung ke arah dalam gawang.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "2",
+          "text": "Menendang bola tepat pada bagian tengah titik pusat gravitasi menggunakan ujung sepatu runcing merupakan teknik paling akurat untuk operan terarah jarak jauh.",
+          "teks": "Menendang bola tepat pada bagian tengah titik pusat gravitasi menggunakan ujung sepatu runcing merupakan teknik paling akurat untuk operan terarah jarak jauh.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Perkenaan punggung kaki penuh pada bagian tengah bola dengan pergelangan kaki terkunci kokoh menghasilkan tembakan lurus kencang tanpa putaran berlebih.",
+          "teks": "Perkenaan punggung kaki penuh pada bagian tengah bola dengan pergelangan kaki terkunci kokoh menghasilkan tembakan lurus kencang tanpa putaran berlebih.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Meletakkan posisi kaki tumpu jauh di belakang posisi bola saat menendang akan menyebabkan lintasan laju bola meluncur mendatar menyusur rumput.",
+          "teks": "Meletakkan posisi kaki tumpu jauh di belakang posisi bola saat menendang akan menyebabkan lintasan laju bola meluncur mendatar menyusur rumput.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "jawaban": [
+        {
+          "id": "1",
+          "text": "Menendang bagian samping bawah bola menggunakan kaki bagian dalam menghasilkan lintasan bola melengkung ke arah dalam gawang.",
+          "teks": "Menendang bagian samping bawah bola menggunakan kaki bagian dalam menghasilkan lintasan bola melengkung ke arah dalam gawang.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "2",
+          "text": "Menendang bola tepat pada bagian tengah titik pusat gravitasi menggunakan ujung sepatu runcing merupakan teknik paling akurat untuk operan terarah jarak jauh.",
+          "teks": "Menendang bola tepat pada bagian tengah titik pusat gravitasi menggunakan ujung sepatu runcing merupakan teknik paling akurat untuk operan terarah jarak jauh.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Perkenaan punggung kaki penuh pada bagian tengah bola dengan pergelangan kaki terkunci kokoh menghasilkan tembakan lurus kencang tanpa putaran berlebih.",
+          "teks": "Perkenaan punggung kaki penuh pada bagian tengah bola dengan pergelangan kaki terkunci kokoh menghasilkan tembakan lurus kencang tanpa putaran berlebih.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Meletakkan posisi kaki tumpu jauh di belakang posisi bola saat menendang akan menyebabkan lintasan laju bola meluncur mendatar menyusur rumput.",
+          "teks": "Meletakkan posisi kaki tumpu jauh di belakang posisi bola saat menendang akan menyebabkan lintasan laju bola meluncur mendatar menyusur rumput.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "id": "1",
+          "text": "Menendang bagian samping bawah bola menggunakan kaki bagian dalam menghasilkan lintasan bola melengkung ke arah dalam gawang.",
+          "teks": "Menendang bagian samping bawah bola menggunakan kaki bagian dalam menghasilkan lintasan bola melengkung ke arah dalam gawang.",
+          "answer": true,
+          "jawaban": true
+        },
+        {
+          "id": "2",
+          "text": "Menendang bola tepat pada bagian tengah titik pusat gravitasi menggunakan ujung sepatu runcing merupakan teknik paling akurat untuk operan terarah jarak jauh.",
+          "teks": "Menendang bola tepat pada bagian tengah titik pusat gravitasi menggunakan ujung sepatu runcing merupakan teknik paling akurat untuk operan terarah jarak jauh.",
+          "answer": false,
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Perkenaan punggung kaki penuh pada bagian tengah bola dengan pergelangan kaki terkunci kokoh menghasilkan tembakan lurus kencang tanpa putaran berlebih.",
+          "teks": "Perkenaan punggung kaki penuh pada bagian tengah bola dengan pergelangan kaki terkunci kokoh menghasilkan tembakan lurus kencang tanpa putaran berlebih.",
+          "answer": true,
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Meletakkan posisi kaki tumpu jauh di belakang posisi bola saat menendang akan menyebabkan lintasan laju bola meluncur mendatar menyusur rumput.",
+          "teks": "Meletakkan posisi kaki tumpu jauh di belakang posisi bola saat menendang akan menyebabkan lintasan laju bola meluncur mendatar menyusur rumput.",
+          "answer": false,
+          "jawaban": false
+        }
+      ],
+      "kunci": "1:B • 2:S • 3:B • 4:S",
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789980542534_1863_20",
+      "questionId": "temp_ai_1789980542534_1863_20",
+      "order": 31,
+      "number": 31,
+      "type": "tf",
+      "tipe": "tf",
+      "questionType": "benar_salah",
+      "question": "Tentukan kebenaran pernyataan mengenai analisis variasi gerak menggiring (dribbling) dan mengoper (passing) dalam permainan bola basket berikut!",
+      "teks": "Tentukan kebenaran pernyataan mengenai analisis variasi gerak menggiring (dribbling) dan mengoper (passing) dalam permainan bola basket berikut!",
+      "pertanyaan": "Tentukan kebenaran pernyataan mengenai analisis variasi gerak menggiring (dribbling) dan mengoper (passing) dalam permainan bola basket berikut!",
+      "text": "Tentukan kebenaran pernyataan mengenai analisis variasi gerak menggiring (dribbling) dan mengoper (passing) dalam permainan bola basket berikut!",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "statements": [
+        {
+          "id": "1",
+          "text": "Teknik dribble tinggi setinggi dada sangat dianjurkan saat pemain berada di sudut lapangan dan dikepung oleh dua pemain bertahan lawan.",
+          "teks": "Teknik dribble tinggi setinggi dada sangat dianjurkan saat pemain berada di sudut lapangan dan dikepung oleh dua pemain bertahan lawan.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "2",
+          "text": "Teknik bounce pass dilakukan dengan memantulkan bola pada titik sekitar dua pertiga jarak ke arah rekan agar bola naik setinggi pinggang penerima.",
+          "teks": "Teknik bounce pass dilakukan dengan memantulkan bola pada titik sekitar dua pertiga jarak ke arah rekan agar bola naik setinggi pinggang penerima.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "3",
+          "text": "Gerak tipuan langkah (jab step) yang dikombinasikan dengan dribble rendah dapat membuka celah tembakan saat dijaga satu lawan satu.",
+          "teks": "Gerak tipuan langkah (jab step) yang dikombinasikan dengan dribble rendah dapat membuka celah tembakan saat dijaga satu lawan satu.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Saat melepaskan operan dada (chest pass), kedua siku tangan harus dibuka selebar-lebarnya ke samping atas untuk menambah daya dorong bola.",
+          "teks": "Saat melepaskan operan dada (chest pass), kedua siku tangan harus dibuka selebar-lebarnya ke samping atas untuk menambah daya dorong bola.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "jawaban": [
+        {
+          "id": "1",
+          "text": "Teknik dribble tinggi setinggi dada sangat dianjurkan saat pemain berada di sudut lapangan dan dikepung oleh dua pemain bertahan lawan.",
+          "teks": "Teknik dribble tinggi setinggi dada sangat dianjurkan saat pemain berada di sudut lapangan dan dikepung oleh dua pemain bertahan lawan.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "2",
+          "text": "Teknik bounce pass dilakukan dengan memantulkan bola pada titik sekitar dua pertiga jarak ke arah rekan agar bola naik setinggi pinggang penerima.",
+          "teks": "Teknik bounce pass dilakukan dengan memantulkan bola pada titik sekitar dua pertiga jarak ke arah rekan agar bola naik setinggi pinggang penerima.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "3",
+          "text": "Gerak tipuan langkah (jab step) yang dikombinasikan dengan dribble rendah dapat membuka celah tembakan saat dijaga satu lawan satu.",
+          "teks": "Gerak tipuan langkah (jab step) yang dikombinasikan dengan dribble rendah dapat membuka celah tembakan saat dijaga satu lawan satu.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Saat melepaskan operan dada (chest pass), kedua siku tangan harus dibuka selebar-lebarnya ke samping atas untuk menambah daya dorong bola.",
+          "teks": "Saat melepaskan operan dada (chest pass), kedua siku tangan harus dibuka selebar-lebarnya ke samping atas untuk menambah daya dorong bola.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "id": "1",
+          "text": "Teknik dribble tinggi setinggi dada sangat dianjurkan saat pemain berada di sudut lapangan dan dikepung oleh dua pemain bertahan lawan.",
+          "teks": "Teknik dribble tinggi setinggi dada sangat dianjurkan saat pemain berada di sudut lapangan dan dikepung oleh dua pemain bertahan lawan.",
+          "answer": false,
+          "jawaban": false
+        },
+        {
+          "id": "2",
+          "text": "Teknik bounce pass dilakukan dengan memantulkan bola pada titik sekitar dua pertiga jarak ke arah rekan agar bola naik setinggi pinggang penerima.",
+          "teks": "Teknik bounce pass dilakukan dengan memantulkan bola pada titik sekitar dua pertiga jarak ke arah rekan agar bola naik setinggi pinggang penerima.",
+          "answer": true,
+          "jawaban": true
+        },
+        {
+          "id": "3",
+          "text": "Gerak tipuan langkah (jab step) yang dikombinasikan dengan dribble rendah dapat membuka celah tembakan saat dijaga satu lawan satu.",
+          "teks": "Gerak tipuan langkah (jab step) yang dikombinasikan dengan dribble rendah dapat membuka celah tembakan saat dijaga satu lawan satu.",
+          "answer": true,
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Saat melepaskan operan dada (chest pass), kedua siku tangan harus dibuka selebar-lebarnya ke samping atas untuk menambah daya dorong bola.",
+          "teks": "Saat melepaskan operan dada (chest pass), kedua siku tangan harus dibuka selebar-lebarnya ke samping atas untuk menambah daya dorong bola.",
+          "answer": false,
+          "jawaban": false
+        }
+      ],
+      "kunci": "1:S • 2:B • 3:B • 4:S",
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789980542534_79_21",
+      "questionId": "temp_ai_1789980542534_79_21",
+      "order": 32,
+      "number": 32,
+      "type": "tf",
+      "tipe": "tf",
+      "questionType": "benar_salah",
+      "question": "Tentukan kebenaran pernyataan mengenai penerapan modifikasi permainan sepak bola skala kecil (Small Sided Games 3 lawan 3) berikut!",
+      "teks": "Tentukan kebenaran pernyataan mengenai penerapan modifikasi permainan sepak bola skala kecil (Small Sided Games 3 lawan 3) berikut!",
+      "pertanyaan": "Tentukan kebenaran pernyataan mengenai penerapan modifikasi permainan sepak bola skala kecil (Small Sided Games 3 lawan 3) berikut!",
+      "text": "Tentukan kebenaran pernyataan mengenai penerapan modifikasi permainan sepak bola skala kecil (Small Sided Games 3 lawan 3) berikut!",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "statements": [
+        {
+          "id": "1",
+          "text": "Pengurangan ukuran lapangan dan jumlah pemain bertujuan meningkatkan frekuensi sentuhan bola serta keterlibatan aktif gerak setiap siswa.",
+          "teks": "Pengurangan ukuran lapangan dan jumlah pemain bertujuan meningkatkan frekuensi sentuhan bola serta keterlibatan aktif gerak setiap siswa.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "2",
+          "text": "Penerapan aturan maksimal dua kali sentuhan bola (two-touch play) melatih siswa untuk langsung menendang bola tanpa perlu mengontrol bola terlebih dahulu.",
+          "teks": "Penerapan aturan maksimal dua kali sentuhan bola (two-touch play) melatih siswa untuk langsung menendang bola tanpa perlu mengontrol bola terlebih dahulu.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Penggunaan gawang mini tanpa kiper melatih penyerang untuk lebih mengutamakan akurasi penempatan bola daripada kekuatan tendangan semata.",
+          "teks": "Penggunaan gawang mini tanpa kiper melatih penyerang untuk lebih mengutamakan akurasi penempatan bola daripada kekuatan tendangan semata.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Dalam formasi segitiga penyerangan 3 lawan 3, pemain pendukung harus berdiri tepat sejajar merapat di belakang pemain yang sedang membawa bola.",
+          "teks": "Dalam formasi segitiga penyerangan 3 lawan 3, pemain pendukung harus berdiri tepat sejajar merapat di belakang pemain yang sedang membawa bola.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "jawaban": [
+        {
+          "id": "1",
+          "text": "Pengurangan ukuran lapangan dan jumlah pemain bertujuan meningkatkan frekuensi sentuhan bola serta keterlibatan aktif gerak setiap siswa.",
+          "teks": "Pengurangan ukuran lapangan dan jumlah pemain bertujuan meningkatkan frekuensi sentuhan bola serta keterlibatan aktif gerak setiap siswa.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "2",
+          "text": "Penerapan aturan maksimal dua kali sentuhan bola (two-touch play) melatih siswa untuk langsung menendang bola tanpa perlu mengontrol bola terlebih dahulu.",
+          "teks": "Penerapan aturan maksimal dua kali sentuhan bola (two-touch play) melatih siswa untuk langsung menendang bola tanpa perlu mengontrol bola terlebih dahulu.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Penggunaan gawang mini tanpa kiper melatih penyerang untuk lebih mengutamakan akurasi penempatan bola daripada kekuatan tendangan semata.",
+          "teks": "Penggunaan gawang mini tanpa kiper melatih penyerang untuk lebih mengutamakan akurasi penempatan bola daripada kekuatan tendangan semata.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Dalam formasi segitiga penyerangan 3 lawan 3, pemain pendukung harus berdiri tepat sejajar merapat di belakang pemain yang sedang membawa bola.",
+          "teks": "Dalam formasi segitiga penyerangan 3 lawan 3, pemain pendukung harus berdiri tepat sejajar merapat di belakang pemain yang sedang membawa bola.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "id": "1",
+          "text": "Pengurangan ukuran lapangan dan jumlah pemain bertujuan meningkatkan frekuensi sentuhan bola serta keterlibatan aktif gerak setiap siswa.",
+          "teks": "Pengurangan ukuran lapangan dan jumlah pemain bertujuan meningkatkan frekuensi sentuhan bola serta keterlibatan aktif gerak setiap siswa.",
+          "answer": true,
+          "jawaban": true
+        },
+        {
+          "id": "2",
+          "text": "Penerapan aturan maksimal dua kali sentuhan bola (two-touch play) melatih siswa untuk langsung menendang bola tanpa perlu mengontrol bola terlebih dahulu.",
+          "teks": "Penerapan aturan maksimal dua kali sentuhan bola (two-touch play) melatih siswa untuk langsung menendang bola tanpa perlu mengontrol bola terlebih dahulu.",
+          "answer": false,
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Penggunaan gawang mini tanpa kiper melatih penyerang untuk lebih mengutamakan akurasi penempatan bola daripada kekuatan tendangan semata.",
+          "teks": "Penggunaan gawang mini tanpa kiper melatih penyerang untuk lebih mengutamakan akurasi penempatan bola daripada kekuatan tendangan semata.",
+          "answer": true,
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Dalam formasi segitiga penyerangan 3 lawan 3, pemain pendukung harus berdiri tepat sejajar merapat di belakang pemain yang sedang membawa bola.",
+          "teks": "Dalam formasi segitiga penyerangan 3 lawan 3, pemain pendukung harus berdiri tepat sejajar merapat di belakang pemain yang sedang membawa bola.",
+          "answer": false,
+          "jawaban": false
+        }
+      ],
+      "kunci": "1:B • 2:S • 3:B • 4:S",
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789980542534_1806_22",
+      "questionId": "temp_ai_1789980542534_1806_22",
+      "order": 33,
+      "number": 33,
+      "type": "tf",
+      "tipe": "tf",
+      "questionType": "benar_salah",
+      "question": "Tentukan kebenaran pernyataan mengenai tahapan gerak menembak bola basket (shooting) menggunakan prinsip mekanika BEEF berikut!",
+      "teks": "Tentukan kebenaran pernyataan mengenai tahapan gerak menembak bola basket (shooting) menggunakan prinsip mekanika BEEF berikut!",
+      "pertanyaan": "Tentukan kebenaran pernyataan mengenai tahapan gerak menembak bola basket (shooting) menggunakan prinsip mekanika BEEF berikut!",
+      "text": "Tentukan kebenaran pernyataan mengenai tahapan gerak menembak bola basket (shooting) menggunakan prinsip mekanika BEEF berikut!",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "statements": [
+        {
+          "id": "1",
+          "text": "Komponen Balance (keseimbangan) dicapai dengan membuka kaki selebar bahu dan lutut ditekuk relaks sebagai sumber daya pegas dorongan ke atas.",
+          "teks": "Komponen Balance (keseimbangan) dicapai dengan membuka kaki selebar bahu dan lutut ditekuk relaks sebagai sumber daya pegas dorongan ke atas.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "2",
+          "text": "Komponen Eyes (fokus mata) mengharuskan pemain memusatkan pandangan pada pergerakan tangan pemain bertahan yang melompat menghalau bola.",
+          "teks": "Komponen Eyes (fokus mata) mengharuskan pemain memusatkan pandangan pada pergerakan tangan pemain bertahan yang melompat menghalau bola.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Komponen Elbow (siku) menginstruksikan siku tangan penembak berada di bawah bola membentuk sudut siku-siku 90 derajat sejajar keranjang.",
+          "teks": "Komponen Elbow (siku) menginstruksikan siku tangan penembak berada di bawah bola membentuk sudut siku-siku 90 derajat sejajar keranjang.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Komponen Follow through (gerak ikutan) ditandai dengan pergelangan tangan menekuk lentur ke bawah menyerupai leher angsa dan jari mengarah ke keranjang.",
+          "teks": "Komponen Follow through (gerak ikutan) ditandai dengan pergelangan tangan menekuk lentur ke bawah menyerupai leher angsa dan jari mengarah ke keranjang.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "jawaban": [
+        {
+          "id": "1",
+          "text": "Komponen Balance (keseimbangan) dicapai dengan membuka kaki selebar bahu dan lutut ditekuk relaks sebagai sumber daya pegas dorongan ke atas.",
+          "teks": "Komponen Balance (keseimbangan) dicapai dengan membuka kaki selebar bahu dan lutut ditekuk relaks sebagai sumber daya pegas dorongan ke atas.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "2",
+          "text": "Komponen Eyes (fokus mata) mengharuskan pemain memusatkan pandangan pada pergerakan tangan pemain bertahan yang melompat menghalau bola.",
+          "teks": "Komponen Eyes (fokus mata) mengharuskan pemain memusatkan pandangan pada pergerakan tangan pemain bertahan yang melompat menghalau bola.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Komponen Elbow (siku) menginstruksikan siku tangan penembak berada di bawah bola membentuk sudut siku-siku 90 derajat sejajar keranjang.",
+          "teks": "Komponen Elbow (siku) menginstruksikan siku tangan penembak berada di bawah bola membentuk sudut siku-siku 90 derajat sejajar keranjang.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Komponen Follow through (gerak ikutan) ditandai dengan pergelangan tangan menekuk lentur ke bawah menyerupai leher angsa dan jari mengarah ke keranjang.",
+          "teks": "Komponen Follow through (gerak ikutan) ditandai dengan pergelangan tangan menekuk lentur ke bawah menyerupai leher angsa dan jari mengarah ke keranjang.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "id": "1",
+          "text": "Komponen Balance (keseimbangan) dicapai dengan membuka kaki selebar bahu dan lutut ditekuk relaks sebagai sumber daya pegas dorongan ke atas.",
+          "teks": "Komponen Balance (keseimbangan) dicapai dengan membuka kaki selebar bahu dan lutut ditekuk relaks sebagai sumber daya pegas dorongan ke atas.",
+          "answer": true,
+          "jawaban": true
+        },
+        {
+          "id": "2",
+          "text": "Komponen Eyes (fokus mata) mengharuskan pemain memusatkan pandangan pada pergerakan tangan pemain bertahan yang melompat menghalau bola.",
+          "teks": "Komponen Eyes (fokus mata) mengharuskan pemain memusatkan pandangan pada pergerakan tangan pemain bertahan yang melompat menghalau bola.",
+          "answer": false,
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Komponen Elbow (siku) menginstruksikan siku tangan penembak berada di bawah bola membentuk sudut siku-siku 90 derajat sejajar keranjang.",
+          "teks": "Komponen Elbow (siku) menginstruksikan siku tangan penembak berada di bawah bola membentuk sudut siku-siku 90 derajat sejajar keranjang.",
+          "answer": true,
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Komponen Follow through (gerak ikutan) ditandai dengan pergelangan tangan menekuk lentur ke bawah menyerupai leher angsa dan jari mengarah ke keranjang.",
+          "teks": "Komponen Follow through (gerak ikutan) ditandai dengan pergelangan tangan menekuk lentur ke bawah menyerupai leher angsa dan jari mengarah ke keranjang.",
+          "answer": true,
+          "jawaban": true
+        }
+      ],
+      "kunci": "1:B • 2:S • 3:B • 4:B",
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789980542534_1482_23",
+      "questionId": "temp_ai_1789980542534_1482_23",
+      "order": 34,
+      "number": 34,
+      "type": "tf",
+      "tipe": "tf",
+      "questionType": "benar_salah",
+      "question": "Tentukan kebenaran pernyataan mengenai variasi teknik penguasaan dan perlindungan bola dalam permainan sepak bola dan bola basket berikut!",
+      "teks": "Tentukan kebenaran pernyataan mengenai variasi teknik penguasaan dan perlindungan bola dalam permainan sepak bola dan bola basket berikut!",
+      "pertanyaan": "Tentukan kebenaran pernyataan mengenai variasi teknik penguasaan dan perlindungan bola dalam permainan sepak bola dan bola basket berikut!",
+      "text": "Tentukan kebenaran pernyataan mengenai variasi teknik penguasaan dan perlindungan bola dalam permainan sepak bola dan bola basket berikut!",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "statements": [
+        {
+          "id": "1",
+          "text": "Menghentikan bola lambung menggunakan paha dalam sepak bola dilakukan dengan mengeraskan otot paha tanpa menariknya ke bawah saat bola menyentuh paha.",
+          "teks": "Menghentikan bola lambung menggunakan paha dalam sepak bola dilakukan dengan mengeraskan otot paha tanpa menariknya ke bawah saat bola menyentuh paha.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "2",
+          "text": "Dalam bola basket, pemain yang sedang melakukan gerak pivot diperbolehkan mengangkat dan memindahkan kaki poros tumpuannya sebelum bola dipantulkan kembali.",
+          "teks": "Dalam bola basket, pemain yang sedang melakukan gerak pivot diperbolehkan mengangkat dan memindahkan kaki poros tumpuannya sebelum bola dipantulkan kembali.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Teknik shielding dalam sepak bola dilakukan dengan menempatkan badan di antara bola dan lawan sambil merentangkan satu tangan bawah untuk menjaga jarak.",
+          "teks": "Teknik shielding dalam sepak bola dilakukan dengan menempatkan badan di antara bola dan lawan sambil merentangkan satu tangan bawah untuk menjaga jarak.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Pada bola basket, perlindungan bola saat dribble rendah dilakukan dengan memposisikan tubuh menyamping dan lengan non-dribble aktif menjaga area bola.",
+          "teks": "Pada bola basket, perlindungan bola saat dribble rendah dilakukan dengan memposisikan tubuh menyamping dan lengan non-dribble aktif menjaga area bola.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "jawaban": [
+        {
+          "id": "1",
+          "text": "Menghentikan bola lambung menggunakan paha dalam sepak bola dilakukan dengan mengeraskan otot paha tanpa menariknya ke bawah saat bola menyentuh paha.",
+          "teks": "Menghentikan bola lambung menggunakan paha dalam sepak bola dilakukan dengan mengeraskan otot paha tanpa menariknya ke bawah saat bola menyentuh paha.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "2",
+          "text": "Dalam bola basket, pemain yang sedang melakukan gerak pivot diperbolehkan mengangkat dan memindahkan kaki poros tumpuannya sebelum bola dipantulkan kembali.",
+          "teks": "Dalam bola basket, pemain yang sedang melakukan gerak pivot diperbolehkan mengangkat dan memindahkan kaki poros tumpuannya sebelum bola dipantulkan kembali.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Teknik shielding dalam sepak bola dilakukan dengan menempatkan badan di antara bola dan lawan sambil merentangkan satu tangan bawah untuk menjaga jarak.",
+          "teks": "Teknik shielding dalam sepak bola dilakukan dengan menempatkan badan di antara bola dan lawan sambil merentangkan satu tangan bawah untuk menjaga jarak.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Pada bola basket, perlindungan bola saat dribble rendah dilakukan dengan memposisikan tubuh menyamping dan lengan non-dribble aktif menjaga area bola.",
+          "teks": "Pada bola basket, perlindungan bola saat dribble rendah dilakukan dengan memposisikan tubuh menyamping dan lengan non-dribble aktif menjaga area bola.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "id": "1",
+          "text": "Menghentikan bola lambung menggunakan paha dalam sepak bola dilakukan dengan mengeraskan otot paha tanpa menariknya ke bawah saat bola menyentuh paha.",
+          "teks": "Menghentikan bola lambung menggunakan paha dalam sepak bola dilakukan dengan mengeraskan otot paha tanpa menariknya ke bawah saat bola menyentuh paha.",
+          "answer": false,
+          "jawaban": false
+        },
+        {
+          "id": "2",
+          "text": "Dalam bola basket, pemain yang sedang melakukan gerak pivot diperbolehkan mengangkat dan memindahkan kaki poros tumpuannya sebelum bola dipantulkan kembali.",
+          "teks": "Dalam bola basket, pemain yang sedang melakukan gerak pivot diperbolehkan mengangkat dan memindahkan kaki poros tumpuannya sebelum bola dipantulkan kembali.",
+          "answer": false,
+          "jawaban": false
+        },
+        {
+          "id": "3",
+          "text": "Teknik shielding dalam sepak bola dilakukan dengan menempatkan badan di antara bola dan lawan sambil merentangkan satu tangan bawah untuk menjaga jarak.",
+          "teks": "Teknik shielding dalam sepak bola dilakukan dengan menempatkan badan di antara bola dan lawan sambil merentangkan satu tangan bawah untuk menjaga jarak.",
+          "answer": true,
+          "jawaban": true
+        },
+        {
+          "id": "4",
+          "text": "Pada bola basket, perlindungan bola saat dribble rendah dilakukan dengan memposisikan tubuh menyamping dan lengan non-dribble aktif menjaga area bola.",
+          "teks": "Pada bola basket, perlindungan bola saat dribble rendah dilakukan dengan memposisikan tubuh menyamping dan lengan non-dribble aktif menjaga area bola.",
+          "answer": true,
+          "jawaban": true
+        }
+      ],
+      "kunci": "1:S • 2:S • 3:B • 4:B",
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789980542535_788_24",
+      "questionId": "temp_ai_1789980542535_788_24",
+      "order": 35,
+      "number": 35,
+      "type": "match",
+      "tipe": "match",
+      "questionType": "pencocokan",
+      "question": "Jodohkan jenis variasi pola gerak operan dalam sepak bola berikut dengan situasi taktis penggunaan yang paling tepat di lapangan!",
+      "teks": "Jodohkan jenis variasi pola gerak operan dalam sepak bola berikut dengan situasi taktis penggunaan yang paling tepat di lapangan!",
+      "pertanyaan": "Jodohkan jenis variasi pola gerak operan dalam sepak bola berikut dengan situasi taktis penggunaan yang paling tepat di lapangan!",
+      "text": "Jodohkan jenis variasi pola gerak operan dalam sepak bola berikut dengan situasi taktis penggunaan yang paling tepat di lapangan!",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Operan datar kaki bagian dalam",
+          "kiri": "Operan datar kaki bagian dalam",
+          "right": "Mengalirkan bola secara akurat dalam jarak dekat ke rekan yang bebas dari sergapan",
+          "kanan": "Mengalirkan bola secara akurat dalam jarak dekat ke rekan yang bebas dari sergapan",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Operan lambung cungkil (chipping)",
+          "kiri": "Operan lambung cungkil (chipping)",
+          "right": "Melambungkan bola melewati hadangan barisan bek lawan yang menutup jalur datar",
+          "kanan": "Melambungkan bola melewati hadangan barisan bek lawan yang menutup jalur datar",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Operan tumit mendadak (backheel)",
+          "kiri": "Operan tumit mendadak (backheel)",
+          "right": "Mengumpan bola ke arah belakang secara mengejutkan tanpa memutar arah hadap badan",
+          "kanan": "Mengumpan bola ke arah belakang secara mengejutkan tanpa memutar arah hadap badan",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Operan terobosan kaki bagian luar",
+          "kiri": "Operan terobosan kaki bagian luar",
+          "right": "Membelokkan arah putaran bola menjauhi jangkauan bek lawan menuju ruang lari penyerang",
+          "kanan": "Membelokkan arah putaran bola menjauhi jangkauan bek lawan menuju ruang lari penyerang",
+          "keyIndex": 4
+        }
+      ],
+      "left": [
+        {
+          "id": "A",
+          "letter": "A",
+          "text": "Operan datar kaki bagian dalam",
+          "media": ""
+        },
+        {
+          "id": "B",
+          "letter": "B",
+          "text": "Operan lambung cungkil (chipping)",
+          "media": ""
+        },
+        {
+          "id": "C",
+          "letter": "C",
+          "text": "Operan tumit mendadak (backheel)",
+          "media": ""
+        },
+        {
+          "id": "D",
+          "letter": "D",
+          "text": "Operan terobosan kaki bagian luar",
+          "media": ""
+        }
+      ],
+      "right": [
+        {
+          "id": "1",
+          "number": "1",
+          "text": "Mengalirkan bola secara akurat dalam jarak dekat ke rekan yang bebas dari sergapan",
+          "media": "",
+          "originalIndex": 0
+        },
+        {
+          "id": "2",
+          "number": "2",
+          "text": "Melambungkan bola melewati hadangan barisan bek lawan yang menutup jalur datar",
+          "media": "",
+          "originalIndex": 1
+        },
+        {
+          "id": "3",
+          "number": "3",
+          "text": "Mengumpan bola ke arah belakang secara mengejutkan tanpa memutar arah hadap badan",
+          "media": "",
+          "originalIndex": 2
+        },
+        {
+          "id": "4",
+          "number": "4",
+          "text": "Membelokkan arah putaran bola menjauhi jangkauan bek lawan menuju ruang lari penyerang",
+          "media": "",
+          "originalIndex": 3
+        }
+      ],
+      "answer": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Operan datar kaki bagian dalam",
+          "kiri": "Operan datar kaki bagian dalam",
+          "right": "Mengalirkan bola secara akurat dalam jarak dekat ke rekan yang bebas dari sergapan",
+          "kanan": "Mengalirkan bola secara akurat dalam jarak dekat ke rekan yang bebas dari sergapan",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Operan lambung cungkil (chipping)",
+          "kiri": "Operan lambung cungkil (chipping)",
+          "right": "Melambungkan bola melewati hadangan barisan bek lawan yang menutup jalur datar",
+          "kanan": "Melambungkan bola melewati hadangan barisan bek lawan yang menutup jalur datar",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Operan tumit mendadak (backheel)",
+          "kiri": "Operan tumit mendadak (backheel)",
+          "right": "Mengumpan bola ke arah belakang secara mengejutkan tanpa memutar arah hadap badan",
+          "kanan": "Mengumpan bola ke arah belakang secara mengejutkan tanpa memutar arah hadap badan",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Operan terobosan kaki bagian luar",
+          "kiri": "Operan terobosan kaki bagian luar",
+          "right": "Membelokkan arah putaran bola menjauhi jangkauan bek lawan menuju ruang lari penyerang",
+          "kanan": "Membelokkan arah putaran bola menjauhi jangkauan bek lawan menuju ruang lari penyerang",
+          "keyIndex": 4
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Operan datar kaki bagian dalam",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Mengalirkan bola secara akurat dalam jarak dekat ke rekan yang bebas dari sergapan",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Operan lambung cungkil (chipping)",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Melambungkan bola melewati hadangan barisan bek lawan yang menutup jalur datar",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Operan tumit mendadak (backheel)",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Mengumpan bola ke arah belakang secara mengejutkan tanpa memutar arah hadap badan",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Operan terobosan kaki bagian luar",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Membelokkan arah putaran bola menjauhi jangkauan bek lawan menuju ruang lari penyerang",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789980542535_1691_25",
+      "questionId": "temp_ai_1789980542535_1691_25",
+      "order": 36,
+      "number": 36,
+      "type": "match",
+      "tipe": "match",
+      "questionType": "pencocokan",
+      "question": "Jodohkan variasi operan dalam permainan bola basket berikut dengan karakteristik mekanika gerak yang paling sesuai!",
+      "teks": "Jodohkan variasi operan dalam permainan bola basket berikut dengan karakteristik mekanika gerak yang paling sesuai!",
+      "pertanyaan": "Jodohkan variasi operan dalam permainan bola basket berikut dengan karakteristik mekanika gerak yang paling sesuai!",
+      "text": "Jodohkan variasi operan dalam permainan bola basket berikut dengan karakteristik mekanika gerak yang paling sesuai!",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Chest pass",
+          "kiri": "Chest pass",
+          "right": "Dorongan lurus dari depan dada dengan akhir pelepasan bola melalui putaran ibu jari ke arah bawah luar",
+          "kanan": "Dorongan lurus dari depan dada dengan akhir pelepasan bola melalui putaran ibu jari ke arah bawah luar",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Bounce pass",
+          "kiri": "Bounce pass",
+          "right": "Pantulan bola diarahkan ke lantai pada titik dua pertiga jarak ke arah penerima",
+          "kanan": "Pantulan bola diarahkan ke lantai pada titik dua pertiga jarak ke arah penerima",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Overhead pass",
+          "kiri": "Overhead pass",
+          "right": "Pelepasan bola dari atas kepala menggunakan lecutan pergelangan tangan melampaui jangkauan lawan",
+          "kanan": "Pelepasan bola dari atas kepala menggunakan lecutan pergelangan tangan melampaui jangkauan lawan",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Baseball pass",
+          "kiri": "Baseball pass",
+          "right": "Lemparan ayunan satu tangan dari samping telinga untuk mengalirkan bola jarak jauh dalam serangan kilat",
+          "kanan": "Lemparan ayunan satu tangan dari samping telinga untuk mengalirkan bola jarak jauh dalam serangan kilat",
+          "keyIndex": 4
+        }
+      ],
+      "left": [
+        {
+          "id": "A",
+          "letter": "A",
+          "text": "Chest pass",
+          "media": ""
+        },
+        {
+          "id": "B",
+          "letter": "B",
+          "text": "Bounce pass",
+          "media": ""
+        },
+        {
+          "id": "C",
+          "letter": "C",
+          "text": "Overhead pass",
+          "media": ""
+        },
+        {
+          "id": "D",
+          "letter": "D",
+          "text": "Baseball pass",
+          "media": ""
+        }
+      ],
+      "right": [
+        {
+          "id": "1",
+          "number": "1",
+          "text": "Dorongan lurus dari depan dada dengan akhir pelepasan bola melalui putaran ibu jari ke arah bawah luar",
+          "media": "",
+          "originalIndex": 0
+        },
+        {
+          "id": "2",
+          "number": "2",
+          "text": "Pantulan bola diarahkan ke lantai pada titik dua pertiga jarak ke arah penerima",
+          "media": "",
+          "originalIndex": 1
+        },
+        {
+          "id": "3",
+          "number": "3",
+          "text": "Pelepasan bola dari atas kepala menggunakan lecutan pergelangan tangan melampaui jangkauan lawan",
+          "media": "",
+          "originalIndex": 2
+        },
+        {
+          "id": "4",
+          "number": "4",
+          "text": "Lemparan ayunan satu tangan dari samping telinga untuk mengalirkan bola jarak jauh dalam serangan kilat",
+          "media": "",
+          "originalIndex": 3
+        }
+      ],
+      "answer": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Chest pass",
+          "kiri": "Chest pass",
+          "right": "Dorongan lurus dari depan dada dengan akhir pelepasan bola melalui putaran ibu jari ke arah bawah luar",
+          "kanan": "Dorongan lurus dari depan dada dengan akhir pelepasan bola melalui putaran ibu jari ke arah bawah luar",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Bounce pass",
+          "kiri": "Bounce pass",
+          "right": "Pantulan bola diarahkan ke lantai pada titik dua pertiga jarak ke arah penerima",
+          "kanan": "Pantulan bola diarahkan ke lantai pada titik dua pertiga jarak ke arah penerima",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Overhead pass",
+          "kiri": "Overhead pass",
+          "right": "Pelepasan bola dari atas kepala menggunakan lecutan pergelangan tangan melampaui jangkauan lawan",
+          "kanan": "Pelepasan bola dari atas kepala menggunakan lecutan pergelangan tangan melampaui jangkauan lawan",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Baseball pass",
+          "kiri": "Baseball pass",
+          "right": "Lemparan ayunan satu tangan dari samping telinga untuk mengalirkan bola jarak jauh dalam serangan kilat",
+          "kanan": "Lemparan ayunan satu tangan dari samping telinga untuk mengalirkan bola jarak jauh dalam serangan kilat",
+          "keyIndex": 4
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Chest pass",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Dorongan lurus dari depan dada dengan akhir pelepasan bola melalui putaran ibu jari ke arah bawah luar",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Bounce pass",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Pantulan bola diarahkan ke lantai pada titik dua pertiga jarak ke arah penerima",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Overhead pass",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Pelepasan bola dari atas kepala menggunakan lecutan pergelangan tangan melampaui jangkauan lawan",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Baseball pass",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Lemparan ayunan satu tangan dari samping telinga untuk mengalirkan bola jarak jauh dalam serangan kilat",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789980542535_1050_26",
+      "questionId": "temp_ai_1789980542535_1050_26",
+      "order": 37,
+      "number": 37,
+      "type": "match",
+      "tipe": "match",
+      "questionType": "pencocokan",
+      "question": "Jodohkan bentuk variasi modifikasi latihan berikut dengan target pengembangan keterampilan gerak dalam permainan sepak bola!",
+      "teks": "Jodohkan bentuk variasi modifikasi latihan berikut dengan target pengembangan keterampilan gerak dalam permainan sepak bola!",
+      "pertanyaan": "Jodohkan bentuk variasi modifikasi latihan berikut dengan target pengembangan keterampilan gerak dalam permainan sepak bola!",
+      "text": "Jodohkan bentuk variasi modifikasi latihan berikut dengan target pengembangan keterampilan gerak dalam permainan sepak bola!",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Latihan rondo kucing-kucingan 4 lawan 2 di area sempit",
+          "kiri": "Latihan rondo kucing-kucingan 4 lawan 2 di area sempit",
+          "right": "Melatih kecepatan variasi operan pendek satu sentuhan dan gerak mencari ruang kosong",
+          "kanan": "Melatih kecepatan variasi operan pendek satu sentuhan dan gerak mencari ruang kosong",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Menggiring bola zig-zag melewati susunan corong bersilang",
+          "kiri": "Menggiring bola zig-zag melewati susunan corong bersilang",
+          "right": "Meningkatkan kelincahan perubahan arah bola menggunakan kombinasi kaki bagian dalam dan luar",
+          "kanan": "Meningkatkan kelincahan perubahan arah bola menggunakan kombinasi kaki bagian dalam dan luar",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Menyundul bola gantung di tempat secara berulang",
+          "kiri": "Menyundul bola gantung di tempat secara berulang",
+          "right": "Memperkuat teknik lentingan pinggang, kekuatan leher, dan titik perkenaan dahi yang tepat",
+          "kanan": "Memperkuat teknik lentingan pinggang, kekuatan leher, dan titik perkenaan dahi yang tepat",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Permainan 3 lawan 3 dengan empat gawang mini di sudut lapangan",
+          "kiri": "Permainan 3 lawan 3 dengan empat gawang mini di sudut lapangan",
+          "right": "Mengembangkan kesadaran taktis dalam memindahkan arah serangan secara cepat ke sisi yang kosong",
+          "kanan": "Mengembangkan kesadaran taktis dalam memindahkan arah serangan secara cepat ke sisi yang kosong",
+          "keyIndex": 4
+        }
+      ],
+      "left": [
+        {
+          "id": "A",
+          "letter": "A",
+          "text": "Latihan rondo kucing-kucingan 4 lawan 2 di area sempit",
+          "media": ""
+        },
+        {
+          "id": "B",
+          "letter": "B",
+          "text": "Menggiring bola zig-zag melewati susunan corong bersilang",
+          "media": ""
+        },
+        {
+          "id": "C",
+          "letter": "C",
+          "text": "Menyundul bola gantung di tempat secara berulang",
+          "media": ""
+        },
+        {
+          "id": "D",
+          "letter": "D",
+          "text": "Permainan 3 lawan 3 dengan empat gawang mini di sudut lapangan",
+          "media": ""
+        }
+      ],
+      "right": [
+        {
+          "id": "1",
+          "number": "1",
+          "text": "Melatih kecepatan variasi operan pendek satu sentuhan dan gerak mencari ruang kosong",
+          "media": "",
+          "originalIndex": 0
+        },
+        {
+          "id": "2",
+          "number": "2",
+          "text": "Meningkatkan kelincahan perubahan arah bola menggunakan kombinasi kaki bagian dalam dan luar",
+          "media": "",
+          "originalIndex": 1
+        },
+        {
+          "id": "3",
+          "number": "3",
+          "text": "Memperkuat teknik lentingan pinggang, kekuatan leher, dan titik perkenaan dahi yang tepat",
+          "media": "",
+          "originalIndex": 2
+        },
+        {
+          "id": "4",
+          "number": "4",
+          "text": "Mengembangkan kesadaran taktis dalam memindahkan arah serangan secara cepat ke sisi yang kosong",
+          "media": "",
+          "originalIndex": 3
+        }
+      ],
+      "answer": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Latihan rondo kucing-kucingan 4 lawan 2 di area sempit",
+          "kiri": "Latihan rondo kucing-kucingan 4 lawan 2 di area sempit",
+          "right": "Melatih kecepatan variasi operan pendek satu sentuhan dan gerak mencari ruang kosong",
+          "kanan": "Melatih kecepatan variasi operan pendek satu sentuhan dan gerak mencari ruang kosong",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Menggiring bola zig-zag melewati susunan corong bersilang",
+          "kiri": "Menggiring bola zig-zag melewati susunan corong bersilang",
+          "right": "Meningkatkan kelincahan perubahan arah bola menggunakan kombinasi kaki bagian dalam dan luar",
+          "kanan": "Meningkatkan kelincahan perubahan arah bola menggunakan kombinasi kaki bagian dalam dan luar",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Menyundul bola gantung di tempat secara berulang",
+          "kiri": "Menyundul bola gantung di tempat secara berulang",
+          "right": "Memperkuat teknik lentingan pinggang, kekuatan leher, dan titik perkenaan dahi yang tepat",
+          "kanan": "Memperkuat teknik lentingan pinggang, kekuatan leher, dan titik perkenaan dahi yang tepat",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Permainan 3 lawan 3 dengan empat gawang mini di sudut lapangan",
+          "kiri": "Permainan 3 lawan 3 dengan empat gawang mini di sudut lapangan",
+          "right": "Mengembangkan kesadaran taktis dalam memindahkan arah serangan secara cepat ke sisi yang kosong",
+          "kanan": "Mengembangkan kesadaran taktis dalam memindahkan arah serangan secara cepat ke sisi yang kosong",
+          "keyIndex": 4
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Latihan rondo kucing-kucingan 4 lawan 2 di area sempit",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Melatih kecepatan variasi operan pendek satu sentuhan dan gerak mencari ruang kosong",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Menggiring bola zig-zag melewati susunan corong bersilang",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Meningkatkan kelincahan perubahan arah bola menggunakan kombinasi kaki bagian dalam dan luar",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Menyundul bola gantung di tempat secara berulang",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Memperkuat teknik lentingan pinggang, kekuatan leher, dan titik perkenaan dahi yang tepat",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Permainan 3 lawan 3 dengan empat gawang mini di sudut lapangan",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Mengembangkan kesadaran taktis dalam memindahkan arah serangan secara cepat ke sisi yang kosong",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789980542535_2972_27",
+      "questionId": "temp_ai_1789980542535_2972_27",
+      "order": 38,
+      "number": 38,
+      "type": "match",
+      "tipe": "match",
+      "questionType": "pencocokan",
+      "question": "Jodohkan variasi pola gerak bola basket berikut dengan kesalahan eksekusi gerak yang paling sering dilakukan siswa!",
+      "teks": "Jodohkan variasi pola gerak bola basket berikut dengan kesalahan eksekusi gerak yang paling sering dilakukan siswa!",
+      "pertanyaan": "Jodohkan variasi pola gerak bola basket berikut dengan kesalahan eksekusi gerak yang paling sering dilakukan siswa!",
+      "text": "Jodohkan variasi pola gerak bola basket berikut dengan kesalahan eksekusi gerak yang paling sering dilakukan siswa!",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Menggiring bola sambil berlari maju",
+          "kiri": "Menggiring bola sambil berlari maju",
+          "right": "Memukul-mukul bola menggunakan telapak tangan kaku alih-alih mendorongnya dengan bantalan jari",
+          "kanan": "Memukul-mukul bola menggunakan telapak tangan kaku alih-alih mendorongnya dengan bantalan jari",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Melakukan gerak berporos (pivot)",
+          "kiri": "Melakukan gerak berporos (pivot)",
+          "right": "Menggeser atau mengangkat kaki poros tumpuan sebelum bola dilepaskan dari tangan",
+          "kanan": "Menggeser atau mengangkat kaki poros tumpuan sebelum bola dilepaskan dari tangan",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Tembakan melayang (lay-up shoot) kanan",
+          "kiri": "Tembakan melayang (lay-up shoot) kanan",
+          "right": "Melompat bertumpu pada kaki kanan bersamaan dengan pelepasan bola oleh tangan kanan",
+          "kanan": "Melompat bertumpu pada kaki kanan bersamaan dengan pelepasan bola oleh tangan kanan",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Menangkap bola operan dada (catching)",
+          "kiri": "Menangkap bola operan dada (catching)",
+          "right": "Menyambut bola dengan kedua lengan kaku lurus dan jari-jari terbuka rapat tanpa meredam laju bola",
+          "kanan": "Menyambut bola dengan kedua lengan kaku lurus dan jari-jari terbuka rapat tanpa meredam laju bola",
+          "keyIndex": 4
+        }
+      ],
+      "left": [
+        {
+          "id": "A",
+          "letter": "A",
+          "text": "Menggiring bola sambil berlari maju",
+          "media": ""
+        },
+        {
+          "id": "B",
+          "letter": "B",
+          "text": "Melakukan gerak berporos (pivot)",
+          "media": ""
+        },
+        {
+          "id": "C",
+          "letter": "C",
+          "text": "Tembakan melayang (lay-up shoot) kanan",
+          "media": ""
+        },
+        {
+          "id": "D",
+          "letter": "D",
+          "text": "Menangkap bola operan dada (catching)",
+          "media": ""
+        }
+      ],
+      "right": [
+        {
+          "id": "1",
+          "number": "1",
+          "text": "Memukul-mukul bola menggunakan telapak tangan kaku alih-alih mendorongnya dengan bantalan jari",
+          "media": "",
+          "originalIndex": 0
+        },
+        {
+          "id": "2",
+          "number": "2",
+          "text": "Menggeser atau mengangkat kaki poros tumpuan sebelum bola dilepaskan dari tangan",
+          "media": "",
+          "originalIndex": 1
+        },
+        {
+          "id": "3",
+          "number": "3",
+          "text": "Melompat bertumpu pada kaki kanan bersamaan dengan pelepasan bola oleh tangan kanan",
+          "media": "",
+          "originalIndex": 2
+        },
+        {
+          "id": "4",
+          "number": "4",
+          "text": "Menyambut bola dengan kedua lengan kaku lurus dan jari-jari terbuka rapat tanpa meredam laju bola",
+          "media": "",
+          "originalIndex": 3
+        }
+      ],
+      "answer": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Menggiring bola sambil berlari maju",
+          "kiri": "Menggiring bola sambil berlari maju",
+          "right": "Memukul-mukul bola menggunakan telapak tangan kaku alih-alih mendorongnya dengan bantalan jari",
+          "kanan": "Memukul-mukul bola menggunakan telapak tangan kaku alih-alih mendorongnya dengan bantalan jari",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Melakukan gerak berporos (pivot)",
+          "kiri": "Melakukan gerak berporos (pivot)",
+          "right": "Menggeser atau mengangkat kaki poros tumpuan sebelum bola dilepaskan dari tangan",
+          "kanan": "Menggeser atau mengangkat kaki poros tumpuan sebelum bola dilepaskan dari tangan",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Tembakan melayang (lay-up shoot) kanan",
+          "kiri": "Tembakan melayang (lay-up shoot) kanan",
+          "right": "Melompat bertumpu pada kaki kanan bersamaan dengan pelepasan bola oleh tangan kanan",
+          "kanan": "Melompat bertumpu pada kaki kanan bersamaan dengan pelepasan bola oleh tangan kanan",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Menangkap bola operan dada (catching)",
+          "kiri": "Menangkap bola operan dada (catching)",
+          "right": "Menyambut bola dengan kedua lengan kaku lurus dan jari-jari terbuka rapat tanpa meredam laju bola",
+          "kanan": "Menyambut bola dengan kedua lengan kaku lurus dan jari-jari terbuka rapat tanpa meredam laju bola",
+          "keyIndex": 4
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Menggiring bola sambil berlari maju",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Memukul-mukul bola menggunakan telapak tangan kaku alih-alih mendorongnya dengan bantalan jari",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Melakukan gerak berporos (pivot)",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Menggeser atau mengangkat kaki poros tumpuan sebelum bola dilepaskan dari tangan",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Tembakan melayang (lay-up shoot) kanan",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Melompat bertumpu pada kaki kanan bersamaan dengan pelepasan bola oleh tangan kanan",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Menangkap bola operan dada (catching)",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Menyambut bola dengan kedua lengan kaku lurus dan jari-jari terbuka rapat tanpa meredam laju bola",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789980542535_9904_28",
+      "questionId": "temp_ai_1789980542535_9904_28",
+      "order": 39,
+      "number": 39,
+      "type": "match",
+      "tipe": "match",
+      "questionType": "pencocokan",
+      "question": "Jodohkan bentuk modifikasi sarana dan peraturan permainan berikut dengan tujuan pedagogis PJOK yang ingin dicapai!",
+      "teks": "Jodohkan bentuk modifikasi sarana dan peraturan permainan berikut dengan tujuan pedagogis PJOK yang ingin dicapai!",
+      "pertanyaan": "Jodohkan bentuk modifikasi sarana dan peraturan permainan berikut dengan tujuan pedagogis PJOK yang ingin dicapai!",
+      "text": "Jodohkan bentuk modifikasi sarana dan peraturan permainan berikut dengan tujuan pedagogis PJOK yang ingin dicapai!",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Penggunaan bola sepak nomor 4 berbobot lebih ringan untuk siswa SD",
+          "kiri": "Penggunaan bola sepak nomor 4 berbobot lebih ringan untuk siswa SD",
+          "right": "Mencegah cedera persendian kaki serta mempermudah penguasaan kontrol gerak manipulatif dasar",
+          "kanan": "Mencegah cedera persendian kaki serta mempermudah penguasaan kontrol gerak manipulatif dasar",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Penurunan ketinggian keranjang basket menjadi 2,75 meter",
+          "kiri": "Penurunan ketinggian keranjang basket menjadi 2,75 meter",
+          "right": "Mencegah penyimpangan bentuk mekanika menembak akibat beban ring yang melampaui kekuatan lengan siswa",
+          "kanan": "Mencegah penyimpangan bentuk mekanika menembak akibat beban ring yang melampaui kekuatan lengan siswa",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Penerapan aturan wajib 3 operan sebelum melakukan tembakan ke gawang",
+          "kiri": "Penerapan aturan wajib 3 operan sebelum melakukan tembakan ke gawang",
+          "right": "Menghilangkan dominasi individu dan melatih kerja sama tim dalam membangun pola serangan",
+          "kanan": "Menghilangkan dominasi individu dan melatih kerja sama tim dalam membangun pola serangan",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Pembatasan waktu memegang bola maksimal 3 detik per pemain",
+          "kiri": "Pembatasan waktu memegang bola maksimal 3 detik per pemain",
+          "right": "Melatih kecepatan reaksi, membaca situasi permainan, dan mempercepat pengambilan keputusan gerak",
+          "kanan": "Melatih kecepatan reaksi, membaca situasi permainan, dan mempercepat pengambilan keputusan gerak",
+          "keyIndex": 4
+        }
+      ],
+      "left": [
+        {
+          "id": "A",
+          "letter": "A",
+          "text": "Penggunaan bola sepak nomor 4 berbobot lebih ringan untuk siswa SD",
+          "media": ""
+        },
+        {
+          "id": "B",
+          "letter": "B",
+          "text": "Penurunan ketinggian keranjang basket menjadi 2,75 meter",
+          "media": ""
+        },
+        {
+          "id": "C",
+          "letter": "C",
+          "text": "Penerapan aturan wajib 3 operan sebelum melakukan tembakan ke gawang",
+          "media": ""
+        },
+        {
+          "id": "D",
+          "letter": "D",
+          "text": "Pembatasan waktu memegang bola maksimal 3 detik per pemain",
+          "media": ""
+        }
+      ],
+      "right": [
+        {
+          "id": "1",
+          "number": "1",
+          "text": "Mencegah cedera persendian kaki serta mempermudah penguasaan kontrol gerak manipulatif dasar",
+          "media": "",
+          "originalIndex": 0
+        },
+        {
+          "id": "2",
+          "number": "2",
+          "text": "Mencegah penyimpangan bentuk mekanika menembak akibat beban ring yang melampaui kekuatan lengan siswa",
+          "media": "",
+          "originalIndex": 1
+        },
+        {
+          "id": "3",
+          "number": "3",
+          "text": "Menghilangkan dominasi individu dan melatih kerja sama tim dalam membangun pola serangan",
+          "media": "",
+          "originalIndex": 2
+        },
+        {
+          "id": "4",
+          "number": "4",
+          "text": "Melatih kecepatan reaksi, membaca situasi permainan, dan mempercepat pengambilan keputusan gerak",
+          "media": "",
+          "originalIndex": 3
+        }
+      ],
+      "answer": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Penggunaan bola sepak nomor 4 berbobot lebih ringan untuk siswa SD",
+          "kiri": "Penggunaan bola sepak nomor 4 berbobot lebih ringan untuk siswa SD",
+          "right": "Mencegah cedera persendian kaki serta mempermudah penguasaan kontrol gerak manipulatif dasar",
+          "kanan": "Mencegah cedera persendian kaki serta mempermudah penguasaan kontrol gerak manipulatif dasar",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Penurunan ketinggian keranjang basket menjadi 2,75 meter",
+          "kiri": "Penurunan ketinggian keranjang basket menjadi 2,75 meter",
+          "right": "Mencegah penyimpangan bentuk mekanika menembak akibat beban ring yang melampaui kekuatan lengan siswa",
+          "kanan": "Mencegah penyimpangan bentuk mekanika menembak akibat beban ring yang melampaui kekuatan lengan siswa",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Penerapan aturan wajib 3 operan sebelum melakukan tembakan ke gawang",
+          "kiri": "Penerapan aturan wajib 3 operan sebelum melakukan tembakan ke gawang",
+          "right": "Menghilangkan dominasi individu dan melatih kerja sama tim dalam membangun pola serangan",
+          "kanan": "Menghilangkan dominasi individu dan melatih kerja sama tim dalam membangun pola serangan",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Pembatasan waktu memegang bola maksimal 3 detik per pemain",
+          "kiri": "Pembatasan waktu memegang bola maksimal 3 detik per pemain",
+          "right": "Melatih kecepatan reaksi, membaca situasi permainan, dan mempercepat pengambilan keputusan gerak",
+          "kanan": "Melatih kecepatan reaksi, membaca situasi permainan, dan mempercepat pengambilan keputusan gerak",
+          "keyIndex": 4
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Penggunaan bola sepak nomor 4 berbobot lebih ringan untuk siswa SD",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Mencegah cedera persendian kaki serta mempermudah penguasaan kontrol gerak manipulatif dasar",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Penurunan ketinggian keranjang basket menjadi 2,75 meter",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Mencegah penyimpangan bentuk mekanika menembak akibat beban ring yang melampaui kekuatan lengan siswa",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Penerapan aturan wajib 3 operan sebelum melakukan tembakan ke gawang",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Menghilangkan dominasi individu dan melatih kerja sama tim dalam membangun pola serangan",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Pembatasan waktu memegang bola maksimal 3 detik per pemain",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Melatih kecepatan reaksi, membaca situasi permainan, dan mempercepat pengambilan keputusan gerak",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1789980542535_6374_29",
+      "questionId": "temp_ai_1789980542535_6374_29",
+      "order": 40,
+      "number": 40,
+      "type": "esai",
+      "tipe": "esai",
+      "questionType": "esai",
+      "question": "Dalam sebuah simulasi pertandingan sepak bola modifikasi 5 lawan 5, tim Anda mengalami kesulitan membongkar pertahanan lawan yang menumpuk pemain di area tengah pertahanan sendiri (compact defense). Jelaskan tiga variasi kombinasi pola gerak manipulatif dan lokomotor beserta modifikasi taktik yang dapat diterapkan oleh tim Anda untuk menciptakan ruang kosong dan mencetak gol secara efektif!",
+      "teks": "Dalam sebuah simulasi pertandingan sepak bola modifikasi 5 lawan 5, tim Anda mengalami kesulitan membongkar pertahanan lawan yang menumpuk pemain di area tengah pertahanan sendiri (compact defense). Jelaskan tiga variasi kombinasi pola gerak manipulatif dan lokomotor beserta modifikasi taktik yang dapat diterapkan oleh tim Anda untuk menciptakan ruang kosong dan mencetak gol secara efektif!",
+      "pertanyaan": "Dalam sebuah simulasi pertandingan sepak bola modifikasi 5 lawan 5, tim Anda mengalami kesulitan membongkar pertahanan lawan yang menumpuk pemain di area tengah pertahanan sendiri (compact defense). Jelaskan tiga variasi kombinasi pola gerak manipulatif dan lokomotor beserta modifikasi taktik yang dapat diterapkan oleh tim Anda untuk menciptakan ruang kosong dan mencetak gol secara efektif!",
+      "text": "Dalam sebuah simulasi pertandingan sepak bola modifikasi 5 lawan 5, tim Anda mengalami kesulitan membongkar pertahanan lawan yang menumpuk pemain di area tengah pertahanan sendiri (compact defense). Jelaskan tiga variasi kombinasi pola gerak manipulatif dan lokomotor beserta modifikasi taktik yang dapat diterapkan oleh tim Anda untuk menciptakan ruang kosong dan mencetak gol secara efektif!",
+      "stimulus": "",
+      "wacana": "",
+      "points": 2.5,
+      "bobot": 2.5,
+      "weight": 2.5,
+      "image": "",
+      "media": "",
+      "rawMedia": "",
+      "difficulty": "medium",
+      "chapter": "",
+      "createdBy": "admin",
+      "essayAnswer": "Tiga variasi kombinasi pola gerak dan modifikasi taktik yang dapat diterapkan adalah: 1) Melakukan variasi operan pendek cepat satu-dua sentuhan (wall-pass) dikombinasikan dengan lari cepat (sprint) memotong di celah pertahanan lawan; 2) Melakukan variasi operan lambung atau datar melebar ke area sayap lapangan disertai pergerakan tanpa bola pemain sayap untuk meregangkan pertahanan lawan yang menumpuk di tengah; 3) Menerapkan variasi gerak tipu menggiring bola zig-zag untuk memancing bek lawan keluar dari posisinya, lalu diakhiri tembakan mendatar keras dan akurat menggunakan punggung kaki ke sudut gawang.",
+      "answerKey": "Tiga variasi kombinasi pola gerak dan modifikasi taktik yang dapat diterapkan adalah: 1) Melakukan variasi operan pendek cepat satu-dua sentuhan (wall-pass) dikombinasikan dengan lari cepat (sprint) memotong di celah pertahanan lawan; 2) Melakukan variasi operan lambung atau datar melebar ke area sayap lapangan disertai pergerakan tanpa bola pemain sayap untuk meregangkan pertahanan lawan yang menumpuk di tengah; 3) Menerapkan variasi gerak tipu menggiring bola zig-zag untuk memancing bek lawan keluar dari posisinya, lalu diakhiri tembakan mendatar keras dan akurat menggunakan punggung kaki ke sudut gawang.",
+      "acuanJawaban": "Tiga variasi kombinasi pola gerak dan modifikasi taktik yang dapat diterapkan adalah: 1) Melakukan variasi operan pendek cepat satu-dua sentuhan (wall-pass) dikombinasikan dengan lari cepat (sprint) memotong di celah pertahanan lawan; 2) Melakukan variasi operan lambung atau datar melebar ke area sayap lapangan disertai pergerakan tanpa bola pemain sayap untuk meregangkan pertahanan lawan yang menumpuk di tengah; 3) Menerapkan variasi gerak tipu menggiring bola zig-zag untuk memancing bek lawan keluar dari posisinya, lalu diakhiri tembakan mendatar keras dan akurat menggunakan punggung kaki ke sudut gawang.",
+      "kunci": "Tiga variasi kombinasi pola gerak dan modifikasi taktik yang dapat diterapkan adalah: 1) Melakukan variasi operan pendek cepat satu-dua sentuhan (wall-pass) dikombinasikan dengan lari cepat (sprint) memotong di celah pertahanan lawan; 2) Melakukan variasi operan lambung atau datar melebar ke area sayap lapangan disertai pergerakan tanpa bola pemain sayap untuk meregangkan pertahanan lawan yang menumpuk di tengah; 3) Menerapkan variasi gerak tipu menggiring bola zig-zag untuk memancing bek lawan keluar dari posisinya, lalu diakhiri tembakan mendatar keras dan akurat menggunakan punggung kaki ke sudut gawang.",
+      "rubric": "Tiga variasi kombinasi pola gerak dan modifikasi taktik yang dapat diterapkan adalah: 1) Melakukan variasi operan pendek cepat satu-dua sentuhan (wall-pass) dikombinasikan dengan lari cepat (sprint) memotong di celah pertahanan lawan; 2) Melakukan variasi operan lambung atau datar melebar ke area sayap lapangan disertai pergerakan tanpa bola pemain sayap untuk meregangkan pertahanan lawan yang menumpuk di tengah; 3) Menerapkan variasi gerak tipu menggiring bola zig-zag untuk memancing bek lawan keluar dari posisinya, lalu diakhiri tembakan mendatar keras dan akurat menggunakan punggung kaki ke sudut gawang.",
+      "keywords": [
+        {
+          "text": "Tiga variasi kombinasi pola gerak dan modifikasi taktik yang dapat diterapkan adalah: 1) Melakukan variasi operan pendek cepat satu-dua sentuhan (wall-pass) dikombinasikan dengan lari cepat (sprint) memotong di celah pertahanan lawan; 2) Melakukan variasi operan lambung atau datar melebar ke area sayap lapangan disertai pergerakan tanpa bola pemain sayap untuk meregangkan pertahanan lawan yang menumpuk di tengah; 3) Menerapkan variasi gerak tipu menggiring bola zig-zag untuk memancing bek lawan keluar dari posisinya, lalu diakhiri tembakan mendatar keras dan akurat menggunakan punggung kaki ke sudut gawang.",
+          "keyword": "Tiga variasi kombinasi pola gerak dan modifikasi taktik yang dapat diterapkan adalah: 1) Melakukan variasi operan pendek cepat satu-dua sentuhan (wall-pass) dikombinasikan dengan lari cepat (sprint) memotong di celah pertahanan lawan; 2) Melakukan variasi operan lambung atau datar melebar ke area sayap lapangan disertai pergerakan tanpa bola pemain sayap untuk meregangkan pertahanan lawan yang menumpuk di tengah; 3) Menerapkan variasi gerak tipu menggiring bola zig-zag untuk memancing bek lawan keluar dari posisinya, lalu diakhiri tembakan mendatar keras dan akurat menggunakan punggung kaki ke sudut gawang.",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "text": "Tiga variasi kombinasi pola gerak dan modifikasi taktik yang dapat diterapkan adalah: 1) Melakukan variasi operan pendek cepat satu-dua sentuhan (wall-pass) dikombinasikan dengan lari cepat (sprint) memotong di celah pertahanan lawan; 2) Melakukan variasi operan lambung atau datar melebar ke area sayap lapangan disertai pergerakan tanpa bola pemain sayap untuk meregangkan pertahanan lawan yang menumpuk di tengah; 3) Menerapkan variasi gerak tipu menggiring bola zig-zag untuk memancing bek lawan keluar dari posisinya, lalu diakhiri tembakan mendatar keras dan akurat menggunakan punggung kaki ke sudut gawang.",
+          "keyword": "Tiga variasi kombinasi pola gerak dan modifikasi taktik yang dapat diterapkan adalah: 1) Melakukan variasi operan pendek cepat satu-dua sentuhan (wall-pass) dikombinasikan dengan lari cepat (sprint) memotong di celah pertahanan lawan; 2) Melakukan variasi operan lambung atau datar melebar ke area sayap lapangan disertai pergerakan tanpa bola pemain sayap untuk meregangkan pertahanan lawan yang menumpuk di tengah; 3) Menerapkan variasi gerak tipu menggiring bola zig-zag untuk memancing bek lawan keluar dari posisinya, lalu diakhiri tembakan mendatar keras dan akurat menggunakan punggung kaki ke sudut gawang.",
+          "weight": 100,
+          "sinonim": ""
+        }
+      ],
+      "options": [],
+      "opsi": [],
+      "opsiMedia": [],
+      "answerGuide": "Tiga variasi kombinasi pola gerak dan modifikasi taktik yang dapat diterapkan adalah: 1) Melakukan variasi operan pendek cepat satu-dua sentuhan (wall-pass) dikombinasikan dengan lari cepat (sprint) memotong di celah pertahanan lawan; 2) Melakukan variasi operan lambung atau datar melebar ke area sayap lapangan disertai pergerakan tanpa bola pemain sayap untuk meregangkan pertahanan lawan yang menumpuk di tengah; 3) Menerapkan variasi gerak tipu menggiring bola zig-zag untuk memancing bek lawan keluar dari posisinya, lalu diakhiri tembakan mendatar keras dan akurat menggunakan punggung kaki ke sudut gawang."
+    }
+  ],
+  "updatedAt": "2026-09-21T09:57:35.515Z"
+}
