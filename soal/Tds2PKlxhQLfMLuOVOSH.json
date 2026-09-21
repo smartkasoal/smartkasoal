@@ -1,0 +1,84 @@
+{
+  "fileId": "Tds2PKlxhQLfMLuOVOSH",
+  "id": "Tds2PKlxhQLfMLuOVOSH",
+  "examId": "Tds2PKlxhQLfMLuOVOSH",
+  "title": "Bank Soal Tanpa Judul",
+  "subject": "Umum",
+  "duration": 60,
+  "token": "C41MMH",
+  "totalQuestions": 1,
+  "totalBobot": 100,
+  "version": 1,
+  "questions": [
+    {
+      "examId": "Tds2PKlxhQLfMLuOVOSH",
+      "type": "pg",
+      "teks": "2+2",
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "2+2",
+        "media": [],
+        "options": [],
+        "rawText": "2+2"
+      },
+      "bobot": 100,
+      "difficulty": "medium",
+      "chapter": "",
+      "media": "",
+      "updatedAt": "2026-09-21T20:58:33.416Z",
+      "opsi": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "id": "temp_1790024313420",
+      "order": 1,
+      "createdAt": "2026-09-21T20:58:33.420Z",
+      "createdBy": "ACnlt6rX8xgfmaxEXmI8rQdTtOD2",
+      "questionId": "temp_1790024313420",
+      "number": 1,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "2+2",
+      "pertanyaan": "2+2",
+      "text": "2+2",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 100,
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    }
+  ],
+  "updatedAt": "2026-09-21T20:58:44.374Z"
+}
