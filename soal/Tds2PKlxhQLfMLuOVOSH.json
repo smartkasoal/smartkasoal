@@ -5,7 +5,7 @@
   "title": "Bank Soal Tanpa Judul",
   "subject": "Umum",
   "duration": 60,
-  "token": "C41MMH",
+  "token": "1RJZA6",
   "totalQuestions": 1,
   "totalBobot": 100,
   "version": 1,
@@ -80,5 +80,5 @@
       "correctAnswer": 0
     }
   ],
-  "updatedAt": "2026-09-21T20:58:44.374Z"
+  "updatedAt": "2026-09-21T20:59:42.684Z"
 }
