@@ -1,0 +1,1914 @@
+{
+  "fileId": "jksAB7uHWh04UR8nMaQm",
+  "id": "jksAB7uHWh04UR8nMaQm",
+  "examId": "jksAB7uHWh04UR8nMaQm",
+  "title": "Bank Soal Tanpa Judul",
+  "subject": "Umum",
+  "duration": 60,
+  "token": "VL1B08",
+  "totalQuestions": 20,
+  "totalBobot": 100,
+  "version": 1,
+  "questions": [
+    {
+      "id": "temp_ai_1790054437727_9144_0",
+      "type": "pg",
+      "teks": "Perhatikan gambar berikut. Pecahan yang menyatakan bagian yang diarsir dari seluruh bagian adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/jksAB7uHWh04UR8nMaQm/img_8b392e19d39a2ef8.webp",
+      "rawMedia": "soal-01.png",
+      "opsi": [
+        "3/8",
+        "3/5",
+        "5/8",
+        "5/3"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "pecahaN",
+      "order": 1,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar berikut. Pecahan yang menyatakan bagian yang diarsir dari seluruh bagian adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/jksAB7uHWh04UR8nMaQm/img_8b392e19d39a2ef8.webp",
+            "caption": "soal-01.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "3/8"
+          },
+          {
+            "letter": "B",
+            "text": "3/5"
+          },
+          {
+            "letter": "C",
+            "text": "5/8"
+          },
+          {
+            "letter": "D",
+            "text": "5/3"
+          }
+        ],
+        "rawText": "Perhatikan gambar berikut. Pecahan yang menyatakan bagian yang diarsir dari seluruh bagian adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790054437727_9144_0",
+      "number": 1,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar berikut. Pecahan yang menyatakan bagian yang diarsir dari seluruh bagian adalah ...",
+      "pertanyaan": "Perhatikan gambar berikut. Pecahan yang menyatakan bagian yang diarsir dari seluruh bagian adalah ...",
+      "text": "Perhatikan gambar berikut. Pecahan yang menyatakan bagian yang diarsir dari seluruh bagian adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "3/8"
+        },
+        {
+          "key": "B",
+          "text": "3/5"
+        },
+        {
+          "key": "C",
+          "text": "5/8"
+        },
+        {
+          "key": "D",
+          "text": "5/3"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1790054437728_1147_1",
+      "type": "pg",
+      "teks": "Perhatikan gambar berikut. Pecahan bagian yang diarsir dapat dituliskan dalam bentuk desimal sebagai ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/jksAB7uHWh04UR8nMaQm/img_7e9d1405d578a364.webp",
+      "rawMedia": "soal-02.png",
+      "opsi": [
+        "0,25",
+        "0,40",
+        "0,50",
+        "0,75"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "pecahaN",
+      "order": 2,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan gambar berikut. Pecahan bagian yang diarsir dapat dituliskan dalam bentuk desimal sebagai ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/jksAB7uHWh04UR8nMaQm/img_7e9d1405d578a364.webp",
+            "caption": "soal-02.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "0,25"
+          },
+          {
+            "letter": "B",
+            "text": "0,40"
+          },
+          {
+            "letter": "C",
+            "text": "0,50"
+          },
+          {
+            "letter": "D",
+            "text": "0,75"
+          }
+        ],
+        "rawText": "Perhatikan gambar berikut. Pecahan bagian yang diarsir dapat dituliskan dalam bentuk desimal sebagai ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790054437728_1147_1",
+      "number": 2,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan gambar berikut. Pecahan bagian yang diarsir dapat dituliskan dalam bentuk desimal sebagai ...",
+      "pertanyaan": "Perhatikan gambar berikut. Pecahan bagian yang diarsir dapat dituliskan dalam bentuk desimal sebagai ...",
+      "text": "Perhatikan gambar berikut. Pecahan bagian yang diarsir dapat dituliskan dalam bentuk desimal sebagai ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "0,25"
+        },
+        {
+          "key": "B",
+          "text": "0,40"
+        },
+        {
+          "key": "C",
+          "text": "0,50"
+        },
+        {
+          "key": "D",
+          "text": "0,75"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1790054437728_4483_2",
+      "type": "pg",
+      "teks": "Sebuah kue dipotong menjadi 12 bagian sama besar. Raka memakan 5 bagian. Pecahan kue yang masih tersisa adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "5/12",
+        "7/12",
+        "7/5",
+        "12/7"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "pecahaN",
+      "order": 3,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Sebuah kue dipotong menjadi 12 bagian sama besar. Raka memakan 5 bagian. Pecahan kue yang masih tersisa adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "5/12"
+          },
+          {
+            "letter": "B",
+            "text": "7/12"
+          },
+          {
+            "letter": "C",
+            "text": "7/5"
+          },
+          {
+            "letter": "D",
+            "text": "12/7"
+          }
+        ],
+        "rawText": "Sebuah kue dipotong menjadi 12 bagian sama besar. Raka memakan 5 bagian. Pecahan kue yang masih tersisa adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790054437728_4483_2",
+      "number": 3,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Sebuah kue dipotong menjadi 12 bagian sama besar. Raka memakan 5 bagian. Pecahan kue yang masih tersisa adalah ...",
+      "pertanyaan": "Sebuah kue dipotong menjadi 12 bagian sama besar. Raka memakan 5 bagian. Pecahan kue yang masih tersisa adalah ...",
+      "text": "Sebuah kue dipotong menjadi 12 bagian sama besar. Raka memakan 5 bagian. Pecahan kue yang masih tersisa adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "5/12"
+        },
+        {
+          "key": "B",
+          "text": "7/12"
+        },
+        {
+          "key": "C",
+          "text": "7/5"
+        },
+        {
+          "key": "D",
+          "text": "12/7"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1790054437728_9698_3",
+      "type": "pg",
+      "teks": "Ibu memiliki 2 1/2 kg tepung. Sebanyak 3/4 kg digunakan untuk membuat kue. Sisa tepung adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "1 1/4 kg",
+        "1 1/2 kg",
+        "1 3/4 kg",
+        "2 1/4 kg"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "pecahaN",
+      "order": 4,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Ibu memiliki 2 1/2 kg tepung. Sebanyak 3/4 kg digunakan untuk membuat kue. Sisa tepung adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1 1/4 kg"
+          },
+          {
+            "letter": "B",
+            "text": "1 1/2 kg"
+          },
+          {
+            "letter": "C",
+            "text": "1 3/4 kg"
+          },
+          {
+            "letter": "D",
+            "text": "2 1/4 kg"
+          }
+        ],
+        "rawText": "Ibu memiliki 2 1/2 kg tepung. Sebanyak 3/4 kg digunakan untuk membuat kue. Sisa tepung adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790054437728_9698_3",
+      "number": 4,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Ibu memiliki 2 1/2 kg tepung. Sebanyak 3/4 kg digunakan untuk membuat kue. Sisa tepung adalah ...",
+      "pertanyaan": "Ibu memiliki 2 1/2 kg tepung. Sebanyak 3/4 kg digunakan untuk membuat kue. Sisa tepung adalah ...",
+      "text": "Ibu memiliki 2 1/2 kg tepung. Sebanyak 3/4 kg digunakan untuk membuat kue. Sisa tepung adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "1 1/4 kg"
+        },
+        {
+          "key": "B",
+          "text": "1 1/2 kg"
+        },
+        {
+          "key": "C",
+          "text": "1 3/4 kg"
+        },
+        {
+          "key": "D",
+          "text": "2 1/4 kg"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790054437728_2788_4",
+      "type": "ma",
+      "teks": "Perhatikan pernyataan berikut tentang pecahan.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "2/3 lebih besar daripada 3/5.",
+        "4/8 senilai dengan 1/2.",
+        "5/6 lebih kecil daripada 3/4."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1
+      ],
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "pecahaN",
+      "order": 5,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan pernyataan berikut tentang pecahan.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "2/3 lebih besar daripada 3/5."
+          },
+          {
+            "letter": "B",
+            "text": "4/8 senilai dengan 1/2."
+          },
+          {
+            "letter": "C",
+            "text": "5/6 lebih kecil daripada 3/4."
+          }
+        ],
+        "rawText": "Perhatikan pernyataan berikut tentang pecahan.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1790054437728_2788_4",
+      "number": 5,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Perhatikan pernyataan berikut tentang pecahan.",
+      "pertanyaan": "Perhatikan pernyataan berikut tentang pecahan.",
+      "text": "Perhatikan pernyataan berikut tentang pecahan.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "2/3 lebih besar daripada 3/5."
+        },
+        {
+          "key": "B",
+          "text": "4/8 senilai dengan 1/2."
+        },
+        {
+          "key": "C",
+          "text": "5/6 lebih kecil daripada 3/4."
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "kunci": "A, B"
+    },
+    {
+      "id": "temp_ai_1790054437729_7964_5",
+      "type": "ma",
+      "teks": "Pilih semua pernyataan yang benar.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "0,75 sama dengan 3/4.",
+        "0,4 sama dengan 2/5.",
+        "1,2 sama dengan 6/10."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1
+      ],
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "pecahaN",
+      "order": 6,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua pernyataan yang benar.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "0,75 sama dengan 3/4."
+          },
+          {
+            "letter": "B",
+            "text": "0,4 sama dengan 2/5."
+          },
+          {
+            "letter": "C",
+            "text": "1,2 sama dengan 6/10."
+          }
+        ],
+        "rawText": "Pilih semua pernyataan yang benar.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1790054437729_7964_5",
+      "number": 6,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua pernyataan yang benar.",
+      "pertanyaan": "Pilih semua pernyataan yang benar.",
+      "text": "Pilih semua pernyataan yang benar.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "0,75 sama dengan 3/4."
+        },
+        {
+          "key": "B",
+          "text": "0,4 sama dengan 2/5."
+        },
+        {
+          "key": "C",
+          "text": "1,2 sama dengan 6/10."
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "kunci": "A, B"
+    },
+    {
+      "id": "temp_ai_1790054437729_1922_6",
+      "type": "ma",
+      "teks": "Pilih semua pernyataan yang benar tentang pecahan berikut.",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "7/10 dapat ditulis sebagai 70%.",
+        "1/4 dapat ditulis sebagai 25%.",
+        "3/5 dapat ditulis sebagai 35%."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1
+      ],
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "pecahaN",
+      "order": 7,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilih semua pernyataan yang benar tentang pecahan berikut.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "7/10 dapat ditulis sebagai 70%."
+          },
+          {
+            "letter": "B",
+            "text": "1/4 dapat ditulis sebagai 25%."
+          },
+          {
+            "letter": "C",
+            "text": "3/5 dapat ditulis sebagai 35%."
+          }
+        ],
+        "rawText": "Pilih semua pernyataan yang benar tentang pecahan berikut.",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1790054437729_1922_6",
+      "number": 7,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilih semua pernyataan yang benar tentang pecahan berikut.",
+      "pertanyaan": "Pilih semua pernyataan yang benar tentang pecahan berikut.",
+      "text": "Pilih semua pernyataan yang benar tentang pecahan berikut.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "7/10 dapat ditulis sebagai 70%."
+        },
+        {
+          "key": "B",
+          "text": "1/4 dapat ditulis sebagai 25%."
+        },
+        {
+          "key": "C",
+          "text": "3/5 dapat ditulis sebagai 35%."
+        }
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "kunci": "A, B"
+    },
+    {
+      "id": "temp_ai_1790054437729_5378_7",
+      "type": "pg",
+      "teks": "Pecahan 3/4 jika diubah menjadi persen adalah ...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "25%",
+        "50%",
+        "75%",
+        "80%"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "pecahaN",
+      "order": 8,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pecahan 3/4 jika diubah menjadi persen adalah ...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "25%"
+          },
+          {
+            "letter": "B",
+            "text": "50%"
+          },
+          {
+            "letter": "C",
+            "text": "75%"
+          },
+          {
+            "letter": "D",
+            "text": "80%"
+          }
+        ],
+        "rawText": "Pecahan 3/4 jika diubah menjadi persen adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790054437729_5378_7",
+      "number": 8,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Pecahan 3/4 jika diubah menjadi persen adalah ...",
+      "pertanyaan": "Pecahan 3/4 jika diubah menjadi persen adalah ...",
+      "text": "Pecahan 3/4 jika diubah menjadi persen adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "25%"
+        },
+        {
+          "key": "B",
+          "text": "50%"
+        },
+        {
+          "key": "C",
+          "text": "75%"
+        },
+        {
+          "key": "D",
+          "text": "80%"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790054437730_9694_8",
+      "type": "tf",
+      "teks": "Siti memiliki 3/5 liter jus. Ia menuangkan 1/5 liter ke dalam gelas. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Jus yang tersisa adalah 2/5 liter.",
+          "teks": "Jus yang tersisa adalah 2/5 liter.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Jus yang dituangkan lebih banyak daripada jus yang tersisa.",
+          "teks": "Jus yang dituangkan lebih banyak daripada jus yang tersisa.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Jika 2/5 liter diubah ke bentuk desimal, hasilnya 0,4.",
+          "teks": "Jika 2/5 liter diubah ke bentuk desimal, hasilnya 0,4.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Jus yang tersisa adalah 2/5 liter.",
+          "jawaban": true,
+          "text": "Jus yang tersisa adalah 2/5 liter."
+        },
+        {
+          "teks": "Jus yang dituangkan lebih banyak daripada jus yang tersisa.",
+          "jawaban": false,
+          "text": "Jus yang dituangkan lebih banyak daripada jus yang tersisa."
+        },
+        {
+          "teks": "Jika 2/5 liter diubah ke bentuk desimal, hasilnya 0,4.",
+          "jawaban": true,
+          "text": "Jika 2/5 liter diubah ke bentuk desimal, hasilnya 0,4."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Jus yang tersisa adalah 2/5 liter.",
+          "teks": "Jus yang tersisa adalah 2/5 liter.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Jus yang dituangkan lebih banyak daripada jus yang tersisa.",
+          "teks": "Jus yang dituangkan lebih banyak daripada jus yang tersisa.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Jika 2/5 liter diubah ke bentuk desimal, hasilnya 0,4.",
+          "teks": "Jika 2/5 liter diubah ke bentuk desimal, hasilnya 0,4.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "pecahaN",
+      "order": 9,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Siti memiliki 3/5 liter jus. Ia menuangkan 1/5 liter ke dalam gelas. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Jus yang tersisa adalah 2/5 liter."
+          },
+          {
+            "letter": "B",
+            "text": "Jus yang dituangkan lebih banyak daripada jus yang tersisa."
+          },
+          {
+            "letter": "C",
+            "text": "Jika 2/5 liter diubah ke bentuk desimal, hasilnya 0,4."
+          }
+        ],
+        "rawText": "Siti memiliki 3/5 liter jus. Ia menuangkan 1/5 liter ke dalam gelas. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1790054437730_9694_8",
+      "number": 9,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Siti memiliki 3/5 liter jus. Ia menuangkan 1/5 liter ke dalam gelas. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+      "pertanyaan": "Siti memiliki 3/5 liter jus. Ia menuangkan 1/5 liter ke dalam gelas. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+      "text": "Siti memiliki 3/5 liter jus. Ia menuangkan 1/5 liter ke dalam gelas. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790054437731_8550_9",
+      "type": "tf",
+      "teks": "Perhatikan pecahan 2/3, 3/4, dan 5/6. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "2/3 merupakan pecahan paling kecil.",
+          "teks": "2/3 merupakan pecahan paling kecil.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "5/6 merupakan pecahan paling besar.",
+          "teks": "5/6 merupakan pecahan paling besar.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "3/4 lebih kecil daripada 2/3.",
+          "teks": "3/4 lebih kecil daripada 2/3.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "2/3 merupakan pecahan paling kecil.",
+          "jawaban": true,
+          "text": "2/3 merupakan pecahan paling kecil."
+        },
+        {
+          "teks": "5/6 merupakan pecahan paling besar.",
+          "jawaban": true,
+          "text": "5/6 merupakan pecahan paling besar."
+        },
+        {
+          "teks": "3/4 lebih kecil daripada 2/3.",
+          "jawaban": false,
+          "text": "3/4 lebih kecil daripada 2/3."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "2/3 merupakan pecahan paling kecil.",
+          "teks": "2/3 merupakan pecahan paling kecil.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "5/6 merupakan pecahan paling besar.",
+          "teks": "5/6 merupakan pecahan paling besar.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "3/4 lebih kecil daripada 2/3.",
+          "teks": "3/4 lebih kecil daripada 2/3.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "pecahaN",
+      "order": 10,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan pecahan 2/3, 3/4, dan 5/6. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "2/3 merupakan pecahan paling kecil."
+          },
+          {
+            "letter": "B",
+            "text": "5/6 merupakan pecahan paling besar."
+          },
+          {
+            "letter": "C",
+            "text": "3/4 lebih kecil daripada 2/3."
+          }
+        ],
+        "rawText": "Perhatikan pecahan 2/3, 3/4, dan 5/6. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1790054437731_8550_9",
+      "number": 10,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Perhatikan pecahan 2/3, 3/4, dan 5/6. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+      "pertanyaan": "Perhatikan pecahan 2/3, 3/4, dan 5/6. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+      "text": "Perhatikan pecahan 2/3, 3/4, dan 5/6. Tentukan benar atau salah untuk setiap pernyataan berikut.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790055627818_6331_0",
+      "type": "pg",
+      "teks": "Ani berlatih berenang setiap 6 hari sekali, sedangkan Budi berlatih berenang setiap 8 hari sekali. Jika mereka berlatih bersama hari ini, berapa hari lagi mereka akan berlatih bersama?",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "12 hari",
+        "14 hari",
+        "24 hari",
+        "48 hari"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "KPK DAN FPB",
+      "order": 11,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Ani berlatih berenang setiap 6 hari sekali, sedangkan Budi berlatih berenang setiap 8 hari sekali. Jika mereka berlatih bersama hari ini, berapa hari lagi mereka akan berlatih bersama?",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "12 hari"
+          },
+          {
+            "letter": "B",
+            "text": "14 hari"
+          },
+          {
+            "letter": "C",
+            "text": "24 hari"
+          },
+          {
+            "letter": "D",
+            "text": "48 hari"
+          }
+        ],
+        "rawText": "Ani berlatih berenang setiap 6 hari sekali, sedangkan Budi berlatih berenang setiap 8 hari sekali. Jika mereka berlatih bersama hari ini, berapa hari lagi mereka akan berlatih bersama?",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790055627818_6331_0",
+      "number": 11,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Ani berlatih berenang setiap 6 hari sekali, sedangkan Budi berlatih berenang setiap 8 hari sekali. Jika mereka berlatih bersama hari ini, berapa hari lagi mereka akan berlatih bersama?",
+      "pertanyaan": "Ani berlatih berenang setiap 6 hari sekali, sedangkan Budi berlatih berenang setiap 8 hari sekali. Jika mereka berlatih bersama hari ini, berapa hari lagi mereka akan berlatih bersama?",
+      "text": "Ani berlatih berenang setiap 6 hari sekali, sedangkan Budi berlatih berenang setiap 8 hari sekali. Jika mereka berlatih bersama hari ini, berapa hari lagi mereka akan berlatih bersama?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "12 hari"
+        },
+        {
+          "key": "B",
+          "text": "14 hari"
+        },
+        {
+          "key": "C",
+          "text": "24 hari"
+        },
+        {
+          "key": "D",
+          "text": "48 hari"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790055627818_8049_1",
+      "type": "pg",
+      "teks": "Dua lampu berkedip secara berkala. Lampu merah berkedip setiap 12 detik dan lampu biru setiap 18 detik. Jika keduanya berkedip bersama pada detik ke-0, keduanya akan berkedip bersama lagi pada detik ke-berapa?",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "24 detik",
+        "30 detik",
+        "36 detik",
+        "54 detik"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "KPK DAN FPB",
+      "order": 12,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Dua lampu berkedip secara berkala. Lampu merah berkedip setiap 12 detik dan lampu biru setiap 18 detik. Jika keduanya berkedip bersama pada detik ke-0, keduanya akan berkedip bersama lagi pada detik ke-berapa?",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "24 detik"
+          },
+          {
+            "letter": "B",
+            "text": "30 detik"
+          },
+          {
+            "letter": "C",
+            "text": "36 detik"
+          },
+          {
+            "letter": "D",
+            "text": "54 detik"
+          }
+        ],
+        "rawText": "Dua lampu berkedip secara berkala. Lampu merah berkedip setiap 12 detik dan lampu biru setiap 18 detik. Jika keduanya berkedip bersama pada detik ke-0, keduanya akan berkedip bersama lagi pada detik ke-berapa?",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790055627818_8049_1",
+      "number": 12,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Dua lampu berkedip secara berkala. Lampu merah berkedip setiap 12 detik dan lampu biru setiap 18 detik. Jika keduanya berkedip bersama pada detik ke-0, keduanya akan berkedip bersama lagi pada detik ke-berapa?",
+      "pertanyaan": "Dua lampu berkedip secara berkala. Lampu merah berkedip setiap 12 detik dan lampu biru setiap 18 detik. Jika keduanya berkedip bersama pada detik ke-0, keduanya akan berkedip bersama lagi pada detik ke-berapa?",
+      "text": "Dua lampu berkedip secara berkala. Lampu merah berkedip setiap 12 detik dan lampu biru setiap 18 detik. Jika keduanya berkedip bersama pada detik ke-0, keduanya akan berkedip bersama lagi pada detik ke-berapa?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "24 detik"
+        },
+        {
+          "key": "B",
+          "text": "30 detik"
+        },
+        {
+          "key": "C",
+          "text": "36 detik"
+        },
+        {
+          "key": "D",
+          "text": "54 detik"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790055627818_9005_2",
+      "type": "pg",
+      "teks": "Ibu memiliki 36 apel dan 48 jeruk. Buah-buahan tersebut akan dimasukkan ke dalam beberapa kantong dengan jumlah apel dan jeruk yang sama pada setiap kantong. Jumlah kantong terbanyak yang dapat dibuat adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "6 kantong",
+        "8 kantong",
+        "12 kantong",
+        "16 kantong"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "KPK DAN FPB",
+      "order": 13,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Ibu memiliki 36 apel dan 48 jeruk. Buah-buahan tersebut akan dimasukkan ke dalam beberapa kantong dengan jumlah apel dan jeruk yang sama pada setiap kantong. Jumlah kantong terbanyak yang dapat dibuat adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "6 kantong"
+          },
+          {
+            "letter": "B",
+            "text": "8 kantong"
+          },
+          {
+            "letter": "C",
+            "text": "12 kantong"
+          },
+          {
+            "letter": "D",
+            "text": "16 kantong"
+          }
+        ],
+        "rawText": "Ibu memiliki 36 apel dan 48 jeruk. Buah-buahan tersebut akan dimasukkan ke dalam beberapa kantong dengan jumlah apel dan jeruk yang sama pada setiap kantong. Jumlah kantong terbanyak yang dapat dibuat adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790055627818_9005_2",
+      "number": 13,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Ibu memiliki 36 apel dan 48 jeruk. Buah-buahan tersebut akan dimasukkan ke dalam beberapa kantong dengan jumlah apel dan jeruk yang sama pada setiap kantong. Jumlah kantong terbanyak yang dapat dibuat adalah ....",
+      "pertanyaan": "Ibu memiliki 36 apel dan 48 jeruk. Buah-buahan tersebut akan dimasukkan ke dalam beberapa kantong dengan jumlah apel dan jeruk yang sama pada setiap kantong. Jumlah kantong terbanyak yang dapat dibuat adalah ....",
+      "text": "Ibu memiliki 36 apel dan 48 jeruk. Buah-buahan tersebut akan dimasukkan ke dalam beberapa kantong dengan jumlah apel dan jeruk yang sama pada setiap kantong. Jumlah kantong terbanyak yang dapat dibuat adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "6 kantong"
+        },
+        {
+          "key": "B",
+          "text": "8 kantong"
+        },
+        {
+          "key": "C",
+          "text": "12 kantong"
+        },
+        {
+          "key": "D",
+          "text": "16 kantong"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790055627818_4332_3",
+      "type": "pg",
+      "teks": "Rina mempunyai 24 pensil dan 40 penghapus. Ia ingin membuat paket dengan jumlah pensil dan penghapus yang sama untuk setiap paket tanpa sisa. Banyak paket terbanyak yang dapat dibuat adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "4 paket",
+        "6 paket",
+        "8 paket",
+        "12 paket"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "KPK DAN FPB",
+      "order": 14,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Rina mempunyai 24 pensil dan 40 penghapus. Ia ingin membuat paket dengan jumlah pensil dan penghapus yang sama untuk setiap paket tanpa sisa. Banyak paket terbanyak yang dapat dibuat adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "4 paket"
+          },
+          {
+            "letter": "B",
+            "text": "6 paket"
+          },
+          {
+            "letter": "C",
+            "text": "8 paket"
+          },
+          {
+            "letter": "D",
+            "text": "12 paket"
+          }
+        ],
+        "rawText": "Rina mempunyai 24 pensil dan 40 penghapus. Ia ingin membuat paket dengan jumlah pensil dan penghapus yang sama untuk setiap paket tanpa sisa. Banyak paket terbanyak yang dapat dibuat adalah ....",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790055627818_4332_3",
+      "number": 14,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Rina mempunyai 24 pensil dan 40 penghapus. Ia ingin membuat paket dengan jumlah pensil dan penghapus yang sama untuk setiap paket tanpa sisa. Banyak paket terbanyak yang dapat dibuat adalah ....",
+      "pertanyaan": "Rina mempunyai 24 pensil dan 40 penghapus. Ia ingin membuat paket dengan jumlah pensil dan penghapus yang sama untuk setiap paket tanpa sisa. Banyak paket terbanyak yang dapat dibuat adalah ....",
+      "text": "Rina mempunyai 24 pensil dan 40 penghapus. Ia ingin membuat paket dengan jumlah pensil dan penghapus yang sama untuk setiap paket tanpa sisa. Banyak paket terbanyak yang dapat dibuat adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "4 paket"
+        },
+        {
+          "key": "B",
+          "text": "6 paket"
+        },
+        {
+          "key": "C",
+          "text": "8 paket"
+        },
+        {
+          "key": "D",
+          "text": "12 paket"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790055627819_7807_4",
+      "type": "ma",
+      "teks": "Perhatikan bilangan berikut: 18, 24, 30, dan 36. Bilangan yang merupakan kelipatan dari 6 adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "18",
+        "24",
+        "30",
+        "36"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "KPK DAN FPB",
+      "order": 15,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan bilangan berikut: 18, 24, 30, dan 36. Bilangan yang merupakan kelipatan dari 6 adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "18"
+          },
+          {
+            "letter": "B",
+            "text": "24"
+          },
+          {
+            "letter": "C",
+            "text": "30"
+          },
+          {
+            "letter": "D",
+            "text": "36"
+          }
+        ],
+        "rawText": "Perhatikan bilangan berikut: 18, 24, 30, dan 36. Bilangan yang merupakan kelipatan dari 6 adalah ....",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1790055627819_7807_4",
+      "number": 15,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Perhatikan bilangan berikut: 18, 24, 30, dan 36. Bilangan yang merupakan kelipatan dari 6 adalah ....",
+      "pertanyaan": "Perhatikan bilangan berikut: 18, 24, 30, dan 36. Bilangan yang merupakan kelipatan dari 6 adalah ....",
+      "text": "Perhatikan bilangan berikut: 18, 24, 30, dan 36. Bilangan yang merupakan kelipatan dari 6 adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "18"
+        },
+        {
+          "key": "B",
+          "text": "24"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "36"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "kunci": "A, B, C, D"
+    },
+    {
+      "id": "temp_ai_1790055627819_9767_5",
+      "type": "ma",
+      "teks": "Perhatikan pasangan bilangan berikut. Pasangan bilangan yang memiliki FPB 6 adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "12 dan 18",
+        "18 dan 24",
+        "24 dan 30",
+        "16 dan 24"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2
+      ],
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "KPK DAN FPB",
+      "order": 16,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan pasangan bilangan berikut. Pasangan bilangan yang memiliki FPB 6 adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "12 dan 18"
+          },
+          {
+            "letter": "B",
+            "text": "18 dan 24"
+          },
+          {
+            "letter": "C",
+            "text": "24 dan 30"
+          },
+          {
+            "letter": "D",
+            "text": "16 dan 24"
+          }
+        ],
+        "rawText": "Perhatikan pasangan bilangan berikut. Pasangan bilangan yang memiliki FPB 6 adalah ....",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1790055627819_9767_5",
+      "number": 16,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Perhatikan pasangan bilangan berikut. Pasangan bilangan yang memiliki FPB 6 adalah ....",
+      "pertanyaan": "Perhatikan pasangan bilangan berikut. Pasangan bilangan yang memiliki FPB 6 adalah ....",
+      "text": "Perhatikan pasangan bilangan berikut. Pasangan bilangan yang memiliki FPB 6 adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "12 dan 18"
+        },
+        {
+          "key": "B",
+          "text": "18 dan 24"
+        },
+        {
+          "key": "C",
+          "text": "24 dan 30"
+        },
+        {
+          "key": "D",
+          "text": "16 dan 24"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "kunci": "A, B, C"
+    },
+    {
+      "id": "temp_ai_1790055627819_8813_6",
+      "type": "ma",
+      "teks": "KPK dari dua bilangan dapat digunakan untuk menentukan waktu terjadinya dua kegiatan yang berulang secara bersamaan. Pernyataan yang benar adalah ....",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "KPK dari 4 dan 6 adalah 12.",
+        "KPK dari 8 dan 12 adalah 24.",
+        "KPK dari 6 dan 15 adalah 30.",
+        "KPK dari 9 dan 12 adalah 18."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2
+      ],
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "KPK DAN FPB",
+      "order": 17,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "KPK dari dua bilangan dapat digunakan untuk menentukan waktu terjadinya dua kegiatan yang berulang secara bersamaan. Pernyataan yang benar adalah ....",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "KPK dari 4 dan 6 adalah 12."
+          },
+          {
+            "letter": "B",
+            "text": "KPK dari 8 dan 12 adalah 24."
+          },
+          {
+            "letter": "C",
+            "text": "KPK dari 6 dan 15 adalah 30."
+          },
+          {
+            "letter": "D",
+            "text": "KPK dari 9 dan 12 adalah 18."
+          }
+        ],
+        "rawText": "KPK dari dua bilangan dapat digunakan untuk menentukan waktu terjadinya dua kegiatan yang berulang secara bersamaan. Pernyataan yang benar adalah ....",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1790055627819_8813_6",
+      "number": 17,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "KPK dari dua bilangan dapat digunakan untuk menentukan waktu terjadinya dua kegiatan yang berulang secara bersamaan. Pernyataan yang benar adalah ....",
+      "pertanyaan": "KPK dari dua bilangan dapat digunakan untuk menentukan waktu terjadinya dua kegiatan yang berulang secara bersamaan. Pernyataan yang benar adalah ....",
+      "text": "KPK dari dua bilangan dapat digunakan untuk menentukan waktu terjadinya dua kegiatan yang berulang secara bersamaan. Pernyataan yang benar adalah ....",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "KPK dari 4 dan 6 adalah 12."
+        },
+        {
+          "key": "B",
+          "text": "KPK dari 8 dan 12 adalah 24."
+        },
+        {
+          "key": "C",
+          "text": "KPK dari 6 dan 15 adalah 30."
+        },
+        {
+          "key": "D",
+          "text": "KPK dari 9 dan 12 adalah 18."
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "kunci": "A, B, C"
+    },
+    {
+      "id": "temp_ai_1790055627820_804_7",
+      "type": "tf",
+      "teks": "Perhatikan situasi berikut. Siti memiliki 20 kue dan 30 permen. Semua makanan akan dibagikan ke dalam beberapa paket dengan isi setiap jenis makanan sama banyak dan tidak ada sisa.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "FPB dari 20 dan 30 adalah 10.",
+          "teks": "FPB dari 20 dan 30 adalah 10.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Paket terbanyak yang dapat dibuat adalah 5 paket.",
+          "teks": "Paket terbanyak yang dapat dibuat adalah 5 paket.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Setiap paket jika dibuat sebanyak mungkin akan berisi 2 kue dan 3 permen.",
+          "teks": "Setiap paket jika dibuat sebanyak mungkin akan berisi 2 kue dan 3 permen.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Jika dibuat 10 paket, setiap paket berisi 3 permen.",
+          "teks": "Jika dibuat 10 paket, setiap paket berisi 3 permen.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "FPB dari 20 dan 30 adalah 10.",
+          "jawaban": true,
+          "text": "FPB dari 20 dan 30 adalah 10."
+        },
+        {
+          "teks": "Paket terbanyak yang dapat dibuat adalah 5 paket.",
+          "jawaban": false,
+          "text": "Paket terbanyak yang dapat dibuat adalah 5 paket."
+        },
+        {
+          "teks": "Setiap paket jika dibuat sebanyak mungkin akan berisi 2 kue dan 3 permen.",
+          "jawaban": true,
+          "text": "Setiap paket jika dibuat sebanyak mungkin akan berisi 2 kue dan 3 permen."
+        },
+        {
+          "teks": "Jika dibuat 10 paket, setiap paket berisi 3 permen.",
+          "jawaban": true,
+          "text": "Jika dibuat 10 paket, setiap paket berisi 3 permen."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "FPB dari 20 dan 30 adalah 10.",
+          "teks": "FPB dari 20 dan 30 adalah 10.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Paket terbanyak yang dapat dibuat adalah 5 paket.",
+          "teks": "Paket terbanyak yang dapat dibuat adalah 5 paket.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Setiap paket jika dibuat sebanyak mungkin akan berisi 2 kue dan 3 permen.",
+          "teks": "Setiap paket jika dibuat sebanyak mungkin akan berisi 2 kue dan 3 permen.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Jika dibuat 10 paket, setiap paket berisi 3 permen.",
+          "teks": "Jika dibuat 10 paket, setiap paket berisi 3 permen.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "KPK DAN FPB",
+      "order": 18,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan situasi berikut. Siti memiliki 20 kue dan 30 permen. Semua makanan akan dibagikan ke dalam beberapa paket dengan isi setiap jenis makanan sama banyak dan tidak ada sisa.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "FPB dari 20 dan 30 adalah 10."
+          },
+          {
+            "letter": "B",
+            "text": "Paket terbanyak yang dapat dibuat adalah 5 paket."
+          },
+          {
+            "letter": "C",
+            "text": "Setiap paket jika dibuat sebanyak mungkin akan berisi 2 kue dan 3 permen."
+          },
+          {
+            "letter": "D",
+            "text": "Jika dibuat 10 paket, setiap paket berisi 3 permen."
+          }
+        ],
+        "rawText": "Perhatikan situasi berikut. Siti memiliki 20 kue dan 30 permen. Semua makanan akan dibagikan ke dalam beberapa paket dengan isi setiap jenis makanan sama banyak dan tidak ada sisa.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1790055627820_804_7",
+      "number": 18,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Perhatikan situasi berikut. Siti memiliki 20 kue dan 30 permen. Semua makanan akan dibagikan ke dalam beberapa paket dengan isi setiap jenis makanan sama banyak dan tidak ada sisa.",
+      "pertanyaan": "Perhatikan situasi berikut. Siti memiliki 20 kue dan 30 permen. Semua makanan akan dibagikan ke dalam beberapa paket dengan isi setiap jenis makanan sama banyak dan tidak ada sisa.",
+      "text": "Perhatikan situasi berikut. Siti memiliki 20 kue dan 30 permen. Semua makanan akan dibagikan ke dalam beberapa paket dengan isi setiap jenis makanan sama banyak dan tidak ada sisa.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790055627820_7669_8",
+      "type": "tf",
+      "teks": "Perhatikan dua kegiatan berikut. Bel sekolah berbunyi setiap 12 menit, sedangkan alarm kelas berbunyi setiap 18 menit. Keduanya berbunyi bersama pada pukul 07.00.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "KPK dari 12 dan 18 adalah 36.",
+          "teks": "KPK dari 12 dan 18 adalah 36.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.24.",
+          "teks": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.24.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.36.",
+          "teks": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.36.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Dalam 36 menit, bel sekolah berbunyi sebanyak 3 kali setelah pukul 07.00, jika bunyi pada pukul 07.00 tidak dihitung.",
+          "teks": "Dalam 36 menit, bel sekolah berbunyi sebanyak 3 kali setelah pukul 07.00, jika bunyi pada pukul 07.00 tidak dihitung.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "KPK dari 12 dan 18 adalah 36.",
+          "jawaban": true,
+          "text": "KPK dari 12 dan 18 adalah 36."
+        },
+        {
+          "teks": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.24.",
+          "jawaban": false,
+          "text": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.24."
+        },
+        {
+          "teks": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.36.",
+          "jawaban": true,
+          "text": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.36."
+        },
+        {
+          "teks": "Dalam 36 menit, bel sekolah berbunyi sebanyak 3 kali setelah pukul 07.00, jika bunyi pada pukul 07.00 tidak dihitung.",
+          "jawaban": true,
+          "text": "Dalam 36 menit, bel sekolah berbunyi sebanyak 3 kali setelah pukul 07.00, jika bunyi pada pukul 07.00 tidak dihitung."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "KPK dari 12 dan 18 adalah 36.",
+          "teks": "KPK dari 12 dan 18 adalah 36.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.24.",
+          "teks": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.24.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.36.",
+          "teks": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.36.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Dalam 36 menit, bel sekolah berbunyi sebanyak 3 kali setelah pukul 07.00, jika bunyi pada pukul 07.00 tidak dihitung.",
+          "teks": "Dalam 36 menit, bel sekolah berbunyi sebanyak 3 kali setelah pukul 07.00, jika bunyi pada pukul 07.00 tidak dihitung.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "KPK DAN FPB",
+      "order": 19,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan dua kegiatan berikut. Bel sekolah berbunyi setiap 12 menit, sedangkan alarm kelas berbunyi setiap 18 menit. Keduanya berbunyi bersama pada pukul 07.00.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "KPK dari 12 dan 18 adalah 36."
+          },
+          {
+            "letter": "B",
+            "text": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.24."
+          },
+          {
+            "letter": "C",
+            "text": "Kedua bunyi akan terdengar bersama lagi pada pukul 07.36."
+          },
+          {
+            "letter": "D",
+            "text": "Dalam 36 menit, bel sekolah berbunyi sebanyak 3 kali setelah pukul 07.00, jika bunyi pada pukul 07.00 tidak dihitung."
+          }
+        ],
+        "rawText": "Perhatikan dua kegiatan berikut. Bel sekolah berbunyi setiap 12 menit, sedangkan alarm kelas berbunyi setiap 18 menit. Keduanya berbunyi bersama pada pukul 07.00.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1790055627820_7669_8",
+      "number": 19,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Perhatikan dua kegiatan berikut. Bel sekolah berbunyi setiap 12 menit, sedangkan alarm kelas berbunyi setiap 18 menit. Keduanya berbunyi bersama pada pukul 07.00.",
+      "pertanyaan": "Perhatikan dua kegiatan berikut. Bel sekolah berbunyi setiap 12 menit, sedangkan alarm kelas berbunyi setiap 18 menit. Keduanya berbunyi bersama pada pukul 07.00.",
+      "text": "Perhatikan dua kegiatan berikut. Bel sekolah berbunyi setiap 12 menit, sedangkan alarm kelas berbunyi setiap 18 menit. Keduanya berbunyi bersama pada pukul 07.00.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790055627820_8698_9",
+      "type": "tf",
+      "teks": "Pak Andi memiliki 42 buku tulis dan 56 pensil. Ia ingin membuat paket sebanyak mungkin dengan jumlah buku tulis dan pensil yang sama pada setiap paket tanpa sisa.",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "FPB dari 42 dan 56 adalah 14.",
+          "teks": "FPB dari 42 dan 56 adalah 14.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Paket terbanyak yang dapat dibuat adalah 7 paket.",
+          "teks": "Paket terbanyak yang dapat dibuat adalah 7 paket.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Setiap paket berisi 3 buku tulis dan 4 pensil.",
+          "teks": "Setiap paket berisi 3 buku tulis dan 4 pensil.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Jika dibuat 14 paket, setiap paket berisi 4 pensil.",
+          "teks": "Jika dibuat 14 paket, setiap paket berisi 4 pensil.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "FPB dari 42 dan 56 adalah 14.",
+          "jawaban": true,
+          "text": "FPB dari 42 dan 56 adalah 14."
+        },
+        {
+          "teks": "Paket terbanyak yang dapat dibuat adalah 7 paket.",
+          "jawaban": false,
+          "text": "Paket terbanyak yang dapat dibuat adalah 7 paket."
+        },
+        {
+          "teks": "Setiap paket berisi 3 buku tulis dan 4 pensil.",
+          "jawaban": true,
+          "text": "Setiap paket berisi 3 buku tulis dan 4 pensil."
+        },
+        {
+          "teks": "Jika dibuat 14 paket, setiap paket berisi 4 pensil.",
+          "jawaban": true,
+          "text": "Jika dibuat 14 paket, setiap paket berisi 4 pensil."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "FPB dari 42 dan 56 adalah 14.",
+          "teks": "FPB dari 42 dan 56 adalah 14.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Paket terbanyak yang dapat dibuat adalah 7 paket.",
+          "teks": "Paket terbanyak yang dapat dibuat adalah 7 paket.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Setiap paket berisi 3 buku tulis dan 4 pensil.",
+          "teks": "Setiap paket berisi 3 buku tulis dan 4 pensil.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Jika dibuat 14 paket, setiap paket berisi 4 pensil.",
+          "teks": "Jika dibuat 14 paket, setiap paket berisi 4 pensil.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 5,
+      "difficulty": "sedang",
+      "chapter": "KPK DAN FPB",
+      "order": 20,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pak Andi memiliki 42 buku tulis dan 56 pensil. Ia ingin membuat paket sebanyak mungkin dengan jumlah buku tulis dan pensil yang sama pada setiap paket tanpa sisa.",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "FPB dari 42 dan 56 adalah 14."
+          },
+          {
+            "letter": "B",
+            "text": "Paket terbanyak yang dapat dibuat adalah 7 paket."
+          },
+          {
+            "letter": "C",
+            "text": "Setiap paket berisi 3 buku tulis dan 4 pensil."
+          },
+          {
+            "letter": "D",
+            "text": "Jika dibuat 14 paket, setiap paket berisi 4 pensil."
+          }
+        ],
+        "rawText": "Pak Andi memiliki 42 buku tulis dan 56 pensil. Ia ingin membuat paket sebanyak mungkin dengan jumlah buku tulis dan pensil yang sama pada setiap paket tanpa sisa.",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1790055627820_8698_9",
+      "number": 20,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Pak Andi memiliki 42 buku tulis dan 56 pensil. Ia ingin membuat paket sebanyak mungkin dengan jumlah buku tulis dan pensil yang sama pada setiap paket tanpa sisa.",
+      "pertanyaan": "Pak Andi memiliki 42 buku tulis dan 56 pensil. Ia ingin membuat paket sebanyak mungkin dengan jumlah buku tulis dan pensil yang sama pada setiap paket tanpa sisa.",
+      "text": "Pak Andi memiliki 42 buku tulis dan 56 pensil. Ia ingin membuat paket sebanyak mungkin dengan jumlah buku tulis dan pensil yang sama pada setiap paket tanpa sisa.",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 5,
+      "opsiMedia": []
+    }
+  ],
+  "updatedAt": "2026-09-22T05:45:42.771Z"
+}
