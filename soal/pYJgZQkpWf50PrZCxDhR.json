@@ -1,0 +1,3597 @@
+{
+  "fileId": "pYJgZQkpWf50PrZCxDhR",
+  "id": "pYJgZQkpWf50PrZCxDhR",
+  "examId": "pYJgZQkpWf50PrZCxDhR",
+  "title": "Bank Soal Tanpa Judul",
+  "subject": "Lainnya",
+  "duration": 60,
+  "token": "X94HV3",
+  "totalQuestions": 30,
+  "totalBobot": 100,
+  "version": 1,
+  "questions": [
+    {
+      "id": "temp_ai_1790253227811_1901_0",
+      "type": "pg",
+      "teks": "Perhatikan data pada gambar. Pak Hasan memperoleh hasil panen padi sebanyak 500 kg gabah dari lahan yang diairi air hujan. Nisab yang digunakan dalam soal adalah 653 kg gabah. Kesimpulan yang paling tepat tentang kewajiban zakat hasil pertanian Pak Hasan adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/pYJgZQkpWf50PrZCxDhR/img_a1581d009e7057f6.webp",
+      "rawMedia": "soal-01.png",
+      "opsi": [
+        "Pak Hasan wajib mengeluarkan zakat karena hasil panennya telah mencapai nisab.",
+        "Pak Hasan tidak wajib mengeluarkan zakat karena hasil panennya belum mencapai nisab.",
+        "Pak Hasan wajib mengeluarkan zakat sebesar 10% karena lahan diairi air hujan.",
+        "Pak Hasan wajib mengeluarkan zakat sebesar 5% karena lahan diairi air hujan."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.43,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 1,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan data pada gambar. Pak Hasan memperoleh hasil panen padi sebanyak 500 kg gabah dari lahan yang diairi air hujan. Nisab yang digunakan dalam soal adalah 653 kg gabah. Kesimpulan yang paling tepat tentang kewajiban zakat hasil pertanian Pak Hasan adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/pYJgZQkpWf50PrZCxDhR/img_a1581d009e7057f6.webp",
+            "caption": "soal-01.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Pak Hasan wajib mengeluarkan zakat karena hasil panennya telah mencapai nisab."
+          },
+          {
+            "letter": "B",
+            "text": "Pak Hasan tidak wajib mengeluarkan zakat karena hasil panennya belum mencapai nisab."
+          },
+          {
+            "letter": "C",
+            "text": "Pak Hasan wajib mengeluarkan zakat sebesar 10% karena lahan diairi air hujan."
+          },
+          {
+            "letter": "D",
+            "text": "Pak Hasan wajib mengeluarkan zakat sebesar 5% karena lahan diairi air hujan."
+          }
+        ],
+        "rawText": "Perhatikan data pada gambar. Pak Hasan memperoleh hasil panen padi sebanyak 500 kg gabah dari lahan yang diairi air hujan. Nisab yang digunakan dalam soal adalah 653 kg gabah. Kesimpulan yang paling tepat tentang kewajiban zakat hasil pertanian Pak Hasan adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253227811_1901_0",
+      "number": 1,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan data pada gambar. Pak Hasan memperoleh hasil panen padi sebanyak 500 kg gabah dari lahan yang diairi air hujan. Nisab yang digunakan dalam soal adalah 653 kg gabah. Kesimpulan yang paling tepat tentang kewajiban zakat hasil pertanian Pak Hasan adalah ...",
+      "pertanyaan": "Perhatikan data pada gambar. Pak Hasan memperoleh hasil panen padi sebanyak 500 kg gabah dari lahan yang diairi air hujan. Nisab yang digunakan dalam soal adalah 653 kg gabah. Kesimpulan yang paling tepat tentang kewajiban zakat hasil pertanian Pak Hasan adalah ...",
+      "text": "Perhatikan data pada gambar. Pak Hasan memperoleh hasil panen padi sebanyak 500 kg gabah dari lahan yang diairi air hujan. Nisab yang digunakan dalam soal adalah 653 kg gabah. Kesimpulan yang paling tepat tentang kewajiban zakat hasil pertanian Pak Hasan adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.43,
+      "options": [
+        {
+          "key": "A",
+          "text": "Pak Hasan wajib mengeluarkan zakat karena hasil panennya telah mencapai nisab."
+        },
+        {
+          "key": "B",
+          "text": "Pak Hasan tidak wajib mengeluarkan zakat karena hasil panennya belum mencapai nisab."
+        },
+        {
+          "key": "C",
+          "text": "Pak Hasan wajib mengeluarkan zakat sebesar 10% karena lahan diairi air hujan."
+        },
+        {
+          "key": "D",
+          "text": "Pak Hasan wajib mengeluarkan zakat sebesar 5% karena lahan diairi air hujan."
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1790253227812_1900_1",
+      "type": "pg",
+      "teks": "Perhatikan data emas pada gambar. Siti memiliki emas sebanyak 100 gram dan telah menyimpannya selama satu tahun. Jika nisab emas adalah 85 gram dan kadar zakat emas sebesar 2,5%, berapakah zakat emas yang harus dikeluarkan Siti?",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/pYJgZQkpWf50PrZCxDhR/img_3ce62ca196dbed1e.webp",
+      "rawMedia": "soal-02.png",
+      "opsi": [
+        "1 gram",
+        "2 gram",
+        "2,5 gram",
+        "8,5 gram"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 2,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan data emas pada gambar. Siti memiliki emas sebanyak 100 gram dan telah menyimpannya selama satu tahun. Jika nisab emas adalah 85 gram dan kadar zakat emas sebesar 2,5%, berapakah zakat emas yang harus dikeluarkan Siti?",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/pYJgZQkpWf50PrZCxDhR/img_3ce62ca196dbed1e.webp",
+            "caption": "soal-02.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1 gram"
+          },
+          {
+            "letter": "B",
+            "text": "2 gram"
+          },
+          {
+            "letter": "C",
+            "text": "2,5 gram"
+          },
+          {
+            "letter": "D",
+            "text": "8,5 gram"
+          }
+        ],
+        "rawText": "Perhatikan data emas pada gambar. Siti memiliki emas sebanyak 100 gram dan telah menyimpannya selama satu tahun. Jika nisab emas adalah 85 gram dan kadar zakat emas sebesar 2,5%, berapakah zakat emas yang harus dikeluarkan Siti?",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253227812_1900_1",
+      "number": 2,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan data emas pada gambar. Siti memiliki emas sebanyak 100 gram dan telah menyimpannya selama satu tahun. Jika nisab emas adalah 85 gram dan kadar zakat emas sebesar 2,5%, berapakah zakat emas yang harus dikeluarkan Siti?",
+      "pertanyaan": "Perhatikan data emas pada gambar. Siti memiliki emas sebanyak 100 gram dan telah menyimpannya selama satu tahun. Jika nisab emas adalah 85 gram dan kadar zakat emas sebesar 2,5%, berapakah zakat emas yang harus dikeluarkan Siti?",
+      "text": "Perhatikan data emas pada gambar. Siti memiliki emas sebanyak 100 gram dan telah menyimpannya selama satu tahun. Jika nisab emas adalah 85 gram dan kadar zakat emas sebesar 2,5%, berapakah zakat emas yang harus dikeluarkan Siti?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "1 gram"
+        },
+        {
+          "key": "B",
+          "text": "2 gram"
+        },
+        {
+          "key": "C",
+          "text": "2,5 gram"
+        },
+        {
+          "key": "D",
+          "text": "8,5 gram"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790253227812_582_2",
+      "type": "pg",
+      "teks": "Perhatikan data ternak pada gambar. Pak Umar memiliki 5 ekor sapi yang dipelihara selama satu tahun. Jika nisab sapi yang digunakan dalam soal adalah 30 ekor, pernyataan yang paling tepat adalah ...",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/pYJgZQkpWf50PrZCxDhR/img_336b71ad502ea741.webp",
+      "rawMedia": "soal-03.png",
+      "opsi": [
+        "Pak Umar wajib membayar zakat karena sapi telah dipelihara selama satu tahun.",
+        "Pak Umar wajib membayar zakat sebesar 2,5% dari harga seluruh sapi.",
+        "Pak Umar belum wajib membayar zakat sapi karena jumlah ternaknya belum mencapai nisab.",
+        "Pak Umar wajib membayar zakat karena sapi termasuk harta yang selalu dizakati."
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 3,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan data ternak pada gambar. Pak Umar memiliki 5 ekor sapi yang dipelihara selama satu tahun. Jika nisab sapi yang digunakan dalam soal adalah 30 ekor, pernyataan yang paling tepat adalah ...",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/pYJgZQkpWf50PrZCxDhR/img_336b71ad502ea741.webp",
+            "caption": "soal-03.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Pak Umar wajib membayar zakat karena sapi telah dipelihara selama satu tahun."
+          },
+          {
+            "letter": "B",
+            "text": "Pak Umar wajib membayar zakat sebesar 2,5% dari harga seluruh sapi."
+          },
+          {
+            "letter": "C",
+            "text": "Pak Umar belum wajib membayar zakat sapi karena jumlah ternaknya belum mencapai nisab."
+          },
+          {
+            "letter": "D",
+            "text": "Pak Umar wajib membayar zakat karena sapi termasuk harta yang selalu dizakati."
+          }
+        ],
+        "rawText": "Perhatikan data ternak pada gambar. Pak Umar memiliki 5 ekor sapi yang dipelihara selama satu tahun. Jika nisab sapi yang digunakan dalam soal adalah 30 ekor, pernyataan yang paling tepat adalah ...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253227812_582_2",
+      "number": 3,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan data ternak pada gambar. Pak Umar memiliki 5 ekor sapi yang dipelihara selama satu tahun. Jika nisab sapi yang digunakan dalam soal adalah 30 ekor, pernyataan yang paling tepat adalah ...",
+      "pertanyaan": "Perhatikan data ternak pada gambar. Pak Umar memiliki 5 ekor sapi yang dipelihara selama satu tahun. Jika nisab sapi yang digunakan dalam soal adalah 30 ekor, pernyataan yang paling tepat adalah ...",
+      "text": "Perhatikan data ternak pada gambar. Pak Umar memiliki 5 ekor sapi yang dipelihara selama satu tahun. Jika nisab sapi yang digunakan dalam soal adalah 30 ekor, pernyataan yang paling tepat adalah ...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Pak Umar wajib membayar zakat karena sapi telah dipelihara selama satu tahun."
+        },
+        {
+          "key": "B",
+          "text": "Pak Umar wajib membayar zakat sebesar 2,5% dari harga seluruh sapi."
+        },
+        {
+          "key": "C",
+          "text": "Pak Umar belum wajib membayar zakat sapi karena jumlah ternaknya belum mencapai nisab."
+        },
+        {
+          "key": "D",
+          "text": "Pak Umar wajib membayar zakat karena sapi termasuk harta yang selalu dizakati."
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790253227812_4763_3",
+      "type": "pg",
+      "teks": "Perhatikan ringkasan harta Bu Rina pada gambar. Untuk menentukan harta yang menjadi dasar perhitungan, piutang lancar dapat diperhitungkan, sedangkan utang yang jatuh tempo dikurangkan. Berdasarkan data tersebut, berapakah nilai harta bersih yang menjadi dasar perhitungan zakat Bu Rina?",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/pYJgZQkpWf50PrZCxDhR/img_f04ebce8fdaf74d8.webp",
+      "rawMedia": "soal-04.png",
+      "opsi": [
+        "Rp65 juta",
+        "Rp75 juta",
+        "Rp85 juta",
+        "Rp95 juta"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 4,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan ringkasan harta Bu Rina pada gambar. Untuk menentukan harta yang menjadi dasar perhitungan, piutang lancar dapat diperhitungkan, sedangkan utang yang jatuh tempo dikurangkan. Berdasarkan data tersebut, berapakah nilai harta bersih yang menjadi dasar perhitungan zakat Bu Rina?",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/pYJgZQkpWf50PrZCxDhR/img_f04ebce8fdaf74d8.webp",
+            "caption": "soal-04.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Rp65 juta"
+          },
+          {
+            "letter": "B",
+            "text": "Rp75 juta"
+          },
+          {
+            "letter": "C",
+            "text": "Rp85 juta"
+          },
+          {
+            "letter": "D",
+            "text": "Rp95 juta"
+          }
+        ],
+        "rawText": "Perhatikan ringkasan harta Bu Rina pada gambar. Untuk menentukan harta yang menjadi dasar perhitungan, piutang lancar dapat diperhitungkan, sedangkan utang yang jatuh tempo dikurangkan. Berdasarkan data tersebut, berapakah nilai harta bersih yang menjadi dasar perhitungan zakat Bu Rina?",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253227812_4763_3",
+      "number": 4,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan ringkasan harta Bu Rina pada gambar. Untuk menentukan harta yang menjadi dasar perhitungan, piutang lancar dapat diperhitungkan, sedangkan utang yang jatuh tempo dikurangkan. Berdasarkan data tersebut, berapakah nilai harta bersih yang menjadi dasar perhitungan zakat Bu Rina?",
+      "pertanyaan": "Perhatikan ringkasan harta Bu Rina pada gambar. Untuk menentukan harta yang menjadi dasar perhitungan, piutang lancar dapat diperhitungkan, sedangkan utang yang jatuh tempo dikurangkan. Berdasarkan data tersebut, berapakah nilai harta bersih yang menjadi dasar perhitungan zakat Bu Rina?",
+      "text": "Perhatikan ringkasan harta Bu Rina pada gambar. Untuk menentukan harta yang menjadi dasar perhitungan, piutang lancar dapat diperhitungkan, sedangkan utang yang jatuh tempo dikurangkan. Berdasarkan data tersebut, berapakah nilai harta bersih yang menjadi dasar perhitungan zakat Bu Rina?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp65 juta"
+        },
+        {
+          "key": "B",
+          "text": "Rp75 juta"
+        },
+        {
+          "key": "C",
+          "text": "Rp85 juta"
+        },
+        {
+          "key": "D",
+          "text": "Rp95 juta"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1790253227812_8407_4",
+      "type": "pg",
+      "teks": "Perhatikan kondisi keluarga pada gambar. Jika zakat fitrah setiap orang ditetapkan 2,5 kg beras, berapa jumlah beras yang harus disiapkan keluarga Pak Ali untuk zakat fitrah seluruh anggota keluarganya?",
+      "media": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/pYJgZQkpWf50PrZCxDhR/img_276d196f6004ded2.webp",
+      "rawMedia": "soal-05.png",
+      "opsi": [
+        "5 kg",
+        "7,5 kg",
+        "10 kg",
+        "12,5 kg"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 5,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Perhatikan kondisi keluarga pada gambar. Jika zakat fitrah setiap orang ditetapkan 2,5 kg beras, berapa jumlah beras yang harus disiapkan keluarga Pak Ali untuk zakat fitrah seluruh anggota keluarganya?",
+        "media": [
+          {
+            "type": "image",
+            "url": "https://raw.githubusercontent.com/smartkasoal/smartkasoal/main/images/pYJgZQkpWf50PrZCxDhR/img_276d196f6004ded2.webp",
+            "caption": "soal-05.png"
+          }
+        ],
+        "options": [
+          {
+            "letter": "A",
+            "text": "5 kg"
+          },
+          {
+            "letter": "B",
+            "text": "7,5 kg"
+          },
+          {
+            "letter": "C",
+            "text": "10 kg"
+          },
+          {
+            "letter": "D",
+            "text": "12,5 kg"
+          }
+        ],
+        "rawText": "Perhatikan kondisi keluarga pada gambar. Jika zakat fitrah setiap orang ditetapkan 2,5 kg beras, berapa jumlah beras yang harus disiapkan keluarga Pak Ali untuk zakat fitrah seluruh anggota keluarganya?",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253227812_8407_4",
+      "number": 5,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Perhatikan kondisi keluarga pada gambar. Jika zakat fitrah setiap orang ditetapkan 2,5 kg beras, berapa jumlah beras yang harus disiapkan keluarga Pak Ali untuk zakat fitrah seluruh anggota keluarganya?",
+      "pertanyaan": "Perhatikan kondisi keluarga pada gambar. Jika zakat fitrah setiap orang ditetapkan 2,5 kg beras, berapa jumlah beras yang harus disiapkan keluarga Pak Ali untuk zakat fitrah seluruh anggota keluarganya?",
+      "text": "Perhatikan kondisi keluarga pada gambar. Jika zakat fitrah setiap orang ditetapkan 2,5 kg beras, berapa jumlah beras yang harus disiapkan keluarga Pak Ali untuk zakat fitrah seluruh anggota keluarganya?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "5 kg"
+        },
+        {
+          "key": "B",
+          "text": "7,5 kg"
+        },
+        {
+          "key": "C",
+          "text": "10 kg"
+        },
+        {
+          "key": "D",
+          "text": "12,5 kg"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790253240018_562_0",
+      "type": "pg",
+      "teks": "Secara bahasa, kata zakat memiliki arti mendasar yang mencerminkan sifat dari zakat itu sendiri. Arti kata zakat secara bahasa adalah...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Pembersihan, penyucian, dan pertambahan",
+        "Pengurangan, pembagian, dan pendermaan",
+        "Penetapan, pengikatan, dan pembatasan",
+        "Pengumpulan, penataan, dan penyimpanan"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 6,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Secara bahasa, kata zakat memiliki arti mendasar yang mencerminkan sifat dari zakat itu sendiri. Arti kata zakat secara bahasa adalah...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Pembersihan, penyucian, dan pertambahan"
+          },
+          {
+            "letter": "B",
+            "text": "Pengurangan, pembagian, dan pendermaan"
+          },
+          {
+            "letter": "C",
+            "text": "Penetapan, pengikatan, dan pembatasan"
+          },
+          {
+            "letter": "D",
+            "text": "Pengumpulan, penataan, dan penyimpanan"
+          }
+        ],
+        "rawText": "Secara bahasa, kata zakat memiliki arti mendasar yang mencerminkan sifat dari zakat itu sendiri. Arti kata zakat secara bahasa adalah...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253240018_562_0",
+      "number": 6,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Secara bahasa, kata zakat memiliki arti mendasar yang mencerminkan sifat dari zakat itu sendiri. Arti kata zakat secara bahasa adalah...",
+      "pertanyaan": "Secara bahasa, kata zakat memiliki arti mendasar yang mencerminkan sifat dari zakat itu sendiri. Arti kata zakat secara bahasa adalah...",
+      "text": "Secara bahasa, kata zakat memiliki arti mendasar yang mencerminkan sifat dari zakat itu sendiri. Arti kata zakat secara bahasa adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Pembersihan, penyucian, dan pertambahan"
+        },
+        {
+          "key": "B",
+          "text": "Pengurangan, pembagian, dan pendermaan"
+        },
+        {
+          "key": "C",
+          "text": "Penetapan, pengikatan, dan pembatasan"
+        },
+        {
+          "key": "D",
+          "text": "Pengumpulan, penataan, dan penyimpanan"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1790253240018_8822_1",
+      "type": "pg",
+      "teks": "Hukum menunaikan zakat fitrah bagi setiap muslim yang memenuhi syarat dan memiliki kelebihan makanan pokok pada malam dan hari raya Idulfitri adalah...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Sunnah muakkad",
+        "Fardhu ain",
+        "Fardhu kifayah",
+        "Mubah"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 7,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Hukum menunaikan zakat fitrah bagi setiap muslim yang memenuhi syarat dan memiliki kelebihan makanan pokok pada malam dan hari raya Idulfitri adalah...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Sunnah muakkad"
+          },
+          {
+            "letter": "B",
+            "text": "Fardhu ain"
+          },
+          {
+            "letter": "C",
+            "text": "Fardhu kifayah"
+          },
+          {
+            "letter": "D",
+            "text": "Mubah"
+          }
+        ],
+        "rawText": "Hukum menunaikan zakat fitrah bagi setiap muslim yang memenuhi syarat dan memiliki kelebihan makanan pokok pada malam dan hari raya Idulfitri adalah...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253240018_8822_1",
+      "number": 7,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Hukum menunaikan zakat fitrah bagi setiap muslim yang memenuhi syarat dan memiliki kelebihan makanan pokok pada malam dan hari raya Idulfitri adalah...",
+      "pertanyaan": "Hukum menunaikan zakat fitrah bagi setiap muslim yang memenuhi syarat dan memiliki kelebihan makanan pokok pada malam dan hari raya Idulfitri adalah...",
+      "text": "Hukum menunaikan zakat fitrah bagi setiap muslim yang memenuhi syarat dan memiliki kelebihan makanan pokok pada malam dan hari raya Idulfitri adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Sunnah muakkad"
+        },
+        {
+          "key": "B",
+          "text": "Fardhu ain"
+        },
+        {
+          "key": "C",
+          "text": "Fardhu kifayah"
+        },
+        {
+          "key": "D",
+          "text": "Mubah"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1790253240018_6326_2",
+      "type": "pg",
+      "teks": "Kadar zakat fitrah yang wajib dikeluarkan oleh setiap jiwa jika diukur menggunakan makanan pokok berupa beras adalah...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "1,5 kg atau 2 liter",
+        "2,5 kg atau 3,5 liter",
+        "4,0 kg atau 5,0 liter",
+        "5,0 kg atau 6,5 liter"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 8,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Kadar zakat fitrah yang wajib dikeluarkan oleh setiap jiwa jika diukur menggunakan makanan pokok berupa beras adalah...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1,5 kg atau 2 liter"
+          },
+          {
+            "letter": "B",
+            "text": "2,5 kg atau 3,5 liter"
+          },
+          {
+            "letter": "C",
+            "text": "4,0 kg atau 5,0 liter"
+          },
+          {
+            "letter": "D",
+            "text": "5,0 kg atau 6,5 liter"
+          }
+        ],
+        "rawText": "Kadar zakat fitrah yang wajib dikeluarkan oleh setiap jiwa jika diukur menggunakan makanan pokok berupa beras adalah...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253240018_6326_2",
+      "number": 8,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Kadar zakat fitrah yang wajib dikeluarkan oleh setiap jiwa jika diukur menggunakan makanan pokok berupa beras adalah...",
+      "pertanyaan": "Kadar zakat fitrah yang wajib dikeluarkan oleh setiap jiwa jika diukur menggunakan makanan pokok berupa beras adalah...",
+      "text": "Kadar zakat fitrah yang wajib dikeluarkan oleh setiap jiwa jika diukur menggunakan makanan pokok berupa beras adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "1,5 kg atau 2 liter"
+        },
+        {
+          "key": "B",
+          "text": "2,5 kg atau 3,5 liter"
+        },
+        {
+          "key": "C",
+          "text": "4,0 kg atau 5,0 liter"
+        },
+        {
+          "key": "D",
+          "text": "5,0 kg atau 6,5 liter"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1790253240018_2410_3",
+      "type": "pg",
+      "teks": "Waktu yang paling utama atau afdhal untuk mengeluarkan zakat fitrah adalah...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Sejak awal bulan Ramadan hingga pertengahan bulan",
+        "Setelah salat Idulfitri dilaksanakan sampai matahari terbenam",
+        "Setelah terbit fajar pada hari raya Idulfitri hingga sebelum pelaksanaan salat Idulfitri",
+        "Pada malam takbiran setelah pelaksanaan salat Isya"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 9,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Waktu yang paling utama atau afdhal untuk mengeluarkan zakat fitrah adalah...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Sejak awal bulan Ramadan hingga pertengahan bulan"
+          },
+          {
+            "letter": "B",
+            "text": "Setelah salat Idulfitri dilaksanakan sampai matahari terbenam"
+          },
+          {
+            "letter": "C",
+            "text": "Setelah terbit fajar pada hari raya Idulfitri hingga sebelum pelaksanaan salat Idulfitri"
+          },
+          {
+            "letter": "D",
+            "text": "Pada malam takbiran setelah pelaksanaan salat Isya"
+          }
+        ],
+        "rawText": "Waktu yang paling utama atau afdhal untuk mengeluarkan zakat fitrah adalah...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253240018_2410_3",
+      "number": 9,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Waktu yang paling utama atau afdhal untuk mengeluarkan zakat fitrah adalah...",
+      "pertanyaan": "Waktu yang paling utama atau afdhal untuk mengeluarkan zakat fitrah adalah...",
+      "text": "Waktu yang paling utama atau afdhal untuk mengeluarkan zakat fitrah adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Sejak awal bulan Ramadan hingga pertengahan bulan"
+        },
+        {
+          "key": "B",
+          "text": "Setelah salat Idulfitri dilaksanakan sampai matahari terbenam"
+        },
+        {
+          "key": "C",
+          "text": "Setelah terbit fajar pada hari raya Idulfitri hingga sebelum pelaksanaan salat Idulfitri"
+        },
+        {
+          "key": "D",
+          "text": "Pada malam takbiran setelah pelaksanaan salat Isya"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790253240019_2180_4",
+      "type": "pg",
+      "teks": "Orang yang berhak menerima zakat diatur secara jelas dalam Al-Qur'an. Jumlah golongan (mustahik zakat) yang berhak menerima zakat ada sebanyak...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "6 golongan",
+        "7 golongan",
+        "8 golongan",
+        "9 golongan"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 10,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Orang yang berhak menerima zakat diatur secara jelas dalam Al-Qur'an. Jumlah golongan (mustahik zakat) yang berhak menerima zakat ada sebanyak...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "6 golongan"
+          },
+          {
+            "letter": "B",
+            "text": "7 golongan"
+          },
+          {
+            "letter": "C",
+            "text": "8 golongan"
+          },
+          {
+            "letter": "D",
+            "text": "9 golongan"
+          }
+        ],
+        "rawText": "Orang yang berhak menerima zakat diatur secara jelas dalam Al-Qur'an. Jumlah golongan (mustahik zakat) yang berhak menerima zakat ada sebanyak...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253240019_2180_4",
+      "number": 10,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Orang yang berhak menerima zakat diatur secara jelas dalam Al-Qur'an. Jumlah golongan (mustahik zakat) yang berhak menerima zakat ada sebanyak...",
+      "pertanyaan": "Orang yang berhak menerima zakat diatur secara jelas dalam Al-Qur'an. Jumlah golongan (mustahik zakat) yang berhak menerima zakat ada sebanyak...",
+      "text": "Orang yang berhak menerima zakat diatur secara jelas dalam Al-Qur'an. Jumlah golongan (mustahik zakat) yang berhak menerima zakat ada sebanyak...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "6 golongan"
+        },
+        {
+          "key": "B",
+          "text": "7 golongan"
+        },
+        {
+          "key": "C",
+          "text": "8 golongan"
+        },
+        {
+          "key": "D",
+          "text": "9 golongan"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790253240019_7430_5",
+      "type": "pg",
+      "teks": "Golongan penerima zakat yang terlilit utang demi memenuhi kebutuhan dasar hidup halal dan tidak sanggup melunasinya disebut...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Miskin",
+        "Gharim",
+        "Ibnu sabil",
+        "Muallaf"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 11,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Golongan penerima zakat yang terlilit utang demi memenuhi kebutuhan dasar hidup halal dan tidak sanggup melunasinya disebut...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Miskin"
+          },
+          {
+            "letter": "B",
+            "text": "Gharim"
+          },
+          {
+            "letter": "C",
+            "text": "Ibnu sabil"
+          },
+          {
+            "letter": "D",
+            "text": "Muallaf"
+          }
+        ],
+        "rawText": "Golongan penerima zakat yang terlilit utang demi memenuhi kebutuhan dasar hidup halal dan tidak sanggup melunasinya disebut...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253240019_7430_5",
+      "number": 11,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Golongan penerima zakat yang terlilit utang demi memenuhi kebutuhan dasar hidup halal dan tidak sanggup melunasinya disebut...",
+      "pertanyaan": "Golongan penerima zakat yang terlilit utang demi memenuhi kebutuhan dasar hidup halal dan tidak sanggup melunasinya disebut...",
+      "text": "Golongan penerima zakat yang terlilit utang demi memenuhi kebutuhan dasar hidup halal dan tidak sanggup melunasinya disebut...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Miskin"
+        },
+        {
+          "key": "B",
+          "text": "Gharim"
+        },
+        {
+          "key": "C",
+          "text": "Ibnu sabil"
+        },
+        {
+          "key": "D",
+          "text": "Muallaf"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1790253240019_5311_6",
+      "type": "pg",
+      "teks": "Zakat mal atau zakat harta wajib dikeluarkan apabila harta yang dimiliki telah mencapai jumlah minimal tertentu dan dimiliki selama satu tahun. Batas minimal jumlah harta tersebut dikenal dengan istilah...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Nisab",
+        "Haul",
+        "Kadar",
+        "Muzakki"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 0,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 12,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Zakat mal atau zakat harta wajib dikeluarkan apabila harta yang dimiliki telah mencapai jumlah minimal tertentu dan dimiliki selama satu tahun. Batas minimal jumlah harta tersebut dikenal dengan istilah...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Nisab"
+          },
+          {
+            "letter": "B",
+            "text": "Haul"
+          },
+          {
+            "letter": "C",
+            "text": "Kadar"
+          },
+          {
+            "letter": "D",
+            "text": "Muzakki"
+          }
+        ],
+        "rawText": "Zakat mal atau zakat harta wajib dikeluarkan apabila harta yang dimiliki telah mencapai jumlah minimal tertentu dan dimiliki selama satu tahun. Batas minimal jumlah harta tersebut dikenal dengan istilah...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253240019_5311_6",
+      "number": 12,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Zakat mal atau zakat harta wajib dikeluarkan apabila harta yang dimiliki telah mencapai jumlah minimal tertentu dan dimiliki selama satu tahun. Batas minimal jumlah harta tersebut dikenal dengan istilah...",
+      "pertanyaan": "Zakat mal atau zakat harta wajib dikeluarkan apabila harta yang dimiliki telah mencapai jumlah minimal tertentu dan dimiliki selama satu tahun. Batas minimal jumlah harta tersebut dikenal dengan istilah...",
+      "text": "Zakat mal atau zakat harta wajib dikeluarkan apabila harta yang dimiliki telah mencapai jumlah minimal tertentu dan dimiliki selama satu tahun. Batas minimal jumlah harta tersebut dikenal dengan istilah...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Nisab"
+        },
+        {
+          "key": "B",
+          "text": "Haul"
+        },
+        {
+          "key": "C",
+          "text": "Kadar"
+        },
+        {
+          "key": "D",
+          "text": "Muzakki"
+        }
+      ],
+      "answer": "A",
+      "kunci": "A",
+      "correctAnswer": 0
+    },
+    {
+      "id": "temp_ai_1790253240019_6151_7",
+      "type": "pg",
+      "teks": "Seorang muslim yang bertugas mengumpulkan, mengelola, dan membagikan zakat kepada orang-orang yang berhak menerima disebut...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Muzakki",
+        "Mustahik",
+        "Amil",
+        "Fisabilillah"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 13,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Seorang muslim yang bertugas mengumpulkan, mengelola, dan membagikan zakat kepada orang-orang yang berhak menerima disebut...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Muzakki"
+          },
+          {
+            "letter": "B",
+            "text": "Mustahik"
+          },
+          {
+            "letter": "C",
+            "text": "Amil"
+          },
+          {
+            "letter": "D",
+            "text": "Fisabilillah"
+          }
+        ],
+        "rawText": "Seorang muslim yang bertugas mengumpulkan, mengelola, dan membagikan zakat kepada orang-orang yang berhak menerima disebut...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253240019_6151_7",
+      "number": 13,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Seorang muslim yang bertugas mengumpulkan, mengelola, dan membagikan zakat kepada orang-orang yang berhak menerima disebut...",
+      "pertanyaan": "Seorang muslim yang bertugas mengumpulkan, mengelola, dan membagikan zakat kepada orang-orang yang berhak menerima disebut...",
+      "text": "Seorang muslim yang bertugas mengumpulkan, mengelola, dan membagikan zakat kepada orang-orang yang berhak menerima disebut...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Muzakki"
+        },
+        {
+          "key": "B",
+          "text": "Mustahik"
+        },
+        {
+          "key": "C",
+          "text": "Amil"
+        },
+        {
+          "key": "D",
+          "text": "Fisabilillah"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790253240019_7383_8",
+      "type": "pg",
+      "teks": "Kadar zakat mal yang harus dikeluarkan untuk simpanan emas atau perak yang telah mencapai nisab dan haul adalah sebesar...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "1 persen",
+        "2,5 persen",
+        "5 persen",
+        "10 persen"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 1,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 14,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Kadar zakat mal yang harus dikeluarkan untuk simpanan emas atau perak yang telah mencapai nisab dan haul adalah sebesar...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "1 persen"
+          },
+          {
+            "letter": "B",
+            "text": "2,5 persen"
+          },
+          {
+            "letter": "C",
+            "text": "5 persen"
+          },
+          {
+            "letter": "D",
+            "text": "10 persen"
+          }
+        ],
+        "rawText": "Kadar zakat mal yang harus dikeluarkan untuk simpanan emas atau perak yang telah mencapai nisab dan haul adalah sebesar...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253240019_7383_8",
+      "number": 14,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Kadar zakat mal yang harus dikeluarkan untuk simpanan emas atau perak yang telah mencapai nisab dan haul adalah sebesar...",
+      "pertanyaan": "Kadar zakat mal yang harus dikeluarkan untuk simpanan emas atau perak yang telah mencapai nisab dan haul adalah sebesar...",
+      "text": "Kadar zakat mal yang harus dikeluarkan untuk simpanan emas atau perak yang telah mencapai nisab dan haul adalah sebesar...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "1 persen"
+        },
+        {
+          "key": "B",
+          "text": "2,5 persen"
+        },
+        {
+          "key": "C",
+          "text": "5 persen"
+        },
+        {
+          "key": "D",
+          "text": "10 persen"
+        }
+      ],
+      "answer": "B",
+      "kunci": "B",
+      "correctAnswer": 1
+    },
+    {
+      "id": "temp_ai_1790253240019_4187_9",
+      "type": "pg",
+      "teks": "Salah satu hikmah penting dari pelaksanaan zakat dalam kehidupan bermasyarakat adalah...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Menunjukkan status sosial seseorang di tengah masyarakat",
+        "Menghimpun kekayaan agar dapat diperjualbelikan kembali",
+        "Membersihkan jiwa dari sifat kikir serta mempererat tali persaudaraan",
+        "Mengganti seluruh pajak pemerintahan yang dibayarkan warga"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": 2,
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 15,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Salah satu hikmah penting dari pelaksanaan zakat dalam kehidupan bermasyarakat adalah...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Menunjukkan status sosial seseorang di tengah masyarakat"
+          },
+          {
+            "letter": "B",
+            "text": "Menghimpun kekayaan agar dapat diperjualbelikan kembali"
+          },
+          {
+            "letter": "C",
+            "text": "Membersihkan jiwa dari sifat kikir serta mempererat tali persaudaraan"
+          },
+          {
+            "letter": "D",
+            "text": "Mengganti seluruh pajak pemerintahan yang dibayarkan warga"
+          }
+        ],
+        "rawText": "Salah satu hikmah penting dari pelaksanaan zakat dalam kehidupan bermasyarakat adalah...",
+        "questionType": "pg"
+      },
+      "questionId": "temp_ai_1790253240019_4187_9",
+      "number": 15,
+      "questionType": "pilihan_ganda",
+      "tipe": "pg",
+      "question": "Salah satu hikmah penting dari pelaksanaan zakat dalam kehidupan bermasyarakat adalah...",
+      "pertanyaan": "Salah satu hikmah penting dari pelaksanaan zakat dalam kehidupan bermasyarakat adalah...",
+      "text": "Salah satu hikmah penting dari pelaksanaan zakat dalam kehidupan bermasyarakat adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Menunjukkan status sosial seseorang di tengah masyarakat"
+        },
+        {
+          "key": "B",
+          "text": "Menghimpun kekayaan agar dapat diperjualbelikan kembali"
+        },
+        {
+          "key": "C",
+          "text": "Membersihkan jiwa dari sifat kikir serta mempererat tali persaudaraan"
+        },
+        {
+          "key": "D",
+          "text": "Mengganti seluruh pajak pemerintahan yang dibayarkan warga"
+        }
+      ],
+      "answer": "C",
+      "kunci": "C",
+      "correctAnswer": 2
+    },
+    {
+      "id": "temp_ai_1790253240021_8279_10",
+      "type": "ma",
+      "teks": "Pilihlah syarat-syarat wajib yang menyebabkan seseorang diwajibkan untuk membayar zakat fitrah!",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Beragama Islam",
+        "Memiliki kelebihan makanan pokok untuk diri dan keluarganya pada malam dan hari raya Idulfitri",
+        "Masih hidup saat matahari terbenam pada hari terakhir bulan Ramadan",
+        "Memiliki harta simpanan minimal setara 85 gram emas",
+        "Sudah memiliki pekerjaan tetap dan berusia dewasa"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 16,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilihlah syarat-syarat wajib yang menyebabkan seseorang diwajibkan untuk membayar zakat fitrah!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Beragama Islam"
+          },
+          {
+            "letter": "B",
+            "text": "Memiliki kelebihan makanan pokok untuk diri dan keluarganya pada malam dan hari raya Idulfitri"
+          },
+          {
+            "letter": "C",
+            "text": "Masih hidup saat matahari terbenam pada hari terakhir bulan Ramadan"
+          },
+          {
+            "letter": "D",
+            "text": "Memiliki harta simpanan minimal setara 85 gram emas"
+          },
+          {
+            "letter": "E",
+            "text": "Sudah memiliki pekerjaan tetap dan berusia dewasa"
+          }
+        ],
+        "rawText": "Pilihlah syarat-syarat wajib yang menyebabkan seseorang diwajibkan untuk membayar zakat fitrah!",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1790253240021_8279_10",
+      "number": 16,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilihlah syarat-syarat wajib yang menyebabkan seseorang diwajibkan untuk membayar zakat fitrah!",
+      "pertanyaan": "Pilihlah syarat-syarat wajib yang menyebabkan seseorang diwajibkan untuk membayar zakat fitrah!",
+      "text": "Pilihlah syarat-syarat wajib yang menyebabkan seseorang diwajibkan untuk membayar zakat fitrah!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Beragama Islam"
+        },
+        {
+          "key": "B",
+          "text": "Memiliki kelebihan makanan pokok untuk diri dan keluarganya pada malam dan hari raya Idulfitri"
+        },
+        {
+          "key": "C",
+          "text": "Masih hidup saat matahari terbenam pada hari terakhir bulan Ramadan"
+        },
+        {
+          "key": "D",
+          "text": "Memiliki harta simpanan minimal setara 85 gram emas"
+        },
+        {
+          "key": "E",
+          "text": "Sudah memiliki pekerjaan tetap dan berusia dewasa"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "kunci": "A, B, C"
+    },
+    {
+      "id": "temp_ai_1790253240021_1294_11",
+      "type": "ma",
+      "teks": "Berikut ini yang termasuk dalam delapan golongan (mustahik) yang berhak menerima zakat berdasarkan Surah At-Taubah ayat 60 adalah...",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Fakir dan miskin",
+        "Orang kaya yang dermawan",
+        "Muallaf yang dibujuk hatinya",
+        "Ibnu Sabil (musafir dalam perjalanan kebaikan)",
+        "Anak yatim yang kaya harta"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        2,
+        3
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 17,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Berikut ini yang termasuk dalam delapan golongan (mustahik) yang berhak menerima zakat berdasarkan Surah At-Taubah ayat 60 adalah...",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Fakir dan miskin"
+          },
+          {
+            "letter": "B",
+            "text": "Orang kaya yang dermawan"
+          },
+          {
+            "letter": "C",
+            "text": "Muallaf yang dibujuk hatinya"
+          },
+          {
+            "letter": "D",
+            "text": "Ibnu Sabil (musafir dalam perjalanan kebaikan)"
+          },
+          {
+            "letter": "E",
+            "text": "Anak yatim yang kaya harta"
+          }
+        ],
+        "rawText": "Berikut ini yang termasuk dalam delapan golongan (mustahik) yang berhak menerima zakat berdasarkan Surah At-Taubah ayat 60 adalah...",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1790253240021_1294_11",
+      "number": 17,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Berikut ini yang termasuk dalam delapan golongan (mustahik) yang berhak menerima zakat berdasarkan Surah At-Taubah ayat 60 adalah...",
+      "pertanyaan": "Berikut ini yang termasuk dalam delapan golongan (mustahik) yang berhak menerima zakat berdasarkan Surah At-Taubah ayat 60 adalah...",
+      "text": "Berikut ini yang termasuk dalam delapan golongan (mustahik) yang berhak menerima zakat berdasarkan Surah At-Taubah ayat 60 adalah...",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Fakir dan miskin"
+        },
+        {
+          "key": "B",
+          "text": "Orang kaya yang dermawan"
+        },
+        {
+          "key": "C",
+          "text": "Muallaf yang dibujuk hatinya"
+        },
+        {
+          "key": "D",
+          "text": "Ibnu Sabil (musafir dalam perjalanan kebaikan)"
+        },
+        {
+          "key": "E",
+          "text": "Anak yatim yang kaya harta"
+        }
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "kunci": "A, C, D"
+    },
+    {
+      "id": "temp_ai_1790253240022_5315_12",
+      "type": "ma",
+      "teks": "Manakah pernyataan yang tepat mengenai perbedaan antara Zakat Fitrah dan Zakat Mal?",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Zakat fitrah bertujuan membersihkan jiwa, sedangkan zakat mal bertujuan membersihkan harta",
+        "Zakat fitrah dikeluarkan setiap bulan Ramadan, sedangkan zakat mal dikeluarkan jika mencapai nisab dan haul",
+        "Zakat fitrah dibayarkan menggunakan makanan pokok, sedangkan zakat mal umumnya menggunakan harta/uang",
+        "Zakat fitrah hanya wajib untuk orang dewasa, sedangkan zakat mal wajib untuk anak-anak",
+        "Zakat fitrah berukuran 2,5 kg beras, sedangkan kadar zakat mal emas adalah 2,5 persen"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 18,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Manakah pernyataan yang tepat mengenai perbedaan antara Zakat Fitrah dan Zakat Mal?",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Zakat fitrah bertujuan membersihkan jiwa, sedangkan zakat mal bertujuan membersihkan harta"
+          },
+          {
+            "letter": "B",
+            "text": "Zakat fitrah dikeluarkan setiap bulan Ramadan, sedangkan zakat mal dikeluarkan jika mencapai nisab dan haul"
+          },
+          {
+            "letter": "C",
+            "text": "Zakat fitrah dibayarkan menggunakan makanan pokok, sedangkan zakat mal umumnya menggunakan harta/uang"
+          },
+          {
+            "letter": "D",
+            "text": "Zakat fitrah hanya wajib untuk orang dewasa, sedangkan zakat mal wajib untuk anak-anak"
+          },
+          {
+            "letter": "E",
+            "text": "Zakat fitrah berukuran 2,5 kg beras, sedangkan kadar zakat mal emas adalah 2,5 persen"
+          }
+        ],
+        "rawText": "Manakah pernyataan yang tepat mengenai perbedaan antara Zakat Fitrah dan Zakat Mal?",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1790253240022_5315_12",
+      "number": 18,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Manakah pernyataan yang tepat mengenai perbedaan antara Zakat Fitrah dan Zakat Mal?",
+      "pertanyaan": "Manakah pernyataan yang tepat mengenai perbedaan antara Zakat Fitrah dan Zakat Mal?",
+      "text": "Manakah pernyataan yang tepat mengenai perbedaan antara Zakat Fitrah dan Zakat Mal?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Zakat fitrah bertujuan membersihkan jiwa, sedangkan zakat mal bertujuan membersihkan harta"
+        },
+        {
+          "key": "B",
+          "text": "Zakat fitrah dikeluarkan setiap bulan Ramadan, sedangkan zakat mal dikeluarkan jika mencapai nisab dan haul"
+        },
+        {
+          "key": "C",
+          "text": "Zakat fitrah dibayarkan menggunakan makanan pokok, sedangkan zakat mal umumnya menggunakan harta/uang"
+        },
+        {
+          "key": "D",
+          "text": "Zakat fitrah hanya wajib untuk orang dewasa, sedangkan zakat mal wajib untuk anak-anak"
+        },
+        {
+          "key": "E",
+          "text": "Zakat fitrah berukuran 2,5 kg beras, sedangkan kadar zakat mal emas adalah 2,5 persen"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "kunci": "A, B, C, E"
+    },
+    {
+      "id": "temp_ai_1790253240022_4766_13",
+      "type": "ma",
+      "teks": "Manakah di antara jenis-jenis harta berikut ini yang wajib dikeluarkan zakatnya apabila telah memenuhi syarat nisab dan haul?",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Emas dan perak",
+        "Pakaian yang dipakai sehari-hari",
+        "Hasil pertanian dan perkebunan",
+        "Hewan ternak seperti kambing, sapi, dan unta",
+        "Kendaraan pribadi untuk transportasi harian"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        2,
+        3
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 19,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Manakah di antara jenis-jenis harta berikut ini yang wajib dikeluarkan zakatnya apabila telah memenuhi syarat nisab dan haul?",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Emas dan perak"
+          },
+          {
+            "letter": "B",
+            "text": "Pakaian yang dipakai sehari-hari"
+          },
+          {
+            "letter": "C",
+            "text": "Hasil pertanian dan perkebunan"
+          },
+          {
+            "letter": "D",
+            "text": "Hewan ternak seperti kambing, sapi, dan unta"
+          },
+          {
+            "letter": "E",
+            "text": "Kendaraan pribadi untuk transportasi harian"
+          }
+        ],
+        "rawText": "Manakah di antara jenis-jenis harta berikut ini yang wajib dikeluarkan zakatnya apabila telah memenuhi syarat nisab dan haul?",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1790253240022_4766_13",
+      "number": 19,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Manakah di antara jenis-jenis harta berikut ini yang wajib dikeluarkan zakatnya apabila telah memenuhi syarat nisab dan haul?",
+      "pertanyaan": "Manakah di antara jenis-jenis harta berikut ini yang wajib dikeluarkan zakatnya apabila telah memenuhi syarat nisab dan haul?",
+      "text": "Manakah di antara jenis-jenis harta berikut ini yang wajib dikeluarkan zakatnya apabila telah memenuhi syarat nisab dan haul?",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Emas dan perak"
+        },
+        {
+          "key": "B",
+          "text": "Pakaian yang dipakai sehari-hari"
+        },
+        {
+          "key": "C",
+          "text": "Hasil pertanian dan perkebunan"
+        },
+        {
+          "key": "D",
+          "text": "Hewan ternak seperti kambing, sapi, dan unta"
+        },
+        {
+          "key": "E",
+          "text": "Kendaraan pribadi untuk transportasi harian"
+        }
+      ],
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "kunci": "A, C, D"
+    },
+    {
+      "id": "temp_ai_1790253240022_8216_14",
+      "type": "ma",
+      "teks": "Pilihlah pernyataan yang merupakan hikmah atau manfaat dari menunaikan zakat!",
+      "media": "",
+      "rawMedia": "",
+      "opsi": [
+        "Menumbuhkan rasa kepedulian sosial terhadap sesama",
+        "Mengurangi jurang pemisah antara golongan kaya dan miskin",
+        "Membuat muzakki menjadi terkenal dan dihormati masyarakat",
+        "Membersihkan diri dari sifat kikir dan serakah",
+        "Menjamin kekayaan seseorang tidak akan pernah berkurang nominalnya"
+      ],
+      "opsiMedia": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "jawaban": [
+        0,
+        1,
+        3
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 20,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Pilihlah pernyataan yang merupakan hikmah atau manfaat dari menunaikan zakat!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Menumbuhkan rasa kepedulian sosial terhadap sesama"
+          },
+          {
+            "letter": "B",
+            "text": "Mengurangi jurang pemisah antara golongan kaya dan miskin"
+          },
+          {
+            "letter": "C",
+            "text": "Membuat muzakki menjadi terkenal dan dihormati masyarakat"
+          },
+          {
+            "letter": "D",
+            "text": "Membersihkan diri dari sifat kikir dan serakah"
+          },
+          {
+            "letter": "E",
+            "text": "Menjamin kekayaan seseorang tidak akan pernah berkurang nominalnya"
+          }
+        ],
+        "rawText": "Pilihlah pernyataan yang merupakan hikmah atau manfaat dari menunaikan zakat!",
+        "questionType": "ma"
+      },
+      "questionId": "temp_ai_1790253240022_8216_14",
+      "number": 20,
+      "questionType": "pg_kompleks",
+      "tipe": "ma",
+      "question": "Pilihlah pernyataan yang merupakan hikmah atau manfaat dari menunaikan zakat!",
+      "pertanyaan": "Pilihlah pernyataan yang merupakan hikmah atau manfaat dari menunaikan zakat!",
+      "text": "Pilihlah pernyataan yang merupakan hikmah atau manfaat dari menunaikan zakat!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "options": [
+        {
+          "key": "A",
+          "text": "Menumbuhkan rasa kepedulian sosial terhadap sesama"
+        },
+        {
+          "key": "B",
+          "text": "Mengurangi jurang pemisah antara golongan kaya dan miskin"
+        },
+        {
+          "key": "C",
+          "text": "Membuat muzakki menjadi terkenal dan dihormati masyarakat"
+        },
+        {
+          "key": "D",
+          "text": "Membersihkan diri dari sifat kikir dan serakah"
+        },
+        {
+          "key": "E",
+          "text": "Menjamin kekayaan seseorang tidak akan pernah berkurang nominalnya"
+        }
+      ],
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "kunci": "A, B, D"
+    },
+    {
+      "id": "temp_ai_1790253240024_7984_15",
+      "type": "tf",
+      "teks": "Cermati pernyataan-pernyataan berikut mengenai ketentuan dan aturan pembayaran Zakat Fitrah, lalu tentukan Benar atau Salah!",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Zakat fitrah hukumnya wajib bagi setiap muslim yang memenuhi syarat.",
+          "teks": "Zakat fitrah hukumnya wajib bagi setiap muslim yang memenuhi syarat.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Zakat fitrah boleh diberikan kepada orang kaya yang dermawan.",
+          "teks": "Zakat fitrah boleh diberikan kepada orang kaya yang dermawan.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Bahan yang digunakan untuk zakat fitrah di Indonesia umumnya adalah beras karena merupakan makanan pokok.",
+          "teks": "Bahan yang digunakan untuk zakat fitrah di Indonesia umumnya adalah beras karena merupakan makanan pokok.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Membayar zakat fitrah setelah pelaksanaan salat Idulfitri tetap dianggap sebagai zakat fitrah penuh.",
+          "teks": "Membayar zakat fitrah setelah pelaksanaan salat Idulfitri tetap dianggap sebagai zakat fitrah penuh.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Bayi yang baru lahir sebelum matahari terbenam pada hari terakhir Ramadan wajib dikeluarkan zakat fitrahnya.",
+          "teks": "Bayi yang baru lahir sebelum matahari terbenam pada hari terakhir Ramadan wajib dikeluarkan zakat fitrahnya.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Zakat fitrah hukumnya wajib bagi setiap muslim yang memenuhi syarat.",
+          "jawaban": true,
+          "text": "Zakat fitrah hukumnya wajib bagi setiap muslim yang memenuhi syarat."
+        },
+        {
+          "teks": "Zakat fitrah boleh diberikan kepada orang kaya yang dermawan.",
+          "jawaban": false,
+          "text": "Zakat fitrah boleh diberikan kepada orang kaya yang dermawan."
+        },
+        {
+          "teks": "Bahan yang digunakan untuk zakat fitrah di Indonesia umumnya adalah beras karena merupakan makanan pokok.",
+          "jawaban": true,
+          "text": "Bahan yang digunakan untuk zakat fitrah di Indonesia umumnya adalah beras karena merupakan makanan pokok."
+        },
+        {
+          "teks": "Membayar zakat fitrah setelah pelaksanaan salat Idulfitri tetap dianggap sebagai zakat fitrah penuh.",
+          "jawaban": false,
+          "text": "Membayar zakat fitrah setelah pelaksanaan salat Idulfitri tetap dianggap sebagai zakat fitrah penuh."
+        },
+        {
+          "teks": "Bayi yang baru lahir sebelum matahari terbenam pada hari terakhir Ramadan wajib dikeluarkan zakat fitrahnya.",
+          "jawaban": true,
+          "text": "Bayi yang baru lahir sebelum matahari terbenam pada hari terakhir Ramadan wajib dikeluarkan zakat fitrahnya."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Zakat fitrah hukumnya wajib bagi setiap muslim yang memenuhi syarat.",
+          "teks": "Zakat fitrah hukumnya wajib bagi setiap muslim yang memenuhi syarat.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Zakat fitrah boleh diberikan kepada orang kaya yang dermawan.",
+          "teks": "Zakat fitrah boleh diberikan kepada orang kaya yang dermawan.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Bahan yang digunakan untuk zakat fitrah di Indonesia umumnya adalah beras karena merupakan makanan pokok.",
+          "teks": "Bahan yang digunakan untuk zakat fitrah di Indonesia umumnya adalah beras karena merupakan makanan pokok.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Membayar zakat fitrah setelah pelaksanaan salat Idulfitri tetap dianggap sebagai zakat fitrah penuh.",
+          "teks": "Membayar zakat fitrah setelah pelaksanaan salat Idulfitri tetap dianggap sebagai zakat fitrah penuh.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Bayi yang baru lahir sebelum matahari terbenam pada hari terakhir Ramadan wajib dikeluarkan zakat fitrahnya.",
+          "teks": "Bayi yang baru lahir sebelum matahari terbenam pada hari terakhir Ramadan wajib dikeluarkan zakat fitrahnya.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 21,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Cermati pernyataan-pernyataan berikut mengenai ketentuan dan aturan pembayaran Zakat Fitrah, lalu tentukan Benar atau Salah!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Zakat fitrah hukumnya wajib bagi setiap muslim yang memenuhi syarat."
+          },
+          {
+            "letter": "B",
+            "text": "Zakat fitrah boleh diberikan kepada orang kaya yang dermawan."
+          },
+          {
+            "letter": "C",
+            "text": "Bahan yang digunakan untuk zakat fitrah di Indonesia umumnya adalah beras karena merupakan makanan pokok."
+          },
+          {
+            "letter": "D",
+            "text": "Membayar zakat fitrah setelah pelaksanaan salat Idulfitri tetap dianggap sebagai zakat fitrah penuh."
+          },
+          {
+            "letter": "E",
+            "text": "Bayi yang baru lahir sebelum matahari terbenam pada hari terakhir Ramadan wajib dikeluarkan zakat fitrahnya."
+          }
+        ],
+        "rawText": "Cermati pernyataan-pernyataan berikut mengenai ketentuan dan aturan pembayaran Zakat Fitrah, lalu tentukan Benar atau Salah!",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1790253240024_7984_15",
+      "number": 21,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Cermati pernyataan-pernyataan berikut mengenai ketentuan dan aturan pembayaran Zakat Fitrah, lalu tentukan Benar atau Salah!",
+      "pertanyaan": "Cermati pernyataan-pernyataan berikut mengenai ketentuan dan aturan pembayaran Zakat Fitrah, lalu tentukan Benar atau Salah!",
+      "text": "Cermati pernyataan-pernyataan berikut mengenai ketentuan dan aturan pembayaran Zakat Fitrah, lalu tentukan Benar atau Salah!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790253240024_9815_16",
+      "type": "tf",
+      "teks": "Tentukan kebenaran pernyataan berikut yang berkaitan dengan syarat dan ketentuan Zakat Mal!",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Nisab adalah batas minimal jumlah harta yang menyebabkan harta tersebut wajib dizakati.",
+          "teks": "Nisab adalah batas minimal jumlah harta yang menyebabkan harta tersebut wajib dizakati.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Haul berarti kepemilikan harta telah berlalu selama satu tahun hijriah.",
+          "teks": "Haul berarti kepemilikan harta telah berlalu selama satu tahun hijriah.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Kadar zakat untuk perhiasan emas simpanan yang mencapai nisab adalah 10 persen.",
+          "teks": "Kadar zakat untuk perhiasan emas simpanan yang mencapai nisab adalah 10 persen.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 4,
+          "text": "Harta milik fasilitas umum masyarakat wajib dikeluarkan zakat malnya setiap tahun.",
+          "teks": "Harta milik fasilitas umum masyarakat wajib dikeluarkan zakat malnya setiap tahun.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Hasil pertanian yang diairi dengan air hujan memiliki kadar zakat sebesar 10 persen.",
+          "teks": "Hasil pertanian yang diairi dengan air hujan memiliki kadar zakat sebesar 10 persen.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Nisab adalah batas minimal jumlah harta yang menyebabkan harta tersebut wajib dizakati.",
+          "jawaban": true,
+          "text": "Nisab adalah batas minimal jumlah harta yang menyebabkan harta tersebut wajib dizakati."
+        },
+        {
+          "teks": "Haul berarti kepemilikan harta telah berlalu selama satu tahun hijriah.",
+          "jawaban": true,
+          "text": "Haul berarti kepemilikan harta telah berlalu selama satu tahun hijriah."
+        },
+        {
+          "teks": "Kadar zakat untuk perhiasan emas simpanan yang mencapai nisab adalah 10 persen.",
+          "jawaban": false,
+          "text": "Kadar zakat untuk perhiasan emas simpanan yang mencapai nisab adalah 10 persen."
+        },
+        {
+          "teks": "Harta milik fasilitas umum masyarakat wajib dikeluarkan zakat malnya setiap tahun.",
+          "jawaban": false,
+          "text": "Harta milik fasilitas umum masyarakat wajib dikeluarkan zakat malnya setiap tahun."
+        },
+        {
+          "teks": "Hasil pertanian yang diairi dengan air hujan memiliki kadar zakat sebesar 10 persen.",
+          "jawaban": true,
+          "text": "Hasil pertanian yang diairi dengan air hujan memiliki kadar zakat sebesar 10 persen."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Nisab adalah batas minimal jumlah harta yang menyebabkan harta tersebut wajib dizakati.",
+          "teks": "Nisab adalah batas minimal jumlah harta yang menyebabkan harta tersebut wajib dizakati.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Haul berarti kepemilikan harta telah berlalu selama satu tahun hijriah.",
+          "teks": "Haul berarti kepemilikan harta telah berlalu selama satu tahun hijriah.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 3,
+          "text": "Kadar zakat untuk perhiasan emas simpanan yang mencapai nisab adalah 10 persen.",
+          "teks": "Kadar zakat untuk perhiasan emas simpanan yang mencapai nisab adalah 10 persen.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 4,
+          "text": "Harta milik fasilitas umum masyarakat wajib dikeluarkan zakat malnya setiap tahun.",
+          "teks": "Harta milik fasilitas umum masyarakat wajib dikeluarkan zakat malnya setiap tahun.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 5,
+          "text": "Hasil pertanian yang diairi dengan air hujan memiliki kadar zakat sebesar 10 persen.",
+          "teks": "Hasil pertanian yang diairi dengan air hujan memiliki kadar zakat sebesar 10 persen.",
+          "answer": "Benar",
+          "jawaban": true
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 22,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Tentukan kebenaran pernyataan berikut yang berkaitan dengan syarat dan ketentuan Zakat Mal!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Nisab adalah batas minimal jumlah harta yang menyebabkan harta tersebut wajib dizakati."
+          },
+          {
+            "letter": "B",
+            "text": "Haul berarti kepemilikan harta telah berlalu selama satu tahun hijriah."
+          },
+          {
+            "letter": "C",
+            "text": "Kadar zakat untuk perhiasan emas simpanan yang mencapai nisab adalah 10 persen."
+          },
+          {
+            "letter": "D",
+            "text": "Harta milik fasilitas umum masyarakat wajib dikeluarkan zakat malnya setiap tahun."
+          },
+          {
+            "letter": "E",
+            "text": "Hasil pertanian yang diairi dengan air hujan memiliki kadar zakat sebesar 10 persen."
+          }
+        ],
+        "rawText": "Tentukan kebenaran pernyataan berikut yang berkaitan dengan syarat dan ketentuan Zakat Mal!",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1790253240024_9815_16",
+      "number": 22,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Tentukan kebenaran pernyataan berikut yang berkaitan dengan syarat dan ketentuan Zakat Mal!",
+      "pertanyaan": "Tentukan kebenaran pernyataan berikut yang berkaitan dengan syarat dan ketentuan Zakat Mal!",
+      "text": "Tentukan kebenaran pernyataan berikut yang berkaitan dengan syarat dan ketentuan Zakat Mal!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790253240025_8800_17",
+      "type": "tf",
+      "teks": "Bacalah pernyataan-pernyataan mengenai golongan penerima zakat (mustahik) berikut dan tentukan kebenarannya!",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Fakir adalah orang yang tidak memiliki harta dan tidak mempunyai pekerjaan untuk memenuhi kebutuhan hidup.",
+          "teks": "Fakir adalah orang yang tidak memiliki harta dan tidak mempunyai pekerjaan untuk memenuhi kebutuhan hidup.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Gharim adalah orang yang berutang untuk maksiat dan hiburan malam.",
+          "teks": "Gharim adalah orang yang berutang untuk maksiat dan hiburan malam.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Muallaf adalah orang yang baru masuk Islam dan perlu dikuatkan imannya.",
+          "teks": "Muallaf adalah orang yang baru masuk Islam dan perlu dikuatkan imannya.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Fisabilillah adalah orang yang berjuang di jalan Allah untuk kebaikan umat Islam.",
+          "teks": "Fisabilillah adalah orang yang berjuang di jalan Allah untuk kebaikan umat Islam.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Ibnu sabil adalah orang yang bepergian untuk tujuan maksiat lalu kehabisan bekal.",
+          "teks": "Ibnu sabil adalah orang yang bepergian untuk tujuan maksiat lalu kehabisan bekal.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Fakir adalah orang yang tidak memiliki harta dan tidak mempunyai pekerjaan untuk memenuhi kebutuhan hidup.",
+          "jawaban": true,
+          "text": "Fakir adalah orang yang tidak memiliki harta dan tidak mempunyai pekerjaan untuk memenuhi kebutuhan hidup."
+        },
+        {
+          "teks": "Gharim adalah orang yang berutang untuk maksiat dan hiburan malam.",
+          "jawaban": false,
+          "text": "Gharim adalah orang yang berutang untuk maksiat dan hiburan malam."
+        },
+        {
+          "teks": "Muallaf adalah orang yang baru masuk Islam dan perlu dikuatkan imannya.",
+          "jawaban": true,
+          "text": "Muallaf adalah orang yang baru masuk Islam dan perlu dikuatkan imannya."
+        },
+        {
+          "teks": "Fisabilillah adalah orang yang berjuang di jalan Allah untuk kebaikan umat Islam.",
+          "jawaban": true,
+          "text": "Fisabilillah adalah orang yang berjuang di jalan Allah untuk kebaikan umat Islam."
+        },
+        {
+          "teks": "Ibnu sabil adalah orang yang bepergian untuk tujuan maksiat lalu kehabisan bekal.",
+          "jawaban": false,
+          "text": "Ibnu sabil adalah orang yang bepergian untuk tujuan maksiat lalu kehabisan bekal."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Fakir adalah orang yang tidak memiliki harta dan tidak mempunyai pekerjaan untuk memenuhi kebutuhan hidup.",
+          "teks": "Fakir adalah orang yang tidak memiliki harta dan tidak mempunyai pekerjaan untuk memenuhi kebutuhan hidup.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Gharim adalah orang yang berutang untuk maksiat dan hiburan malam.",
+          "teks": "Gharim adalah orang yang berutang untuk maksiat dan hiburan malam.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Muallaf adalah orang yang baru masuk Islam dan perlu dikuatkan imannya.",
+          "teks": "Muallaf adalah orang yang baru masuk Islam dan perlu dikuatkan imannya.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Fisabilillah adalah orang yang berjuang di jalan Allah untuk kebaikan umat Islam.",
+          "teks": "Fisabilillah adalah orang yang berjuang di jalan Allah untuk kebaikan umat Islam.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Ibnu sabil adalah orang yang bepergian untuk tujuan maksiat lalu kehabisan bekal.",
+          "teks": "Ibnu sabil adalah orang yang bepergian untuk tujuan maksiat lalu kehabisan bekal.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 23,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Bacalah pernyataan-pernyataan mengenai golongan penerima zakat (mustahik) berikut dan tentukan kebenarannya!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Fakir adalah orang yang tidak memiliki harta dan tidak mempunyai pekerjaan untuk memenuhi kebutuhan hidup."
+          },
+          {
+            "letter": "B",
+            "text": "Gharim adalah orang yang berutang untuk maksiat dan hiburan malam."
+          },
+          {
+            "letter": "C",
+            "text": "Muallaf adalah orang yang baru masuk Islam dan perlu dikuatkan imannya."
+          },
+          {
+            "letter": "D",
+            "text": "Fisabilillah adalah orang yang berjuang di jalan Allah untuk kebaikan umat Islam."
+          },
+          {
+            "letter": "E",
+            "text": "Ibnu sabil adalah orang yang bepergian untuk tujuan maksiat lalu kehabisan bekal."
+          }
+        ],
+        "rawText": "Bacalah pernyataan-pernyataan mengenai golongan penerima zakat (mustahik) berikut dan tentukan kebenarannya!",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1790253240025_8800_17",
+      "number": 23,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Bacalah pernyataan-pernyataan mengenai golongan penerima zakat (mustahik) berikut dan tentukan kebenarannya!",
+      "pertanyaan": "Bacalah pernyataan-pernyataan mengenai golongan penerima zakat (mustahik) berikut dan tentukan kebenarannya!",
+      "text": "Bacalah pernyataan-pernyataan mengenai golongan penerima zakat (mustahik) berikut dan tentukan kebenarannya!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790253240025_7188_18",
+      "type": "tf",
+      "teks": "Analisis pernyataan mengenai hikmah pelaksanaan ibadah zakat berikut, kemudian tentukan Benar atau Salah!",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Zakat dapat menolong orang yang lemah dan tidak mampu dalam memenuhi kebutuhan pokoknya.",
+          "teks": "Zakat dapat menolong orang yang lemah dan tidak mampu dalam memenuhi kebutuhan pokoknya.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Zakat menimbulkan sifat sombong pada diri orang yang mengeluarkannya.",
+          "teks": "Zakat menimbulkan sifat sombong pada diri orang yang mengeluarkannya.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Melaksanakan zakat merupakan bukti ketaatan seorang hamba terhadap perintah Allah SWT.",
+          "teks": "Melaksanakan zakat merupakan bukti ketaatan seorang hamba terhadap perintah Allah SWT.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Zakat mempererat tali silaturahmi antara kaum muzakki dan mustahik.",
+          "teks": "Zakat mempererat tali silaturahmi antara kaum muzakki dan mustahik.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Zakat mengurangi keberkahan harta yang dimiliki oleh orang yang berzakat.",
+          "teks": "Zakat mengurangi keberkahan harta yang dimiliki oleh orang yang berzakat.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Zakat dapat menolong orang yang lemah dan tidak mampu dalam memenuhi kebutuhan pokoknya.",
+          "jawaban": true,
+          "text": "Zakat dapat menolong orang yang lemah dan tidak mampu dalam memenuhi kebutuhan pokoknya."
+        },
+        {
+          "teks": "Zakat menimbulkan sifat sombong pada diri orang yang mengeluarkannya.",
+          "jawaban": false,
+          "text": "Zakat menimbulkan sifat sombong pada diri orang yang mengeluarkannya."
+        },
+        {
+          "teks": "Melaksanakan zakat merupakan bukti ketaatan seorang hamba terhadap perintah Allah SWT.",
+          "jawaban": true,
+          "text": "Melaksanakan zakat merupakan bukti ketaatan seorang hamba terhadap perintah Allah SWT."
+        },
+        {
+          "teks": "Zakat mempererat tali silaturahmi antara kaum muzakki dan mustahik.",
+          "jawaban": true,
+          "text": "Zakat mempererat tali silaturahmi antara kaum muzakki dan mustahik."
+        },
+        {
+          "teks": "Zakat mengurangi keberkahan harta yang dimiliki oleh orang yang berzakat.",
+          "jawaban": false,
+          "text": "Zakat mengurangi keberkahan harta yang dimiliki oleh orang yang berzakat."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Zakat dapat menolong orang yang lemah dan tidak mampu dalam memenuhi kebutuhan pokoknya.",
+          "teks": "Zakat dapat menolong orang yang lemah dan tidak mampu dalam memenuhi kebutuhan pokoknya.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Zakat menimbulkan sifat sombong pada diri orang yang mengeluarkannya.",
+          "teks": "Zakat menimbulkan sifat sombong pada diri orang yang mengeluarkannya.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Melaksanakan zakat merupakan bukti ketaatan seorang hamba terhadap perintah Allah SWT.",
+          "teks": "Melaksanakan zakat merupakan bukti ketaatan seorang hamba terhadap perintah Allah SWT.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Zakat mempererat tali silaturahmi antara kaum muzakki dan mustahik.",
+          "teks": "Zakat mempererat tali silaturahmi antara kaum muzakki dan mustahik.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Zakat mengurangi keberkahan harta yang dimiliki oleh orang yang berzakat.",
+          "teks": "Zakat mengurangi keberkahan harta yang dimiliki oleh orang yang berzakat.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 24,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Analisis pernyataan mengenai hikmah pelaksanaan ibadah zakat berikut, kemudian tentukan Benar atau Salah!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Zakat dapat menolong orang yang lemah dan tidak mampu dalam memenuhi kebutuhan pokoknya."
+          },
+          {
+            "letter": "B",
+            "text": "Zakat menimbulkan sifat sombong pada diri orang yang mengeluarkannya."
+          },
+          {
+            "letter": "C",
+            "text": "Melaksanakan zakat merupakan bukti ketaatan seorang hamba terhadap perintah Allah SWT."
+          },
+          {
+            "letter": "D",
+            "text": "Zakat mempererat tali silaturahmi antara kaum muzakki dan mustahik."
+          },
+          {
+            "letter": "E",
+            "text": "Zakat mengurangi keberkahan harta yang dimiliki oleh orang yang berzakat."
+          }
+        ],
+        "rawText": "Analisis pernyataan mengenai hikmah pelaksanaan ibadah zakat berikut, kemudian tentukan Benar atau Salah!",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1790253240025_7188_18",
+      "number": 24,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Analisis pernyataan mengenai hikmah pelaksanaan ibadah zakat berikut, kemudian tentukan Benar atau Salah!",
+      "pertanyaan": "Analisis pernyataan mengenai hikmah pelaksanaan ibadah zakat berikut, kemudian tentukan Benar atau Salah!",
+      "text": "Analisis pernyataan mengenai hikmah pelaksanaan ibadah zakat berikut, kemudian tentukan Benar atau Salah!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790253240025_1340_19",
+      "type": "tf",
+      "teks": "Tentukan kebenaran dari pernyataan-pernyataan mengenai pengelola dan tata cara zakat berikut!",
+      "media": "",
+      "rawMedia": "",
+      "statements": [
+        {
+          "id": 1,
+          "text": "Panitia yang diberi tugas resmi mengumpulkan dan membagikan zakat disebut Amil Zakat.",
+          "teks": "Panitia yang diberi tugas resmi mengumpulkan dan membagikan zakat disebut Amil Zakat.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Muzakki adalah sebutan untuk orang yang menerima penyaluran zakat.",
+          "teks": "Muzakki adalah sebutan untuk orang yang menerima penyaluran zakat.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Zakat fitrah dianjurkan untuk diserahkan sebelum jamaah pergi melaksanakan salat Idulfitri.",
+          "teks": "Zakat fitrah dianjurkan untuk diserahkan sebelum jamaah pergi melaksanakan salat Idulfitri.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Niat merupakan salah satu rukun yang harus dipenuhi saat menunaikan zakat.",
+          "teks": "Niat merupakan salah satu rukun yang harus dipenuhi saat menunaikan zakat.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Memberikan zakat fitrah dalam bentuk barang mewah bukan makanan pokok tetap disepakati sah oleh seluruh ulama.",
+          "teks": "Memberikan zakat fitrah dalam bentuk barang mewah bukan makanan pokok tetap disepakati sah oleh seluruh ulama.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "opsi": [
+        {
+          "teks": "Panitia yang diberi tugas resmi mengumpulkan dan membagikan zakat disebut Amil Zakat.",
+          "jawaban": true,
+          "text": "Panitia yang diberi tugas resmi mengumpulkan dan membagikan zakat disebut Amil Zakat."
+        },
+        {
+          "teks": "Muzakki adalah sebutan untuk orang yang menerima penyaluran zakat.",
+          "jawaban": false,
+          "text": "Muzakki adalah sebutan untuk orang yang menerima penyaluran zakat."
+        },
+        {
+          "teks": "Zakat fitrah dianjurkan untuk diserahkan sebelum jamaah pergi melaksanakan salat Idulfitri.",
+          "jawaban": true,
+          "text": "Zakat fitrah dianjurkan untuk diserahkan sebelum jamaah pergi melaksanakan salat Idulfitri."
+        },
+        {
+          "teks": "Niat merupakan salah satu rukun yang harus dipenuhi saat menunaikan zakat.",
+          "jawaban": true,
+          "text": "Niat merupakan salah satu rukun yang harus dipenuhi saat menunaikan zakat."
+        },
+        {
+          "teks": "Memberikan zakat fitrah dalam bentuk barang mewah bukan makanan pokok tetap disepakati sah oleh seluruh ulama.",
+          "jawaban": false,
+          "text": "Memberikan zakat fitrah dalam bentuk barang mewah bukan makanan pokok tetap disepakati sah oleh seluruh ulama."
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "text": "Panitia yang diberi tugas resmi mengumpulkan dan membagikan zakat disebut Amil Zakat.",
+          "teks": "Panitia yang diberi tugas resmi mengumpulkan dan membagikan zakat disebut Amil Zakat.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 2,
+          "text": "Muzakki adalah sebutan untuk orang yang menerima penyaluran zakat.",
+          "teks": "Muzakki adalah sebutan untuk orang yang menerima penyaluran zakat.",
+          "answer": "Salah",
+          "jawaban": false
+        },
+        {
+          "id": 3,
+          "text": "Zakat fitrah dianjurkan untuk diserahkan sebelum jamaah pergi melaksanakan salat Idulfitri.",
+          "teks": "Zakat fitrah dianjurkan untuk diserahkan sebelum jamaah pergi melaksanakan salat Idulfitri.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 4,
+          "text": "Niat merupakan salah satu rukun yang harus dipenuhi saat menunaikan zakat.",
+          "teks": "Niat merupakan salah satu rukun yang harus dipenuhi saat menunaikan zakat.",
+          "answer": "Benar",
+          "jawaban": true
+        },
+        {
+          "id": 5,
+          "text": "Memberikan zakat fitrah dalam bentuk barang mewah bukan makanan pokok tetap disepakati sah oleh seluruh ulama.",
+          "teks": "Memberikan zakat fitrah dalam bentuk barang mewah bukan makanan pokok tetap disepakati sah oleh seluruh ulama.",
+          "answer": "Salah",
+          "jawaban": false
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 25,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Tentukan kebenaran dari pernyataan-pernyataan mengenai pengelola dan tata cara zakat berikut!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": "Panitia yang diberi tugas resmi mengumpulkan dan membagikan zakat disebut Amil Zakat."
+          },
+          {
+            "letter": "B",
+            "text": "Muzakki adalah sebutan untuk orang yang menerima penyaluran zakat."
+          },
+          {
+            "letter": "C",
+            "text": "Zakat fitrah dianjurkan untuk diserahkan sebelum jamaah pergi melaksanakan salat Idulfitri."
+          },
+          {
+            "letter": "D",
+            "text": "Niat merupakan salah satu rukun yang harus dipenuhi saat menunaikan zakat."
+          },
+          {
+            "letter": "E",
+            "text": "Memberikan zakat fitrah dalam bentuk barang mewah bukan makanan pokok tetap disepakati sah oleh seluruh ulama."
+          }
+        ],
+        "rawText": "Tentukan kebenaran dari pernyataan-pernyataan mengenai pengelola dan tata cara zakat berikut!",
+        "questionType": "tf"
+      },
+      "questionId": "temp_ai_1790253240025_1340_19",
+      "number": 25,
+      "questionType": "benar_salah",
+      "tipe": "tf",
+      "question": "Tentukan kebenaran dari pernyataan-pernyataan mengenai pengelola dan tata cara zakat berikut!",
+      "pertanyaan": "Tentukan kebenaran dari pernyataan-pernyataan mengenai pengelola dan tata cara zakat berikut!",
+      "text": "Tentukan kebenaran dari pernyataan-pernyataan mengenai pengelola dan tata cara zakat berikut!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790253240026_2569_20",
+      "type": "match",
+      "teks": "Jodohkan istilah-istilah dalam zakat di sebelah kiri dengan pengertian yang tepat di sebelah kanan!",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Muzakki",
+          "kiri": "Muzakki",
+          "right": "Orang yang wajib mengeluarkan zakat",
+          "kanan": "Orang yang wajib mengeluarkan zakat",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Mustahik",
+          "kiri": "Mustahik",
+          "right": "Orang yang berhak menerima zakat",
+          "kanan": "Orang yang berhak menerima zakat",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Nisab",
+          "kiri": "Nisab",
+          "right": "Batas minimal jumlah harta wajib zakat",
+          "kanan": "Batas minimal jumlah harta wajib zakat",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Haul",
+          "kiri": "Haul",
+          "right": "Masa kepemilikan harta selama satu tahun",
+          "kanan": "Masa kepemilikan harta selama satu tahun",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Amil",
+          "kiri": "Amil",
+          "right": "Pengelola dan pembagi zakat",
+          "kanan": "Pengelola dan pembagi zakat",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Muzakki",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Orang yang wajib mengeluarkan zakat",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Mustahik",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Orang yang berhak menerima zakat",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Nisab",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Batas minimal jumlah harta wajib zakat",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Haul",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Masa kepemilikan harta selama satu tahun",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Amil",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Pengelola dan pembagi zakat",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Muzakki",
+          "kiri": "Muzakki",
+          "right": "Orang yang wajib mengeluarkan zakat",
+          "kanan": "Orang yang wajib mengeluarkan zakat",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Mustahik",
+          "kiri": "Mustahik",
+          "right": "Orang yang berhak menerima zakat",
+          "kanan": "Orang yang berhak menerima zakat",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Nisab",
+          "kiri": "Nisab",
+          "right": "Batas minimal jumlah harta wajib zakat",
+          "kanan": "Batas minimal jumlah harta wajib zakat",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Haul",
+          "kiri": "Haul",
+          "right": "Masa kepemilikan harta selama satu tahun",
+          "kanan": "Masa kepemilikan harta selama satu tahun",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Amil",
+          "kiri": "Amil",
+          "right": "Pengelola dan pembagi zakat",
+          "kanan": "Pengelola dan pembagi zakat",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 26,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Jodohkan istilah-istilah dalam zakat di sebelah kiri dengan pengertian yang tepat di sebelah kanan!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Jodohkan istilah-istilah dalam zakat di sebelah kiri dengan pengertian yang tepat di sebelah kanan!",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1790253240026_2569_20",
+      "number": 26,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Jodohkan istilah-istilah dalam zakat di sebelah kiri dengan pengertian yang tepat di sebelah kanan!",
+      "pertanyaan": "Jodohkan istilah-istilah dalam zakat di sebelah kiri dengan pengertian yang tepat di sebelah kanan!",
+      "text": "Jodohkan istilah-istilah dalam zakat di sebelah kiri dengan pengertian yang tepat di sebelah kanan!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790253240027_4073_21",
+      "type": "match",
+      "teks": "Jodohkan nama golongan penerima zakat di sebelah kiri dengan deskripsinya yang tepat di sebelah kanan!",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Fakir",
+          "kiri": "Fakir",
+          "right": "Sangat miskin dan tidak mempunyai penghasilan sama sekali",
+          "kanan": "Sangat miskin dan tidak mempunyai penghasilan sama sekali",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Miskin",
+          "kiri": "Miskin",
+          "right": "Memiliki pekerjaan tetapi hasilnya tidak cukup untuk kebutuhan dasar",
+          "kanan": "Memiliki pekerjaan tetapi hasilnya tidak cukup untuk kebutuhan dasar",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Gharim",
+          "kiri": "Gharim",
+          "right": "Orang yang memiliki utang untuk kebutuhan hidup halal",
+          "kanan": "Orang yang memiliki utang untuk kebutuhan hidup halal",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Muallaf",
+          "kiri": "Muallaf",
+          "right": "Orang yang baru masuk Islam dan perlu dikuatkan imannya",
+          "kanan": "Orang yang baru masuk Islam dan perlu dikuatkan imannya",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Ibnu Sabil",
+          "kiri": "Ibnu Sabil",
+          "right": "Musafir yang kehabisan bekal dalam perjalanan kebaikan",
+          "kanan": "Musafir yang kehabisan bekal dalam perjalanan kebaikan",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Fakir",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Sangat miskin dan tidak mempunyai penghasilan sama sekali",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Miskin",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Memiliki pekerjaan tetapi hasilnya tidak cukup untuk kebutuhan dasar",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Gharim",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Orang yang memiliki utang untuk kebutuhan hidup halal",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Muallaf",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Orang yang baru masuk Islam dan perlu dikuatkan imannya",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Ibnu Sabil",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Musafir yang kehabisan bekal dalam perjalanan kebaikan",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Fakir",
+          "kiri": "Fakir",
+          "right": "Sangat miskin dan tidak mempunyai penghasilan sama sekali",
+          "kanan": "Sangat miskin dan tidak mempunyai penghasilan sama sekali",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Miskin",
+          "kiri": "Miskin",
+          "right": "Memiliki pekerjaan tetapi hasilnya tidak cukup untuk kebutuhan dasar",
+          "kanan": "Memiliki pekerjaan tetapi hasilnya tidak cukup untuk kebutuhan dasar",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Gharim",
+          "kiri": "Gharim",
+          "right": "Orang yang memiliki utang untuk kebutuhan hidup halal",
+          "kanan": "Orang yang memiliki utang untuk kebutuhan hidup halal",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Muallaf",
+          "kiri": "Muallaf",
+          "right": "Orang yang baru masuk Islam dan perlu dikuatkan imannya",
+          "kanan": "Orang yang baru masuk Islam dan perlu dikuatkan imannya",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Ibnu Sabil",
+          "kiri": "Ibnu Sabil",
+          "right": "Musafir yang kehabisan bekal dalam perjalanan kebaikan",
+          "kanan": "Musafir yang kehabisan bekal dalam perjalanan kebaikan",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 27,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Jodohkan nama golongan penerima zakat di sebelah kiri dengan deskripsinya yang tepat di sebelah kanan!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Jodohkan nama golongan penerima zakat di sebelah kiri dengan deskripsinya yang tepat di sebelah kanan!",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1790253240027_4073_21",
+      "number": 27,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Jodohkan nama golongan penerima zakat di sebelah kiri dengan deskripsinya yang tepat di sebelah kanan!",
+      "pertanyaan": "Jodohkan nama golongan penerima zakat di sebelah kiri dengan deskripsinya yang tepat di sebelah kanan!",
+      "text": "Jodohkan nama golongan penerima zakat di sebelah kiri dengan deskripsinya yang tepat di sebelah kanan!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790253240027_9005_22",
+      "type": "match",
+      "teks": "Jodohkan jenis zakat atau harta di sebelah kiri dengan kadar atau aturan zakat yang sesuai di sebelah kanan!",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Zakat Fitrah per jiwa",
+          "kiri": "Zakat Fitrah per jiwa",
+          "right": "2,5 kg atau 3,5 liter makanan pokok",
+          "kanan": "2,5 kg atau 3,5 liter makanan pokok",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Zakat Emas Simpanan",
+          "kiri": "Zakat Emas Simpanan",
+          "right": "2,5 persen jika mencapai nisab 85 gram",
+          "kanan": "2,5 persen jika mencapai nisab 85 gram",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Pertanian diairi hujan",
+          "kiri": "Pertanian diairi hujan",
+          "right": "10 persen dari hasil panen",
+          "kanan": "10 persen dari hasil panen",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Pertanian diairi irigasi berbayar",
+          "kiri": "Pertanian diairi irigasi berbayar",
+          "right": "5 persen dari hasil panen",
+          "kanan": "5 persen dari hasil panen",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Zakat Perdagangan",
+          "kiri": "Zakat Perdagangan",
+          "right": "2,5 persen dari modal dan keuntungan",
+          "kanan": "2,5 persen dari modal dan keuntungan",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Zakat Fitrah per jiwa",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "2,5 kg atau 3,5 liter makanan pokok",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Zakat Emas Simpanan",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "2,5 persen jika mencapai nisab 85 gram",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Pertanian diairi hujan",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "10 persen dari hasil panen",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Pertanian diairi irigasi berbayar",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "5 persen dari hasil panen",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Zakat Perdagangan",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "2,5 persen dari modal dan keuntungan",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Zakat Fitrah per jiwa",
+          "kiri": "Zakat Fitrah per jiwa",
+          "right": "2,5 kg atau 3,5 liter makanan pokok",
+          "kanan": "2,5 kg atau 3,5 liter makanan pokok",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Zakat Emas Simpanan",
+          "kiri": "Zakat Emas Simpanan",
+          "right": "2,5 persen jika mencapai nisab 85 gram",
+          "kanan": "2,5 persen jika mencapai nisab 85 gram",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Pertanian diairi hujan",
+          "kiri": "Pertanian diairi hujan",
+          "right": "10 persen dari hasil panen",
+          "kanan": "10 persen dari hasil panen",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Pertanian diairi irigasi berbayar",
+          "kiri": "Pertanian diairi irigasi berbayar",
+          "right": "5 persen dari hasil panen",
+          "kanan": "5 persen dari hasil panen",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Zakat Perdagangan",
+          "kiri": "Zakat Perdagangan",
+          "right": "2,5 persen dari modal dan keuntungan",
+          "kanan": "2,5 persen dari modal dan keuntungan",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 28,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Jodohkan jenis zakat atau harta di sebelah kiri dengan kadar atau aturan zakat yang sesuai di sebelah kanan!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Jodohkan jenis zakat atau harta di sebelah kiri dengan kadar atau aturan zakat yang sesuai di sebelah kanan!",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1790253240027_9005_22",
+      "number": 28,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Jodohkan jenis zakat atau harta di sebelah kiri dengan kadar atau aturan zakat yang sesuai di sebelah kanan!",
+      "pertanyaan": "Jodohkan jenis zakat atau harta di sebelah kiri dengan kadar atau aturan zakat yang sesuai di sebelah kanan!",
+      "text": "Jodohkan jenis zakat atau harta di sebelah kiri dengan kadar atau aturan zakat yang sesuai di sebelah kanan!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790253240027_836_23",
+      "type": "match",
+      "teks": "Jodohkan waktu pembayaran zakat fitrah di sebelah kiri dengan hukum/kategori waktunya di sebelah kanan!",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Awal sampai pertengahan Ramadan",
+          "kiri": "Awal sampai pertengahan Ramadan",
+          "right": "Waktu Jaiz (Boleh)",
+          "kanan": "Waktu Jaiz (Boleh)",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Malam terakhir Ramadan hingga sebelum salat Id",
+          "kiri": "Malam terakhir Ramadan hingga sebelum salat Id",
+          "right": "Waktu Afdhal (Utama)",
+          "kanan": "Waktu Afdhal (Utama)",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Setelah salat Idulfitri hingga sebelum terbenam matahari",
+          "kiri": "Setelah salat Idulfitri hingga sebelum terbenam matahari",
+          "right": "Waktu Makruh",
+          "kanan": "Waktu Makruh",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Setelah terbenam matahari pada hari raya Idulfitri",
+          "kiri": "Setelah terbenam matahari pada hari raya Idulfitri",
+          "right": "Waktu Haram (Dianggap sedekah biasa)",
+          "kanan": "Waktu Haram (Dianggap sedekah biasa)",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Saat terbenam matahari pada hari terakhir Ramadan",
+          "kiri": "Saat terbenam matahari pada hari terakhir Ramadan",
+          "right": "Waktu Wajib",
+          "kanan": "Waktu Wajib",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Awal sampai pertengahan Ramadan",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Waktu Jaiz (Boleh)",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Malam terakhir Ramadan hingga sebelum salat Id",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Waktu Afdhal (Utama)",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Setelah salat Idulfitri hingga sebelum terbenam matahari",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Waktu Makruh",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Setelah terbenam matahari pada hari raya Idulfitri",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Waktu Haram (Dianggap sedekah biasa)",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Saat terbenam matahari pada hari terakhir Ramadan",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Waktu Wajib",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Awal sampai pertengahan Ramadan",
+          "kiri": "Awal sampai pertengahan Ramadan",
+          "right": "Waktu Jaiz (Boleh)",
+          "kanan": "Waktu Jaiz (Boleh)",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Malam terakhir Ramadan hingga sebelum salat Id",
+          "kiri": "Malam terakhir Ramadan hingga sebelum salat Id",
+          "right": "Waktu Afdhal (Utama)",
+          "kanan": "Waktu Afdhal (Utama)",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Setelah salat Idulfitri hingga sebelum terbenam matahari",
+          "kiri": "Setelah salat Idulfitri hingga sebelum terbenam matahari",
+          "right": "Waktu Makruh",
+          "kanan": "Waktu Makruh",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Setelah terbenam matahari pada hari raya Idulfitri",
+          "kiri": "Setelah terbenam matahari pada hari raya Idulfitri",
+          "right": "Waktu Haram (Dianggap sedekah biasa)",
+          "kanan": "Waktu Haram (Dianggap sedekah biasa)",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Saat terbenam matahari pada hari terakhir Ramadan",
+          "kiri": "Saat terbenam matahari pada hari terakhir Ramadan",
+          "right": "Waktu Wajib",
+          "kanan": "Waktu Wajib",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 29,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Jodohkan waktu pembayaran zakat fitrah di sebelah kiri dengan hukum/kategori waktunya di sebelah kanan!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Jodohkan waktu pembayaran zakat fitrah di sebelah kiri dengan hukum/kategori waktunya di sebelah kanan!",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1790253240027_836_23",
+      "number": 29,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Jodohkan waktu pembayaran zakat fitrah di sebelah kiri dengan hukum/kategori waktunya di sebelah kanan!",
+      "pertanyaan": "Jodohkan waktu pembayaran zakat fitrah di sebelah kiri dengan hukum/kategori waktunya di sebelah kanan!",
+      "text": "Jodohkan waktu pembayaran zakat fitrah di sebelah kiri dengan hukum/kategori waktunya di sebelah kanan!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    },
+    {
+      "id": "temp_ai_1790253240027_1923_24",
+      "type": "match",
+      "teks": "Jodohkan konsep zakat di sebelah kiri dengan hikmah atau dampaknya di sebelah kanan!",
+      "media": "",
+      "rawMedia": "",
+      "pairs": [
+        {
+          "id": 1,
+          "left": "Membersihkan harta",
+          "kiri": "Membersihkan harta",
+          "right": "Menghilangkan hak orang lain yang ada dalam harta kita",
+          "kanan": "Menghilangkan hak orang lain yang ada dalam harta kita",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Membersihkan jiwa",
+          "kiri": "Membersihkan jiwa",
+          "right": "Menghilangkan sifat kikir, serakah, dan sombong",
+          "kanan": "Menghilangkan sifat kikir, serakah, dan sombong",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Pemberdayaan ekonomi",
+          "kiri": "Pemberdayaan ekonomi",
+          "right": "Membantu golongan miskin agar mandiri secara finansial",
+          "kanan": "Membantu golongan miskin agar mandiri secara finansial",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Kepedulian sosial",
+          "kiri": "Kepedulian sosial",
+          "right": "Mempererat rasa persaudaraan sesama umat Islam",
+          "kanan": "Mempererat rasa persaudaraan sesama umat Islam",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Ungkapan syukur",
+          "kiri": "Ungkapan syukur",
+          "right": "Bentuk terima kasih atas nikmat rezeki dari Allah SWT",
+          "kanan": "Bentuk terima kasih atas nikmat rezeki dari Allah SWT",
+          "keyIndex": 5
+        }
+      ],
+      "opsi": [
+        {
+          "kiri": {
+            "teks": "Membersihkan harta",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Menghilangkan hak orang lain yang ada dalam harta kita",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Membersihkan jiwa",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Menghilangkan sifat kikir, serakah, dan sombong",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Pemberdayaan ekonomi",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Membantu golongan miskin agar mandiri secara finansial",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Kepedulian sosial",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Mempererat rasa persaudaraan sesama umat Islam",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        },
+        {
+          "kiri": {
+            "teks": "Ungkapan syukur",
+            "media": ""
+          },
+          "kanan": {
+            "teks": "Bentuk terima kasih atas nikmat rezeki dari Allah SWT",
+            "media": ""
+          },
+          "teks": "",
+          "text": ""
+        }
+      ],
+      "jawaban": [
+        {
+          "id": 1,
+          "left": "Membersihkan harta",
+          "kiri": "Membersihkan harta",
+          "right": "Menghilangkan hak orang lain yang ada dalam harta kita",
+          "kanan": "Menghilangkan hak orang lain yang ada dalam harta kita",
+          "keyIndex": 1
+        },
+        {
+          "id": 2,
+          "left": "Membersihkan jiwa",
+          "kiri": "Membersihkan jiwa",
+          "right": "Menghilangkan sifat kikir, serakah, dan sombong",
+          "kanan": "Menghilangkan sifat kikir, serakah, dan sombong",
+          "keyIndex": 2
+        },
+        {
+          "id": 3,
+          "left": "Pemberdayaan ekonomi",
+          "kiri": "Pemberdayaan ekonomi",
+          "right": "Membantu golongan miskin agar mandiri secara finansial",
+          "kanan": "Membantu golongan miskin agar mandiri secara finansial",
+          "keyIndex": 3
+        },
+        {
+          "id": 4,
+          "left": "Kepedulian sosial",
+          "kiri": "Kepedulian sosial",
+          "right": "Mempererat rasa persaudaraan sesama umat Islam",
+          "kanan": "Mempererat rasa persaudaraan sesama umat Islam",
+          "keyIndex": 4
+        },
+        {
+          "id": 5,
+          "left": "Ungkapan syukur",
+          "kiri": "Ungkapan syukur",
+          "right": "Bentuk terima kasih atas nikmat rezeki dari Allah SWT",
+          "kanan": "Bentuk terima kasih atas nikmat rezeki dari Allah SWT",
+          "keyIndex": 5
+        }
+      ],
+      "bobot": 3.33,
+      "difficulty": "medium",
+      "chapter": "",
+      "order": 30,
+      "structure": {
+        "stimulus": null,
+        "stimulusScope": null,
+        "instruction": null,
+        "title": null,
+        "paragraphs": [],
+        "question": "Jodohkan konsep zakat di sebelah kiri dengan hikmah atau dampaknya di sebelah kanan!",
+        "media": [],
+        "options": [
+          {
+            "letter": "A",
+            "text": ""
+          },
+          {
+            "letter": "B",
+            "text": ""
+          },
+          {
+            "letter": "C",
+            "text": ""
+          },
+          {
+            "letter": "D",
+            "text": ""
+          },
+          {
+            "letter": "E",
+            "text": ""
+          }
+        ],
+        "rawText": "Jodohkan konsep zakat di sebelah kiri dengan hikmah atau dampaknya di sebelah kanan!",
+        "questionType": "match"
+      },
+      "questionId": "temp_ai_1790253240027_1923_24",
+      "number": 30,
+      "questionType": "pencocokan",
+      "tipe": "match",
+      "question": "Jodohkan konsep zakat di sebelah kiri dengan hikmah atau dampaknya di sebelah kanan!",
+      "pertanyaan": "Jodohkan konsep zakat di sebelah kiri dengan hikmah atau dampaknya di sebelah kanan!",
+      "text": "Jodohkan konsep zakat di sebelah kiri dengan hikmah atau dampaknya di sebelah kanan!",
+      "stimulus": "",
+      "wacana": "",
+      "weight": 3.33,
+      "opsiMedia": []
+    }
+  ],
+  "updatedAt": "2026-09-24T12:35:33.441Z"
+}
