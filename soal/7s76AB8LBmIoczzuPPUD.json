@@ -2,13 +2,13 @@
   "fileId": "7s76AB8LBmIoczzuPPUD",
   "id": "7s76AB8LBmIoczzuPPUD",
   "examId": "7s76AB8LBmIoczzuPPUD",
-  "title": "Bank Soal Tanpa Judul",
-  "subject": "Umum",
+  "title": "Tryout Matematika 1",
+  "subject": "Lainnya",
   "duration": 60,
-  "token": "BAQ4Z1",
+  "token": "SY4LYR",
   "totalQuestions": 30,
   "totalBobot": 100,
-  "version": 1,
+  "version": 2,
   "questions": [
     {
       "id": "temp_ai_1789785769110_6129_0",
@@ -2738,5 +2738,5 @@
       "correctAnswer": 2
     }
   ],
-  "updatedAt": "2026-09-19T02:47:35.645Z"
+  "updatedAt": "2026-10-19T07:23:58.216Z"
 }
