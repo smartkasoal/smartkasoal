@@ -8,7 +8,7 @@
   "token": "B3M6GY",
   "totalQuestions": 30,
   "totalBobot": 100,
-  "version": 1,
+  "version": 2,
   "questions": [
     {
       "id": "temp_ai_1792538244427_990_0",
@@ -3826,5 +3826,5 @@
       "url": ""
     }
   ],
-  "updatedAt": "2026-10-23T17:13:58.128Z"
+  "updatedAt": "2026-10-24T02:27:10.550Z"
 }
